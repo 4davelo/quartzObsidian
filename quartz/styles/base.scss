@@ -597,6 +597,9 @@ tr {
 
 img {
   max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
   border-radius: 5px;
   margin: 1rem 0;
   content-visibility: auto;
