@@ -70,7 +70,7 @@ On trouve les escaliers tout en bois dur (chêne, châtaignier, bois tropicaux),
 
 - Parmi les pièces maîtresses de l’escalier, citons notamment : les limons, pièces maîtresses des escaliers à la française. Leur épaisseur va de 60 à 100 mm, leur hauteur est de 0,22 à 0,30 m et plus ; ils sont droits ou courbes, mais dans ce cas leur tracé est délicat ; ils peuvent être assemblés sur des poteaux, mais aussi entre eux par joints à épaulements renversés. Il doit toujours rester 0,12 m entre l’entaille de la contremarche et la sous-face du rampant du limon ( **fg. 15.10** ) ; les crémaillères, pièces maîtresses des escaliers à l’anglaise. Leur épaisseur est de l’ordre de 72 mm ou plus, leur hauteur est identique à celle des limons ; elles sont droites ou courbes et découpées. Le talon ne doit pas être inférieur à 0,12 m ; les fausses crémaillères, pièce porteuse appliquée le long du gros œuvre de la cage d’escalier dans les escaliers à la française et à l’anglaise. Leur épaisseur est de l’ordre de 34 à 41 mm et leur hauteur est inférieure à celle des limons et crémaillères ; les marches. Elles ont une épaisseur variable comprise entre 30 et 60 mm. Leur largeur est définie par le giron. Les marches sont simplement fixées sur les crémaillères alors qu’elles sont assemblées et embrevées sur les limons ; les poteaux, éléments verticaux constituant le départ et l’arrivée d’une rampe ;
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0794-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0794-00.png]]
 
 
 _**Fig. 15.10. Éléments d’escaliers en bois**_ 
@@ -87,7 +87,7 @@ les rampes. Elles sont constituées d’éléments verticaux appelés « balustr
 
    - escalier à crémaillère dit « à l’anglaise ». Il comporte généralement une crémaillère du côté du jour et une fausse crémaillère de l’autre, et peut être droit ou à quartier tournant ; le retour des rives de marches est toujours visible.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0795-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0795-01.png]]
 
 
 _**Fig. 15.11. Escalier à crémaillère et escalier à limon central**_

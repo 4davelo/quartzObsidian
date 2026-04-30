@@ -159,7 +159,7 @@ L’installation comprend également, selon la nécessité ou les impositions du
 
 Le schéma de principe du système d’expansion à pression variable avec ses accessoires est le suivant :
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0196-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0196-01.png]]
 
 
 **----- Start of picture text -----**<br>

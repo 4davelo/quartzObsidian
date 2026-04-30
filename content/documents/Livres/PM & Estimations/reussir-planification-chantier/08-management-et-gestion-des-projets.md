@@ -58,7 +58,7 @@ La gestion de projet est l’ensemble des techniques, méthodes et outils, qui p
 
 La gestion de projet inclut les activités de planification, d’organisation, de gestion et de contrôle des ressources et des procédures ( **fg. 2.1** ). Selon les objectifs visés (la performance et la qualité), le budget disponible et la durée prévue, l’entreprise planifie l’exécution et affecte les ressources nécessaires à la réalisation du projet.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0019-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0019-00.png]]
 
 _**Figure 2.1. Schéma des éléments de gestion d’un projet**_ 
 
@@ -82,13 +82,13 @@ La conduite d’un projet a pour but de structurer et d’assurer son bon dérou
 
 Le triangle QCD « Qualité – Coût – Délai » est un outil indispensable qui permet de visualiser d’une manière simple l’état du projet en fonction de ces trois principaux axes de gestion (voir **fg. [2.2](09_2.2_organisation_et_gestion_de_chantier.md)** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0021-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0021-00.png]]
 
 _**Figure [2.2](09_2.2_organisation_et_gestion_de_chantier.md) Axes de gestion du projet : le triangle « Qualité, Coût, Délai »**_ 
 
 La réussite d’un projet est tributaire d’un équilibre entre ces trois paramètres (voir **fg. [2.3](10_2.3_planification.md)** ). La modification d’un paramètre aura une incidence sur les autres : privilégier une contrainte se fait généralement au détriment des autres.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0022-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0022-00.png]]
 
 _**Figure [2.3](10_2.3_planification.md) Triangle QCD équilibré, cas d’atteinte de tous les objectifs**_ 
 
@@ -102,7 +102,7 @@ réaliser le projet avec ce budget peut être un défi. L’entreprise se doit d
 
 - Dans certains cas, le chef de projet se focalise au début sur le respect du coût, en visant le maximum de bénéfices au détriment de la qualité et du délai. Puis, il va essayer de garantir la qualité demandée en consommant plus de temps dans l’exécution des tâches que celui prévu dans le planning prévisionnel. Ceci conduit à un déséquilibre total : une durée supérieure au délai contractuel, un coût dépassant le prix de marché et une mauvaise qualité de travail (voir **fg. 2.4d** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0025-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0025-01.png]]
 
 Les quatre cas de déséquilibre du triangle QCD, présentés dans la **fgure 2.4** , se résument de la manière suivante : 
 

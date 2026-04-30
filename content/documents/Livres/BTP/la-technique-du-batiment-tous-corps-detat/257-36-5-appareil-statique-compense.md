@@ -26,7 +26,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 L’appareil statique compensé résulte de l’association d’un accumulateur classique et d’un convecteur, l’ensemble étant commandé par un système de régulation incorporé équipé d’un thermostat à deux contacts décalés ( **fg. [36.2](254_36.2_panneaux_radiants.md)** ). La régulation commande la charge du bloc accumulateur et le fonctionnement de la résistance directe en fonction de la température intérieure de la pièce.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1519-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1519-00.png]]
 
 
 _**Fig. 36.2. Appareil statique compensé**_ 

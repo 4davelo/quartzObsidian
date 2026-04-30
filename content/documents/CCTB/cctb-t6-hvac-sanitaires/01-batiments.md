@@ -21,13 +21,13 @@ juridictions: [wallonie, bruxelles]
 familles_sources: [cctb]
 ---
 
-![](images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0001-00.png)
+![[documents/CCTB/cctb-t6-hvac-sanitaires/images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0001-00.png]]
 
 
 **`C`** `AHIER DES` **`C`** `HARGES` **`T`** `YPE` **BÂTIMENTS** 
 
 
-![](images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0001-02.png)
+![[documents/CCTB/cctb-t6-hvac-sanitaires/images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0001-02.png]]
 
 
 ```
@@ -37,4 +37,4 @@ HVAC - sanitaires
 ```
 
 
-![](images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0001-04.png)
+![[documents/CCTB/cctb-t6-hvac-sanitaires/images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0001-04.png]]

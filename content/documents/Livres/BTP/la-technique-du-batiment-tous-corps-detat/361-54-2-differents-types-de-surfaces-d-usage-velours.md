@@ -59,7 +59,7 @@ Les surfaces d’usage des tapis, appelées « velours » pour les moquettes, so
 
 À partir des fibres définies ci-avant, on réalise la surface d’usage du tapis (appelée « velours » dans le cas de la moquette). Les différentes formes de velours résumées dans la **fgure [54.3](362_54.3_principaux_revêtements_de_sol_textiles_fabriqués.md)** sont susceptibles d’être produites selon les techniques du touffetage et du tissage. On distingue essentiellement le velours coupé et le velours bouclé.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2007-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2007-00.png]]
 
 
 _**Fig. 54.3. Appellations des différentes formes de velours obtenues par touffetage ou tissage**_ 
@@ -71,7 +71,7 @@ Le velours coupé se présente sous différentes formes : aspect velours : s’a
 lequel les fibres constituant le poil sont individualisées, parallèles et relativement peu frisées ; généralement, leur hauteur est comprise entre 6 à 12 mm ( **fg. [54.4](363_54.4_procédure_de_certification.md)** .a) ; _saxony_ : pour donner cet aspect, les fibres subissent des torsions relativement importantes qui, fixées, conduiront à de petites mèches serrées non ouvertes ( **fg. 54.4** .b) ; frisé ( _twist_ ) : les mèches y sont encore plus tordues et présentent une certaine frisure ; à longues mèches ( _shag_ ) : aspect obtenu à partir de filés moyennement tordus, relativement gros et d’une hauteur d’environ 25 mm, voire plus. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2008-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2008-01.png]]
 
 
 _**Fig. 54.4. Velours coupé sous deux formes**_ 
@@ -87,13 +87,13 @@ le velours bouclé structuré, dans lequel les boucles hautes voisinent avec les
 un fond bouclé plus court ; le velours bouclé-rasé ( **fg. [54.6](365_54.6_propriétés_générales_des_revêtements_de_sol_textiles.md)** ), connu sous l’appellation américaine « _tip sheared_ », qui est obtenu en rasant les sommets des boucles hautes, ou même de toutes les boucles (bouclé uniforme). Ce bouclé-rasé permet de mieux faire ressortir un dessin. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2009-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2009-01.png]]
 
 
 _**Fig. 54.5. Velours bouclé uniforme**_ 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2009-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2009-03.png]]
 
 
 _**Fig. 54.6. Velours bouclé-rasé**_ 

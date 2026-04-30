@@ -84,7 +84,7 @@ Elle est définie par son mode d’assemblage transversal : couverture à agrafu
 
 Ce type de couverture comporte deux catégories : la couverture à tasseaux et couvre-joints ( **fg. 23.4** .b) ; la couverture à joint debout ( **fg. 23.4** .c).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1053-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1053-00.png]]
 
 
 **Fig. 23.4. Types de couverture en zinc** 
@@ -140,7 +140,7 @@ les noues à tasseau, constituées par deux éléments séparés par un tasseau 
 
 les noues encaissées, dont les rives latérales sont raccordées à la couverture au moyen d’un relief et d’un larmier. Les rives transversales des feuilles se raccordent par recouvrement ( **fg. 23.5** .f).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1057-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1057-00.png]]
 
 
 _**Fig. 23.5. Types de noue en zinc**_

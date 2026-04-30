@@ -25,7 +25,7 @@ familles_sources: [ouvrage, gestion-projet]
 
 Vous venez de réaliser l’atelier collaboratif de création des séquences avec les conducteurs de travaux. Les entreprises ont collé sur le mur leurs tâches avec des Post-it[®] dans l’ordre d’exécution des travaux. Ci-après la photo que vous avez réalisée à la fin de l’atelier de travail avec les entreprises. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0237-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0237-01.png]]
 
 _**Figure 6.18 Photographie des Post-it[®] après l’atelier de création des séquences**_ 
 
@@ -35,7 +35,7 @@ _**Figure 6.18 Photographie des Post-it[®] après l’atelier de création des 
 
 pour une zone.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0238-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0238-00.png]]
 
 _**Figure 6.19 Séquence logements vierge à compléter**_ 
 
@@ -47,10 +47,10 @@ _**Figure 6.19 Séquence logements vierge à compléter**_
 
 1. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0238-06.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0238-06.png]]
 
 _**Figure 6.20 Séquence logements corrigée de l’application 6-2**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0239-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0239-00.png]]
 
 _**Figure 6.21 Planning chemin de fer corrigé de l’application 6-2**_

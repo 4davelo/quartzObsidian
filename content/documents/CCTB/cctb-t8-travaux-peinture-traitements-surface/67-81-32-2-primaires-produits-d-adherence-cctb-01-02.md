@@ -169,4 +169,4 @@ PM
 
 - Partie 2: Classification des environnements (ISO 12944-2:2017)]
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0218-01.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0218-01.png]]

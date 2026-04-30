@@ -55,37 +55,37 @@ Les gouttières sont exemptes de défauts de matériau ou de fabrication qui ris
 Ci-dessous, se trouvent les schémas des gouttières décrites dans les différents articles du présent élément : 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-04.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-04.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-05.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-05.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-06.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-06.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-07.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-07.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-08.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-08.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-09.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-09.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-10.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0251-10.png]]
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0252-01.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0252-01.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0252-02.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0252-02.png]]
 
 
 **EXÉCUTION / MISE EN ŒUVRE** 

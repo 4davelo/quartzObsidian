@@ -54,11 +54,11 @@ L'ensemble du système de chauffage et/ou refroidissement par le sol est couvert
 Le plancher du système de type A (système humide) est constitué comme suit: 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0329-13.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0329-13.png]]
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0329-14.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0329-14.png]]
 
 
 **----- Start of picture text -----**<br>

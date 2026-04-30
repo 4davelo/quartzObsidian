@@ -30,11 +30,11 @@ Pendant la phase de préparation de l’offre de prix, l’entreprise a détermi
 
 La planification financière a pour but de gérer les besoins de la trésorerie afin de régler la main-d’œuvre, les fournisseurs et toutes autres dépenses prévues dans l’exécution des travaux. Le planning financier permet au maître d’ouvrage de suivre les dépenses sur une base mensuelle. La **fgure [5.3](40_5.3_planification_dutilisation_du_matériel_et_des_engins.md)** présente un exemple de courbe prévisionnelle des dépenses mensuelles et la **fgure 5.4** montre un exemple de courbe de dépenses cumulées.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0207-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0207-00.png]]
 
 _**Figure [5.3](40_5.3_planification_dutilisation_du_matériel_et_des_engins.md) Courbe prévisionnelle de dépenses mensuelles**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0208-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0208-00.png]]
 
 _**Figure 5.4 Courbe de dépenses cumulées**_ 
 
@@ -48,7 +48,7 @@ Les recettes de l’entreprise et les modalités de paiement sont fixées dans l
 
 À partir des prévisions des dépenses et des recettes mentionnées dans le contrat, on peut tracer le diagramme financier. On établit d’abord l’histogramme des dépenses et des recettes prévisionnelles mensuelles, puis on évalue les dépenses et recettes cumulées. On effectue alors le diagramme financier formé des courbes des dépenses et des recettes cumulées dans le même système d’axe, formé en abscisses des mois et en ordonnées des coûts (voir **fg. [5.5](42_5.5_application_5-1.md)** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0210-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0210-00.png]]
 
 _**Figure [5.5](42_5.5_application_5-1.md) Exemple de diagramme financier (recettes-dépenses)**_ 
 
@@ -60,4 +60,4 @@ des coûts et des délais. Sur un système d’axe formé en abscisses du temps 
 
 L’analyse de ces courbes, présentées dans la **fgure 5.6** , permet de faire des corrections en cas de décalage entre les deux courbes. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0211-02.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0211-02.png]]

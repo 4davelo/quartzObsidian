@@ -44,11 +44,11 @@ La métrologie à suivre pour le traçage du diagramme a été présentée au ch
 
 La durée du projet est de 42 jours, égale à celle déterminée par la méthode PERT (voir **fg. 4.15** ), et la méthode des antécédents ( **fg. 4.31** ). Les flèches en dessous des barres indiquent les tâches critiques et le chemin critique. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0142-04.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0142-04.png]]
 
 La **fgure 4.43** présente le planning GANTT de l’exemple n° 2. On peut faire les mêmes remarques que pour les méthodes PERT et des antécédents : la durée du projet de 37 jours est la même, quelle que soit la méthode utilisée (PERT [voir **fg. 4.16** ], antécédents [voir **fg. 4.32** ]), et GANTT ( **fg. 4.43** ). 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0143-02.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0143-02.png]]
 
 _**Figure 4.43 Planning GANTT de l’exemple n° 2**_
 
@@ -56,8 +56,8 @@ La **fgure 4.44** présente le diagramme GANTT de l’ensemble de tâches prése
 
 À noter qu’on ne peut pas faire des liens avec décalage dans la méthode PERT, comme dans le cas de la méthode des antécédents et GANTT. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0144-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0144-03.png]]
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0145-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0145-00.png]]
 
 _**Figure 4.44 Diagramme GANTT de l’exemple n° 3, cas de liaison entre les tâches avec décalage**_

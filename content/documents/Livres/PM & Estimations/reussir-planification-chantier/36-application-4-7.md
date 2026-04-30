@@ -86,7 +86,7 @@ _**Tableau 4.25 Durée d’un cycle de camion de l’application 4-7**_
 |_Chargement_<br>_Transport en charge_<br>_Déchargement_<br>_Transport à vide_|_11_<br>_30_<br>_5_<br>_24_|
 |_Total_|_70 min_|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0194-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0194-00.png]]
 
 _**Figure 4.63 Schéma de la détermination d’un cycle de camion de l’application 4-7**_ 
 
@@ -100,11 +100,11 @@ Le nombre optimal de camion pour un chantier de terrassement avec une durée de 
 
 On prend l’entier immédiatement supérieur à la valeur trouvée : 7 camions (voir **fg. 4.65** ). Dans ce cas, on choisit de faire travailler le chargeur à 100 %, ce sont donc les camions
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0195-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0195-01.png]]
 
 _**Figure 4.64 Schéma du planning chemin de fer des travaux de terrassement de l’application 4-7 (1[er] cas)**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0196-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0196-00.png]]
 
 _**Figure 4.65 Schéma du planning chemin de fer des travaux de terrassement de l’application 4-7 (2[e] cas)**_ 
 

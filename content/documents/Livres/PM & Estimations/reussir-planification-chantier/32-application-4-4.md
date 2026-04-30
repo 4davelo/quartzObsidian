@@ -69,7 +69,7 @@ _**Tableau 4.16 Données des tâches de l’application 4-4**_
 
 3. Le diagramme GANTT est présenté dans la **fgure 4.49** .
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0155-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0155-00.png]]
 
 _**Tableau 4.17 Tableau des marges de l’application 4-4**_ 
 
@@ -100,6 +100,6 @@ _**Tableau 4.18 Tableau des rangs de l’application 4-4**_
 |---|---|---|---|---|---|---|---|
 |A|B<br>C<br>J|E<br>G<br>K|F<br>M|D<br>L<br>N<br>P|H<br>O<br>Q|I|R|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0158-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0158-00.png]]
 
 _**Figure 4.48 Réseau des antécédents de l’application 4-4**_

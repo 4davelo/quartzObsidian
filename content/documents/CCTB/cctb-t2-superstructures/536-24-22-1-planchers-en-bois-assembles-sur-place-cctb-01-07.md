@@ -109,7 +109,7 @@ Les bois lamellé-collé doit répondre à la [NBN EN 14080].
 La classe d’emploi d’un élément est déterminée suivant la [NBN EN 335] : classe 1 / classe 2 (par défaut) / classe 3. 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1007-17.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1007-17.png]]
 
 
 La structure correspond en tout point au titre [24.1 Eléments de structures en bois](499_24.1_eléments_de_structures_en_bois_cctb_01.13.md) et au soustitre [24.42 Assemblages mécaniques](559_24.42_assemblages_mécaniques_cctb_01.11.md). 

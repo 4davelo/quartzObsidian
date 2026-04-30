@@ -132,7 +132,7 @@ allumage de la veilleuse. En enfonçant le bouton-poussoir ( **fg. 37.10** .a), 
 
 coupure du brûleur. S’il se produit une extinction accidentelle de la veilleuse, l’armature est rejetée sous l’action d’un ressort, et le clapet n° 2 ferme totalement l’arrivée de gaz ( **fg. 37.10** .c).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1560-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1560-00.png]]
 
 
 **Fig. 37.10. Mécanismes de mise en route et de coupure d’un brûleur à gaz (valve électromagnétique)** 
@@ -165,7 +165,7 @@ développement complet de la flamme et une combustion parfaite. L’échangeur t
 
 Pour assurer simultanément le chauffage et la production d’[[Eau Chaude Sanitaire]], les chaudières sont dotées, en partie haute, d’un réchauffeur démontable constitué d’une ou plusieurs épingles de tube en cuivre à ailettes ( **fg. 37.11** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1563-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1563-00.png]]
 
 
 _**Fig. 37.11. Coupe longitudinale d’une chaudière à foyer pressurisé avec réchauffeur (source : d’après Guillot)**_ 
@@ -222,7 +222,7 @@ Le débit de l’installation à assurer étant défini par le débit de la chau
 
 Les vannes sont des appareils permettant de régler ou d’interrompre le débit du fluide dans une canalisation. On les distingue surtout par les formes de la pièce obturatrice ( **fg. 37.12** ) :
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1569-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1569-01.png]]
 
 
 vanne à volet. La rotation d’une vis déplace le volet obturateur perpendiculairement au sens de l’écoulement du fluide ; 
@@ -253,7 +253,7 @@ Sa capacité doit atteindre 6 % du volume de l’installation. Le tube d’expan
 
 La limitation de température est assurée soit par le thermostat, soit par le raccordement du vase d’expansion au circuit de chauffage.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1571-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1571-00.png]]
 
 
 _**Fig. 37.13. Schéma de principe d’un système de régulation de pression**_

@@ -30,7 +30,7 @@ Le rupteur de pont thermique ( **fg. 11.23** ) est un dispositif d’isolation p
 
 Ce dispositif est généralement en polystyrène, laine minérale ou laine de bois. Il doit être placé dans la continuité de l’isolant, ce qui nécessite des traitements coupe-feu et acoustiques dans le cas des immeubles collectifs. Le linéaire est limité pour assurer la continuité structurelle. Si des rupteurs spécifiques existent pour les balcons, des solutions de balcons sur poutres sont toutefois préférables, notamment en cas de porte-à-faux important.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0635-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0635-00.png]]
 
 
 _**Fig. 11.23. Schéma de traitement d’un pont thermique avec rupteur dalle/façade en ITI**_ 

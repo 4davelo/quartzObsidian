@@ -56,7 +56,7 @@ Les services généraux des immeubles comportent différents circuits au service
 
 Pour réaliser des économies d’énergie dans les parties communes des immeubles, les constructeurs ont réalisé des appareils qui coupent le circuit automatiquement après le temps nécessaire à l’usage du local ou de la desserte (hall, escalier, etc.). Chaque bouton-poussoir met simultanément en circuit les appareils d’éclairage et un électroaimant, qui actionnent un mouvement d’horlogerie appelé « minuterie » destiné à couper le courant au bout du temps de réglage (généralement entre 3 et 5 min). Un commutateur permet d’isoler la minuterie soit pour une réparation, soit pour obtenir l’éclairage sous forme permanente ( **fg. 49.13** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1878-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1878-01.png]]
 
 
 **49.7.2 Éclairage de remplacement** 

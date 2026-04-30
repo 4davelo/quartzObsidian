@@ -64,7 +64,7 @@ Arrêté du 17 mai 2001 fixant les conditions techniques auxquelles doivent sati
 
 Pour les puissances supérieures à 250 kVA, un poste transformateur HT/BT est mis en œuvre, soit de type compact (poste préfabriqué), soit à cellules (poste « sur mesure ») intégré au bâtiment. Le transformateur permet d’alimenter en basse tension le tableau général basse tension (TGBT) du bâtiment ( **fg. 47.6** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1813-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1813-00.png]]
 
 Le raccordement s’effectue _via_ des postes de livraison (définis par la norme NF C 13-100) en référence aux normes NF C 11-201 et NF C 14-100. 
 
@@ -74,7 +74,7 @@ Le raccordement s’effectue _via_ des postes de livraison (définis par la norm
 
 Pour les maisons individuelles, le point de livraison est l’extrémité du câble de distribution EDF qui aboutit à un coffret spécial implanté en limite de propriété et qui intègre le compteur. La liaison entre le compteur et le disjoncteur de l’abonné, placé à l’intérieur de la maison, est réalisée par un câble enterré ( **fg. 47.7** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1816-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1816-00.png]]
 
 
 _**Fig. 47.7. Liaison par câble enterré (source : guide SéQuélec)**_ 
@@ -93,7 +93,7 @@ Les canalisations enterrées reliant, par exemple, un bâtiment annexe au bâtim
 
 La limite de prestation est le distributeur d’arrivée situé soit en façade, soit dans un local spécifique. Le courant est ensuite distribué aux différents étages par des colonnes montantes contenues dans des gaines palières ( **fg. 47.8** ) accessibles aux agents d’EDF.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1818-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1818-00.png]]
 
 
 **Fig. 47.8. Emplacement des colonnes montantes (source : Sipperec)** 

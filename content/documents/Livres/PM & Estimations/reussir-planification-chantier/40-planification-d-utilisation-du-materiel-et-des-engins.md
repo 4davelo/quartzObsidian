@@ -55,6 +55,6 @@ Le planning d’utilisation de matériel doit suivre le planning d’exécution 
 
 On présente dans la **fgure 5.2** un exemple de planning d’utilisation de matériel. En ligne, on indique les matériels ou les engins ; en colonne, les dates. À l’intérieur des cases relatives à des tâches, on indique le nombre de matériel à utiliser dans son exécution.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0206-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0206-00.png]]
 
 _**Figure 5.2 Exemple de planning d’utilisation de matériel**_

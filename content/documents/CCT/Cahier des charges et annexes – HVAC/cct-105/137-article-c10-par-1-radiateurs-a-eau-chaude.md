@@ -332,11 +332,11 @@ Dans les trente jours qui suivent l'approbation de son offre, l'entrepreneur est
 
 Le [[concepts/fonctionnaire-dirigeant|Fonctionnaire Dirigeant]] fait parvenir à l'entrepreneur ses observations éventuelles dans un délai de quinze jours à dater de la réception du tableau (dans le cas où celui-ci était joint à l’offre, dans les quinze jours de la demande d’approbation par l’entrepreneur).
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0323-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0323-01.png]]
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0323-02.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0323-02.png]]
 
 
 Tableau C10.1-4 facteur de correction de puissance des radiateurs 

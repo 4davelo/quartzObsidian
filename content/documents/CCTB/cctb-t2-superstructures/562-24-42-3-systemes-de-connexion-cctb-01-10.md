@@ -262,7 +262,7 @@ Nuance d’aluminium selon [NBN EN 573-1] : EN AW-6xxx (par défaut) / ***
 La complexité est divisée en plusieurs cas, en fonction du nombre de découpe à effectuer, éventuellement des soudures (dans le plan ou hors plan), du nombre de pièces à assembler, etc. Le schéma ci-dessous (provenant de [Construire en bois]) présente un moyen simple d’évaluer la complexité d’une ferrure mécano-soudée. 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1109-15.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1109-15.png]]
 
 
 Complexité : E1 / E2 / E3 / E4 / E5 / VE1 / VE2 / VE3 / V1 / V2 / V3 / V4

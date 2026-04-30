@@ -68,13 +68,13 @@ La méthode des antécédents PDM ( _Precedence Diagram Method_ ) est la plus ut
 
 3. Schématiser les boîtes représentatives des différentes tâches dans la colonne correspondante de chaque rang. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0071-05.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0071-05.png]]
 
 _**Figure [3.6](18_3.6_application_3-1.md) Schématisation des tâches selon les rangs de l’exemple n° 1**_ 
 
 4. Relier les tâches par des flèches orientées en suivant la matrice de la **fgure 3.4** , en utilisant les sorties de la tâche (voir **fg. 3.7** ) : de la tâche A on a deux sorties vers les deux tâches B et E ; de la tâche B on a une seule sortie vers la tâche C ; de la tâche C on a une seule sortie vers la tâche D ; de la tâche D on a une seule sortie vers la tâche I ; de la tâche E on a deux sorties vers les deux tâches F et G ; de la tâche F on a une seule sortie vers la tâche D ; de la tâche G on a une seule sortie vers la tâche H ; de la tâche H on a une seule sortie vers la tâche I.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0072-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0072-00.png]]
 
 _**Figure 3.7 Traçage du réseau des antécédents de l’exemple n° 1**_ 
 
@@ -82,7 +82,7 @@ Toutes les tâches ont une seule entrée sauf les tâches I et D qui ont deux en
 
 On procède de la même manière pour tracer le graphe de potentieltâche de l’exemple n° 2 présenté dans la **fgure [3.8](20_3.8_représentation_matricielle.md)** . En le comparant avec le réseau de l’exemple n° 1, on trouve les différences suivantes : les deux tâches A et E sont initiales puis qu’elles n’ont pas de prédécesseur ; seule la liaison entre E et A a changé, toutes les autres liaisons ont été conservées ; à la suite du changement des prédécesseurs de la tâche E, les tâches F, G et H ont changé de rang.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0073-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0073-00.png]]
 
 _**Figure [3.8](20_3.8_représentation_matricielle.md) Traçage du réseau des antécédents de l’exemple n° 2**_ 
 
@@ -94,13 +94,13 @@ La méthode de traçage du graphe PERT (voir **fg. [3.9](21_3.9_liaisons_entre_l
 
 2. Le traçage et la liaison entre les tâches se fait comme suit : commencer le graphe par la tâche A, limitée par les étapes 1 et 2, puisqu’elle est la seule dans le 1[er] rang. L’étape 1 indique le début de la tâche A, l’étape 2 sa fin ; de l’étape 2, tracer les deux tâches B et E du 2[e] rang, qui commencent en même temps après la fin de la tâche A. Deux nouvelles étapes 3 et 4 sont créées, marquant respectivement la fin de la tâche B et celle de la tâche E ; suivant le même principe, terminer le traçage de toutes les autres tâches ; la tâche I est une tâche finale limitée par les étapes 7 et 8 : l’étape 8 correspond alors à la fin du projet.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0074-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0074-00.png]]
 
 _**Figure [3.9](21_3.9_liaisons_entre_les_tâches.md) Construction du graphe PERT de l’exemple n° 1**_ 
 
 Dans le graphe de l’exemple n° 2 (voir **fg. 3.10** ), la schématisation du réseau PERT change. Pour les liaisons, il y a un seul changement au niveau des tâches A et E, puisque la tâche E est devenue une tâche initiale. Le changement du réseau et le décalage des rangs des tâches F, G et H est dû seulement au changement des prédécesseurs de la tâche E.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0075-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0075-00.png]]
 
 _**Figure 3.10 Construction du graphe PERT de l’exemple n° 2**_ 
 
@@ -126,13 +126,13 @@ Pour tracer le diagramme GANTT, on procède de la manière suivante :
 
 3. La construction du diagramme GANTT aboutit à déterminer la durée du projet, sans effectuer de calculs comme dans les autres méthodes.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0077-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0077-00.png]]
 
 _**Figure [3.11](23_3.11_application_3-2.md) Construction du diagramme GANTT de l’exemple n° 1**_ 
 
 On procède de la même manière pour la construction du diagramme GANTT de l’exemple n° 2 présenté dans la **fgure [3.12](24_3.12_application_3-3.md)** . On remarque qu’il y a une différence entre les diagrammes, à la suite du changement des prédécesseurs de la tâche E et des successeurs de la tâche A. Dans ce cas, il y a deux tâches initiales A et E et un changement dans la durée du projet et dans le déroulement des tâches ayant des liaisons avec la tâche E.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0078-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0078-00.png]]
 
 _**Figure [3.12](24_3.12_application_3-3.md) Construction du diagramme GANTT de l’exemple n° 2**_ 
 
@@ -156,7 +156,7 @@ Le planning du type chemin de fer permet de visualiser la cadence de production 
 
 3. Courbe d’évolution des stocks : pour déterminer le stock d’éléments préfabriqués, on trace cette courbe par déduction des deux courbes précédentes.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0080-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0080-00.png]]
 
 _**Figure 3.13 Courbes de production**_ 
 

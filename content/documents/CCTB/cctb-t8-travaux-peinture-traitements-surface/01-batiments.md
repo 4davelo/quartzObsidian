@@ -21,13 +21,13 @@ juridictions: [wallonie, bruxelles]
 familles_sources: [cctb]
 ---
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0001-00.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0001-00.png]]
 
 
 **`C`** `AHIER DES` **`C`** `HARGES` **`T`** `YPE` **BÂTIMENTS** 
 
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0001-02.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0001-02.png]]
 
 
 ```
@@ -37,4 +37,4 @@ Travaux de peinture / Traitements de surface
 ```
 
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0001-04.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0001-04.png]]

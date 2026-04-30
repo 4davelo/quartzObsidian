@@ -88,12 +88,12 @@ _**Tab. 8.1. Récapitulatif des classes d’emploi et des agents biologiques att
 |U = omniprésent en Europe et au sein de l’UE.<br>L = présent localement en Europe et au sein de l’UE.|||||||
 |(1) Il existe des cas limites et des cas extrêmes d’utilisation du bois et des matériaux à<br>base de bois. Il peut en résulter l’afectation d’une classe d’emploi diférente de celle<br>défnie dans la présente norme (voir annexe B).<br>(2) Il n’est pas nécessaire de protéger le bois contre tous les agents biologiques énumérés<br>car ceux-ci peuvent ne pas être présents ou ne pas avoir d’importance économique dans<br>toutes les conditions de service de toutes les régions géographiques, ou encore ne pas<br>pouvoir attaquer certains matériaux à base de bois en raison de leur constitution<br>spécifque.<br>(3) Voir annexe C.<br>(4) La partie de certains éléments d’ouvrage située au-dessus de l’eau peut être exposée à<br>tous les agents biologiques mentionnés ci-dessus.|||||||
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0518-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0518-00.png]]
 
 
 _**Fig. 8.1. Zones soumises au risque termite en 2019 (source : MTES, « Départements couverts par un arrêté préfectoral délimitant les zones infestées par les termites au 1er janvier 2019 »)**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0520-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0520-00.png]]
 
 
 _**Fig. 8.2. Zones faisant l’objet d’arrêté au risque mérule (source : FCBA, « Répartition des chantiers champignons lignivores », août 2015, in AQC, « Le risque de mérule dans le bâtiment », 2017)**_ 

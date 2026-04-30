@@ -83,7 +83,7 @@ Les ouvrages d’assise sont appropriés, d’une part, à la portance des sols 
 
 Lorsque le sol présente une faible résistance sur une grande profondeur, on est amené à élargir les semelles d’une manière si importante qu’elles ne forment plus qu’une dalle continue de béton : cette dalle de répartition, qui couvre l’emprise complète du bâtiment, est appelée « radier » ( **fg. 1.21** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0097-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0097-00.png]]
 
 
 _**Fig. 1.21. Fondations superficielles par radier en béton armé**_ 
@@ -114,7 +114,7 @@ Quand les poteaux sont rapprochés, il est plus pratique de chercher à réparti
 
 Lorsqu’il existe une nappe phréatique ou des ruissellements importants dans le terrain à construire, on est amené, pour maintenir l’intérieur de la construction à l’abri de cette eau, à réaliser des parois verticales et un fond étanche – d’où le terme « cuvelage ». Le cuvelage est généralement associé à un radier ou à un système d’ancrage par fondations profondes pour la reprise de la souspression.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0101-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0101-00.png]]
 
 
 _**Fig. 1.22. Fondations superficielles continues et ponctuelles**_ 
@@ -157,12 +157,12 @@ Une variante plus économique et de plus en plus utilisée est le pieu
 
 exécuté par tarière continue ( **fg. 1.24** .b) ; le tubage est supprimé, mais ce type de pieu traverse difficilement les couches dures.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0106-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0106-00.png]]
 
 
 _**Fig. 1.23. Pieux battus**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0109-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0109-00.png]]
 
 
 **Fig. 1.24. Pieux forés : havage et mise en place du ferraillage** 
@@ -197,7 +197,7 @@ Le remplissage des vides souterrains, galeries de carrière ou vides de dissolut
 
 On peut également traiter des terrains par l’injection d’un coulis sous pression et vérifier le résultat de la consolidation par des essais mécaniques _in situ_ .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0112-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0112-00.png]]
 
 
 _**Fig. 1.25. Fondations sur pieux : réalisation des têtes de pieux et des longrines**_ 

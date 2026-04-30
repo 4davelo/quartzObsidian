@@ -71,7 +71,7 @@ Elle influence la sensation de bien-être et la santé sur le lieu de travail :
 Plus précisément, on peut définir une plage de confort hygrothermique dans le diagramme suivant (extrait de l'article de R. Fauconnier _L'action de l'humidité de l'air sur la santé dans les bâtiments tertiaires_ parut dans le numéro 10/1992 de la revue Chauffage Ventilation Conditionnement). 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/note-cti-hvac-26-1-ventilation-lieux-travail/images/Note_info_CTI_HVAC_26-1_ventilation_des_lieux_de_travail_2021.pdf-0011-13.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/note-cti-hvac-26-1-ventilation-lieux-travail/images/Note_info_CTI_HVAC_26-1_ventilation_des_lieux_de_travail_2021.pdf-0011-13.png]]
 
 
 _1. Zone à éviter vis-à-vis des problèmes de sécheresse._ 

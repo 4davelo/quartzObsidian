@@ -1088,7 +1088,7 @@ Les points suivants sont prévus.
    - fonctionnement circulateur, marche/arrêt 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0570-11.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0570-11.png]]
 
 
 **----- Start of picture text -----**<br>

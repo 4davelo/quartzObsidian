@@ -41,7 +41,7 @@ L’épaisseur des paillasses comptées orthogonalement au rampant ne doit pas �
 
 10 cm pour les volées de demi-hauteur d’étage ; 18 cm pour les volées de hauteur complète d’étage.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0789-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0789-00.png]]
 
 
 _**Fig. 15.8. Clavetages et becquets d’escalier droit**_ 
@@ -58,7 +58,7 @@ Les escaliers droits à limon porteur préfabriqué nécessitent les mêmes pré
 
 Les escaliers hélicoïdaux sont en général préfabriqués monoblocs toute hauteur d’étage et sont composés d’un fût plein, d’une paillasse à redans et d’un palier supérieur ou d’armatures en attente de liaison haute, tous éléments clavetés les uns sur les autres ( **fg. 15.9** ). Ils seront préférés aux escaliers à marches indépendantes, notamment sans contremarche, qui ne permettent pas le report des charges sur deux contremarches.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0791-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0791-00.png]]
 
 
 _**Fig. 15.9. Tracé d’escaliers hélicoïdaux**_ 

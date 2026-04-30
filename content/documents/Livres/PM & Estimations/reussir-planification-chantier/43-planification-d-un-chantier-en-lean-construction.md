@@ -38,6 +38,6 @@ constructeurs utilisent la méthode Lean Construction, séduits par la démarche
 
 La préparation et l’anticipation sont au cœur de la philosophie de l’excellence opérationnelle prônée par la démarche Lean Construction. Un projet de construction performant est un projet qui apprend vite. Ce n’est pas lors du coup de feu de départ qu’il faut se demander si les ouvriers possèdent les bons plans ou si la livraison est bien arrivée. Se tenir prêt revient à chercher en amont tous les points de blocage qui pourraient remettre en cause le respect des objectifs fixés (qualité, coût, délai).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0218-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0218-00.png]]
 
 _**Figure [6.1](44_6.1_la_planification_globale_en_chemin_de_fer.md) Cible de l’attention dans une planification en Lean Construction**_

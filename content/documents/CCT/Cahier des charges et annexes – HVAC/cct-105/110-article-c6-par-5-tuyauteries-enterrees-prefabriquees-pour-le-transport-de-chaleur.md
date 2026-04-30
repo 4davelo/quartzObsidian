@@ -386,7 +386,7 @@ Le point fixe est réalisé suivant le schéma de principe de la figure C6.5-2.
 
 Si le point fixe ne montre pas une isolation électrique totale, une protection cathodique est prévue.
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0250-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0250-01.png]]
 
 
 **----- Start of picture text -----**<br>

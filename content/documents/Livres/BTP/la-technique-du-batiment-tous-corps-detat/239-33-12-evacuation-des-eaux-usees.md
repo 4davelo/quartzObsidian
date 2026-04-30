@@ -147,7 +147,7 @@ Ces canalisations doivent permettre l’évacuation rapide sans stagnation des e
 
 Avec une pente comprise entre 1 et 3 cm/m, le diamètre minimal des collecteurs d’appareils est donné à la **fgure [33.13](240_33.13_évacuation_et_récupération_des_eaux_pluviales.md)** .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1447-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1447-00.png]]
 
 
 _**Fig. 33.13. Diamètres intérieurs minimaux pour l’évacuation des appareils**_ 
@@ -268,7 +268,7 @@ Le siphonnage se produit d’autant plus facilement que la pente du tuyau, et do
 Les cuvettes de W.-C. sont conçues en fonction de deux types de vidanges : l’action siphonique ( **fg. [33.14](241_33.14_calorifugeage_et_corps_calorifuges.md)** ). L’effet d’aspiration, qui se traduit par un phénomène tourbillonnaire caractérisant ces cuvettes, est obtenu, avec la plupart des appareils modernes, dans la sortie même des cuvettes ; leur raccordement au tuyau de chute doit permettre un écoulement libre et rapide ; 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1452-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1452-02.png]]
 
 la chasse directe ( **fg. 33.15** ). 
 
@@ -277,9 +277,9 @@ L’impact du piston hydraulique qui peut se former dans ces chutes est d’auta
 L’eau de chasse est fournie par les appareils de chasse. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1453-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1453-03.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1455-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1455-00.png]]
 
 
 _**Fig. 33.15. Cuvette de W.-C. à chasse directe**_ 
@@ -306,7 +306,7 @@ La ventilation secondaire est assurée par une canalisation placée entre le sip
 
 que les W.-C. lorsqu’ils sont raccordés sur une chute unique évacuant les eaux-vannes et les eaux usées. Il est surtout utilisé dans les vidanges collectives. En communiquant avec l’air libre de la ventilation primaire, il rétablit la pression atmosphérique dans la tuyauterie de vidange. Son raccordement sur la ventilation primaire est représenté sur la **fgure 33.16** .b.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1459-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1459-00.png]]
 
 
 _**Fig. 33.16. Installation d’une ventilation secondaire entre les appareils sanitaires et le tuyau de chute**_ 
@@ -317,7 +317,7 @@ Le reniflard, encore appelé « antivide », est un appareil destiné à éviter
 
 La dépression d’air produite par une décharge soulève une membrane (ou un clapet) d’admission d’air frais. Une fois la dépression ainsi compensée, l’appel d’air terminé, la soupape se referme hermétiquement. Il n’y a donc pas de transmission d’odeur. Dans les appareils les plus performants, l’air frais est aspiré à travers un filet empêchant l’introduction d’impuretés et d’insectes ( **fg. 33.17** ). Ces appareils peuvent être installés dans les espaces inhabités ou dans les pièces de service (W.-C. et salle d’eau) ventilées.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1461-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1461-00.png]]
 
 **33.12.8 Exemples d’installations** 
 
@@ -327,7 +327,7 @@ L’installation comporte une chute en PVC dans une gaine technique et des canal
 
 La salle d’eau et la cuisine étant situées de part et d’autre de la chute, le branchement des différentes évacuations est réalisé par une culotte double. Des tampons de réduction permettent l’arrivée de plusieurs canalisations d’évacuation sur les branches horizontales de la culotte. Ces branches sont inclinées de 87° environ par rapport aux branches verticales, avec des chambres de dilatation latérales excentrées qui suppriment le point de stagnation des eaux usées. Des bouchons de dégorgement, placés en bout des évacuations horizontales, permettent le nettoyage intérieur de ces canalisations.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1463-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1463-00.png]]
 
 
 _**Fig. 33.18. Raccordement des appareils sanitaires et ménagers à la chute**_ 
@@ -336,7 +336,7 @@ _**Fig. 33.18. Raccordement des appareils sanitaires et ménagers à la chute**_
 
 - Il existe divers modes de raccordement de la cuvette sur le tuyau de chute, dont voici des exemples : pipe de raccordement en plomb ( **fg. 33.19** .a) ; culotte et manchon de dilatation ( **fg. 33.19** .b) : sur canalisation en PVC, la chambre de dilatation doit constituer un point fixe. Cette fixation se fait par collier bloquant la culotte ou le manchon ; manchette en PVC ( **fg. 33.19** .c) : c’est une pièce de jonction rétractile avec joint torique. Elle permet de raccorder une canalisation en PVC sur une canalisation de diamètre équivalent, en fonte, en grès, etc.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1465-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1465-00.png]]
 
 
 _**Fig. 33.19. Différents types de raccordement de la cuvette de W.-C. à la chute**_ 

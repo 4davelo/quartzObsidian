@@ -26,12 +26,12 @@ en cas d’impossibilité de mise en place de capteurs horizontaux (notamment si
 
 vertical comporte un tube de polyéthylène en forme de U installé dans un forage et scellé dans celui-ci par du ciment. On réalise en général plusieurs forages distants d’au moins 10 m ( **fg. [40.5](280_40.5_pac_aérothermiques.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1642-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1642-00.png]]
 
 
 _**Fig. 40.4. PAC géothermique à capteurs horizontaux associée à un plancher chauffant (source : Société suisse pour la géothermie)**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1643-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1643-00.png]]
 
 
 _**Fig. 40.5. PAC géothermique à capteurs verticaux associée à un chauffage par le sol (source : Société suisse pour la géothermie)**_ 
@@ -41,7 +41,7 @@ Les PAC sur eau de nappe qui utilisent comme source froide l’eau de nappes aqu
 à deux forages, le deuxième forage sert à réinjecter dans la nappe l’eau utilisée. Plus coûteux, ce système évite le gaspillage de l’eau souterraine ( **fg. 40.6** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1644-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1644-01.png]]
 
 
 _**Fig. 40.6. PAC sur eau de nappe**_

@@ -175,7 +175,7 @@ Les caractéristiques des dalles sont les suivantes :
 
 - Catégorie d’application des dalles en béton à mettre en œuvre, conformément au tableau du § 8 de la [NBN B 21-211:2006+A1] : II a / II b / III a / III b (par défaut).
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0124-01.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0124-01.png]]
 
 
 Dans le cas d’utilisation de dalles de réemploi, il s’agit de la fourniture et de la pose (par défaut) / uniquement de la pose des dalles. 

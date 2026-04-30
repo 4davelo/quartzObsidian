@@ -85,7 +85,7 @@ Il s’agit de dispositifs qui peuvent être soit formés comme un anneau fermé
 Un exemple d’anneau (type A1) est présenté ci-dessous : 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1100-05.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1100-05.png]]
 
 
 **Remarques importantes** 
@@ -170,7 +170,7 @@ Il s’agit d’assembleurs constitués d’une plaque avec, sur ses bords, des 
 
 Un exemple de crampon (type C1) est présenté ci-dessous :
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1102-01.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1102-01.png]]
 
 
 **Remarques importantes** 
@@ -203,7 +203,7 @@ Les espacements et distances minimaux à respecter pour les crampons de type C1 
 
 Pour les crampons de type C10 et C11, les distances et espacements minimaux suivants doivent être respectés :
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1103-01.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1103-01.png]]
 
 
 Le dimensionnement d’un assemblage par crampon est réalisé conformément aux prescriptions de l’Eurocode 5 ([NBN EN 1995-1-1]) et ses annexes. 
@@ -267,7 +267,7 @@ _**(Soit)**_
 Il s’agit de plaques métalliques munies de dents intégrées poinçonnées formant un angle de 90° par rapport à la base de la plaque et utilisées pour connecter deux (ou plus) pièces de bois de la même épaisseur et dans le même plan. 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1104-09.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1104-09.png]]
 
 
 Un exemple de plaques dentées est présenté ci-dessous : 

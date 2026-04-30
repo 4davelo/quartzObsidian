@@ -74,6 +74,6 @@ _**Tableau 5.1 Données d’effectif de l’exemple N° 1**_
 |---|---|---|---|---|
 |_A_<br>_B_<br>_C_<br>_D_<br>_E_<br>_F_<br>_G_<br>_H_<br>_I_|_Néant_<br>_A_<br>_B_<br>_C ; F_<br>_A_<br>_E_<br>_E_<br>_G_<br>_D ; H_|_1_<br>_2_<br>_3_<br>_4_<br>_2_<br>_3_<br>_3_<br>_4_<br>_5_|_5_<br>_3_<br>_15_<br>_6_<br>_4_<br>_18_<br>_14_<br>_14_<br>_5_|_4_<br>_6_<br>_3_<br>_8_<br>_5_<br>_4_<br>_5_<br>_2_<br>_7_|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0202-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0202-00.png]]
 
 _**Figure 5.1 Histogramme d’utilisation de la main-d’œuvre**_

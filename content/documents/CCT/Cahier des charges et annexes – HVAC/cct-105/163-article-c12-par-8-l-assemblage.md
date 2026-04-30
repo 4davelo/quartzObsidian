@@ -29,7 +29,7 @@ familles_sources:
   - contrat
 ---
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0410-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0410-01.png]]
 
 
 **L’ ASSEMBLAGE** 
@@ -116,4 +116,4 @@ Il doit aussi fournir la méthodologie d’assemblage (séquence des opérations
 
 Le cahier spécial des charges précise si un test d’étanchéité doit être réalisé sur site. Le [[concepts/fonctionnaire-dirigeant|Fonctionnaire Dirigeant]] identifiera le caisson de traitement d’air à soumettre à l’essai, après l’assemblage. Ce test doit être effectué en présence du maître d’ouvrage conformément à la NBN EN 1886 § 6.2 à 6.4. (Voir également Par. 10/2.3.)
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0412-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0412-01.png]]

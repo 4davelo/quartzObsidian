@@ -30,7 +30,7 @@ Le recouvrement, ajusté selon la pente (7,5 à 12,5 cm), est déterminé par l'
 
 La tuile béton ( **fg. 22.21** ) est un produit dont l’assemblage est à emboîtement longitudinal (cannelures et nervures) et dont le recouvrement variable est assuré par glissement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1041-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1041-00.png]]
 
 
 _**Fig. 22.21. Configuration de la tuile béton**_ 
@@ -38,7 +38,7 @@ _**Fig. 22.21. Configuration de la tuile béton**_
 La constitution de la tuile et sa fabrication lui assurent une excellente planéité et une grande stabilité dimensionnelle. Il en découle, lors de la mise en œuvre, une bonne étanchéité de l’emboîtement longitudinal ( **fg. 22.22** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1041-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1041-03.png]]
 
 Le produit à base de ciment présente une bonne tenue dans le temps, sauf si les conditions de l’environnement sont agressives. 
 

@@ -179,7 +179,7 @@ Il s’agit d’une application pour bâtiment bas BB (H < 10 m) / bâtiments mo
 Les classifications de réaction au feu des matériaux sont données en fonction du type de bâtiment et de sa hauteur. Les garde-corps sont considérés comme des parois verticales. Les rampes par contre correspondent à une surface négligeable et ne doivent répondre à cette exigence. 
 
 
-![](images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0829-12.png)
+![[documents/CCTB/cctb-t5-fermetures-finitions-interieures/images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0829-12.png]]
 
 
 La résistance à la détérioration causée par les conditions climatiques, les agents chimiques et biologiques de type non spécifié (par défaut) / *** est vérifiée selon la [NBN EN 15644] pour les garde-corps d’escaliers massifs en bois ou l’[ETAG 008] pour les autres escaliers préfabriqués autres qu’en bois massif. 

@@ -35,7 +35,7 @@ familles_sources: [ouvrage, gestion-projet]
 
 L’élaboration d’un planning repose sur une décomposition chronologique et structurée du projet. On passe d’une division sommaire (phase, lot ou corps d’état) à un niveau de division plus détaillé (tâche ou activité) et on affecte ainsi les différentes ressources utilisées pour sa réalisation. Il existe plusieurs techniques de planification des projets, qui sont rassemblées en deux grandes catégories (voir **fg. 2.11** ) : les méthodes linéaires et les méthodes par réseau.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0038-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0038-00.png]]
 
 _**Figure 2.11 Techniques de planification[(][2][)]**_ 
 
@@ -47,7 +47,7 @@ Le diagramme de GANTT, conçu en 1917 par Henry Laurence Gantt, est une représe
 
 On liste les tâches et les ressources en lignes et le temps (mois, semaines ou jours) en colonnes. Les tâches sont représentées par des barres dont la longueur est proportionnelle à la durée. Elles peuvent se succéder ou se réaliser entièrement ou partiellement en parallèle (voir **fg. 2.12** ). Le planning GANNT est une représentation pratique, et bien qu’elle soit la plus ancienne, elle est encore la technique la plus utilisée aujourd’hui.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0040-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0040-00.png]]
 
 _**Figure 2.12 Méthode linéaire : diagramme de GANTT**_ 
 
@@ -55,7 +55,7 @@ _**Figure 2.12 Méthode linéaire : diagramme de GANTT**_
 
 Le planning d’exécution des travaux peut être tracé sous la forme dite du « chemin de fer ». On l’utilise pour planifier des travaux à caractère linéaire, séquentiel ou répétitif, par étages ou zones, comme pour des routes, tunnels, bâtiments élevés, de terrassement, travaux intérieurs répétitifs, etc. L’évolution des tâches est rapportée sur deux axes : l’axe des abscisses représente l’axe du temps, l’axe des ordonnées représente généralement les zones de travail et les quantités réalisées (voir **fg. 2.13** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0041-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0041-00.png]]
 
 _**Figure 2.13 Méthode linéaire : planning chemin de fer**_ 
 
@@ -63,7 +63,7 @@ _**Figure 2.13 Méthode linéaire : planning chemin de fer**_
 
 Elles mettent en évidence les relations de dépendance entre tâches, appelées aussi méthodes à chemin critique. La méthode de potentieltâche met l’accent sur l’activité, la méthode de potentiel-étape est basée sur les événements. Les sommets des réseaux représentent soit les tâches (voir **fg. 2.12a** ) soit les événements (voir **fg. 2.12b** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0042-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0042-00.png]]
 
 _**Figure 2.14 Méthodes des réseaux : graphe des tâches et graphe des événements**_ 
 

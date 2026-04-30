@@ -28,7 +28,7 @@ familles_sources:
   - guide
 ---
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/note-cti-hvac-26-1-ventilation-lieux-travail/images/Note_info_CTI_HVAC_26-1_ventilation_des_lieux_de_travail_2021.pdf-0001-00.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/note-cti-hvac-26-1-ventilation-lieux-travail/images/Note_info_CTI_HVAC_26-1_ventilation_des_lieux_de_travail_2021.pdf-0001-00.png]]
 
 
 **[[entities/regie-des-batiments|Régie des Bâtiments]]** 

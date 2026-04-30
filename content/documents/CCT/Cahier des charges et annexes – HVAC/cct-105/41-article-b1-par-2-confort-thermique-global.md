@@ -42,7 +42,7 @@ Pour les pièces où la vitesse de l'air est faible (< 0,2 m/s) ou lorsque la di
 La température opérative doit être comprise dans la plage encadrée du graphique, spécifiée dans le tableau ci-dessous. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0054-07.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0054-07.png]]
 
 
 **----- Start of picture text -----**<br>

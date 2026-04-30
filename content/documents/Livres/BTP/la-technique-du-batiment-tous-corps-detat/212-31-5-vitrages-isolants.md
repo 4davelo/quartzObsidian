@@ -38,7 +38,7 @@ L'assemblage vise à maintenir l'espace entre les verres, empêcher l'humidité 
 
 Le principe des vitrages isolants repose sur l’amélioration du pouvoir isolant apporté par une ou deux lame(s) d’air déshydraté et immobile de 6 à 12 mm d’épaisseur, enfermée(s) de manière étanche entre deux feuilles de verre. On les fabrique en usine aux dimensions finales d’utilisation ( **fg. [31.3](210_31.3_produits_verriers_de_sécurité.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1272-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1272-00.png]]
 
 
 **Fig. 31.3. Double et triple vitrages** 
@@ -66,6 +66,6 @@ la fois le maintien des deux verres, de part et d’autre de l’intercalaire, e
 organiques. Ces systèmes répondent à la nécessité de réduire au minimum les surfaces d’échange entre l’intérieur et l’extérieur. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1274-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1274-01.png]]
 
 **

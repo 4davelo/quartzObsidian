@@ -36,7 +36,7 @@ Une distribution de qualité de l’eau chaude de chauffage doit permettre un fo
 Dans la distribution, le choix du diamètre est important. Le trio débit, diamètre et vitesse doit être choisi avec soin en fonction des besoins. La **fgure 39.7** rappelle les formules simples de calcul à utiliser. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1608-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1608-02.png]]
 
 **39.2.2 Capacité en eau des canalisations** 
 

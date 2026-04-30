@@ -107,6 +107,6 @@ La **fgure 2.5** présente le processus de gestion de chantier formé des phases
 
 5. Livraison de l’ouvrage.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0028-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0028-00.png]]
 
 _**Figure 2.5 Représentation des phases d’élaboration et d’exécution d’un projet**_

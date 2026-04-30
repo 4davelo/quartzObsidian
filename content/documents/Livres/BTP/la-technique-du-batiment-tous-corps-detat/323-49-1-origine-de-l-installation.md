@@ -40,9 +40,9 @@ La GTL doit être située : à plus de 10 cm d’une canalisation de gaz ; à pl
 
 entre 1 m et 1,80 m au-dessus du sol fini ; cette dernière valeur est limitée à 1,30 m pour les locaux réservés aux personnes en situation de handicap et aux personnes âgées.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1844-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1844-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1846-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1846-00.png]]
 
 
 **Fig. 49.2. Exemples de GTL (source : d’après la fiche GTL de SéQuélec)** 

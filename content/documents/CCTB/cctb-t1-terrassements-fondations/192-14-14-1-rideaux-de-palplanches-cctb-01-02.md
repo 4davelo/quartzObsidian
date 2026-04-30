@@ -177,7 +177,7 @@ Les paramètres sont exprimés en mm pour les distances et en degrés pour l’a
 Profils en Z : 
 
 
-![](documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0180-16.png)
+![[documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0180-16.png]]
 
 
 Surface S développée d’une palplanche en Z exprimé en m² par mètre de hauteur : S = 2 x (h/sinα + b – h/tgα) / 1000. 

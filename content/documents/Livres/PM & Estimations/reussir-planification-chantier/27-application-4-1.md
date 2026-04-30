@@ -63,7 +63,7 @@ _**Tableau [4.5](30_4.5_technique_gantt.md) Données des tâches de l’applicat
 
 2. Quelle sera la nouvelle durée du projet si la durée d’exécution de la tâche I devient 1 semaine au lieu de 6 semaines ? Justifier la réponse.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0108-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0108-00.png]]
 
 _**Figure 4.17 Graphe PERT de l’application 4-1**_ 
 
@@ -71,7 +71,7 @@ _**Figure 4.17 Graphe PERT de l’application 4-1**_
 
 1. On présente, dans la **fgure 4.18** et le **tableau [4.6](31_4.6_application_4-3.md)** , les résultats de calcul des dates, de la durée d’exécution et des marges des différentes tâches constitutives du réseau PERT du projet.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0109-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0109-00.png]]
 
 _**Figure 4.18 Réseau PERT avec calcul des dates, de l’application 4-1**_ 
 
@@ -106,7 +106,7 @@ La durée de projet est de 44 semaines. Le chemin critique est formé des tâche
 
 Tous les changements sont présentés dans la **fgure 4.19** et le **tableau [4.7](32_4.7_application_4-4.md)** . 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0110-06.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0110-06.png]]
 
 _**Tableau [4.7](32_4.7_application_4-4.md) Tableau de calcul des marges de l’application 4-1 avec le changement de la durée de la tâche I**_ 
 

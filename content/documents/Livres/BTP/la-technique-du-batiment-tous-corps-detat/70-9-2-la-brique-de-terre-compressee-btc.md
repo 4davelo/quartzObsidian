@@ -32,7 +32,7 @@ Adobe et BTC sont deux versions, l’une ancienne et l’autre plus récente, de
 
 L’adobe traditionnel ( **photo [9.1](68_9.1_les_techniques_de_construction_en_terre.md)** ) est une terre argileuse composée de sable (60 %), de limon (20 %) et d’argile (20 %) moulée en briques séchées au soleil, la terre pouvant être mélangée avec de la paille pour améliorer ses caractéristiques mécaniques et diminuer le retrait. Les maçonneries sont ensuite réalisées par empilement de briques avec un mortier de terre de composition identique.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0565-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0565-00.png]]
 
 
 _**Photo 9.1. La brique de terre crue utilisée de façon traditionnelle en « voûte nubienne » par l’architecte Hassan Fathy (1900-1989) – Village de Gourna en Égypte (1946-1952) (sources : Marc Ryckaert (MJJR)/Wikipédia)**_ 
@@ -51,7 +51,7 @@ La fabrication des blocs peut se faire sur site (fabrication foraine) ou en atel
 
 Les dimensions sont variables selon les fabricants et les procédés, avec en référence la logique dimensionnelle de la brique de parement de 6 × 11 × 22 cm permettant le montage du mur en « boutissepanneresse » ( **fg. [9.3](71_9.3_le_pisé.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0567-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0567-00.png]]
 
 
 _**Fig. 9.3. Assemblage « boutisse-panneresse » (source : Briques Technic Concept, ATEx n° 2957-v1, « Procédé de murs porteurs en blocs de terre comprimée », CSTB, 5 octobre 2021)**_ 
@@ -67,7 +67,7 @@ Selon le guide de l’Agence qualité construction (AQC), les formats actuels pe
 Le grand avantage du BTC sur le plan de la mise en œuvre est de faire appel au savoir-faire traditionnel des maçons, et donc de pouvoir se diffuser facilement, les murs en BTC pouvant recevoir un isolant intérieur ou extérieur, des parements manufacturés ou des enduits de terre réalisés suivant les règles professionnelles ( **fg. 9.4** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0568-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0568-03.png]]
 
 
 _**Fig. 9.4. Mur en BTC de type « remplissage d’ossature » avec ITE (source : SCIC Cycle Terre, ATEx n° 2911-v1, « Cloisons BTC Cycle Terre », CSTB, 10 mai 2021)**_ 
@@ -78,7 +78,7 @@ caractérisation et d’essais pour chaque nouvelle terre, dans la mesure où le
 
 Le développement peut viser deux grandes catégories d’emploi : les éléments porteurs et/ou les éléments de cloisons et de remplissage. Les caractéristiques mécaniques mesurées montrent que les BTC pourraient être utilisés en murs porteurs jusqu’à R+2, mais dans des conditions de contrôle de la production et de la mise en œuvre plus contraignantes que celles de la maçonnerie d’éléments d’agglomérés de béton ou de briques de terre cuite, la maçonnerie BTC restant 10 à 50 fois moins résistante à la compression qu’une maçonnerie traditionnelle. Dès lors, si la terre est généralement en mesure de résister à 1 à 2 MPa (10 à 50 fois moins que le béton plein), les BTC, dont le squelette granulaire est optimisé, peuvent résister jusqu’à 5 MPa ( **fg. 9.5** ). Un mur de 30 cm d’épaisseur en terre crue d’un bâtiment de deux niveaux, cependant, ne subit qu’une pression en bas de mur d’environ 0,1 MPa.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0570-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0570-00.png]]
 
 
 _**Fig. 9.5. Résistances à la compression de la terre crue face aux autres matériaux (source : Cycle Terre, « Guide de conception et de construction – Cahier 2 : Les blocs de terre comprimée », coll. « Fabriquer la ville bas carbone avec Cycle Terre », vol. 01, mai 2021)**_ 

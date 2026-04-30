@@ -24,13 +24,13 @@ familles_sources: [ouvrage, gestion-projet]
 ---
 ## 3.11 Application 3-2
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0081-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0081-00.png]]
 
 _**Figure 3.14 Composantes d’un cycle de travaux de terrassement en déblai**_ 
 
 Dans un système d’axes formé de la distance à parcourir entre le chantier et la décharge en ordonnées, et du temps en abscisses, on trace les cycles des camions de terrassement en faisant apparaître la notion de temps et d’espace. Dans la **fgure 3.15** , on présente le cycle de rotation de quatre camions de transport de déblai. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0081-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0081-03.png]]
 
 _**Figure 3.15 Présentation du planning chemin de fer des travaux de terrassement**_
 
@@ -81,7 +81,7 @@ _**Tableau 3.14 Détermination des rangs des tâches de l’application 3-2**_
 |**Rang**|||_1_|_2_|||_3_|_4_||_5_|_6_|||_7_|
 |**Tâche**|||_A_|_B et E_|||_C, F et M_|_D, I et J_||_E_|_K_|||_L_|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0083-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0083-01.png]]
 
 À partir des tableaux des tâches et de la matrice d’antériorité on remarque que : 
 
@@ -107,10 +107,10 @@ la tâche H a deux flèches de sortie dans le graphe allant vers les tâches I e
 
 Les réseaux de la méthode PERT et des antécédents sont présentés respectivement dans les **fgures 3.17** et **3.18** .
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0085-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0085-00.png]]
 
 _**Figure 3.17 Réseau PERT de l’application 3-2**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0086-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0086-00.png]]
 
 _**Figure 3.18 Réseau des antécédents de l’application 3-2**_

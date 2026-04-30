@@ -45,7 +45,7 @@ Les cellules photovoltaïques sont parfois utilisées seules (éclairage de jard
 
 Un module photovoltaïque est un générateur électrique de courant continu constitué d’un ensemble de cellules photovoltaïques. Un module présente deux fonctions de base : relier électriquement les différentes cellules afin d’obtenir une puissance utilisable. Chaque cellule induit une tension comprise entre 0,5 V et 1,5 V ; montées en série, les tensions s’additionnent pour induire une tension utile. La caractéristique d’un module photovoltaïque s’exprime en wattcrête (Wc), unité mesurant la puissance délivrée par le panneau au point de puissance maximum et pour une irradiation solaire STC. Un panneau de puissance 150 Wc délivrera donc une puissance de 150 W/m[2] dans les conditions STC, soit un rendement de 10 à 15 % ; protéger les cellules afin de permettre un usage en extérieur, car celles-ci sont fragiles, sensibles au choc, à la corrosion, à l’humidité, etc.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1927-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1927-00.png]]
 
 
 **51.5.2 Caractéristiques techniques des modules photovoltaïques** 
@@ -79,7 +79,7 @@ _**Tests réalisés dans les conditions standard STC : ensoleillement 1 000 W/m[
 |Tension<br>circuit ouvert<br>(V)|33,8|34,0|34,2|34,4|34,6|
 |Courant de<br>court-circuit<br>(A)|6,6|6,7|6,8|6,9|7,0|
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1929-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1929-00.png]]
 
 
 _**Fig. 51.7. Module TE220/240-60P+ de Tenesol (source : Tenesol)**_

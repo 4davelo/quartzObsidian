@@ -48,9 +48,9 @@ les effets des variations linéaires. Sous l’action des variations de tempéra
 bâtiments de longueur importante en tronçons de dimensions plus faibles réunis par des joints ; les effets des séismes. L’activité sismique est représentée par un mouvement vibratoire du sol caractérisé par de fortes amplitudes, une durée variable très courte et le caractère aléatoire de la direction de la propagation, de la profondeur et de la direction du foyer. L’Eurocode 8, relatif au calcul des structures pour leur résistance aux séismes, a été transposé en France et a fait l’objet du décret n° 2010-1254 du 22 octobre 2010 et du décret n° 2010-1255 du 22 octobre 2010, respectivement relatifs à la prévention du risque sismique et au zonage sismique, applicable depuis le 1[er] mai 2011. Une carte de France définit le zonage sismique ( **fg. [5.1](35_5.1_considérations_générales_sur_les_structures.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0267-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0267-01.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0269-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0269-00.png]]
 
 
 _**Fig. 5.1. Carte des zones sismiques françaises (source : article D. 563-8-1 du Code de l’environnement)**_ 

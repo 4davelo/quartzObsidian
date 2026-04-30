@@ -469,29 +469,29 @@ Voici les plans d'un abri extérieur :
 
 **Vue latérale**
 
-![Side view of an outdoor shelter structure.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/0cd14ba6b63b8fee68c9add3216e9269_12_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/0cd14ba6b63b8fee68c9add3216e9269_12_img.webp]]
  A line drawing showing the side profile of an outdoor shelter. It features a long, low rectangular base with four vertical support posts. A horizontal beam connects the posts near the top, and a pitched roof structure is supported by these beams. The roof is covered with vertical lines representing shingles or metal siding.
 
 **Vue de face**
 
-![Front view of an outdoor shelter structure.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/0cd14ba6b63b8fee68c9add3216e9269_14_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/0cd14ba6b63b8fee68c9add3216e9269_14_img.webp]]
  A line drawing showing the front view of the same outdoor shelter. It has a triangular gabled roof with a central ridge. Two vertical support posts are visible, with a horizontal beam connecting them. The base is a simple rectangular platform.
 
 Vue en plan
 
-![Plan view of a rectangular building footprint with dimensions and elevation markers.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/c1d0d52c2f57fe8269f2eca923ee018f_2_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/c1d0d52c2f57fe8269f2eca923ee018f_2_img.webp]]
 
 The plan view shows a rectangular footprint with a width of 5,000 and a depth of 9,000. The footprint is divided into three vertical sections of 2,900, 2,950, and 2,900. A central vertical dashed line represents the axis for section AA. A horizontal dashed line represents the axis for section BB. Elevation markers are shown: -0,500 on the left side, ±0,000 in the center, and +2,400 on the right side. Section lines AA and BB are indicated with arrows.
 
 Coupe AA
 
-![Cross-section AA showing the roof structure and foundation levels.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/c1d0d52c2f57fe8269f2eca923ee018f_4_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/c1d0d52c2f57fe8269f2eca923ee018f_4_img.webp]]
 
 Coupe AA shows a cross-section of the building. The roof is supported by four vertical columns. The roof structure is labeled with an elevation of +2,400 sur poteau. The distance between the roof and the ground level is 600. The ground level is labeled as -0,338 sur pilotis.
 
 Coupe BB
 
-![Cross-section BB showing the roof slope and foundation levels.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/c1d0d52c2f57fe8269f2eca923ee018f_6_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/c1d0d52c2f57fe8269f2eca923ee018f_6_img.webp]]
 
 Coupe BB shows a cross-section of the building with a gabled roof. The roof slope is indicated as 40%. The roof peak is at an elevation of +4,040. The roof structure is labeled with an elevation of +0,000. The ground level is labeled as -0,500. The foundation level is labeled as -1,350.
 

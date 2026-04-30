@@ -45,7 +45,7 @@ leur facilité de mise en œuvre (structure porteuse de panne à panne).
 
 Leurs dimensions habituelles sont les suivantes (en cm) : 60 × 270 ; 60 × 303 ; 60 × 410 ; 120 × 270 ; 120 × 303.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1063-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1063-00.png]]
 
 
 _**Fig. 24.2. Panneaux-sandwiches supports de couverture en petits éléments (source : Guide Veritas)**_ 

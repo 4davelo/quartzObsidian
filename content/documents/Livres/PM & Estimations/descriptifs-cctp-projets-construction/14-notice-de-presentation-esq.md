@@ -280,12 +280,12 @@ Sans objet.
 
 ### **Vue en perspective de la tranche 2 : bâtiment des garages**
 
-![Perspective view of a long, rectangular building with a gabled roof and six garage doors on the front facade.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/a26fee8ade1544e1a150c1d0f59b2a61_3_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/a26fee8ade1544e1a150c1d0f59b2a61_3_img.webp]]
  A perspective drawing of a long, rectangular building with a gabled roof. The front facade features six garage doors, each with horizontal lines representing windows or panels. The building is shown from an elevated angle, looking down its length.
 
 ### **Vue en plan des garages :**
 
-![Plan view diagram showing six adjacent garage units labeled Garage 1 through Garage 6.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/a26fee8ade1544e1a150c1d0f59b2a61_5_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/a26fee8ade1544e1a150c1d0f59b2a61_5_img.webp]]
  A plan view diagram of the garage building. It shows six rectangular units arranged side-by-side. Each unit is labeled 'Garage 1' through 'Garage 6' from left to right. The units are separated by vertical lines representing walls, and the entire structure is enclosed by a hatched border.
 
 ### *Questions*

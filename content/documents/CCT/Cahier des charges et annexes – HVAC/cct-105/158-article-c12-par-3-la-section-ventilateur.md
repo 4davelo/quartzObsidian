@@ -29,7 +29,7 @@ familles_sources:
   - contrat
 ---
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0391-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0391-01.png]]
 
 
 **LA SECTION VENTILATEUR** 

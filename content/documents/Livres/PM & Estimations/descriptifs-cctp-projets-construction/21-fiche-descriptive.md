@@ -150,13 +150,13 @@ Questions
 
 1. Rédiger la fiche descriptive d'une semelle filante de fondation en béton armé, coulée en pleine fouille sur un béton de propreté.
 
-![Technical drawing of a reinforced concrete pile cap (semelle filante) in cross-section. The pile cap is rectangular with a width of 80 units. It is supported by a concrete foundation (béton de propreté) with a depth of 0,95 units. The pile is shown passing through the top of the cap. The pile cap is 30 units high above the foundation level, and the foundation is 5 units thick. The top of the foundation is at a level of -0,50 units relative to the ground level.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/6d301c242504d186abe9b54aad2b2a54_6_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/6d301c242504d186abe9b54aad2b2a54_6_img.webp]]
 
 1. Rédiger la fiche descriptive d'une panne en bois résineux située en comble et qui ne sera donc pas vue. Elle repose, d'un côté, sur un mur par l'intermédiaire d'un sabot et, de l'autre côté, sur l'arbalétrier d'une ferme. Pour un meilleur comportement mécanique, la panne sera posée droite. Cela nécessite un délardement pour la pose des chevrons.
 
 Complément d'information sur le délardement :
 
-![Diagram illustrating the 'délardement' (offset) of a roof rafter (chevron) relative to a roof purlin (panne). The chevron is shown at an angle, resting on a purlin. A small wooden block (échantignole) is placed between the chevron and the purlin. The arbalétrier (rafters) is also shown. A circular inset shows a close-up of the chevron's end, which is offset from the purlin's edge, labeled as 'délardement'.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/6d301c242504d186abe9b54aad2b2a54_9_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/6d301c242504d186abe9b54aad2b2a54_9_img.webp]]
 
 Modèle de fiche à compléter pour les deux exercices :
 

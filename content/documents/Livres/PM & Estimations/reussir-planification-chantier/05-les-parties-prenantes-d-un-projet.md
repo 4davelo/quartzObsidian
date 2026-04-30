@@ -32,13 +32,13 @@ familles_sources: [ouvrage, gestion-projet]
 
 Les parties prenantes sont toutes les personnes qui interviennent dans l’étude et l’exécution d’un projet. Selon leurs missions, les intervenants se divisent en trois catégories : le maître d’ouvrage, les professionnels du domaine de la construction (maître d’œuvre, bureau d’études techniques, bureau de contrôle), et les entreprises. Ils ont tous des responsabilités communes de coordination, de gestion et d’association du chantier ( **fg. [1.1](03_1.1_introduction.md)** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0009-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0009-00.png]]
 
 _**Figure [1.1](03_1.1_introduction.md) Principaux intervenants dans l’acte de construction**_ 
 
 Ces intervenants ont des responsabilités mutuelles dans leurs actions. Le maître d’ouvrage doit signer des contrats ou des marchés avec les professionnels et les entreprises avant le démarrage du chantier. D’autres liaisons existent entre les différents intervenants ( **fg. [1.2](04_1.2_définition_dun_projet.md)** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0010-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0010-00.png]]
 
 _**Figure [1.2](04_1.2_définition_dun_projet.md) Relation entre les principaux intervenants dans l’acte de construction**_ 
 

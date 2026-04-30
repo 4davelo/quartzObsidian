@@ -101,12 +101,12 @@ Les conduits sont raccordés entre eux par des accessoires appropriés au type d
 
 Les conducteurs sont des conducteurs isolés, tels que ceux de la série H-07V-U, R ou K (rigides ou souples). La section totale d’occupation des conducteurs ne doit pas être supérieure au tiers de la section intérieure du conduit.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1864-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1864-00.png]]
 
 
 _**Fig. 49.9. Manchon, té et coude de conduit électrique**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1865-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1865-00.png]]
 
 
 _**Fig. 49.10. Colliers de fixation aux parois pour câbles et conduits**_
@@ -119,7 +119,7 @@ Les conducteurs isolés ne sont admis que si les goulottes sont à parois pleine
 
 Lorsque les goulottes sont posées en plinthe, le conducteur le plus bas doit se trouver au moins à 15 mm du sol fini. En l’absence de plinthes, la partie inférieure des goulottes doit être à au moins 100 mm au-dessus du sol fini.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1868-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1868-01.png]]
 
 
 Les socles des goulottes sont fixés par agrafage, clouage ou collage. 
@@ -181,7 +181,7 @@ Les saignées verticales ne peuvent être effectuées que sur une hauteur de :
 
 Cette hauteur peut toutefois atteindre le tiers de la hauteur de la cloison, si celle-ci ne présente qu’un seul encastrement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1873-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1873-00.png]]
 
 
 _**Fig. 49.12. Conditions de réalisation des saignées horizontales et verticales**_ 

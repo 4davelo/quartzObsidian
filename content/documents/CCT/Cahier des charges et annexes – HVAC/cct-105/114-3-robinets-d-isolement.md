@@ -41,7 +41,7 @@ Toutefois, dans les canalisations véhiculant des liquides, l'utilisation de rob
 
 > ~~[2](113_2._matières.md) Toutefois, pour les offres et soumissions déposées avant le 1992.01.01, un essai sur un seul robinet de la gamme suffit.~~
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0257-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0257-01.png]]
 
 **Légende** 
 
@@ -66,7 +66,7 @@ Le coefficient de perte de pression des robinets d'isolement pour eau et vapeur 
 Le coefficient de perte de pression est le rapport de la perte de pression dans le robinet à la pression dynamique à l'entrée du robinet. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0258-12.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0258-12.png]]
 
 
 où 
@@ -91,7 +91,7 @@ Note : La section d'entrée où se mesurent p1 et v1 est la section du tuyau au 
 
 A la pression de 100 mbar, la perte de pression ne peut dépasser 1 mbar pour le débit d'air mentionné au tableau C7.-1a. ci-après.
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0259-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0259-01.png]]
 
 
 **Modalités d'essai** 
@@ -203,9 +203,9 @@ N.B. :Certaines précautions de sécurité sont à prendre lors des essais à l'
 A l'issue de ces essais, le robinet ne peut présenter aucune déformation permanente et son fonctionnement doit rester satisfaisant dans les conditions normales d'utilisation. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0261-04.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0261-04.png]]
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0262-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0262-01.png]]
 
 
 N.B. : 
@@ -263,13 +263,13 @@ Indépendamment du mode d'assemblage (vissé, à brides ou soudé) nécessaire p
 Le robinet reste étanche et manœuvrable. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0263-08.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0263-08.png]]
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0263-09.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0263-09.png]]
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0264-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0264-01.png]]
 
 
 ~~N.B. :Pour les offres et soumissions déposées avant le 1992.01.01, les essais décrits au présent paragraphe 3.5.2. ne sont pas exigés.~~ 
@@ -287,7 +287,7 @@ On ouvre ensuite complètement le robinet, puis on le ferme.
 Lors de ces deux opérations, le couple mesuré à l'accouplement de l'arbre de manœuvre à l'organe de commande ne peut à aucun moment dépasser la valeur maximale indiquée dans le tableau C7.-5.. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0264-09.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0264-09.png]]
 
 **N.B. :** 
 
@@ -385,11 +385,11 @@ Choix suivant le mode de raccordement
 
 - par brides, par filetage ou par raccord mécanique à compression : acier, fonte et alliage de cuivre
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0267-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0267-01.png]]
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0267-02.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0267-02.png]]
 
 
 **b. Joints d'étanchéité en PTFE** 
@@ -485,7 +485,7 @@ Pour l'étanchéité interne, les exécutions suivantes sont admises.
 **a. selon fig. C7.-4.** 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0269-15.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0269-15.png]]
 
 
 Ce principe d'étanchéité est admis moyennant les deux conditions suivantes : 
@@ -497,7 +497,7 @@ Ce principe d'étanchéité est admis moyennant les deux conditions suivantes :
 **b. selon fig. C7.-5.** 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0270-02.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0270-02.png]]
 
 
 Ce principe d'étanchéité est admis en cas de contact métal-métal. Au moins une des deux surfaces d'étanchéité est en acier inoxydable austénitique au molybdène, en alliage de cuivre ou en fonte. 
@@ -505,7 +505,7 @@ Ce principe d'étanchéité est admis en cas de contact métal-métal. Au moins 
 **c. selon fig. C7.-6.** 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0270-05.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0270-05.png]]
 
 
 Ce principe d'étanchéité est admis moyennant les deux conditions suivantes : 
@@ -517,7 +517,7 @@ Ce principe d'étanchéité est admis moyennant les deux conditions suivantes :
 - d. selon fig. C7.-7. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0270-10.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0270-10.png]]
 
 
 Ce principe d'étanchéité est admis moyennant les deux conditions suivantes : 

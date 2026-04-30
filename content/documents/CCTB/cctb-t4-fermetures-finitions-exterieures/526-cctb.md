@@ -49,16 +49,16 @@ Place Joséphine Charlotte 2, 5100 Namur
 `17-03-2026` **N° de dépôt légal** `: D/2026/11802/40` **ISBN :** `978-2-8056-0869-8` 
 
 
-![](images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0688-07.png)
+![[documents/CCTB/cctb-t4-fermetures-finitions-exterieures/images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0688-07.png]]
 
 
 
-![](images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0688-08.png)
+![[documents/CCTB/cctb-t4-fermetures-finitions-exterieures/images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0688-08.png]]
 
 
 
-![](images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0688-09.png)
+![[documents/CCTB/cctb-t4-fermetures-finitions-exterieures/images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0688-09.png]]
 
 
 
-![](images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0688-10.png)
+![[documents/CCTB/cctb-t4-fermetures-finitions-exterieures/images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0688-10.png]]

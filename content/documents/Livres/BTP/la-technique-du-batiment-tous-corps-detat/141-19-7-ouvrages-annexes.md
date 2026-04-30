@@ -82,17 +82,17 @@ L’élément porteur devant être librement dilatable par rapport aux maçonner
 rassemblés en souches ( **fg. 19.11** ) ; un couronnement ou « chaperon » supporte les poteries (« mitre » ou « mitron »), ou les aspirateurs statiques ( **fg. 19.12** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0907-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0907-01.png]]
 
 
 _**Fig. 19.10. Boisseau pour conduit de fumée**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0908-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0908-00.png]]
 
 
 _**Fig. 19.11. Souche de conduit de fumée en toiture**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0909-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0909-00.png]]
 
 
 _**Fig. 19.12. Type de couronnement de conduits de fumée**_ 
@@ -104,12 +104,12 @@ Le système d’écoulement des eaux est fonction de la nature de la protection 
 évacuation par garde-grève ( **fg. 19.13** ) ; protection uniforme : évacuation par grilles ( **fg. 19.14** ) ou crapaudines. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0910-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0910-01.png]]
 
 
 _**Fig. 19.13. Dispositif d’écoulement des eaux pour terrasse avec terre végétale ou gravillons**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0911-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0911-00.png]]
 
 
 _**Fig. 19.14. Grille de protection contre les chutes d’eaux pluviales**_ 
@@ -118,7 +118,7 @@ _**Fig. 19.14. Grille de protection contre les chutes d’eaux pluviales**_
 
 Les dallettes sur plots béton sont en général en béton vibré de 4 à 5 cm d’épaisseur, le plus souvent non armées ( **fg. 19.15** ). Elles sont suffisamment espacées entre elles pour permettre le passage des eaux pluviales et d’entretien. L’eau recueillie au niveau de l’étanchéité est évacuée, évitant ainsi toute stagnation d’eau à la surface du dallage.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0912-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0912-00.png]]
 
 
 _**Fig. 19.15. Dallettes de protection pour terrasses circulables**_ 
@@ -127,12 +127,12 @@ _**Fig. 19.15. Dallettes de protection pour terrasses circulables**_
 
 Les plots réglables en matière plastique sont disposés directement soit sur l’étanchéité, soit sur une protection dure. Ce système est souvent utilisé dans le cas de terrasses directement accessibles par les portes-fenêtres de pièces d’habitation : il permet de limiter la dénivelée, et de disposer de surfaces de circulation extérieures horizontales, avec écoulement rapide de l’eau de pluie ( **fg. 19.16** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0913-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0913-00.png]]
 
 
 _**Fig. 19.16. Mise en place de dallettes de protection sur plots réglables en matière plastique**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0914-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0914-00.png]]
 
 
 _**Fig. 19.17. Joints plats pour terrasses et toitures circulables**_ 
@@ -163,7 +163,7 @@ Ces matériels peuvent être certifiés conformes à la réglementation (label A
 
 Le bon fonctionnement des mécanismes est garanti pendant 2 ans. Les exutoires nécessitent une inspection annuelle avec essai et un remplacement tous les 5 ans du fusible thermique.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0916-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0916-00.png]]
 
 
 _**Fig. 19.18. Exutoires de fumée pour désenfumage des cages d’escalier**_ 

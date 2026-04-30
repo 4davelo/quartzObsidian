@@ -96,4 +96,4 @@ _**Tableau 4.24 Tableau des résultats de production de l’application 4-6**_
 |_Courbe de fabrication_<br>_Délai de durcissement avant la pose (j)_<br>_Cadence de fabrication (u/j)_<br>_Durée de fabrication (j)_<br>_Date de fn de fabrication (soir)_<br>_Date de début de fabrication (matin)_|_5_<br>_2_<br>_75_<br>_J + 114_<br>_J + 40_|
 |_Courbe de stocks_<br>_Délai de durcissement (j)_<br>_Date de début de stock_<br>_Nombre d’éléments en stock en début de pose_<br>_S1 (u)_<br>_Nombre d’éléments en stock en début de pose_<br>_S2 (u)_<br>_Nombre d’éléments en stock en début de pose_<br>_S3 (u)_|_1_<br>_J + 41_<br>_100_<br>_28_<br>_25_|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0191-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0191-00.png]]

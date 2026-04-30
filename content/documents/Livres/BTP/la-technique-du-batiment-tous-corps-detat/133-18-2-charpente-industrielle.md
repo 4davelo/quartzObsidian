@@ -44,7 +44,7 @@ Les fermettes, charpentes en bois assemblées en usine par connecteurs métalliq
 
    - éléments d’assemblage symétrique de type connecteurs métalliques ou goussets en contreplaqué sur chaque face de la ferme ; éléments d’ancrage et de fixations dans les murs ; éléments transversaux (lisses et entretoises) destinés à maintenir l’écartement entre les fermes ; éléments de stabilisation (pièces de bois, feuillards en acier, poutres panneaux supports de couverture) qui forment le dispositif d’antiflambement et le système de contreventement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0841-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0841-00.png]]
 
 
 **Fig. 18.1. Ensemble d’éléments préfabriqués** 
@@ -67,7 +67,7 @@ L’industriel fabrique, marque et livre sur chantier les différents éléments
 
 L’entreprise procède à la pose après réception du gros œuvre et vérification que toutes les pièces de charpente lui ont été livrées ; aucune opération (interruption et renforcement de pièce) ne doit être improvisée sur le chantier.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0847-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0847-00.png]]
 
 
 _**Fig. 18.3. Exemple de plan de pose simple**_ 
@@ -80,7 +80,7 @@ Le dispositif d’antiflambement évite la déformation des pièces de faible é
 
 Dans un dispositif d’antiflambement continu des arbalétriers ( **fg. 18.4** ) : les pièces d’antiflambement sont clouées sous les arbalétriers selon un angle proche de 45° ; elles partent du faîtage pour aboutir le plus près possible des appuis de ferme ; sur un versant, toute travée entre fermes doit être traversée par au moins une pièce d’antiflambement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0848-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0848-00.png]]
 
 
 _**Fig. 18.4. Dispositif antiflambement continu des arbalétriers**_ 
@@ -95,12 +95,12 @@ Les diagonales de contreventement sont clouées à plat sur la rive des pièces 
 
 Lorsque les diagonales de contreventement, les lisses filantes et les pièces d’antiflambement doivent être fixées au même endroit, la priorité doit être donnée au dispositif d’antiflambement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0852-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0852-00.png]]
 
 
 _**Fig. 18.5. Dispositifs efficaces antiflambement de diagonales comprimées**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0855-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0855-01.png]]
 
 
 **18.2.4 Points sensibles liés aux ancrages et assemblages** 
@@ -111,19 +111,19 @@ Il ne faut surtout pas utiliser des éléments de structure comme appuis s’ils
 
 Lorsqu’une ferme est disposée contre un pignon, elle doit absolument y être ancrée ( **fg. 18.8** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0857-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0857-00.png]]
 
 **Fig. 18.7. Situation des appuis** 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0858-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0858-01.png]]
 
 
 _**Fig. 18.8. Ancrage de ferme au pignon**_ 
 
 Toute pièce d’antiflambement ou de contreventement doit être fixée par deux pointes crantées au moins aux éléments de la ferme qu’elle croise (diagonales, arbalétrier) ( **fg. 18.9** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0859-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0859-00.png]]
 
 
 _**Fig. 18.9. Fixation des pièces d’antiflambement ou de contreventement**_ 
@@ -136,7 +136,7 @@ Les fermes dissymétriques (dites « boîteuses »), qui prennent appui à deux 
 
 La réalisation de trémies pour un châssis de toit, une cheminée ou le passage d’un escalier nécessite l’utilisation de chevêtres. Lorsque ces chevêtres reçoivent des charges importantes (par exemple, si des fermes tronquées y prennent appui), il faut prendre en compte ces charges lors de la conception et renforcer les fermes voisines ( **fg. 18.11** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0863-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0863-00.png]]
 
 La certification, dans le cadre de la marque CTB Structures, garantit la conformité du produit – depuis la conception jusqu’à la fabrication – aux spécifications d’un règlement technique au moyen d’un contrôle permanent de l’organisme certificateur Centre technique du bois et de l’ameublement (CTBA). 
 

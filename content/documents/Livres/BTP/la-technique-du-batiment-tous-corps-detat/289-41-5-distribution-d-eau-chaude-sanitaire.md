@@ -56,7 +56,7 @@ Le choix du diamètre d’une canalisation de longueur donnée est fait en fonct
 
 La **fgure [41.5](289_41.5_distribution_deau_chaude_sanitaire.md)** donne les différentes valeurs de _EEu_ (équivalence en eau en l/m) pour les tubes en cuivre et plastique ayant un diamètre de 12, 16 ou 20 mm.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1674-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1674-00.png]]
 
 
 _**Fig. 41.5. Valeurs de l’équivalence en eau (EEu) pour des tubes en cuivre ou en plastique de différents diamètres**_ 
@@ -146,7 +146,7 @@ La distribution hydrocâblée est sûrement le mode de distribution le plus rati
 Dans le cas d’un circuit trop long qui nécessite un recyclage, la mise en place d’un circulateur ECS piloté par un aquastat réglé à 35 °C permet de réduire la consommation d’énergie tout en assurant le confort attendu ( **fg. 41.6** ). Le réseau d’ECS avec son recyclage doit cependant être isolé ( _k_ < 0,3 W/m.°C) ou, mieux encore, le tube de recyclage peut être en contact avec le tube ECS et enrobé dans le même isolant. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1678-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1678-01.png]]
 
 
 _**Fig. 41.6. Production d’ECS en système hydrocâblé**_

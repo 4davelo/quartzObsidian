@@ -86,7 +86,7 @@ _**Tableau [4.9](34_4.9_planning_chemin_de_fer_génie_civil.md) Tableau des rang
 |**Rang**||_1_||_2_<br>_3_||_4_||_5_||_6_|
 |**Tâche**||_A et B_||_C, D et E_<br>_F et_|_H_|_G_||_I_||_J_|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0114-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0114-00.png]]
 
 _**Figure 4.20 Matrice d’antériorité de l’application 4-2**_ 
 
@@ -110,7 +110,7 @@ _**Tableau [4.10](35_4.10_application_4-6.md) Tableau de calcul des marges de l�
 
 La durée de projet est de 17 jours. Le chemin critique est formé des tâches A, E, H et J. On remarque aussi que toutes les marges libres sont toujours inférieures ou égales aux marges totales. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0115-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0115-03.png]]
 
 _**Figure 4.21 Réseau PERT avec calcul des dates de l’application 4-2**_ 
 
@@ -124,7 +124,7 @@ La tâche, sous la forme d’un pavé (voir **fg. 4.22** ), peut être représen
 
 DTO : date de Début de tâche au plus tôt FTO : date de Fin de tâche au plus tôt DTA : date de Début de tâche au plus tard FTA : date de Fin de tâche au plus tard
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0117-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0117-00.png]]
 
 _**Figure 4.22 Représentation des tâches selon la méthode de potentiel-tâche**_ 
 
@@ -156,17 +156,17 @@ Les tâches sont dépendantes les unes des autres et leurs liaisons sont défini
 
 _**Tableau [4.11](36_4.11_application_4-7.md) Les contraintes entre les tâches**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0119-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0119-00.png]]
 
 Le décalage « d » entre les tâches peut être positif, négatif ou nul. La **fgure 4.23** présente les quatre types de lien avec décalage entre une tâche Ti de durée (7 jours) et une tâche T(i + 1) de durée
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0122-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0122-01.png]]
 
 **Calcul des dates au plus tôt et au plus tard** 
 
 Pour calculer les différentes dates des tâches du réseau des antécédents, on applique la même méthodologie que dans la méthode PERT. La **fgure 4.24** représente le réseau des antécédents de l’exemple n° 1 du **tableau [4.1](26_4.1_technique_de_potentiel-étape_méthode_pert.md)** avec les calculs des dates et des durées. Les liens entre les tâches sont tous du type Fin-Début sans décalage (on ne note rien sur la flèche). 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0122-04.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0122-04.png]]
 
 _**Figure 4.24 Réseau des antécédents de l’exemple n° 1 avec calcul des durées**_ 
 
@@ -176,7 +176,7 @@ On commence par la tâche initiale ayant comme début zéro, en calculant de la 
 
 au plus tôt de début et de fin de chaque tâche. La tâche finale, qui a la plus longue date de fin au plus tôt, nous fournit la durée d’exécution du projet. La tâche finale a les mêmes dates de début et de fin au plus tôt et au plus tard. La terminologie utilisée dans les calculs est présentée dans la **fgure 4.25** . 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0123-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0123-01.png]]
 
 _**Figure 4.25 Schématisation des dates au plus tôt**_ 
 
@@ -200,7 +200,7 @@ _Autrement dit : DTOD = max {FTOC, FTOF} = max {23, 27} = 27 jours_
 
 _FTOD = DTOD + Durée(D) = 27 + 6 = 33 jours_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0124-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0124-00.png]]
 
 _**Figure 4.26 Calcul des dates au plus tôt de l’exemple n° 1 par la méthode des antécédents**_ 
 
@@ -212,7 +212,7 @@ _DTOI = max {DTOD + Durée(D), DTOH + Durée(H)}_
 
 → _DTOI = max {27 + 6, 23 + 14} = 37 jours FTOI = DTOI + Durée(I) = 37 + 5 = 42 jours FTOI = FTAI = 42 jours = Durée du projet_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0125-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0125-00.png]]
 
 _**Figure 4.27 Calcul de la durée de projet de l’exemple n° 1 par la méthode des antécédents**_ 
 
@@ -220,7 +220,7 @@ _**Figure 4.27 Calcul de la durée de projet de l’exemple n° 1 par la méthod
 
 On commence les calculs par la tâche finale ayant comme date au plus tard la durée d’exécution du projet, obtenue par le calcul suivant le sens aller. On détermine alors à quelles dates de début au plus tard doivent être exécutées les tâches sans remettre en cause cette date de fin du projet. Ce calcul se fait de la droite vers la gauche, appelé sens retour. Puis on calcule la date de fin au plus tard de chaque tâche (voir **fg. 4.28** ). 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0125-04.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0125-04.png]]
 
 - **DTAi :** elle est calculée à partir de la fin du projet vers l’origine en suivant les liens, en prenant la plus petite valeur quand plusieurs sont obtenues. 
 
@@ -234,7 +234,7 @@ La **fgure 4.29** présente les détails de calcul des dates au plus tard de la 
 
 _DTAE = min {DTAF – Durée(E), DTAG – Durée(E)} = min {13 – 4, 9 – 4} = 5 jours, FTAE = DTAE + Durée(E) = 5 + 4 = 9 jours_ 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0126-05.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0126-05.png]]
 
 _**Figure 4.29 Calcul des dates au plus tard de l’exemple n° 1 par la méthode des antécédents**_ 
 
@@ -252,7 +252,7 @@ Le calcul des marges totales des tâches C et E est comme suit (voir **fg. 4.30*
 
 _MTC = DTAC – DTOC = FTAC – FTOC = 16 – 8 = 31 – 23 = 8 jours, MTE = DTAE – DTOE = FTAE – FTOE = 5 – 5 = 9 – 9 = 0 jour_ 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0127-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0127-03.png]]
 
 _**Figure 4.30 Calcul des marges de l’exemple n° 1 par la méthode des antécédents**_ 
 
@@ -278,7 +278,7 @@ Dans le réseau des antécédents de la **fgure 4.31** , on a fait les calculs d
 
 le chemin critique est formé de cinq tâches : A, E, G, H, et I ; la durée du projet est de 42 jours ; les mêmes valeurs des marges trouvées précédemment indiquées dans le **tableau [4.2](27_4.2_application_4-1.md)** .
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0129-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0129-00.png]]
 
 _**Figure 4.31 Réseau des antécédents avec calcul des dates et des marges de l’exemple n° 1**_ 
 
@@ -294,6 +294,6 @@ Par comparaison au réseau PERT de l’exemple n° 2 étudié auparavant, on tro
 
 37 jours et les valeurs des marges des différentes tâches et le chemin critique sont les mêmes (voir **fg. 4.32** ). 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0130-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0130-01.png]]
 
 _**Figure 4.32 Réseau des antécédents de l’exemple n° 2 avec le calcul des dates et des marges**_

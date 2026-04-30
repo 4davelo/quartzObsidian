@@ -107,7 +107,7 @@ On désigne par « décapage du terrain » l’enlèvement de la couche superfic
 On nomme « terrassements » les travaux qui permettent de modifier le relief d’un terrain ; on procède par déblai (enlèvement des terres) et remblai (apport de terres) ( **fg. 1.9** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0072-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0072-02.png]]
 
 
 _**Fig. 1.9. Réalisation d’une plateforme par déblai et remblai**_ 
@@ -125,7 +125,7 @@ La nature des couches rencontrées et la profondeur de fouille permettent aux te
 La nature des couches rencontrées et l’environnement permettent la réalisation de talus dont la pente est fonction de la cohésion des terrains : plus ils sont meubles, plus la pente doit être faible. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0073-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0073-03.png]]
 
 
 _**Fig. 1.10. Coupe transversale d’une fouille en pleine masse**_ 
@@ -140,7 +140,7 @@ Dans ce cas, il est nécessaire de maintenir les terres par un boisage (panneaux
 
 Ces pentes correspondent approximativement aux pentes du terrain naturel des sols considérés.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0076-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0076-00.png]]
 
 
 _**Fig. 1.11. Talus naturels de différents terrains**_ 
@@ -189,7 +189,7 @@ On notera la variante dite « paroi parisienne » ou « lutécienne », qui est 
 
 La fouille en trous est exécutée pour la réalisation de massifs de fondation ponctuels, notamment pour les semelles isolées sous poteaux ( **fg. 1.12** .a).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0081-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0081-01.png]]
 
 
 **1.4.3.2 Fouille en rigoles** 
@@ -245,7 +245,7 @@ La présence d’une nappe à un niveau très élevé par rapport au fond de fou
 On peut être conduit à exécuter le rabattement de la nappe, c’est-àdire l’abaissement provisoire de son niveau par pompage dans une série de pointes filtrantes périphériques ( **fg. 1.14** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0085-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0085-04.png]]
 
 
 _**Fig. 1.14. Principe du rabattement de nappe**_ 
@@ -257,7 +257,7 @@ Le principe consiste à créer une enceinte étanche à l’intérieur de laquel
 mouton Diesel suspendu à un engin de levage mobile (grue sur pneus ou sur chenilles) ( **fg. 1.15** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0086-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0086-01.png]]
 
 
 _**Fig. 1.15. Rideau de palplanches battues**_ 
@@ -271,7 +271,7 @@ L’extrémité enfoncée dans le sol est coupée en biseau, de manière à prov
 L’utilisation de ce type d’enceinte s’est raréfiée avec le développement de la paroi moulée, mais l’étanchéité des joints aux reprises entre panneaux doit être assurée (technique du joint circulaire récupérable, par exemple). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0087-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0087-02.png]]
 
 
 _**Fig. 1.16. Biseau d’extrémité de palplanche en béton**_ 
@@ -285,7 +285,7 @@ les palplanches à inertie (modèle Larssen), travaillant en flexion longitudina
 Les palplanches à inertie, utilisées pour soutenir des terres, sont ancrées par battage dans le sol, à un niveau inférieur à celui des fouilles, et comportent généralement des appuis en élévation. Si ceux-ci ne sont pas tolérés à l’intérieur de la fouille, on réalise des tirants, passifs ou actifs, fixés sur le rideau et ancrés dans le massif de terre qu’il soutient. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0088-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0088-02.png]]
 
 
 _**Fig. 1.17. Palplanches à inertie**_ 
@@ -299,13 +299,13 @@ Les tirants actifs (fils, barres ou câbles de précontrainte) sont placés dans
 Le drainage assure la protection des constructions contre les eaux de ruissellement et d’infiltration grâce à une tranchée. Cette opération s’impose en particulier dans le cas d’un terrain en pente. Elle peut être réalisée en périphérie du bâtiment, en utilisant le talus de fouille en pleine masse : on remblaiera l’excavation ouverte pour le drain avec des cailloux, des gravillons et de la terre végétale ( **fg. 1.18** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0089-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0089-01.png]]
 
 **1.4.5 Fouilles en tranchées** 
 
 Les fouilles en tranchées sont nécessaires à la mise en place, à une profondeur appropriée, de canalisations ou de câbles. Elles peuvent présenter différents profils en travers en fonction de leur largeur et de leur profondeur : la largeur minimale est de 0,65 m pour 1,50 m de profondeur ( **fg. 1.19** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0093-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0093-01.png]]
 
 
 **1.4.6 Boisage (ou blindage)** 
@@ -322,7 +322,7 @@ nombre et emplacement des étrésillons en fonction de la résistance des platea
 
 exécution à l’avancement en fonction du terrain et d’éventuelles circonstances aggravantes ( **fg. 1.20** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0096-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0096-01.png]]
 
 
 **

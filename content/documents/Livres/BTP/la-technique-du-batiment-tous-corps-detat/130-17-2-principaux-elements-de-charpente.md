@@ -43,7 +43,7 @@ ventrières, positionnées en milieu de pan de toit, et faîtières, tout en hau
 
 - •  les chevrons permettent de répartir sur les pannes le poids de la sous-toiture constituée des liteaux ou du voligeage, ou encore de panneaux de particules.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0836-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0836-00.png]]
 
 
 _**Fig. 17.2. Éléments constitutifs d’une charpente traditionnelle**_ 
@@ -51,7 +51,7 @@ _**Fig. 17.2. Éléments constitutifs d’une charpente traditionnelle**_
 Dans certains cas, afin de permettre le passage dans les combles, on réalise une ferme à entrait relevé (ou « faux entrait » ou « entrait retroussé »). Dans cette configuration, une « jambe de force » vient compléter le dispositif pour reporter les charges de l’arbalétrier vers le plancher ( **fg. [17.3](131_17.3_principaux_éléments_de_couverture.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0836-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0836-03.png]]
 
 
 _**Fig. 17.3. Charpente traditionnelle en bois avec jambe de force (source : d’après le blog des ingénieurs d’Anco, [www.anco.pro/blog](http://www.anco.pro/blog))**_

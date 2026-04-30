@@ -118,7 +118,7 @@ Le lignolet nécessite une chanlatte d’au moins 27 ou 34 mm, pour la fixation 
 
 Cet ouvrage ne peut être exécuté qu’en site protégé à l’intérieur du pays et à une altitude inférieure à 300 m lorsque l’ouvrage ne comporte pas de bande de garantie métallique.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0983-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0983-00.png]]
 
 
 _**Fig. 21.13. Faîtage à lignolet et faîtage métallique à trois bandes**_ 
@@ -137,7 +137,7 @@ Les faîtières simples ou à bourrelets sont posées à bain de mortier, à che
 
 En site exposé, les faîtières sont pannetonnées ( **fg. 21.15** ) au moyen d’un fil de fer galvanisé ou de cuivre. Les abouts de faîtières sur pignons sont calfeutrés au mortier. Les mortiers employés sont exclusivement bâtards à base de chaux hydraulique.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0984-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0984-00.png]]
 
 
 _**Fig. 21.14. Faîtage en terre cuite avec embarrure**_ **21.8.2Arêtier** L’arêtier ordinaire ne peut être exécuté que pour des versants de pente au moins égale à 30 % en site protégé. Les conditions d’exécution sont dérivées de celles des rives biaises : •  l’angle de la ligne d’arêtier avec la ligne de niveau d’un quelconque des versants est supérieur à 35° ( **fg. 21.15** .a) ; 
@@ -154,7 +154,7 @@ Il ne peut être exécuté que pour des arêtiers de versants à pente sensiblem
 
 Le support est le même que celui de l’arêtier en ardoise biaise. À chaque rang, une garniture (appelée « noquet » ou « faux-noquet ») pliée suivant la ligne d’arêtier est posée en doublis sous chaque arêtière ( **fg. 21.15** .c).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0987-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0987-00.png]]
 
 
 _**Fig. 21.15. Réalisation des arêtiers en fonction des pentes des versants**_ 
@@ -180,7 +180,7 @@ Le plan inférieur, ou « brisis », se termine par un rang de rencontre. Le dé
 Cet ouvrage est caractéristique de la couverture d’un comble à la Mansart. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0988-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0988-02.png]]
 
 **21.8.3.2 Ligne de bris métallique** 
 
@@ -200,9 +200,9 @@ Le plan inférieur est terminé par un rang de rencontre (rive de tête sans dé
 
 Toutefois, si le plan supérieur est d’allure verticale pour une brisure de moins de 140°, le plan inférieur est terminé comme précédemment, mais une bande métallique est disposée pour recouvrir le rang de rencontre de la valeur d’un recouvrement ; le relief de cette bande est égal au recouvrement de l’ardoise du plan supérieur ( **fg. 21.17** .c).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0990-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0990-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0991-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0991-00.png]]
 
 
 _**Fig. 21.17. Façons de brisures en fonction de la valeur de l’angle rentrant**_ 
@@ -221,12 +221,12 @@ Les rangs sont alternativement de deux, de trois fendis ou plus, suivant le déb
 
 La **fgure 21.19** rassemble différents types de noues et de pieds de
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0992-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0992-01.png]]
 
 
 _**Fig. 21.18. Support de noue en ardoises**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0995-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0995-00.png]]
 
 
 _**Fig. 21.19. Différents types de noues et de pieds de noue**_ 
@@ -285,7 +285,7 @@ Lorsque le versant est incliné à moins de 65°, le renvers est à un tranchis 
 
 Il ne peut être exécuté que sous deux conditions ( **fg. 21.20** ) : le versant est incliné à plus de 65° ; le versant et la paroi verticale ont des rangs consécutifs.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0998-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0998-00.png]]
 
 **21.8.6.3 Renvers fermé** 
 

@@ -55,7 +55,7 @@ Les capteurs solaires plans à circulation de liquide faisant l’objet d’un a
 
 du cahier des prescriptions techniques communes ( _Cahiers du CSTB_ n° 1827), qui concernent : la fabrication des capteurs et leur notice technique ; des prescriptions de sécurité relatives à l’accessibilité pour l’entretien, aux risques d’inflammation du liquide caloporteur et à la protection contre les surpressions ; l’implantation des capteurs à 0,40 m au moins des cheminées et évents et, conformément aux recommandations ou règles générales de mise en œuvre ( _Cahiers du CSTB_ n[os] 1612 à 1614), selon le type de pose et la toiture (voir ci-après) ; la fixation des capteurs indépendants ; des prescriptions de mise en œuvre relatives au circuit hydraulique, à la nécessaire homogénéité de l’installation et à la traversée de la toiture par les canalisations, conformément aux règles générales de mise en œuvre ( _Cahiers du CSTB_ n[os] 1613 et 1614).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1078-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1078-00.png]]
 
 
 _**Fig. 25.2. Procédés photovoltaïques, mis en œuvre en toiture partielle ou complète, sur charpente bois avec chevrons et liteaux, en remplacement de petits éléments de couverture destinés à la réalisation d’installations productrices d’électricité solaire (source : avis technique n° 21/16-57_V6 et avis technique n° 21/20-74_V1)**_ 

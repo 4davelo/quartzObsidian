@@ -44,7 +44,7 @@ d’évaluer l’avancement du projet et de gérer les retards de manière agile
 
 La **fgure 2.6** situe la planification dans le processus de gestion du projet. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0029-06.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0029-06.png]]
 
 _**Figure 2.6 Schéma du processus de planification et de gestion de projet**_
 
@@ -56,7 +56,7 @@ tous les plans d’exécution du projet ; les divers cahiers de clause : cahier 
 
 À chaque phase d’étude et d’exécution, les intervenants du projet sont tenus de préparer divers plannings. Selon le niveau de découpage du projet et les détails à présenter dans la planification (lot, corps d’état ou tâche), on distingue trois types de planning : général, détaillé et d’exécution (voir **fg. 2.7** et **tab. [2.1](08_2.1_management_et_gestion_des_projets.md)** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0031-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0031-00.png]]
 
 _**Figure 2.7 Les différents niveaux de planning**_ 
 
@@ -78,13 +78,13 @@ _**Tableau [2.1](08_2.1_management_et_gestion_des_projets.md) Les caractéristiq
 
 Le planning général ou planning grosse maille (voir **fg. 2.8** ), appelé aussi planning tout corps d’état (TCE), est élaboré par le maître d’œuvre en phase de conception et de planification. Y sont présentées les dates de début et de fin de la réalisation de chaque lot ou corps d’état, la durée de réalisation du projet et la date de livraison de l’ouvrage. L’unité de temps utilisée est généralement le mois. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0032-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0032-03.png]]
 
 **Planning détaillé** 
 
 Dans le planning détaillé (voir **fg. 2.9** ), chaque lot est décomposé en corps d’état et/ou chaque corps d’état est décomposé en tâches ou activités. Il est mis au point par le maître d’œuvre et constitue une pièce contractuelle du marché qui sera utilisée pour le paiement de l’entreprise et le suivi des travaux. Ce planning permet d’assurer la coordination des phases d’étude de projet et de réalisation de l’ouvrage. L’unité de temps utilisée est généralement la semaine ou le jour.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0034-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0034-00.png]]
 
 **Planning d’exécution** 
 
@@ -106,7 +106,7 @@ début du 3[e] jour jusqu’au 24[e] jour.
 
 Le planning de rotation des matériels est réservé aux matériels de coffrage afin d’optimiser leurs utilisations, comme les banches. Pour la rotation des banches, on prépare un planning qui définit l’ordre d’utilisation des banches disponibles suivant l’avancement d’exécution des voiles. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0036-02.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0036-02.png]]
 
 _**Figure 2.10 Planning d’utilisation du matériel**_ 
 

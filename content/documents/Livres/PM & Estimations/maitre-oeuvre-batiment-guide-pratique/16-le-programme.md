@@ -46,7 +46,7 @@ La connaissance des priorités évitera au maître d’œuvre de s’arc-bouter 
 
 Il est essentiel que tout programme précise si les surfaces totales demandées comprennent ou non les locaux techniques ; de même pour les circulations. Afin d’évaluer les surfaces à réserver pour les locaux techniques et circulations, les programmistes utilisent un ratio : 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0415-06.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0415-06.png]]
 
 par exemple + 10 % pour les locaux techniques et + 15 % pour les circulations. 
 

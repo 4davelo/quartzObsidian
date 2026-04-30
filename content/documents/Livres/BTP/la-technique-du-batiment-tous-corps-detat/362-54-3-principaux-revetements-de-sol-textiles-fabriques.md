@@ -51,13 +51,13 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 Sous le terme général de tapis tissés, on trouve des types différents quant à leur fabrication et aux machines qui les produisent. Les moquettes tissées à verges ( **fg. 54.7** ) et les moquettes « Axminster » ( **fg. 54.8** ) constituent une part importante des moquettes tissées. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2010-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2010-01.png]]
 
 
 _**Fig. 54.7. Moquette tissée à verges**_ 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2010-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2010-03.png]]
 
 
 _**Fig. 54.8. Moquette « Axminster » à bobines (coupe dans le sens de la chaîne)**_ 
@@ -77,12 +77,12 @@ La vitesse de production des tapis touffetés est vingt à quarante fois supéri
 Le touffeté a pu se développer grâce à l’apparition des fibres synthétiques, les tractions exercées sur les fils pouvant être, sans risque, bien plus élevées que dans le cas des fibres naturelles. Le tapis touffeté se présente soit sous forme de tapis bouclé ( **fg. 54.9** ), soit sous forme de tapis coupé ( **fg. 54.10** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2011-05.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2011-05.png]]
 
 
 _**Fig. 54.9. Tapis touffeté-bouclé**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2012-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2012-00.png]]
 
 
 _**Fig. 54.10. Tapis touffeté-coupé**_ 
@@ -106,7 +106,7 @@ essentielle du complexe puisqu’elle détermine la stabilité dimensionnelle. A
 Dans les tapis aiguilletés, la cohésion de la nappe fibreuse est due à l’enchevêtrement des fibres par aiguilletage ( **fg. 54.11** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2013-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2013-03.png]]
 
 
 _**Fig. 54.11. Principe de l’aiguilletage d’une nappe de fibres**_ 
@@ -120,7 +120,7 @@ la nappe et produit une étoffe ressemblant à un feutre. La partie supérieure 
 Dans les tapis aiguilletés plats, pour éviter l’arrachage des fibres de la surface, on utilise deux procédés, le premier étant une enduction plein bain à l’aide de liants appropriés (ancienne composition), le second une enduction d’envers (nouvelle composition). On ajoute souvent une sous-couche en mousse de latex ou de PVC pour améliorer le confort de marche ( **fg. 54.12** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2014-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2014-03.png]]
 
 
 _**Fig. 54.12. Tapis aiguilleté plat**_

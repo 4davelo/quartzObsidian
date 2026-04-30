@@ -82,7 +82,7 @@ Cette solution est adaptée surtout à des logements équipés de plusieurs sall
 L’[[Eau Chaude Sanitaire]] circule entre la chaudière et le ballon de stockage à une température comprise entre 55 °C et 60 °C. La distance entre chaudière et ballon peut atteindre 8 m si l’installation est bien protégée des déperditions calorifiques. Les ballons ont une contenance de 100 ou 150 l ; à titre d’exemple, le ballon de 100 l, d’un débit de 24 l/min, permet de puiser 240 l d’eau à 45 °C minimum (eau froide prise à 15 °C) ( **fg. [41.3](287_41.3_production_deau_chaude_sanitaire_par_appareils_à_gaz.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1669-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1669-03.png]]
 
 
 _**Fig. 41.3. Production d’[[Eau Chaude Sanitaire]] et d’eau de chauffage avec stockage (source : ELM Leblanc)**_ 

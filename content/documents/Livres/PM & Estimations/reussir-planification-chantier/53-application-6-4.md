@@ -38,7 +38,7 @@ Vous venez de réaliser le planning chemin de fer d’une opération de 20 logem
 
 2. Créer le graphique des effectifs cumulés par semaine tout au long de l’opération.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0253-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0253-00.png]]
 
 _**Figure 6.32 Données d’entrée de l’application 6-4**_ 
 
@@ -46,14 +46,14 @@ _**Figure 6.32 Données d’entrée de l’application 6-4**_
 
 1. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0253-04.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0253-04.png]]
 
 _**Figure 6.33 Correction du planning chemin de fer de l’application 6-4**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0254-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0254-00.png]]
 
 _**Figure 6.34 Correction du tableau des effectifs de l’application 6-4**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0255-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0255-00.png]]
 
 _**Figure 6.35 Correction de la courbe des effectifs de l’application 6-4**_

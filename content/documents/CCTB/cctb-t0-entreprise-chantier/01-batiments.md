@@ -32,13 +32,13 @@ familles_sources:
   - cctb
 ---
 
-![](documents/CCTB/cctb-t0-entreprise-chantier/images/T0_Entreprise___Chantier_CCTB_01.13_20260317.pdf-0001-00.png)
+![[documents/CCTB/cctb-t0-entreprise-chantier/images/T0_Entreprise___Chantier_CCTB_01.13_20260317.pdf-0001-00.png]]
 
 
 **`C`** `AHIER DES` **`C`** `HARGES` **`T`** `YPE` **BÂTIMENTS** _**`Édition 01.13 du 17-03-2026`**_ 
 
 
-![](documents/CCTB/cctb-t0-entreprise-chantier/images/T0_Entreprise___Chantier_CCTB_01.13_20260317.pdf-0001-02.png)
+![[documents/CCTB/cctb-t0-entreprise-chantier/images/T0_Entreprise___Chantier_CCTB_01.13_20260317.pdf-0001-02.png]]
 
 
 ```
@@ -48,4 +48,4 @@ Entreprise / Chantier
 ```
 
 
-![](documents/CCTB/cctb-t0-entreprise-chantier/images/T0_Entreprise___Chantier_CCTB_01.13_20260317.pdf-0001-04.png)
+![[documents/CCTB/cctb-t0-entreprise-chantier/images/T0_Entreprise___Chantier_CCTB_01.13_20260317.pdf-0001-04.png]]

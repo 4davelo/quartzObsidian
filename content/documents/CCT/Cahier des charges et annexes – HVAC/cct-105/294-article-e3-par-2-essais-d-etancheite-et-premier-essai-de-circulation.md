@@ -92,7 +92,7 @@ La procédure de cet essai se base sur la méthode B du § 10.2.3 de la norme CE
 - (8) La perte de pression ΔP2 entre ces deux dernières mesures ne peut être supérieure à 0,2 bar. Si la perte de pression est supérieure à 0,2 bar, il faut identifier la cause de la non-étanchéité de l'installation et y remédier. Il faut ensuite recommencer toute la procédure jusqu’à ce que l’installation se révèle parfaitement étanche. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0770-11.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0770-11.png]]
 
 
 Fig. E3.1-1 Essai d’étanchéité pour tuyauteries en matière synthétique _(fig. 13 de CEN/TR 12108)_ 

@@ -88,7 +88,7 @@ ils supportent une charge jusqu’à 630 kg ou 1 000 kg, avec une vitesse de 1,6
 
 Il est recommandé de prévoir un second appareil au-delà de R+9.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0826-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0826-00.png]]
 
 
 _**Fig. 16.3. Sélection d’ascenseurs pour passagers dans des immeubles d’habitation (source : norme NF ISO 8100-32)**_ 
@@ -97,7 +97,7 @@ NF ISO 8100-32 (octobre 2020 – indice de classement : P 82-208-32) : Ascenseur
 
 Les bureaux ont généralement des pas d’étage (hauteur entre deux points homogènes) plus importants qu’en habitation, à savoir 3,30 à 3,60 m pour les opérations récentes, ce qui augmente la course en mètres pour un même nombre d’étages ( **fg. [16.4](124_16.4_sécurité.md)** ). De plus, les conditions de trafic présentent des pointes spécifiques, telles que l’arrivée du matin et l’aller-retour à l’heure du déjeuner. Cela conduit à recourir à des appareils de 800 à 1 000 kg en standard avec des vitesses de 1,6 m/s pour des immeubles R+6/R+7.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0829-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0829-00.png]]
 
 
 _**Fig. 16.4. Sélection d’ascenseurs pour passagers dans les immeubles de bureaux (3,3 m de hauteur entre deux étages) (source : norme NF ISO 8100-32)**_ 

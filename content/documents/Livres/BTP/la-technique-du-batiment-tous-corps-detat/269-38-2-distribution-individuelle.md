@@ -174,7 +174,7 @@ Le point délicat de ce mode de pose reste le positionnement des réservations e
 
 Ce terme désigne le monotube dérivé en série ( **fg. 38.4** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1583-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1583-00.png]]
 
 
 _**Fig. 38.4. Principe du système monotube horizontal (émetteurs montés en dérivation)**_ 
@@ -190,7 +190,7 @@ Pour l’hydrobus, le choix du tube en cuivre semble judicieux. C’est d’aill
 L’inégalité des pertes de charge, dont les plus fortes se situent aux extrémités du réseau, implique la mise en place d’organes d’équilibrage : tés, vannes micrométriques. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1584-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1584-02.png]]
 
 
 _**Fig. 38.5. Principe du système bitube**_ 
@@ -199,7 +199,7 @@ _**Fig. 38.5. Principe du système bitube**_
 
 L’hydrocâblé s’apparente à l’installation bitube en reprenant le principe de la pieuvre du [[Chauffage Électrique]], et l’utilisation du collecteur de distribution, avec un seul type de tube (diamètre 12), ce qui facilite grandement la conception et l’équilibrage de l’installation ( **fg. 38.6** ). C’est une solution courante à ce jour.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1585-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1585-00.png]]
 
 
 _**Fig. 38.6. Système de type « pieuvre » ou hydrocâblé**_ 
@@ -211,14 +211,14 @@ chauffage central à eau chaude et pour le sanitaire.
 Contrairement aux distributions traditionnelles dans lesquelles les appareils sont alimentés par dérivations à partir de conduites générales, en hydrocâblé chaque appareil est alimenté unitairement par des canalisations issues d’un distributeur central alimenté par la source ( **fg. 38.7** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1586-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1586-02.png]]
 
 
 _**Fig. 38.7. Principe de distribution hydrocâblée**_ 
 
 Plus de 90 % des installations hydrocâblées sont dissimulées dans les structures et, plus particulièrement, dans les planchers ( **fg. 38.8** ). Les exigences réglementaires et les conditions pratiques amènent à utiliser des gaines pour le cheminement des tubes. Ces gaines assurent le guidage et la protection mécanique des canalisations, et en permettent le remplacement éventuel.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1587-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1587-00.png]]
 
 
 _**Fig. 38.8. Raccordement d’un radiateur et d’un lavabo au collecteur-distributeur, hydrocâblé**_ 
@@ -261,9 +261,9 @@ en phase 1, pose du fourreau débouchant sur des dispositifs en
 
 attente, puis bétonnage, en phase 2, introduction des tubes lorsque les murs et les cloisons sont dressés pour recevoir les appareils et pratiquer leur raccordement. Ce type de pose est systématique pour les planchers coulés en œuvre. Le jeu tube/fourreau est au minimum de 30 % ( **fg. 38.9** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1590-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1590-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1591-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1591-00.png]]
 
 
 _**Fig. 38.9. Accès aux structures horizontales incorporées (source : d’après Cegibat)**_

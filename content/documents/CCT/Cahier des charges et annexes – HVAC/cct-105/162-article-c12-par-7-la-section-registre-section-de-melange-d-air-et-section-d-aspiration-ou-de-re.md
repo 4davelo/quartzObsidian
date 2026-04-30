@@ -110,7 +110,7 @@ Une première caractéristique de fonctionnement est la caractéristique d'ouver
 Celle-ci donne, en fonction de l'angle d'ouverture (a = 0° : registre fermé ; a= 90° : registre complètement ouvert), le rapport du passage net à la section nette du registre. Pour obtenir une bonne régulation, il est conseillé de fixer le rapport entre la largeur de la lamelle "b" (la plus grande dimension d'une section de lamelle) et l'épaisseur de lamelle "d" (dimension prise dans l'axe, perpendiculairement à "b") à : 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0404-14.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0404-14.png]]
 
 
 Les lamelles avec un rapport b/d aussi grand que possible sont préférées. 
@@ -126,7 +126,7 @@ Registre ouvert, c.à.d. a > 80°, celui-ci ne peut dépasser 0,5.
 Ce coefficient est défini comme suit : 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0404-21.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0404-21.png]]
 
 
 ||𝜁=∆𝑝𝑘𝑣<br>𝜌<br>2<br>𝑣𝑣2||
@@ -292,7 +292,7 @@ Dans cette partie sont décrites la section des registres, la section de mélang
 Un angle d’entrée **α** = 25° au minimum et un angle de sortie **β** = 35° au minimum sont à respecter (cfr. NBN EN 13053+A1:2011). 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0408-06.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0408-06.png]]
 
 
 Fig. C12.7 - 1: Angles d'entrée et de sortie. 

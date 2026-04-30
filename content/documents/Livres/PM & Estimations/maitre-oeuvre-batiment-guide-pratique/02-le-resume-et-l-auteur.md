@@ -120,7 +120,7 @@ _«_ Les enjeux environnementaux et la mutation des pratiques de construction ve
 
 Patrick CÉLESTE et Michel POSSOMPÈS _Postface de Patrick Bouchain_ 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0005-07.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0005-07.png]]
 
 Écrit et illustré par deux architectes aguerris à la construction comme à la transformation de maisons individuelles les plus diverses, ce **guide** nous conduit « de la cave au grenier ». Tous les sujets y sont évoqués et toutes les questions y trouvent leur réponse. Il permet aussi de respecter un **budget** raisonnable en proposant un **programme** bien mesuré. Les **obligations réglementaires** sont expliquées en détail, et les **contraintes de toutes sortes** sont examinées à la lumière des textes les plus récents, Enfin, ce livre très illustré contient aussi **l’histoire encore récente des maisons individuelles** , où l’on découvrira comment peuvent surgir les idées et les formes. 
 

@@ -129,7 +129,7 @@ Exercice de synthèse dont l'étude est basée sur ce dessin de détail :
 
 **Détail de la liaison dalle / cloison**
 
-![Technical drawing showing a cross-section of a wall-to-slab connection. The wall is made of a metal frame (ossature métallique) with a plasterboard (plaque de plâtre) and a layer of paint (peinture sur cloison). The slab is made of reinforced concrete (dalle en béton armé) with a layer of paint on its underside (peinture en sous-face de dalle). A wooden sill (plinthe en bois) is attached to the wall, and a PVC floor covering (revêtement de sol PVC) is laid over the slab. A layer of plaster (chape) is applied over the slab surface.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/88e3ec9be15a032b16c36bd75fa8e2e1_10_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/88e3ec9be15a032b16c36bd75fa8e2e1_10_img.webp]]
 
 Peinture sur cloison
 
@@ -993,6 +993,6 @@ Le lot 09 Revêtements de sols et carrelage mural doit également réaliser des 
 
 La préparation des supports concerne, en particulier, les chapes et enduits de sol.
 
-![Blank white page](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp)A completely blank white page with no visible content, text, or markings.
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp]]A completely blank white page with no visible content, text, or markings.
 
 ## CHAPITRE

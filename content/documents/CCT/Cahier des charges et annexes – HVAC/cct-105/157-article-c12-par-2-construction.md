@@ -29,7 +29,7 @@ familles_sources:
   - contrat
 ---
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0383-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0383-01.png]]
 
 
 **CONSTRUCTION** 
@@ -89,7 +89,7 @@ L'ensemble doit satisfaire aux exigences et classification de la NBN EN 1886 : 2
 La classe est déterminée par la plus grande des flexions mesurées sous pression. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0384-07.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0384-07.png]]
 
 
 Fig. C12.2.-[1](112_1._terminologie.md): Rigidité et déformation. 
@@ -245,13 +245,13 @@ caisson du côté des portes d’inspection. Si la largeur de la caisson est inf
 Il est admis que le périmètre libre d'un équipement recouvre le périmètre libre d'un équipement ou caisson adjacent sans toutefois chevaucher la projection horizontale de cet autre équipement ou caisson. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0387-04.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0387-04.png]]
 
 
 Fig. C12.2.- 2 Périmètre libre : cas normal 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0387-06.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0387-06.png]]
 
 
 Fig. C12.2.- 3 Périmètre libre : cas spécial

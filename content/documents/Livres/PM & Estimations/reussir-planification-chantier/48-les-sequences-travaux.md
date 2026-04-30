@@ -32,18 +32,18 @@ Cet atelier de travail en présentiel se déroule généralement dans les locaux
 
 Afin de ne pas se gêner lors des échanges, il est préférable de séparer les différents lots suivant leurs zones d’interventions (voir **fg. 6.15** ). 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0234-02.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0234-02.png]]
 
 _**Figure 6.15 Répartition des entreprises lors de l’atelier collaboratif**_ 
 
 L’outil principal lors de cet atelier est le Post-it[®] , qui permet d’indiquer les éléments suivants (voir **fg. 6.16** ) : nom de l’entreprise (le lot sera donné par la couleur du Postit[®] ) ;
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0235-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0235-01.png]]
 
 _**Figure 6.16 Structuration des informations nécessaires pour la création des séquences**_ 
 
 À la fin de l’atelier, il est nécessaire de prendre des photos de l’ensemble des supports et de récupérer les Post-it[®] à classer par ordre croissant d’intervention et par séquence. À partir de ces informations, la mise en forme sous tableur permettra de créer les premières séquences travaux et de les insérer dans le planning chemin de fer suivant le zoning défini (voir **fg. 6.17** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0236-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0236-00.png]]
 
 _**Figure 6.17 Équation de la création du planning chemin de fer**_

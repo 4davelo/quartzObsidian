@@ -29,7 +29,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 La paille est la tige sèche d’une céréale dépouillée de ses épis ; la paille utilisée dans la construction est faite de tiges de blé. Le chantier est approvisionné en bottes parallélépipédiques ligaturées ( **fg. [10.1](72_10.1_un_matériau_biosourcé.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0581-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0581-04.png]]
 
 _**Tab. 10.1. Dimensions courantes des bottes de paille (source : RFCP, Règles professionnelles de construction en paille – Remplissage isolant et support d’enduit – Règles CP 2012 révisées, Éd. du Moniteur, 2018)**_ 
 
@@ -60,7 +60,7 @@ une gestion attentive des interfaces, notamment au niveau des menuiseries extér
 
 Ces différents points nécessitent une bonne coordination entre les intervenants du chantier et, bien entendu, une maintenance tout au long de la vie de l’ouvrage (joints, enduits, bavettes, protections diverses). Les points singuliers et les limites d’ouvrages doivent faire l’objet d’une attention particulière, comme l’indique l’exemple de la **fgure [10.2](74_10.2_du_matériau_au_composant_de_la_paille_à_la_botte_de_paille.md)** pour le traitement du pied de mur.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0584-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0584-00.png]]
 
 
 _**Fig. 10.2. Liaison entre soubassement et paroi verticale (source : RFCP, Règles professionnelles de construction en paille – Remplissage isolant et support d’enduit – Règles CP 2012 révisées, Éd. du Moniteur, 2018)**_ 

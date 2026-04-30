@@ -121,7 +121,7 @@ Pour réaliser un bâtiment à rez-de-chaussée avec les techniques de poteaux e
 
 Les portiques constituent des structures économiques et efficaces, très utilisées depuis le xix[e] siècle. Ils sont en général hyperstatiques. La rigidité des liaisons entraîne une interdépendance des éléments, donc une économie de matière. Cette rigidité est souvent suffisante pour que le portique résiste aux efforts latéraux dans son plan, sans contreventement complémentaire ( **fg. 7.13** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0497-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0497-00.png]]
 
 
 **Fig. 7.13. Comportement des portiques sous charges (source : Lemoine (Bertrand), Construire avec les aciers, Éd. du Moniteur, 2002, ouvrage épuisé)** 
@@ -140,9 +140,9 @@ Lorsque la surface à couvrir est de dimensions transversale et longitudinale d�
 
 Pour construire des toitures de moyenne et grande portée, il est courant de superposer deux grilles bidimensionnelles, liaisonnées entre elles, dites « tridimensionnelles ». Exposée à des charges, la nappe supérieure est en compression et la nappe inférieure en traction. En raison de leur grande rigidité, ces grilles présentent des flèches faibles. Elles sont couramment réalisées avec des tubes en acier soudés entre eux.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0498-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0498-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0500-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0500-00.png]]
 
 
 _**Fig. 7.14. Portées et hauteurs de structures en acier (source : Lemoine (Bertrand), Construire avec les aciers, Éd. du Moniteur, 2002, ouvrage épuisé)**_ 
@@ -154,7 +154,7 @@ _**Fig. 7.14. Portées et hauteurs de structures en acier (source : Lemoine (Ber
 Les charges descendent directement aux fondations. Les bâtiments sont des blocs prismatiques ( **fg. 7.15** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0501-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0501-01.png]]
 
 
 _**Fig. 7.15. Bâtiment à poteaux superposés**_ 
@@ -163,7 +163,7 @@ _**Fig. 7.15. Bâtiment à poteaux superposés**_
 
 Une partie des poteaux est interrompue, le plus souvent au niveau du rez-de-chaussée. Les charges sont alors reprises par une poutre, parfois en console, qui transmet les charges de la superstructure aux poteaux conservés ( **fg. 7.16** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0502-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0502-00.png]]
 
 
 _**Fig. 7.16. Bâtiment à reprise de poteaux**_ 
@@ -172,7 +172,7 @@ _**Fig. 7.16. Bâtiment à reprise de poteaux**_
 
 La descente des charges se fait uniquement par un noyau auquel la structure est rattachée. Le noyau peut être en béton ou en acier ( **fg. 7.17** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0503-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0503-00.png]]
 
 
 _**Fig. 7.17. Bâtiment à planchers suspendus**_ 
@@ -181,7 +181,7 @@ _**Fig. 7.17. Bâtiment à planchers suspendus**_
 
 Les charges sont transmises sur des points fixes très espacés ( **fg. 7.18** .a : les deux étages du bas sont assemblés pour former une poutre portant l’ensemble des charges ; **fg. 7.18** .b : tout le bâtiment fait poutre).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0504-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0504-00.png]]
 
 
 _**Fig. 7.18. Bâtiments-ponts**_
@@ -196,7 +196,7 @@ Afin de s’adapter aux réalisations de petite taille et d’architecture diver
 
 D’autres procédés, grâce à la conception assistée par ordinateur (CAO), s’adaptent à un plan d’architecte libéré des contraintes de modularité. Parmi ceux-ci, on retiendra à titre d’exemple le procédé Styltech mis au point par le groupe Arcelor, qui présente la particularité d’utiliser des profilés du commerce assemblés par vis autoperceuses ( **fg. 7.19** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0506-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0506-00.png]]
 
 
 _**Fig. 7.19. Profilés Styltech**_ 

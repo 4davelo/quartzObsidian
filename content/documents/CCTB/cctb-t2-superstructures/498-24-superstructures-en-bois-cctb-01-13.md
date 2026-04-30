@@ -144,7 +144,7 @@ Le tableau ci-dessous résume les différentes classes d’emploi et les risques
 l'eau salée 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-0842-02.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-0842-02.png]]
 
 
 |**Elément de construction**|**Classe d'emploi**|
@@ -181,7 +181,7 @@ La durabilité est exprimée suivant différentes échelles en fonction du risqu
 Un tableau reprenant les classes de durabilité naturelle du duramen des différentes essences de bois est disponible dans la norme [NBN EN 350]. Le tableau ci-dessous présente les principales essences locales : 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-0843-02.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-0843-02.png]]
 
 
 *Le chêne peut être considéré en classe de durabilité [2](04_2_t2_superstructures_cctb_01.13.md), sauf s'il est en contact avec le sol. Dans ce cas, la classe de durabilité 4 doit être considérée. 
@@ -254,14 +254,14 @@ Les éléments suivants sont indiqués au tableau ci-dessous, en fonction de la 
 
 Le niveau de qualité acceptable (NQA – AQL en anglais) est, sauf mention contraire au cahier spécial des charges, à 6.5%.
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-0845-01.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-0845-01.png]]
 
 
 Les courbes présentées ci-dessous donnent une approximation de la teneur en humidité d’équilibre d’une pièce de bois massif en fonction des conditions d’ambiance dans lesquelles elle est placée. 
 
 En règle générale, les pièces en bois massif reconstitué par collage ont une teneur en humidité d’équilibre légèrement inférieure à celle du bois massif.
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-0846-01.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-0846-01.png]]
 
 
 **RECYCLAGE/REUTILISATION** 
@@ -313,7 +313,7 @@ Il existe toute une gamme de produits en bois à la disposition du constructeur.
 Le schéma ci-dessous montre les produits à base de bois massif : 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-0847-13.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-0847-13.png]]
 
 
 **BOIS MASSIFS** 
@@ -1020,4 +1020,4 @@ Lorsque dans une section en bois massif les deux dimensions sont supérieures à
 
 Le tableau suivant, provenant du volume 13 du traité de génie civil de l’école polytechnique fédérale de Lausanne, traitant de la construction bois permet d’estimer l’amplitude des variations de la teneur en humidité que les éléments subissent durant leur durée de vie.
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-0860-01.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-0860-01.png]]

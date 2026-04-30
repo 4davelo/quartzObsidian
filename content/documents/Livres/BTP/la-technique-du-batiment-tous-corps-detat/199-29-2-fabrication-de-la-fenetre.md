@@ -44,7 +44,7 @@ Il faut distinguer :
 
 les joints de compression à élasticité permanente, qui assurent l’étanchéité tant sur le plan extérieur qu’intérieur, tels que les joints de battue en terpolymère éthylène-propylène (EPT) ; le joint central, qui sépare la feuillure entre ouvrant et dormant en chambre intérieure et extérieure ; dans cette position, il n’est pas directement soumis aux intempéries.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1227-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1227-00.png]]
 
 
 _**Fig. 29.2. Détail de mise en œuvre en applique avec isolation intérieure (coupe verticale) (source : Saferm)**_ 

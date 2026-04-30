@@ -79,7 +79,7 @@ Les travaux de couverture pour le rampant sont essentiellement répétitifs ; en
 
 La rive de tête droite constitue la fin du travail du couvreur. Elle ne peut être exécutée en ardoises qu’en site protégé à l’intérieur du pays, et à une altitude inférieure à 300 m lorsque l’ouvrage ne comporte pas de bande de garantie métallique ( **fg. [21.5](152_21.5_ardoises_en_fibres-ciment.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0969-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0969-00.png]]
 
 
 _**Fig. 21.5. Rive de tête en lignolet**_ 
@@ -98,7 +98,7 @@ Sous le dernier rang d’ardoises, le support est jointif. Le dernier rang d’a
 
 La rive de tête métallique est constituée d’une ou plusieurs bandes façonnées, du côté extérieur à la couverture, en bande de rive, et du côté de la couverture en ardoises, en bande d’astragale recouvrant le dernier rang d’ardoises de la valeur d’un recouvrement ( **fg. [21.6](153_21.6_fixation_des_ardoises_et_recouvrements_minimaux.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0971-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0971-00.png]]
 
 
 _**Fig. 21.6. Rive de tête métallique**_ 
@@ -117,7 +117,7 @@ Les arêtières sont suivies d’autres ardoises biaises (dites « approche » e
 
 Les arêtières sont posées avec un débordement de 50 mm sur la ligne de rive.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0973-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0973-00.png]]
 
 
 _**Fig. 21.7. Rive en arêtier en ardoises**_
@@ -125,7 +125,7 @@ _**Fig. 21.7. Rive en arêtier en ardoises**_
 Dans ce cas, le support est jointif ( **fg. [21.8](155_21.8_réalisation_des_intersections.md)** ). Un tasseau de 40 mm est posé le long de la rive. Les ardoises d’extrémité de chaque rang sont taillées suivant le biais de la rive, et fixées par deux clous sur le tasseau. Une bande métallique est appliquée en recouvrement sur ces ardoises, avec un relief de 30 mm le long du tasseau sur lequel elle est clouée. Une bande de rive ordinaire et un couvre-joint terminent l’ouvrage. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0974-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0974-01.png]]
 
 
 _**Fig. 21.8. Rive en arêtier métallique**_ 
@@ -138,7 +138,7 @@ La planche de rive doit être protégée par une bande de rive.
 
 Lorsque la rive latérale est saillante, le support est jointif et a la même épaisseur que le lattis, pour permettre le clouage des ardoises.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0975-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0975-00.png]]
 
 
 _**Fig. 21.9. Rive latérale métallique avec tasseaux de bois et noquets métalliques en rangs alternés**_
@@ -185,7 +185,7 @@ l’égout retroussé, exécuté dans le cas de corniches saillantes ( **fg. 21.
 
 L’inclinaison de la ligne de rive avec la ligne de niveau du versant est comprise entre 135 et 179° ; dans ce cas, l’égout nécessite une gouttière pour recueillir l’eau. La réalisation de l’égout biais est différente suivant l’importance de l’angle.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0978-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0978-00.png]]
 
 
 _**Fig. 21.10. Égout droit retroussé avec chevrons prolongés par des coyaux de même section**_ 
@@ -194,7 +194,7 @@ _**Fig. 21.10. Égout droit retroussé avec chevrons prolongés par des coyaux d
 
 Le tranchis est semblable à celui de l’égout droit normal, mais la plus faible hauteur des ardoises de doublis doit être égale au moins à un recouvrement ( **fg. 21.11** .a).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0979-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0979-00.png]]
 
 
 _**Fig. 21.11. Égout biais pour une inclinaison sur l’horizontale comprise entre 135 et 169°**_ 
@@ -214,7 +214,7 @@ S’il travaille, au contraire, du point bas vers la rive latérale, il abandonn
 Dans l’égout à « faux rangs », l’eau est recueillie dans une gouttière plate, dite « nantaise », « de Laval », ou « havraise ». 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0980-06.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0980-06.png]]
 
 
 _**Fig. 21.12. Égout biais pour une inclinaison sur l’horizontale comprise entre 169 et 179°**_ 

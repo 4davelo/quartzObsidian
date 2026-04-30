@@ -38,7 +38,7 @@ Les dimensions des conduits d’air sont calculées suivant :
 - complétée par le document « Normalisation des conduits aérauliques – Deuxième partie – Calcul des réseaux – Chapitre A – Dimensionnement », publié en 1978 par la [[entities/regie-des-batiments|Régie des Bâtiments]]. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0047-05.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0047-05.png]]
 
 
 Tableau A4.1 Vitesses d’air recommandées et vitesses d’air maximales dans les conduits aérauliques (rapport CSTC n°15 – tableau 19)

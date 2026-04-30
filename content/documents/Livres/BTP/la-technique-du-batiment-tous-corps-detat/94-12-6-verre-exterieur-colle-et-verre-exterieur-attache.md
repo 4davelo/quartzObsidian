@@ -54,7 +54,7 @@ le VEC « bordé », dans lequel les profilés du cadre viennent recouvrir le ch
 
 le VEC « à bords décalés », dans lequel la partie externe de l’élément verrier est de dimension supérieure à celle de l’élément interne ( **fg. 12.12** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0685-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0685-00.png]]
 
 
 _**Fig. 12.12. Trois types de VEC (source : Cahier des prescriptions techniques verre extérieur collé, CSTB, janvier 2011)**_ 
@@ -65,6 +65,6 @@ Le VEA est composé de plaques de verre perforées reliées à une structure por
 
 Il existe de nombreux dispositifs, dont certains sont parfois élaborés pour un chantier spécifique. La paroi de plaques de verre attachées peut être supportée par différents types de structure : charpentes métalliques, structures en câbles inoxydables, poutres en verre, etc. Le VEA peut concerner des vitrages simples, feuilletés ou doubles. Il est utilisé sur des parois verticales ou inclinées. On rencontre notamment des platines métalliques « en croix » ( **fg. 12.13** ) permettant de maintenir quatre plaques de verre à leur jonction.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0686-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0686-00.png]]
 
 **

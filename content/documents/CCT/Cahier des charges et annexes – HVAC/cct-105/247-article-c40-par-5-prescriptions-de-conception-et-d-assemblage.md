@@ -52,7 +52,7 @@ De façon générale et dans la mesure du possible, tout contact entre métaux d
 Il existe une échelle de potentiels électrochimiques qui permet de déterminer les risques de corrosion galvanique entre deux métaux associés dans un environnement donné. Sur base de cette échelle, la norme NBN EN ISO 14713-1 propose une série « galvanique » indiquant l'emplacement des métaux les uns par rapport aux autres (tableau C40.5-1) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0666-12.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0666-12.png]]
 
 
 **----- Start of picture text -----**<br>

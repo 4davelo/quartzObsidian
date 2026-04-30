@@ -28,7 +28,7 @@ Le rendement d’une cellule photovoltaïque est mesuré dans les conditions dit
 
 Sous un certain éclairement (en STC, par exemple), la cellule photovoltaïque présente une courbe intensité/tension ( **fg. [51.4](342_51.4_performances_des_cellules_photovoltaïques.md)** ) où : _Icc_ correspond au courant de court-circuit (à tension nulle) ; _Vco_ est la tension de circuit ouvert, tension de la photopile sous lumière à courant nul (égalité du courant de génération par la lumière et du courant de consommation de la diode sans lumière).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1921-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1921-00.png]]
 
 
 _**Fig. 51.4. Courbe intensité/tension d’une cellule photovoltaïque (source : Languy (Fabian), Physique et énergie – Travail sur les panneaux photovoltaïques, Université de Louvain, 2007)**_ 
@@ -41,7 +41,7 @@ Les deux caractéristiques essentielles d’une photopile sont ainsi : son facte
 
 Le silicium amorphe et le silicium cristallin présentent des caractéristiques différentes ( **fg. [51.5](343_51.5_de_la_cellule_au_module_photovoltaïque.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1923-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1923-00.png]]
 
 
 _**Fig. 51.5. Caractéristiques courant/tension comparées d’une cellule au silicium amorphe et d’une cellule au silicium cristallin sous 1 000 W/m[2]**_ 
@@ -53,7 +53,7 @@ nettement plus faible. Les cellules photovoltaïques présentent globalement un 
 Le rendement est également directement lié à la nature de l’ensoleillement ( **fg. [51.6](344_51.6_structures.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1924-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1924-02.png]]
 
 
 _**Fig. 51.6. Variation de Pmax en fonction de l’énergie incidente pour une cellule monocristalline**_ 

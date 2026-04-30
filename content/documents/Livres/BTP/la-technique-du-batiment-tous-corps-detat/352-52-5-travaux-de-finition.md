@@ -256,7 +256,7 @@ _**Tab. 52.6. Travaux intérieurs de finition sur parement de plâtre cartonné*
 _**Tab. 52.9. Travaux extérieurs de finition sur subjectiles métaux non ferreux et alliages légers – acier galvanisé**_ 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1967-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1967-02.png]]
 
 
 **----- Start of picture text -----**<br>

@@ -68,7 +68,7 @@ Cette première étape comporte deux phases :
 
 L’objectif principal de la mission est de fournir les _principes de fondation envisageables_ , ainsi que les _hypothèses géotechniques_ à prendre, dans le cas particulier du projet. Pour réaliser la mission PGC, il est indispensable que le géotechnicien ait communication du projet. Un « rapport de sol » issu d’un autre projet à proximité, s’il peut être utile au BET Structure, ne donnera jamais les mêmes informations qu’une G1 réalisée au regard du projet. Le rapport G1 est utilisé par le BET Structure dès l’APS, il doit donc être réalisé avant l’APS ou en début d’APS. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0436-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0436-01.png]]
 
 Figure 74. Exemple de machine de sondage pour étude géotechnique. 
 
@@ -92,7 +92,7 @@ Pour obtenir des données sur les variations annuelles du niveau des nappes sans
 
   - en données d’entrée pour les études de comportement de la nappe dans les projets complexes dans la nappe phréatique.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0438-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0438-00.png]]
 
 Figure 75. Exemple de compte rendu d’une fouille de reconnaissance de fondation. 
 
@@ -134,7 +134,7 @@ Cette mission ponctuelle peut être lancée en début de phase conception, ou in
 
 Les documents essentiels sont les rapports G1, G2 AVP et G2 PRO, réalisés par le géotechnicien spécialement pour le projet et en tenant compte des descentes de charge du projet. Ces rapports sont indispensables au BET Structure pour étudier et décrire les fondations. S’en dispenser engagerait la responsabilité de l’équipe de maîtrise d’œuvre. D’où la règle fondamentale : 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0440-09.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0440-09.png]]
 
 Si un PRO comporte des fondations, ne jamais le réaliser sans avoir reçu _a minima_ le rapport géotechnique AVP G2 et de préférence le PRO G2. 
 
@@ -156,7 +156,7 @@ s’applique pas dans les secteurs où les dispositions d’urbanisme ne permett
 
 - obligation pour toute construction de maison individuelle de réaliser une G2 AVP et une G2 PRO et d’en remettre le rapport au maître d’œuvre et à l’entreprise, lesquels doivent les prendre en compte (à moins que l’entreprise ne soit elle-même chargée de la G2)[[14](96_14._synthèse_des_principaux_documents_liés_à_lachèvement_du_chantier.md)] ~~.~~ 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0442-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0442-01.png]]
 
 Figure 76. Carte officielle de l’exposition au retrait gonflement. 
 
@@ -182,7 +182,7 @@ Par ailleurs, l’hétérogénéité du terrain identifiée grâce aux analyses 
 
 Les fontis sont des décompressions du sous-sol, dues à la dissolution de gypse ou à d’anciennes carrières de gypse, notamment présents à Paris et en Seine-Saint-Denis. Ils peuvent comporter des cavités assez grandes pour qu’un homme puisse y entrer ! Dans les zones de fontis, il convient de réaliser avant le projet une campagne de reconnaissance avec un maillage serré au droit des futurs appuis. Les investigations sont ensuite suivies d’une campagne d’injections, réalisées avec différents types de coulis de ciment.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0444-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0444-00.png]]
 
 Figure 77. Mécanisme de création des fontis. 
 

@@ -50,11 +50,11 @@ fourrure : en rénovation, une fourrure est une pièce en bois fixée et calfeut
 
 larmier : ce dispositif forme rejet d’eau sur toutes les pièces débordantes (pièces d’appui, bavettes, etc.) ; meneau : pièce verticale d’un cadre dormant séparant deux vantaux ou deux parties fixes dans un panneau menuisé ; montant : profilé constituant l’un des éléments verticaux des menuiseries (montant de battement, montant intermédiaire, montant de rive, par exemple) ; parclose : profilé démontable servant au maintien du vitrage ou de l’élément de remplissage dans les feuillures fermées ; pièce d’appui : traverse basse du dormant d’une fenêtre en contact avec le gros œuvre. Monobloc ou constituée de deux parties, la pièce d’appui est conçue pour un système de fenêtre ; reconstitution d’appui : profilé continu qui reconstitue l’assise de l’appui et permet le calfeutrement de l’ouverture ; rejingot (ou regingot) : sur la face arrière d’un appui de baie, bord ourlé sur lequel la pièce d’appui repose ; ressaut : partie en saillie d’un élément architectural (y compris les ouvertures) ; traverse : profilé constituant l’un des éléments horizontaux d’une menuiserie (traverse de battement, traverse intermédiaire, traverse de rive, par exemple). La traverse d’imposte concerne le cadre dormant d’une fenêtre, laquelle la sépare d’une imposte dans une menuiserie composée.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1086-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1086-00.png]]
 
 
 _**Fig. 26.1. Schéma type d’une fenêtre**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1087-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1087-00.png]]
 
 Les catégories d’ouvertures se distinguent suivant le mouvement des châssis : rotation, translation horizontale ou verticale, combinaison rotation-translation. La **fgure [26.3](176_26.3_norme-dtu_de_mise_en_œuvre_tous_matériaux_confondus.md)** rassemble les principaux modèles de châssis.

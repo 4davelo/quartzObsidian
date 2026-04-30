@@ -49,16 +49,16 @@ Place Joséphine Charlotte 2, 5100 Namur
 `17-03-2026` **N° de dépôt légal** `: D/2026/11802/44` **ISBN :** `978-2-8056-0873-5` 
 
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0402-07.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0402-07.png]]
 
 
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0402-08.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0402-08.png]]
 
 
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0402-09.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0402-09.png]]
 
 
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0402-10.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0402-10.png]]

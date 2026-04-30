@@ -28,7 +28,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 Avec la RE 2020, priorité aux solutions bas carbone, notamment en bois, mais avec des défis : épaisseur accrue, acoustique, protection incendie et risques liés à l'eau. Les bétons bas carbone restent pertinents.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0606-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0606-00.png]]
 
 
 **Fig. 11.1. Planchers simple et complexe** 

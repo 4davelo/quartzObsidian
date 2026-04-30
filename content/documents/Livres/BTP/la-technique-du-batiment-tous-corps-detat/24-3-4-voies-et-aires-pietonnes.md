@@ -78,14 +78,14 @@ Les voies piétonnes sont dimensionnées en fonction du nombre de personnes qui 
 Les plantations éventuelles en bordure, soit d’arbustes soit d’arbres, doivent être réalisées respectivement à 0,30 ou 0,80 m des rives de la voie piétonne ( **fg. 3.22** ). Sensiblement horizontales, les voies piétonnes acceptent des pentes de 2 à 3 cm par mètre. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0193-05.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0193-05.png]]
 
 **3.4.1.1 Préparation du terre-plein** 
 
 Après enlèvement de la terre végétale, le sol est assaini et remblayé afin d’obtenir le niveau projeté. Si le sol après décapage est homogène (sableux ou caillouteux), il ne nécessite aucune préparation. Les autres types de sols, selon leurs caractéristiques, nécessitent en revanche des apports et, éventuellement, une stabilisation préalable. La couche rapportée est, en général, de 0,10 m d’épaisseur ; elle est constituée par du gravier sablonneux pour les sols perméables et par du sable gros pour les sols imperméables (sols argileux) ( **fg. 3.23** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0194-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0194-03.png]]
 
 
 **Fig. 3.23. Voie piétonne (circulation légère)** 
@@ -102,7 +102,7 @@ La partie supérieure du terre-plein est dressée « en toit » afin que les
 
 soit en grave compactée de 0,15 m d’épaisseur ; soit en grave agglomérée au goudron fluide de 0,08 m d’épaisseur ( **fg. 3.24** .a) ; soit en béton maigre de 0,08 à 0,10 m d’épaisseur ( **fg. 3.24** .b).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0196-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0196-00.png]]
 
 **3.4.1.3 Revêtements** 
 
@@ -124,7 +124,7 @@ Les aires piétonnes sont des extensions des voies piétonnes proprement dites (
 
 Soumise à un trafic important de piétons, la surface des zones piétonnes ne doit être ni glissante ni poussiéreuse. Ces aires doivent également résister aux éléments atmosphériques, aux sels de déverglaçage, au nettoyage par eau sous pression ou par engins mécaniques (bouches de lavage tous les 50 m environ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0198-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0198-00.png]]
 
 
 **Fig. 3.25. Raccordement d’un escalier à une aire piétonne** 
@@ -149,12 +149,12 @@ Quel que soit le type d’escalier réalisé, il est conseillé d’exécuter un
 
 Lorsque la pente de la rampe est supérieure à 4 %, elle doit comporter un palier de repos tous les 10 m, un garde-corps préhensible et une bordure chasse-roue.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0200-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0200-00.png]]
 
 
 _**Fig. 3.26. Escalier à pas normal**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0201-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0201-00.png]]
 
 
 _**Fig. 3.27. Escalier à pas-d’âne**_ 

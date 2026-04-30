@@ -83,4 +83,4 @@ Dans le cas où le caisson est composé de sections réalisées en métaux diff�
 
 En cas de media corrosifs (extraction de laboratoires, hotte, milieux salins, etc), seul un acier inoxydable approprié ou une matière synthétique armée appropriée sont admis.
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0422-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0422-01.png]]

@@ -69,7 +69,7 @@ En France, seuls les usagers propriétaires de leurs transformateurs (industries
 Le régime TT est le régime de neutre des installations domestiques à basse tension ( **fg. 48.8** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1834-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1834-01.png]]
 
 
 _**Fig. 48.8. Fonctionnement du régime TT**_ 
@@ -89,12 +89,12 @@ On distingue le régime TNC (terre-neutre confondus) ( **fg. 48.9** ) et le rég
 de 10 mm[2] , pour du cuivre ; de 16 mm[2] , pour de l’aluminium. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1835-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1835-03.png]]
 
 
 _**Fig. 48.9. Fonctionnement du régime TNC**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1836-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1836-00.png]]
 
 
 _**Fig. 48.10. Fonctionnement du régime TNS**_ 
@@ -105,7 +105,7 @@ Le régime de neutre IT dispose d’un neutre de la source raccordé à une imp�
 
 Lors du premier défaut, le courant entre phase et masse est très faible, la tension ne représente pas de danger. Au deuxième défaut, la protection doit être assurée par un dispositif contre les courts-circuits ( **fg. 48.11** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1837-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1837-00.png]]
 
 
 _**Fig. 48.11. Fonctionnement du régime IT**_ 
@@ -131,7 +131,7 @@ Le tableau de répartition, ou « tableau électrique », est l’élément qui 
 La canalisation principale de terre reliant la barrette de coupure de la prise de terre à la dérivation de terre de chaque logement ( **fg. 48.12** ) doit être établie en conducteur cuivre, d’une section minimale calculée en résistance et fixée selon le seuil de fonctionnement de l’appareil différentiel ( **tab. [48.2](322_48.2_schéma_de_liaison_à_la_terre.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1839-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1839-01.png]]
 
 
 _**Fig. 48.12. Installation de prise de terre pour immeuble collectif**_ 

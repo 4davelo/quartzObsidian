@@ -41,16 +41,16 @@ Place Joséphine Charlotte 2, 5100 Namur
 `17-03-2026` **N° de dépôt légal** `: D/2026/11802/42` **ISBN :** `978-2-8056-0871-1` 
 
 
-![](images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0607-07.png)
+![[documents/CCTB/cctb-t6-hvac-sanitaires/images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0607-07.png]]
 
 
 
-![](images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0607-08.png)
+![[documents/CCTB/cctb-t6-hvac-sanitaires/images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0607-08.png]]
 
 
 
-![](images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0607-09.png)
+![[documents/CCTB/cctb-t6-hvac-sanitaires/images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0607-09.png]]
 
 
 
-![](images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0607-10.png)
+![[documents/CCTB/cctb-t6-hvac-sanitaires/images/T6_HVAC_-_sanitaires_CCTB_01.13.pdf-0607-10.png]]

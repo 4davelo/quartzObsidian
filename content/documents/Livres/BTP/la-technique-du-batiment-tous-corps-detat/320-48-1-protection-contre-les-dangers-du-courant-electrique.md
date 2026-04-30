@@ -168,15 +168,15 @@ Les installations électriques de première catégorie, alimentées en courant a
 
 Le disjoncteur est destiné à protéger les lignes et les appareils électriques contre les échauffements préjudiciables dus aux surcharges excessives. Sa zone de fonctionnement peut être adaptée aux besoins de chaque situation. Il présente l’avantage d’une résistance élevée aux courts-circuits.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1824-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1824-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1825-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1825-00.png]]
 
 
 _**Fig. 48.1. Disjoncteur de branchement à dispositif différentiel de déclenchement automatique : schéma électrique**_ 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1825-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1825-02.png]]
 
 
 _**Fig. 48.2. Disjoncteur de branchement à dispositif différentiel de déclenchement automatique : exemple d’appareil**_ 
@@ -193,11 +193,11 @@ Une autre cause de court-circuit est la surcharge qui intervient lorsque l’on 
 
 Afin de pouvoir modifier son intensité nominale lors de l’adjonction de nouveaux équipements, le disjoncteur peut être à calibres multiples ( **fg. 48.3** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1827-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1827-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1828-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1828-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1829-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1829-00.png]]
 
 
 **Fig. 48.3. Principe de fonctionnement du disjoncteur différentiel** 
@@ -221,7 +221,7 @@ Le coupe-circuit est un organe qui coupe automatiquement le circuit d’une inst
 Aujourd’hui, les coupe-circuits sont des interrupteurs différentiels ( **fg. 48.4** ), réalisant une surveillance du circuit et ne coupant celuici qu’en cas de courant de fuite à la terre. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1830-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1830-02.png]]
 
 
 _**Fig. 48.4. Exemple d’interrupteur différentiel assurant à la fois la protection et la commande**_ 
@@ -259,7 +259,7 @@ Le matériel de classe 0 ne possède pas de prise de terre. Ce type d’appareil
 Les appareils de classe I possèdent un conducteur de protection, et toutes les parties métalliques y sont reliées. En cas de défaut, le courant de fuite sera donc acheminé vers la terre et l’utilisateur ne sera pas mis en danger (sous réserve que la prise possède un conducteur de protection, et que la prise de terre du logement soit correcte). Ils sont repérés par le logo suivant ( **fg. 48.5** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1832-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1832-02.png]]
 
 
 _**Fig. 48.5. Classe I**_ 
@@ -269,7 +269,7 @@ _**Fig. 48.5. Classe I**_
 Les appareils de classe II ne possèdent pas de prise de terre. En revanche, ils disposent d’une double isolation, souvent réalisée en plastique, et ne possèdent pas de partie métallique accessible. Malgré l’absence de prise de terre, ils ne présentent donc pas de risques pour l’utilisateur en cas de défaut. Ils sont repérés par le logo suivant ( **fg. 48.6** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1832-06.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1832-06.png]]
 
 
 _**Fig. 48.6. Classe II**_ 

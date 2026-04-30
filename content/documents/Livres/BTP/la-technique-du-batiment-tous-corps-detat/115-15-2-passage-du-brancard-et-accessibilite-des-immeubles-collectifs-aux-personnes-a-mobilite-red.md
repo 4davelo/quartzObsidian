@@ -54,7 +54,7 @@ La largeur des circulations avec des portes palières de 0,90 m de passage libre
 
 Pour un ascenseur, seule la cabine de charge nominale 1 000 kg assure le transport des brancards.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0772-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0772-00.png]]
 
 
 _**Fig. 15.2. Passage du brancard dans l’escalier (source : AQC)**_ 
@@ -71,7 +71,7 @@ Dans un bâtiment sans ascenseur, l’accès aux étages doit se faire par un es
 
 main courante dépassant les première et dernière marches de chaque volée ; bonne visibilité du nez de marche ( **fg. [15.3](116_15.3_définitions_incontournables.md)** .c).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0775-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0775-00.png]]
 
 
 _**Fig. 15.3. Accessibilité des immeubles collectifs aux personnes en situation de handicap**_ 

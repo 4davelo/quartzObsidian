@@ -23,7 +23,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 qui, fixés côté extérieur, protègent le bois des intempéries. Les parties aluminium peuvent également assurer la fonction de support de joint de frappe ou de parclose pour le vitrage. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1248-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1248-01.png]]
 
 
 **Fig. 30.1. Menuiserie mixte bois/aluminium** 
@@ -33,7 +33,7 @@ Ce type de menuiserie relève des normes NF P 23-308 et NF P 23-309, qui fixe le
 menuiseries bois-aluminium ( **fg. [30.2](206_30.2_conception_des_fenêtres_mixtes.md)** ), il s’agit de fenêtres constituées de profilés en aluminium à rupture de pont thermique, comportant des profilés en bois sur les faces intérieures du dormant et de l’ouvrant, pour une fonction essentiellement esthétique. Ces profilés se présentent sous la forme de petites pièces de bois ou de placages en bois naturel collés. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1249-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1249-01.png]]
 
 
 _**Fig. 30.2. Menuiserie aluminium à rupture de pont thermique avec habillage intérieur bois**_

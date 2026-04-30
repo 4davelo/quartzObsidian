@@ -226,13 +226,13 @@ Le siphon est conforme aux exigences suivantes :
 - De même en cas de surpression dans le caisson, la partie située vers l’évacuation doit être de 1,5 H et la partie longue de 2xH. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0402-04.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0402-04.png]]
 
 
 Fig. C12.6.- 1 : Siphon en dépression 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0402-06.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0402-06.png]]
 
 
 Fig. C12.6.- 2 : Siphon en surpression 
@@ -242,7 +242,7 @@ Pour les sections en dépression, l’utilisation de siphon à bille est autoris
 Il est impératif d’avoir une séparation physique entre l’évacuation du siphon et la mise à l’égout.  Voir figure C12.6.- 3, où la distance d doit correspondre à d=2c, avec un minimum de 20 mm. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0402-10.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0402-10.png]]
 
 
 Fig. C12.6.- 3 : Séparation physique entre la mise à l'égout et l'évacuation. 
@@ -261,4 +261,4 @@ Pour les accessoires à prévoir sur le raccordement au réseau de distribution 
 
 Les circuits d'alimentation et d'évacuation répondent, en ce qui concerne les matériaux utilisés (sans occasionner de corrosion au caisson) et leur montage aux impositions de la STS 62.
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0403-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0403-01.png]]

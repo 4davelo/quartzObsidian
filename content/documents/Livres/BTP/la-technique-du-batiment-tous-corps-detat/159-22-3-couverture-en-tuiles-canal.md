@@ -93,7 +93,7 @@ Il existe un type de tuiles dérivé des tuiles canal comportant un système d�
 
 Ils peuvent varier selon les régions et les coutumes locales ; on en distingue trois types principaux ( **fg. 22.19** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1038-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1038-00.png]]
 
 
 _**Fig. 22.19. Principaux types de supports dans les toitures à tuiles canal**_ 
@@ -110,7 +110,7 @@ Dans certaines régions, le platelage est constitué de briques creuses spécial
 
 Lorsque le platelage est constitué d’un écran en panneaux dérivés du bois (particules), le support des tuiles est constitué par des liteaux disposés parallèlement à la pente et sur lesquels sont disposées les tuiles de courant. La hauteur et l’espacement de ces liteaux doivent être tels que la tuile soit surélevée d’environ 20 mm par rapport à la face supérieure de l’écran ( **fg. 22.20** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1039-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1039-00.png]]
 
 
 _**Fig. 22.20. Mise en place de l’écran et de l’isolant dans les toitures à tuiles canal**_ 

@@ -26,7 +26,7 @@ Les personnes intervenant sur les installations électriques sur le chantier doi
 
 Il existe plusieurs types d’habilitation, qui sont représentés par un symbole, ainsi « B2V » désigne un électricien chargé de travaux en basse tension. Le tableau ci-contre[[8](90_8._consignes_de_sécurité_incendie_et_plans_associés.md)] permet de déchiffrer la signification des différentes habilitations existantes et de faciliter le dialogue avec les électriciens. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1025-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1025-02.png]]
 
 **L’autorisation d’intervention à proximité des réseaux (AIPR)** 
 

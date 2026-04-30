@@ -76,7 +76,7 @@ Réseau de transport d’électricité (RTE), entité située en France, qui gè
 Pour les consommateurs, l’ouverture à la concurrence se traduit par la multiplication des fournisseurs : EDF, Engie, Direct Énergie, Lampiris, Planète Oui, Énergem, Proxelia, Enercoop, Alterna. La prestation d’Enedis consiste à réaliser les raccordements, le dépannage, le relevé des compteurs et toutes les interventions techniques indépendamment des fournisseurs d’énergie chargés de la vente et de la gestion du contrat d’électricité. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1800-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1800-02.png]]
 
 
 _**Fig. 47.1. Organisation de la production et de la distribution d’électricité (source : ErDFEnedis)**_ 
@@ -99,7 +99,7 @@ une part du nucléaire à 50 % maximum de la production d’électricité en 205
 
 Les réseaux de distribution ont comme point de départ les postes sources. Ils comportent des transformateurs HTB/HTA à partir desquels la HTB est distribuée en triphasé. En aval des transformateurs, la partie HTA est constituée de cellules « Arrivée », « Couplage » et « Départ ». À partir des départs, on distribue le réseau selon trois grands principes ( **fg. [47.2](318_47.2_branchement_de_lusager_en_fonction_de_la_puissance.md)** à **47.4** ), en fonction des contraintes de coût et de continuité de service.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1804-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1804-00.png]]
 
 
 _**Fig. 47.2. Distribution électrique en antenne**_ 
@@ -108,7 +108,7 @@ Ce mode de distribution est généralement utilisé dans les zones rurales, en r
 
 **47.1.3.2 Distribution en boucle ou coupure d’artère**
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1805-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1805-00.png]]
 
 
 _**Fig. 47.3. Distribution électrique en boucle**_ 
@@ -119,7 +119,7 @@ sectionnement qui l’encadrent, puis on réalimente la boucle en refermant le d
 
 **47.1.3.3 Distribution en double dérivation**
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1807-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1807-00.png]]
 
 Ce mode de distribution est utilisé pour assurer une continuité de service optimale, par exemple dans le cas d’un hôpital. Les deux arrivées sont différentes mais peuvent être issues du même poste source ; un verrouillage entre les deux lignes d’alimentation empêche le risque de connexion simultanée. En cas de défaut sur l’une des lignes, l’alimentation de l’abonné est permutée sur la seconde ; dans certains cas, la seconde ligne est alimentée par un groupe électrogène. 
 

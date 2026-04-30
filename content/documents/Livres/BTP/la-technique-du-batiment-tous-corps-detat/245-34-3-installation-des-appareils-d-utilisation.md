@@ -70,7 +70,7 @@ Un appareil à gaz est à circuit étanche lorsqu’il n’est prévu aucune com
 
 soit directement, par l’intermédiaire d’une ventouse placée sur le mur ( **fg. [34.1](243_34.1_branchement_gaz_des_immeubles.md)** ) ; soit à l’intérieur d’une gaine collectrice débouchant à l’extérieur.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1487-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1487-00.png]]
 
 
 _**Fig. 34.1. Évacuation des gaz brûlés des appareils à circuit étanche**_ 
@@ -143,7 +143,7 @@ Il peut être divisé en plusieurs orifices, situés ou non sur la même paroi, 
 
 La distance entre le bord supérieur du ou des orifices d’entrée d’air dans le local et le niveau du sol fini ne doit pas dépasser 0,30 m ( **fg. [34.2](244_34.2_pose_des_tuyauteries.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1491-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1491-00.png]]
 
 
 _**Fig. 34.2. Disposition des orifices d’entrée d’air frais et de sortie d’air : cas d’un local comportant un appareil à gaz à circuit non étanche de combustion (source : Cegibat)**_ 

@@ -21,13 +21,13 @@ juridictions: [wallonie, bruxelles]
 familles_sources: [cctb]
 ---
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0001-00.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0001-00.png]]
 
 
 **`C`** `AHIER DES` **`C`** `HARGES` **`T`** `YPE` **BÂTIMENTS** 
 
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0001-02.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0001-02.png]]
 
 
 ```
@@ -37,4 +37,4 @@ Abords
 ```
 
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0001-04.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0001-04.png]]

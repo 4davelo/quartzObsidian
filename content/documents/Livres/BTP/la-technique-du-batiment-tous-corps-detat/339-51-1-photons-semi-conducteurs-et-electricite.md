@@ -28,7 +28,7 @@ La lumière est donc à la fois « onde et particule » : le niveau d’énergie
 
 En atteignant un matériau solide, la lumière peut ( **fg. [51.1](339_51.1_photons_semi-conducteurs_et_électricité.md)** ) : être renvoyée par la surface du matériau : c’est la réflexion ; traverser le matériau : c’est la transmission ; pénétrer le matériau sans en ressortir : c’est l’absorption des photons, avec transmission d’énergie qui peut permettre, dans certaines conditions, la production d’électricité.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1915-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1915-00.png]]
 
 
 _**Fig. 51.1. Décomposition du flux de lumière incident dans un matériau**_ 

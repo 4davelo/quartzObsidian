@@ -79,7 +79,7 @@ Dans la zone intermédiaire entre 100 et 1000ℓ, la consigne suivante est d'app
 
 Rendement de volume ( $F_p$ )
 
-![Graphique du rendement de volume (Fp) en fonction du volume net (Vn). La courbe part de (100, 20) et monte linéairement jusqu'à (1000, 50). La zone entre Vn=100 et Vn=600 est marquée 'pression variable', et la zone entre Vn=600 et Vn=1000 est marquée 'pression constante'.](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/note-cti-hvac-sapc17-vase-expansion/images/a00d9ff8b9419a947850615fc72a233f_3_img.webp)
+![[documents/CCT/Cahier des charges et annexes – HVAC/note-cti-hvac-sapc17-vase-expansion/images/a00d9ff8b9419a947850615fc72a233f_3_img.webp]]
 
 50  
 40  

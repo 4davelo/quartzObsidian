@@ -170,7 +170,7 @@ Les distances relatives (x1, x2 et x3) sont lues dans la ligne correspondant au 
 Dans cet exemple, on a besoin d’au moins 12 points de mesure répartis selon 12/3 = 4 points de mesure par axe. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0782-02.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0782-02.png]]
 
 
 Figure E5.4.-1 : Exemple de répartition de 12 points de mesure pour un conduit d’air rectangulaire 
@@ -202,7 +202,7 @@ Afin d’obtenir une bonne répartition des points de mesure, les axes de mesure
 On peut donc déplacer les axes de mesure autour de leur point d’intersection, pour autant que l'angle droit soit respecté (voir figure E5.4.-2). 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0783-02.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0783-02.png]]
 
 
 Figure E5.4.-2 : Choix de l’emplacement des orifices de mesure 
@@ -249,7 +249,7 @@ D’après le tableau E5.4.-3, les points de mesure sont situés, comme indiqué
 - x6.D = y6.D = 0,957 . D = 0.957 . 40 = 38,3 cm 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0784-11.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0784-11.png]]
 
 
 Figure E5.4.-3 : Exemple de répartition de 12 points de mesure dans un conduit d’air circulaire

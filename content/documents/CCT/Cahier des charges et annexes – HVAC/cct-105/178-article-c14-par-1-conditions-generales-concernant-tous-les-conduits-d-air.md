@@ -72,7 +72,7 @@ Le cahier spécial des charges mentionne pour chaque réseau de conduits d’air
 La figure suivante (Fig. C14.1.-1) indique le débit de fuite admissible en fonction de la pression maximale: 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0438-02.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0438-02.png]]
 
 
 Fig. C14.1.-1 
@@ -134,7 +134,7 @@ L’entrepreneur doit placer un nombre suffisant de clapets de réglage, afin qu
 Les clapets de fermeture sont utilisés pour isoler un réseau de conduits. Ils doivent répondre à la classe d’étanchéité demandée par le cahier spécial des charges; avec les valeurs 1, 2, 3 ou 4 conformément à la NBN EN 1751; voir figure ci-dessous (Fig. C14.1-2). 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0440-03.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0440-03.png]]
 
 
 Fig. C14.1.-2 
@@ -181,7 +181,7 @@ Quand le cahier spécial des charges contient des exigences au niveau de la prod
 
 Il faut porter une attention particulière à l’emplacement correct du clapet iris (Voir Fig. C14.1.-3).
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0442-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0442-01.png]]
 
 
 Fig. C14.1.-3 

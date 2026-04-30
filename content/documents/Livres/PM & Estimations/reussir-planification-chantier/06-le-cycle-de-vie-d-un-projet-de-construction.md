@@ -37,7 +37,7 @@ Le nombre de phases du cycle de vie d’un projet peut varier, il dépend du typ
 
 La **fgure [1.3](05_1.3_les_parties_prenantes_dun_projet.md)** présente un cycle de vie d’un projet formé de quatre phases et trois jalons. Les jalons choisis indiquent les événements clés suivants : le lancement, la mise en œuvre et la réception. Avant d’entamer la partie **conception et planification** , le concepteur identifie et définit le projet. Après l’ **exécution** et la fin des travaux, la réception est suivie de la phase de **clôture du projet et de livraison de l’ouvrage** au client.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0013-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0013-00.png]]
 
 _**Figure [1.3](05_1.3_les_parties_prenantes_dun_projet.md) Cycle de vie d’un projet de construction**_ 
 
@@ -45,7 +45,7 @@ _**Figure [1.3](05_1.3_les_parties_prenantes_dun_projet.md) Cycle de vie d’un 
 
 Un projet commence par une idée du client qui vise le plus souvent à répondre à un besoin ou une nécessité. Cette phase d’avant-projet ( **fg. 1.4** ) consiste à analyser financièrement et techniquement la demande et à tracer les grandes lignes du projet. Cette phase comprend : l’étude de faisabilité financière et technique du projet ; la proposition d’une ou plusieurs solutions d’ensemble traduisant les grandes lignes du projet ; l’élaboration des esquisses et la définition des lignes directives du programme ; la précision de la durée de réalisation des travaux ; l’analyse de la compatibilité de la solution choisie avec le budget alloué au projet.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0014-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0014-00.png]]
 
 _**Figure 1.4 Phase d’identification et de cadrage d’un projet**_ 
 

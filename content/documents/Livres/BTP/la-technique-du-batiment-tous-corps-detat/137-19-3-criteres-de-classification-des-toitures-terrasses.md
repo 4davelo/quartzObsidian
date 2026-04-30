@@ -125,7 +125,7 @@ Cette catégorie regroupe :
 
 tous les éléments à base de béton armé, de béton précontraint, de maçonnerie : dalles pleines coulées en œuvre, planchers à poutrelles préfabriquées et entrevous, etc. ( **fg. [19.5](139_19.5_supports_détanchéité.md)** ) ;
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0880-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0880-00.png]]
 
 
 _**Fig. 19.5. Terrasse avec élément porteur en béton armé**_ 
@@ -202,13 +202,13 @@ Les toitures-terrasses à pentes inférieures à 2 % peuvent présenter, en serv
 
 **19.3.4.3 Toitures-terrasses rampantes**
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0884-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0884-01.png]]
 
 
 en tôle d’acier nervurée : 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0884-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0884-03.png]]
 
 
 **19.3.4.4 Toitures-terrasses inclinées** 
@@ -216,7 +216,7 @@ en tôle d’acier nervurée :
 La pente dépend de la nature de l’élément porteur, lequel peut être : en maçonnerie ou à base de bois : 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0884-06.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0884-06.png]]
 
 
 en tôle d’acier nervurée : 

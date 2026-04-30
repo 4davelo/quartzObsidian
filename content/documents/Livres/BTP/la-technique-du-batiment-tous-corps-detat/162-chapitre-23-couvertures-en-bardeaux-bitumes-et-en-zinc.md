@@ -35,7 +35,7 @@ Le bardeau bitumé (ou _shingle_ ) est constitué :
 - d’une protection de la face du produit exposée aux intempéries, constituée d’une couche de granulés d’origine minérale ou de paillettes d’ardoises naturelles ; les granulés céramiques sont en général « émaillés », par cuisson au four, de peintures de différentes couleurs. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1044-07.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1044-07.png]]
 
 sa protection contre les ultraviolets, et elle participe à l’esthétique du bâtiment, tant par sa matière que par sa couleur. 
 

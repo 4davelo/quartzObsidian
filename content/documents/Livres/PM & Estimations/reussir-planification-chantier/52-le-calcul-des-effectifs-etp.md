@@ -28,6 +28,6 @@ L’unité utilisée pour le calcul des effectifs est l’équivalent temps plei
 
 par jour/semaine/mois/année. Ces 4 ETP sont ventilés chaque mois sur les différents chantiers en fonction des travaux à effectuer. Le technicien Rémi ne sera affecté au chantier Vallon qu’un jour par semaine car sa charge de travail sur ce chantier est de 0,2 ETP (5 jours × 0,2 ETP = 1 jour). 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0251-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0251-01.png]]
 
 _**Figure 6.31 Répartition des ETP d’une entreprise sur trois chantiers différents**_

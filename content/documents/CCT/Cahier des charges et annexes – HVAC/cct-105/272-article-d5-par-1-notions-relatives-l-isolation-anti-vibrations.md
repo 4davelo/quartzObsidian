@@ -62,7 +62,7 @@ T désigne le rapport de la force transmise à la fondation (F) par rapport à l
 - D : facteur d’amortissement (sans dimension) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0729-17.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0729-17.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -75,7 +75,7 @@ a. Isolateurs sans amortissement interne (ressorts en acier, laine minérale...)
 
 1 _k_ = _f n_ 2 π _M_ 15,8 = _[f] n_ δ _st_
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0730-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0730-01.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -85,7 +85,7 @@ a. Isolateurs sans amortissement interne (ressorts en acier, laine minérale...)
 Ce qui pour les fréquences supérieures à fn  peut se simplifier comme suit : 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0730-03.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0730-03.png]]
 
 
 Pour une fréquence d’excitation donnée, on remarque également la relation univoque entre l’affaissement statique δst (= (15,8/fn)[2] ) et le rendement d’isolation, indépendamment du poids (M) de la machine (mais le poids détermine la rigidité requise des ressorts k = (2πfn)[2] M). L’affaissement statique est donc une bonne mesure pour évaluer le rendement d’isolation. 
@@ -93,7 +93,7 @@ Pour une fréquence d’excitation donnée, on remarque également la relation u
 b. Isolateurs à amortissement interne (caoutchouc, liège) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0730-06.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0730-06.png]]
 
 
 A noter que lorsque le facteur d’amortissement D = 0, l’on retrouve la formule pour les ressorts en acier. 

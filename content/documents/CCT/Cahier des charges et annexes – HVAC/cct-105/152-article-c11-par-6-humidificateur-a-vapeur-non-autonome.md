@@ -94,7 +94,7 @@ La sélection du nombre de rampes à installer est à faire par le fabricant et 
 La figure C11.6.-1 ci-après reprend les accessoires à prévoir pour un humidificateur à vapeur raccordé sur un réseau externe de vapeur. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0367-10.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0367-10.png]]
 
 
 Fig. C11.6.-1 

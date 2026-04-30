@@ -72,12 +72,12 @@ Pour compenser l’effet de paroi (accumulation de mortier vers la paroi, accent
 Le béton matricé est un béton qui a pris la forme d’une matrice en élastomère (faisant office de négatif) placée dans les banches ( **fg. 12.8** ). La matrice peut créer un décor homogène ( **photo [12.2](90_12.2_matériaux_constitutifs_des_façades.md)** ), mais peut aussi, dans le cadre de panneaux préfabriqués (paragraphe 12.3.2.2), reproduire une image ou même une photo en relief ; on parle alors de « béton photogravé ». 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0671-07.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0671-07.png]]
 
 
 _**Fig. 12.8. Les ombres créent un décor sur le béton qui anime les façades en fonction de l’angle d’incidence du soleil (source : Reckli Photo-Gravure)**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0673-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0673-00.png]]
 
 
 _**Photo 12.2. Béton matricé en façade de l’extension des archives départementales d’Angers – Magnum Architectes et Urbanistes (source : Reckli)**_ 

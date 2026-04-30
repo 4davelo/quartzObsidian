@@ -540,6 +540,6 @@ Plusieurs solutions sont envisageables. En voici une :
 
 La structure de la description des travaux et du devis quantitatif (ou de l'avant-métré) est la même.
 
-![Blank white page](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp)A completely blank white page with no visible content, text, or markings.
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp]]A completely blank white page with no visible content, text, or markings.
 
 ## CHAPITRE

@@ -56,7 +56,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 Les maçonneries (murs, piliers, etc.) peuvent présenter des défauts d’aplomb, dont les principaux sont exposés dans la **fgure 6.27** : un mur déversé est un mur gauchi, dont l’alignement n’est pas rectiligne ; le fruit et le contre-fruit désignent l’écart d’un mur avec la verticale ; la retraite correspond à l’écart d’aplomb entre deux murs superposés.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0442-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0442-00.png]]
 
 
 _**Fig. 6.27. Fruit, contre-fruit et retraite**_ 

@@ -717,6 +717,6 @@ Dans le cadre du Grenelle de l'environnement et du PACTE (Programme d'Action pou
 
 Une liste des publications existantes (au moment de la mise à jour de ce manuel) est donnée en Annexe 3.
 
-![Blank white page](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp)A completely blank white page with no visible content, text, or markings.
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp]]A completely blank white page with no visible content, text, or markings.
 
 ## CHAPITRE

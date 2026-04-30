@@ -56,4 +56,4 @@ Les étapes pour la conception et la réalisation d’un **nouveau bâtiment** s
 Le schéma ci-dessous donne une vue d’ensemble des différentes manières possibles de se conformer aux exigences en termes de qualité de l’air. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/note-cti-hvac-26-1-ventilation-lieux-travail/images/Note_info_CTI_HVAC_26-1_ventilation_des_lieux_de_travail_2021.pdf-0022-13.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/note-cti-hvac-26-1-ventilation-lieux-travail/images/Note_info_CTI_HVAC_26-1_ventilation_des_lieux_de_travail_2021.pdf-0022-13.png]]

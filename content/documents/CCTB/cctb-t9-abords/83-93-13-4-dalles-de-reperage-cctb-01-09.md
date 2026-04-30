@@ -328,7 +328,7 @@ Actuellement, on utilise plusieurs types de revêtements podotactiles qui exprim
 Différences régionales en matière de pose de dalles d’éveil à la vigilance (à protubérances) dans un escalier. 
 
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0141-20.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0141-20.png]]
 
 
 [Buildwise Article Dossier (2019/02.07), Dalles podotactiles en pierre naturelle : quelle est la marche à suivre ?] 

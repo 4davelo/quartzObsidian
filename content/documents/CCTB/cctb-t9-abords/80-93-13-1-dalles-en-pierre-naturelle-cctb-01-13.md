@@ -247,7 +247,7 @@ _Classification des terrasses selon leur niveau de sollicitation mécanique._
 Un facteur de sécurité Fs est donné ci-après et est en relation directe avec le type de pose. 
 
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0110-04.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0110-04.png]]
 
 
 Les documents de marché précisent le type de pose, le sens de pose et détaillent le type d’appareillage des dalles. 

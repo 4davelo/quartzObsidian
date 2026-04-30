@@ -52,7 +52,7 @@ le système turbo, avec ventilateur-turbine forçant l’air au travers du foyer
 
 production d’[[Eau Chaude Sanitaire]], mais implique généralement un système d’appoint pour les périodes de grand froid et pour l’été. En effet, si l’on dimensionne l’appareil pour les conditions les plus rigoureuses, il fonctionnera en sous-régime la majorité du temps, conduisant à un rendement médiocre et à une production excessive de gaz carbonique.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1554-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1554-00.png]]
 
 
 _**Fig. 37.9. Coupe d’une chaudière à bûches (source : d’après Deville Thermique)**_ 

@@ -71,7 +71,7 @@ Les éventuels travaux de démolition de la charpente existante sont compris dan
 La terminologie des charpentes se rapporte aux définitions du [Buildwise Métré 2.13] 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1037-18.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1037-18.png]]
 
 **Charpente traditionnelle** 
 
@@ -102,7 +102,7 @@ La terminologie des charpentes se rapporte aux définitions du [Buildwise Métr�
 12. sablière (voir élément [24.11 Eléments d'assise en bois](500_24.11_eléments_dassise_en_bois_cctb_01.04.md)) 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1038-15.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1038-15.png]]
 
 
 **Charpente traditionnelle** 
@@ -130,7 +130,7 @@ La terminologie des charpentes se rapporte aux définitions du [Buildwise Métr�
 10. échantignolle (voir élément [24.13 Poutres et barres en bois](511_24.13_poutres_et_barres_en_bois_cctb_01.07.md)) 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1039-03.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1039-03.png]]
 
 
 **Charpente traditionnelle** 

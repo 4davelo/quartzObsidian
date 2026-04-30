@@ -68,15 +68,15 @@ Une véranda ou une verrière se compose de profilés en bois à composition mix
 
 La véranda est de type véranda en épi (en appui) (par défaut) / encastrée / avec arêtier / en appui 3 pentes / en applique (pans coupés à 135°) / rayonnante (pans coupés à 135°) / rayonnante (pans coupés à 150°) / en T et partie rayonnante (pans coupés à 135°) / ***.
 
-![](images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0287-01.png)
+![[documents/CCTB/cctb-t4-fermetures-finitions-exterieures/images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0287-01.png]]
 
 
 
-![](images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0287-02.png)
+![[documents/CCTB/cctb-t4-fermetures-finitions-exterieures/images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0287-02.png]]
 
 
 
-![](images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0287-03.png)
+![[documents/CCTB/cctb-t4-fermetures-finitions-exterieures/images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0287-03.png]]
 
 
 Les profilés de véranda et verrière reprenant les vitrages sont composés d’une partie principale en bois, d’une partie isolante et d’un profilé et contreprofilé assurant l’étanchéité. Des profilés de renforts sont également associés suivant la rigidité nécessaire. 

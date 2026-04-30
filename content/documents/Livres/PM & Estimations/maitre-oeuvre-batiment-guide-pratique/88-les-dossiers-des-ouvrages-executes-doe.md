@@ -143,7 +143,7 @@ La structuration des données au sein de la maquette DOE permet aux mainteneurs 
 
 Les marchés de travaux ont normalement imposé le respect du cahier des charges BIM de l’AMO BIM, lequel doit préciser la forme, le contenu et le niveau de développement attendus des maquettes DOE.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1042-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1042-00.png]]
 
 Figure 225. Enchaînement des étapes aboutissant aux maquettes numériques DOE. 
 

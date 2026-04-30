@@ -168,11 +168,11 @@ une pente maximale de 12 % pour les voies empruntées, réduite à 10 % pour les
 Les aires de retournement doivent permettre une manœuvre avec une seule marche arrière de moins de 15 m. Les cotes minimales pour le véhicule préconisé sont données dans la **fgure [3.1](20_3.1_la_loi_climat_et_résilience_du_22_août_2021.md)** . 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0146-06.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0146-06.png]]
 
 En outre, les épures de giration à 180° des bennes de différents modèles sont données dans le document « Aménagement des carrefours urbains » publié par le Centre d’études sur les réseaux, les transports, l’urbanisme et les constructions publiques (Certu). La **fgure [3.2](22_3.2_textes_relatifs_aux_niveaux_de_service_de_la_voirie.md)** reproduit deux exemples de ce document.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0148-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0148-00.png]]
 
 
 _**Fig. 3.2. Épures de giration pour bennes vide-ordures**_ 

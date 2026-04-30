@@ -359,7 +359,7 @@ Les câbles sont mis en tension à l’aide des vérins qui prennent appui sur l
 
 Avec l’augmentation des charges, la cambrure peut même se transformer en une légère incurvation vers le bas. Aussi longtemps qu’il subsiste une compression dans la partie inférieure de la poutre, aucune fissure n’apparaît.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0318-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0318-00.png]]
 
 
 _**Fig. 5.3. Poutre en béton précontraint (source : d’après l’association Eugène-Freyssinet)**_ 
@@ -369,14 +369,14 @@ _**Fig. 5.3. Poutre en béton précontraint (source : d’après l’association
 Une poutre est précontrainte par pré-tension lorsque la mise en tension des aciers durs de précontrainte est effectuée avant le bétonnage de la poutre. Ces poutres sont fabriquées sur un banc de préfabrication comprenant les coffrages d’une série de poutrelles ( **photo [5.1](35_5.1_considérations_générales_sur_les_structures.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0318-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0318-04.png]]
 
 
 _**Photo 5.1. Banc de préfabrication de poutrelles (source : Rector)**_
 
 Il convient de distinguer cinq étapes principales dans l’élaboration des poutrelles de béton précontraint ( **fg. [5.4](39_5.4_comportement_dans_le_temps.md)** a, b et c) : mise en place dans le banc de préfabrication de fils d’acier à haute résistance ; installation aux extrémités des fils de vérins de mise en tension prenant appui sur des butées fixées au sol ; mise en tension des fils à l’aide des vérins ; coulage du béton (plusieurs lignes de poutres à la fois) ; relâchement des vérins après durcissement du béton. Les fils ne peuvent se raccourcir puisqu’ils adhèrent au béton et transmettent ainsi leur tension au béton durci. Les poutres se cambrent vers le haut. Les fils d’acier sont ensuite coupés. Les poutres en béton précontraint par fils adhérents sont prêtes à l’emploi. Leur comportement sous l’effet des charges appliquées est comparable à celui des poutres précontraintes par post-tension.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0321-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0321-00.png]]
 
 
 **Fig. 5.4. Fabrication de poutrelles en béton précontraint** 

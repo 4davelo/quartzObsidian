@@ -50,7 +50,7 @@ La mise au point comprend, successivement :
 Dans les installations avec régulation des circuits au moyen d’un robinet motorisé à deux voies et d’un collecteur de départ en surpression (régulation par injection, voir schéma ci-dessous), le réglage des débits est d’une importance capitale ; contrairement aux systèmes avec robinets à trois voies, il n’y a pas de fermeture du by-pass, d’où le risque de mélange également en position entièrement ouverte du robinet à deux voies. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0797-11.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0797-11.png]]
 
 **3.1. Réglage du débit dans les circuits** 
 

@@ -45,13 +45,13 @@ On demande de :
 
 8. Calculer le gain en jours entre la première version du planning chemin de fer et la version optimisée. Quel est le gain en % ?
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0247-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0247-00.png]]
 
 _**Figure 6.26 Données d’entrée de l’application 6-3**_ 
 
 **Corrigé de l’application 6-3**
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0248-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0248-00.png]]
 
 _**Figure 6.27 Correction de la séquence travaux de l’application 6-3**_ 
 
@@ -59,13 +59,13 @@ _**Figure 6.27 Correction de la séquence travaux de l’application 6-3**_
 
 3. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0248-04.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0248-04.png]]
 
 _**Figure 6.28 Correction du planning chemin de fer 1 de l’application 6-3**_ 
 
 4. Le lot « Cloisons » et le lot « Sol » n’ont pas de continuité de travaux dans les zones.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0249-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0249-00.png]]
 
 _**Figure 6.29 Correction du planning chemin de fer 2 de l’application 6-3**_ 
 
@@ -73,7 +73,7 @@ _**Figure 6.29 Correction du planning chemin de fer 2 de l’application 6-3**_
 
 7.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0250-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0250-00.png]]
 
 _**Figure 6.30 Correction du planning chemin de fer 3 de l’application 6-3**_ 
 

@@ -29,7 +29,7 @@ Les connexions ne doivent être accessibles qu’après démontage d’un couver
 Le dispositif de connexion luminaire (DCL) est une mini-prise de courant remplaçant désormais les anciennes boîtes de connexion livrées avec un domino ou une « douille à bout de fil ». 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1875-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1875-02.png]]
 
 
 _**Photo 49.1. Exemple de boîte-luminaire DCL (source : Legrand)**_ •  NF EN 60529/A1 (juin 2000 – indice de classement : C20-010/A1) : Degrés de protection procurés par les enveloppes (code IP). •  NF EN 60529/A2 (mai 2014 – indice de classement : C20-010/A2) : Degrés de protection procurés par les enveloppes (code IP). 

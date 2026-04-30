@@ -28,7 +28,7 @@ familles_sources: [ouvrage, gestion-projet]
 
 Le takt time, provenant du mot Takzeit en allemand, que l’on peut traduire par cadence, désigne le rythme à maintenir par le flux de production pour répondre à la demande du client. Ce concept est essentiel en Lean Construction, car nous avons vu précédemment que la valeur est centrée autour du besoin du client. Cette approche, utilisée dans de nombreux secteurs, arrive progressivement dans la construction. Ainsi, son calcul permet de vérifier que l’outil de production (le nombre d’ouvriers répartis dans les différentes zones du chantier) est en adéquation avec le nombre de zone à terminer par semaine pour respecter la date de fin imposée par le client. Le calcul du takt time se fait le plus souvent sur les travaux intérieurs qui combinent une multitude d’acteurs et des zones répétitives.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0240-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0240-00.png]]
 
 _**Figure 6.22 Courbe représentant les grandes phases d’un projet de construction**_ 
 
@@ -44,7 +44,7 @@ Le calcul du takt time est nécessaire pour comprendre le décalage en jours de 
 
 La dérivée du planning pour les travaux répétitifs est induite par la valeur du takt time. Un takt time élevé entraînera une pente de la dérivée plus faible et par conséquent une durée globale des travaux plus longue. L’objectif du planificateur Lean va être de jouer sur le takt time afin de permettre un rythme suffisant pour garantir l’atteinte des objectifs du client.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0243-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0243-00.png]]
 
 _**Figure 6.23 Inclinaison de la dérivée suivant le takt**_ 
 
@@ -54,12 +54,12 @@ Malgré ce que l’on peut penser, la durée de la séquence travaux a un impact
 
 Mettre en rythme les travaux d’une zone à l’autre est bien plus impactant que la durée des travaux dans la zone. La capacité à faire évoluer les différents lots dans les différents espaces du chantier est la clé pour obtenir un planning optimisé. Sans cela, les temps morts (sans activité dans une zone) se multiplieront et entraîneront des dérives de délais.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0244-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0244-00.png]]
 
 _**Figure 6.24 Conséquences d’une séquence rallongée de deux jours**_ 
 
 Un takt time plus élevé (passage de 2 à 4 par exemple) aura une conséquence bien plus importante sur le décalage de la date de fin (voir **fg. 6.25** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0245-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0245-00.png]]
 
 _**Figure 6.25 Conséquences d’un takt time rallongé de deux jours**_

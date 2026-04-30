@@ -43,16 +43,16 @@ Boulevard du Nord 8, 5000 Namur
 `17-03-2026` **N° de dépôt légal** `: D/2026/11802/45` **ISBN :** `978-2-8056-0874-2` 
 
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0389-06.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0389-06.png]]
 
 
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0389-07.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0389-07.png]]
 
 
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0389-08.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0389-08.png]]
 
 
 
-![](images/T9_Abords_CCTB_01.13_20260317.pdf-0389-09.png)
+![[documents/CCTB/cctb-t9-abords/images/T9_Abords_CCTB_01.13_20260317.pdf-0389-09.png]]

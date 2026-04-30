@@ -43,7 +43,7 @@ Les différentes couvertures en tuiles sont désignées par les types de produit
 Ce type de couverture est exécuté à l’aide de plaques planes de terre cuite (tuiles plates). En tête et en sous-face de la tuile plate sont façonnés un ou deux tenons d’accrochage et un ou deux trous de clouage ( **fg. [22.1](156_22.1_couverture_en_tuiles_plates.md)** ). La fabrication actuelle est surtout consacrée aux tuiles dites « petit moule ». 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1000-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1000-04.png]]
 
 
 _**Fig. 22.1. Configuration et coupe d’une tuile plate**_ 
@@ -53,7 +53,7 @@ Leur forme est généralement rectangulaire, mais il existe des modèles dont la
 chevron ». Pour les ouvrages spéciaux, on se sert de tuiles ayant un galbe particulier : tuiles pendantes, gauches, gambardières, coffines ( **fg. [22.2](158_22.2_couverture_en_tuiles_à_emboîtement_et_à_glissement.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1001-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1001-01.png]]
 
 
 _**Fig. 22.2. Principales tuiles plates galbées**_ 

@@ -62,7 +62,7 @@ PROFESSIONNEL
 
 EYROLLES
 
-![Architectural blueprints and a 3D wireframe model of a building complex.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/9e5d0cb097807483c4fd391c598e5437_10_img.webp)A decorative graphic on the right side of the cover. It features a large, white, curved shape that sweeps across the page. Behind this shape, there are architectural drawings: at the top, a close-up of a blueprint with technical details; in the middle, a detailed floor plan; and at the bottom, a 3D wireframe model of a modern building complex with multiple towers and interconnected structures.
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/9e5d0cb097807483c4fd391c598e5437_10_img.webp]]A decorative graphic on the right side of the cover. It features a large, white, curved shape that sweeps across the page. Behind this shape, there are architectural drawings: at the top, a close-up of a blueprint with technical details; in the middle, a detailed floor plan; and at the bottom, a 3D wireframe model of a modern building complex with multiple towers and interconnected structures.
 
 Yves WIDLOECHER
 
@@ -110,7 +110,7 @@ Sommaire
 
 Dans la même collection, Y. Widloecher et D. Cusant sont les auteurs du *Manuel de l'étude de prix* (4<sup>e</sup> éd. 2018) et du *Manuel d'analyse d'un dossier du bâtiment* (2013).
 
-![Two rolled-up blue architectural blueprints resting on a larger blueprint, with a calculator visible in the foreground.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/a74e456bddec6e42122cd5375d405b50_14_img.webp)![A detailed architectural floor plan or site plan showing building footprints and surrounding infrastructure.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/a74e456bddec6e42122cd5375d405b50_15_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/a74e456bddec6e42122cd5375d405b50_14_img.webp]]![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/a74e456bddec6e42122cd5375d405b50_15_img.webp]]
 
 Ancien élève de l'ENS Cachan, agrégé de génie civil, **Yves Widloecher** est professeur de génie civil au lycée La Martinière – Monplaisir (Lyon) en **BTS EEC** (Études et économie de la construction, formation initiale et apprentissage) ainsi qu'en **licence pro Droit et techniques des réseaux hydrauliques** (Lyon-II).
 

@@ -52,7 +52,7 @@ cadenas de blocage de l’espagnolette ; essai de pesée au niveau des points de
 
 Le modèle de la **fgure [28.4](194_28.4_menuiseries_en_aluminium_à_rupture_de_pont_thermique.md)** répond au critère 5 min.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1214-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1214-00.png]]
 
 
 _**Fig. 28.4. Persiennes métalliques antieffraction (source : France Fermetures)**_ 

@@ -32,13 +32,13 @@ familles_sources:
   - cctb
 ---
 
-![](documents/CCTB/cctb-a-clauses-administratives/images/A_Clauses_administratives_CCTB_01.13_20260317.pdf-0001-00.png)
+![[documents/CCTB/cctb-a-clauses-administratives/images/A_Clauses_administratives_CCTB_01.13_20260317.pdf-0001-00.png]]
 
 
 **`C`** `AHIER DES` **`C`** `HARGES` **`T`** `YPE` **BÂTIMENTS** 
 
 
-![](documents/CCTB/cctb-a-clauses-administratives/images/A_Clauses_administratives_CCTB_01.13_20260317.pdf-0001-02.png)
+![[documents/CCTB/cctb-a-clauses-administratives/images/A_Clauses_administratives_CCTB_01.13_20260317.pdf-0001-02.png]]
 
 
 **[[entities/cctb|CCTB]] TOME A** 
@@ -48,4 +48,4 @@ Clauses administratives
 ```
 
 
-![](documents/CCTB/cctb-a-clauses-administratives/images/A_Clauses_administratives_CCTB_01.13_20260317.pdf-0001-05.png)
+![[documents/CCTB/cctb-a-clauses-administratives/images/A_Clauses_administratives_CCTB_01.13_20260317.pdf-0001-05.png]]

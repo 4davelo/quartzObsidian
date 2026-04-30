@@ -78,7 +78,7 @@ Les dimensions (en cm) sont conformes:
 
 - pour la section rectangulaire : A1 / A2 / A3 / A4 / B1 / B2 / B3 / B4 / C1 / C2 / C3 / C4 / D1 / D2 / D3 / D4 / E1 / E2 / E3 / E4
 
-![](images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0400-01.png)
+![[documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0400-01.png]]
 
 
 - pour la section trapézoïdale : Type A / B 

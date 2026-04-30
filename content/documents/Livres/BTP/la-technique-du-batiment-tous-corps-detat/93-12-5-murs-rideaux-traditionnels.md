@@ -41,7 +41,7 @@ NF DTU 33.1 (mai 2008 – indice de classement : P 28-002) : Façades rideaux �
 
 Le mur-rideau comprend une ossature formée de lisses horizontales et verticales raccordées à la structure. Même si des expériences de murs-rideaux à ossature bois se sont développées avec succès, l’ossature aluminium demeure presque systématiquement employée. Il existe deux familles principales de murs-rideaux ; ils sont assemblés sur le site ou constitués de panneaux préfabriqués légers ( **fg. 12.9** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0677-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0677-00.png]]
 
 
 _**Fig. 12.9. Deux principaux types de murs-rideaux**_ 
@@ -68,7 +68,7 @@ Les murs-rideaux sont soumis à des écarts de températures importants qui indu
 
 Le mur-rideau et tous ses joints entre ossature et remplissage doivent, entre les ambiances extérieure et intérieure, réaliser l’étanchéité à l’air et à l’eau ( **fg. 12.11** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0682-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0682-00.png]]
 
 La solution consiste à rendre la pression intérieure égale à la pression extérieure de telle sorte que l’eau de ruissellement ne soit pas entraînée dans les joints. 
 

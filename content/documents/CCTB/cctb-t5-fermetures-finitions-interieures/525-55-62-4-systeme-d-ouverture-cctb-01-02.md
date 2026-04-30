@@ -375,13 +375,13 @@ PM (par défaut) / QF
 Nombre de points de fermeture des systèmes en applique : 
 
 
-![](images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0731-10.png)
+![[documents/CCTB/cctb-t5-fermetures-finitions-interieures/images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0731-10.png]]
 
 
 Nombre de points de fermeture des systèmes encastrés dans une porte : 
 
 
-![](images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0731-12.png)
+![[documents/CCTB/cctb-t5-fermetures-finitions-interieures/images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0731-12.png]]
 
 
 **Fonction accès contrôlé :** 

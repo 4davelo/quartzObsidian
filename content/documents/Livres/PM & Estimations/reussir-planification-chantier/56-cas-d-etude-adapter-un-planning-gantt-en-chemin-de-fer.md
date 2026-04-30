@@ -43,7 +43,7 @@ On demande de :
 
 2. Indiquer à la fin de quelle semaine (en numéro de semaine) les travaux d’un étage de 10 logements seront entièrement terminés.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0262-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0262-00.png]]
 
 _**Figure 6.38 Données d’entrée de l’application 6-5**_ 
 
@@ -51,7 +51,7 @@ _**Figure 6.38 Données d’entrée de l’application 6-5**_
 
 **1.** 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0262-04.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0262-04.png]]
 
 _**Figure 6.39 Correction du planning chemin de fer de l’application 6-5**_ 
 
@@ -79,4 +79,4 @@ _**Tableau [6.1](44_6.1_la_planification_globale_en_chemin_de_fer.md) Données d
 |Restaurant|R+5, R+3, R+1|5 semaines|Fin Séquence<br>Bureaux R+5|
 |Cuisine|R+5, R+3, R+1|6 semaines|La séquence du<br>dernier niveau (R+1)<br>devra se terminer<br>avant le début de la<br>séquence restaurant<br>de la zone concernée.<br>Les séquences<br>précédentes de<br>cuisine seront<br>planifées en<br>rétroactif|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0264-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0264-01.png]]

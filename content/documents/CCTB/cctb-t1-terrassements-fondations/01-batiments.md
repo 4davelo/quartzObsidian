@@ -32,13 +32,13 @@ familles_sources:
   - cctb
 ---
 
-![](documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0001-00.png)
+![[documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0001-00.png]]
 
 
 **`C`** `AHIER DES` **`C`** `HARGES` **`T`** `YPE` **BÂTIMENTS** 
 
 
-![](documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0001-02.png)
+![[documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0001-02.png]]
 
 
 ```
@@ -48,4 +48,4 @@ Terrassements / fondations
 ```
 
 
-![](documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0001-04.png)
+![[documents/CCTB/cctb-t1-terrassements-fondations/images/T1_Terrassements___fondations_CCTB_01.13_20260317.pdf-0001-04.png]]

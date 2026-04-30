@@ -46,7 +46,7 @@ La deuxième phase est une discussion ouverte avec tous les acteurs pour échang
 
 La troisième phase est la rédaction du plan d’actions associé aux risques avec la description de chaque action et le nom du responsable.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0257-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0257-00.png]]
 
 _**Figure 6.36 Matrice des risques et le plan d’action associé**_ 
 
@@ -60,7 +60,7 @@ montage d’une cloison ; un pot de peinture pour les revêtements muraux ; des 
 
 Ainsi, en partant de la date de pose, nous pouvons monter un planning rétroactif des différentes actions à réaliser suivant les étapes nécessaires pour permettre cette pose. Des échéances au plus tard pourront être associées aux actions à réaliser en amont afin de permettre au pilote d’avoir la feuille de route de son chantier. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0258-02.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0258-02.png]]
 
 _**Figure 6.37 Planning rétroactif depuis la pose pour chaque « travaux » à réaliser**_ 
 

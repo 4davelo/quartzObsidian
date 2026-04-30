@@ -60,7 +60,7 @@ Les escaliers en communication avec le sous-sol ne doivent pas aboutir dans les 
 
 Enfin, le désenfumage de la cage d’escalier est assuré à sa partie supérieure par une ouverture de 1 m[2] , fermée en temps normal, avec dispositif de commande d’ouverture au rez-de-chaussée ( **fg. [15.1](113_15.1_dispositions_générales_pour_les_escaliers_et_circulations_horizontales_protégés_contre_lincendie.md)** .d).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0770-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0770-00.png]]
 
 
 _**Fig. 15.1. Dispositions de protection contre l’incendie**_ 

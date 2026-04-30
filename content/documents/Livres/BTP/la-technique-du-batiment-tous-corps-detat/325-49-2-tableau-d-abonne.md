@@ -61,7 +61,7 @@ La sécurité d’utilisation d’une installation électrique impose la présen
 
 Cette fonction peut être assurée par le disjoncteur de branchement (DB). Dans le cas d’une maison individuelle, celui-ci peut être situé dans un local privatif annexe, attenant et communiquant directement avec le local d’habitation – comme un garage ( **fg. [49.3](326_49.3_petit_équipement.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1848-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1848-00.png]]
 
 
 **Fig. 49.3. Position du disjoncteur de branchement** 
@@ -80,7 +80,7 @@ un ou deux circuits pour l’alimentation des socles de prises de courant ;
 
 un ou deux circuits pour les appareils électrodomestiques à forte puissance (cuisinière, machine à laver, chauffe-eau, etc.).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1850-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1850-00.png]]
 
 Tout circuit doit comporter un conducteur de protection auquel sont reliées les masses des appareils de la classe I. Si le circuit alimente un appareil de la classe II, le conducteur de protection est laissé en attente et ne doit pas être raccordé aux parties métalliques accessibles de l’appareil de classe II. 
 

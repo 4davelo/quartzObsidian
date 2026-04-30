@@ -40,7 +40,7 @@ Les récupérateurs de chaleur sont des échangeurs ou des combinaisons d’éch
 L’efficacité thermique est définie par la formule suivante _(selon NBN EN 308:1997, 4.3)_ 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0507-06.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0507-06.png]]
 
 
 où t21 = température de l’air neuf 

@@ -233,6 +233,6 @@ Achèvement des travaux : chaque entreprise doit réviser ses ouvrages sans augm
 
 *« Chaque entreprise est responsable des dégâts avérés qu'elle peut causer aux ouvrages des autres entreprises ou aux installations communes à tous les lots. »*
 
-![Blank white page](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp)A completely blank white page with no visible content, text, or markings.
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp]]A completely blank white page with no visible content, text, or markings.
 
 ## CHAPITRE

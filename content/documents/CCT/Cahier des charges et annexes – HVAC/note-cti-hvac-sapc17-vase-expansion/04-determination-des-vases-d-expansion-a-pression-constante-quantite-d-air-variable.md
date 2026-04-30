@@ -234,7 +234,7 @@ Les données suivantes sont déterminées au préalable:
 - - la pression réglée dans l'installation  $p_r$  [bar]
 - - le débit de contraction  $q$  [l/hkW], déterminé au moyen du graphique 3 ci-dessous
 
-![Graphique 3: Relation entre la température (°C) et le débit de contraction par kW (L/hkW).](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/note-cti-hvac-sapc17-vase-expansion/images/b178f3d3f789024a97cf2b3f0883e855_5_img.webp)
+![[documents/CCT/Cahier des charges et annexes – HVAC/note-cti-hvac-sapc17-vase-expansion/images/b178f3d3f789024a97cf2b3f0883e855_5_img.webp]]
 
 Graphique 3 est un graphique à grille montrant la relation entre la température (en °C) sur l'axe des ordonnées et le débit de contraction par kW (en L/hkW) sur l'axe des abscisses. L'axe des ordonnées va de 10 à 130 en increments de 10. L'axe des abscisses va de 0 à 0.7 en increments de 0.1. Une droite diagonale part de l'origine (0,0) et s'étend jusqu'à environ (0.75, 112.5). Une ligne horizontale est tracée à 80 °C sur l'axe des ordonnées. Une ligne verticale descend de l'intersection de la droite diagonale et de la ligne horizontale jusqu'à l'axe des abscisses, où elle est marquée avec la valeur 0,56. Le texte 'débit de contraction par kW 0,56' est placé sous l'axe des abscisses.
 

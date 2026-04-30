@@ -565,7 +565,7 @@ Nous étudions la villa représentée partiellement par les plans de la façade 
 
 ### 1) Exemple : façade principale
 
-![Schéma de la façade principale d'une villa avec des annotations techniques.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/afe2947698c0ba773f87ab90d376959f_6_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/afe2947698c0ba773f87ab90d376959f_6_img.webp]]
 
 Le schéma illustre la façade principale d'une villa. Les annotations techniques indiquent les matériaux et leurs classes d'emploi ou d'exposition :
 
@@ -607,7 +607,7 @@ L'enduit de façade est dit de décoration et d'imperméabilisation. Un produit 
 
 Cotation en m et cm      sans échelle
 
-![Architectural floor plan of a house interior with dimensions and material specifications.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/8866bb9cd5d125c0cd117cf84db3e693_3_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/8866bb9cd5d125c0cd117cf84db3e693_3_img.webp]]
 
 The floor plan shows a layout with the following dimensions and features:
 
@@ -651,6 +651,6 @@ Cependant, on note qu'elle peut être soumise à une humidification occasionnell
 
 - Le poteau : il est situé à l'intérieur du bâtiment dans un environnement sec. Nous choisissons une **classe d'exposition XC1**.
 
-![Blank white page](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp)A completely blank white page with no visible content, text, or markings.
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp]]A completely blank white page with no visible content, text, or markings.
 
 ## CHAPITRE

@@ -579,7 +579,7 @@ Un enduit pelliculaire sera projeté sur les faces du mur après durcissement du
 
 - Voici le détail du plancher d'une toiture-terrasse non accessible au public, mis en œuvre sur la totalité de la toiture-terrasse d'une école.
 
-![Schéma de coupe transversale d'un plancher de toiture-terrasse non accessible au public. Le schéma montre une coupe de 35 cm de profondeur. De haut en bas, les couches sont : une protection lourde par gravillons roulés sur 5 cm, une étanchéité bicouche en membranes bitumeuses, un écran d'indépendance, une isolation thermique PSX de 16 cm, un pare-vapeur en membrane bitumeuse, un E.I.F. en deux couches croisées, une dalle pleine BA de 20 cm, un isolant acoustique de 4 cm en LM, et un faux plafond démontable. Des flèches pointent de chaque couche à sa description respective.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/1e8a0f6c79a588caa1c285fbbe2bc8fa_10_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/1e8a0f6c79a588caa1c285fbbe2bc8fa_10_img.webp]]
 
 Écrire la description de l'étanchéité en partie courante (y compris l'isolation thermique) à partir de l'EIF.
 
@@ -601,7 +601,7 @@ Les huisseries seront en bois résineux à peindre, adaptées aux cloisons de 72
 
 Les portes seront verrouillables par « condamnation » ½ tour.
 
-![A technical drawing of a tall, narrow door. It features a decorative arched top panel, a small rectangular panel in the middle, and a larger rectangular panel at the bottom. The door is shown with a simple line drawing style, indicating its basic form and panel layout.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/144cea3f4ed50396d051805b4c54cc05_8_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/144cea3f4ed50396d051805b4c54cc05_8_img.webp]]
 
 Faire la description de cette porte dont le classement FASTE sera minimum.
 

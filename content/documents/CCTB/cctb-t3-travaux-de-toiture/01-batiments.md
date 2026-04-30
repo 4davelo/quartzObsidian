@@ -21,13 +21,13 @@ juridictions: [wallonie, bruxelles]
 familles_sources: [cctb]
 ---
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0001-00.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0001-00.png]]
 
 
 **`C`** `AHIER DES` **`C`** `HARGES` **`T`** `YPE` **BÂTIMENTS** 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0001-02.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0001-02.png]]
 
 
 ```
@@ -37,4 +37,4 @@ Travaux de toiture
 ```
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0001-04.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0001-04.png]]

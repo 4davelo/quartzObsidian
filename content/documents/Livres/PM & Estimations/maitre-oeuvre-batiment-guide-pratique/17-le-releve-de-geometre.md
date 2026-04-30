@@ -176,7 +176,7 @@ Le décret autorise, outre l’usage de la projection Lambert 93, l’utilisatio
 
 Voir les articles sur ce sujet sur [http://geodesie.ign.fr](http://geodesie.ign.fr).
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0427-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0427-00.png]]
 
 Figure 72. L’altération linéaire en Lambert 93 aux chefs-lieux de départements (source : Certu). 
 
@@ -194,7 +194,7 @@ En Corse, on utilise le NGF IGN 78, basé sur le maréographe d’Ajaccio. Atten
 
 À Paris, de nombreux acteurs publics utilisent toujours le système de nivellement orthométrique Lallemand/Ville de Paris, et il est courant qu’un projet, même dans le neuf, soit traité dans ce système de nivellement. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0428-04.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0428-04.png]]
 
 Figure 73. Systèmes de nivellement. 
 

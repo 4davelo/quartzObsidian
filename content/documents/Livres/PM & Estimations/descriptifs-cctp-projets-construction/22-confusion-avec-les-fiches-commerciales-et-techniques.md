@@ -125,6 +125,6 @@ Dans le cadre des marchés publics, la fiche descriptive ou le descriptif n'indi
 
 Dans le cadre des marchés privés, il n'y a pas cette obligation. Il est néanmoins souhaitable d'adopter la même démarche afin de favoriser la concurrence, au bénéfice du maître d'ouvrage.
 
-![Blank white page](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp)A completely blank white page with no visible content, text, or markings.
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/08a87f68f3820a9077858b04888bf5c3_1_img.webp]]A completely blank white page with no visible content, text, or markings.
 
 ## CHAPITRE

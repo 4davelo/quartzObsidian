@@ -47,7 +47,7 @@ Dans le cadre des bâtiments industriels soumis à l'arrêté royal "normes de p
 - éléments porteurs structurels de type II: éléments qui en cas d’affaissement donnent lieu à un effondrement progressif limité au compartiment. 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-0057-13.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-0057-13.png]]
 
 
 Selon la réglementation applicable aux bâtiments nouveaux en Belgique, la performance de résistance au feu d’un élément de construction doit être déterminée sur la base d’essais , exclusivement selon les normes européennes ou sur la base d’un calcul (selon les Eurocodes, parties ‘feu’).

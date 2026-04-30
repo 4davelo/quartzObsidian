@@ -83,7 +83,7 @@ Les planchers préfabriqués comprennent essentiellement : les poutrelles et hou
 
 Les poutrelles sont des produits préfabriqués structurels linéaires de faible section, destinés à être associés à d’autres produits préfabriqués (entrevous) et à du béton coulé en œuvre pour former un plancher. Elles constituent, en tout ou partie, le système résistant du plancher ( **fg. 11.8** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0616-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0616-00.png]]
 
 
 _**Fig. 11.8. Plancher en béton armé avec poutrelles et hourdis**_ 
@@ -104,7 +104,7 @@ Ces poutrelles sont composées d’une armature en treillis enrobée en partie i
 
 Les poutrelles peuvent intégrer en sous-face une plaquette de terre cuite permettant d’assurer la continuité du plafond dans l’hypothèse d’entrevous en terre cuite ( **fg. 11.9** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0618-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0618-00.png]]
 
 
 _**Fig. 11.9. Poutrelles en béton armé**_ 
@@ -114,7 +114,7 @@ _**Fig. 11.9. Poutrelles en béton armé**_
 Ces poutrelles, généralement en forme de I ou de T inversé sont en béton précontraint. Elles peuvent comporter en complément des armatures passives de renfort et intégrer en sous-face une plaquette de terre cuite, comme le montre la **fgure 11.10** . 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0618-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0618-04.png]]
 
 NF DTU 23.5 (mai 2019 – indice de classement : P 19-204) : DTU 23.5 – Planchers à poutrelles en béton – Partie 1-1 : cahier des clauses techniques types – Partie 1-2 : critères généraux de choix des matériaux – Partie 2 : cahier des clauses administratives spéciales types. 
 
@@ -128,7 +128,7 @@ entrevous non résistants (LNR) et faiblement résistants (NR), ou « entrevous 
 
 entrevous résistants (RR) appelés en France « entrevous porteurs simples » et « entrevous à table de compression incorporée » (TCI). Ces entrevous reportent les charges sur les poutrelles et ne nécessitent pas de table de compression.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0621-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0621-00.png]]
 
 
 •  NF EN 15037-2+A1 (juin 2011 – indice de classement : P 19-810-2) : Produits préfabriqués en béton – Systèmes de planchers à poutrelles et entrevous – Partie 2 : entrevous en béton.
@@ -159,7 +159,7 @@ soit uniquement par la nervure ;
 
 soit par la nervure associée à la partie supérieure des entrevous, lorsque celle-ci présente en particulier un chanfrein permettant le jointoiement des entrevous contigus.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0623-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0623-00.png]]
 
 
 _**Fig. 11.11. Liaisons de planchers préfabriqués en béton armé : poutrelles et entrevous porteurs, absence de dalle de répartition rapportée**_ 
@@ -168,20 +168,20 @@ _**Fig. 11.11. Liaisons de planchers préfabriqués en béton armé : poutrelles
 
 Les dalles alvéolées sont des produits structurels de planchers monolithes, préfabriqués en usine, qui comportent des évidements longitudinaux disposés à intervalles généralement réguliers dénommés « alvéoles » ( **fg. 11.12** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0624-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0624-00.png]]
 
 
 _**Fig. 11.12. Dalles alvéolées précontraintes (source : documentation SEAC)**_ 
 
 Les dalles alvéolées sont généralement en béton précontraint, d’une épaisseur comprise entre 120 et 400 mm et de 1,20 m de large ( **fg. 11.13** ). Elles sont solidarisées par des clés en béton coulées en place ( **fg. 11.14** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0625-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0625-00.png]]
 
 
 _**Fig. 11.13. Dalle alvéolée en béton précontraint Rector RD 1600 : géométrie de la dalle (source : extrait de l’avis technique)**_ 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0625-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0625-02.png]]
 
 Les exigences relatives à ces produits sont définies dans la NF DTU 23.2. 
 
@@ -195,7 +195,7 @@ NF DTU 23.2 (août 2008 – indice de classement : P 19-201) : Planchers à dall
 
 Le plancher collaborant (collaboration entre acier et béton armé) associe une dalle de compression en béton à des panneaux d’acier (bacs acier en général) en sous-face ( **fg. 11.15** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0627-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0627-00.png]]
 
 
 _**Fig. 11.15. Principe du plancher collaborant**_ 
@@ -206,7 +206,7 @@ Les planchers collaborants sont généralement utilisés pour des portées entre
 
 Certains planchers collaborants sont préfabriqués en usine sous la forme de dalles prêtes à poser intégrant une isolation thermique (le Cofradal 200® commercialisé par ArcelorMittal, par exemple) ( **fg. 11.16** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0628-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0628-00.png]]
 
 
 _**Fig. 11.16. Plancher collaborant intégrant un isolant thermique**_ 
@@ -215,12 +215,12 @@ _**Fig. 11.16. Plancher collaborant intégrant un isolant thermique**_
 
 Il s’agit d’une technique traditionnelle de plancher sur solives de portées de l’ordre de 4 à 6 m, avec des entraxes de solives variables de 30 à 60 cm. Pour des portées plus importantes, on augmente l’inertie des poutres et solives, qui sont alors réalisées en assemblages de bois mécaniques ( **fg. 11.17** ) ou en éléments lamellés-collés (BL : bois lamellé-collé) ( **fg. 11.18** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0629-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0629-00.png]]
 
 
 _**Fig. 11.17. Plancher en bois massif**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0630-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0630-00.png]]
 
 
 _**Fig. 11.18. Poutre en lamellé-collé**_ 
@@ -231,7 +231,7 @@ _**Fig. 11.18. Poutre en lamellé-collé**_
 
 Le plancher mixte bois-béton associe un solivage bois fixé dans la structure verticale et une dalle béton, raccordée au solivage par des connecteurs reprenant les efforts de cisaillement longitudinaux ( **fg. 11.19** ). La dalle béton peut être préfabriquée ou coulée en place sur coffrage perdu.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0631-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0631-00.png]]
 
 
 _**Fig. 11.19. Plancher mixte bois-béton (source : [www.toutsurlebeton.fr](http://www.toutsurlebeton.fr))**_ 
@@ -242,20 +242,20 @@ Développé par le groupe CBS-CBT/Lifteam, le système sous brevet se décline e
 
 la dalle O’portune®, qui utilise des planches assemblées par vissage décalées les unes des autres afin d’augmenter la hauteur statique de la dalle. Un panneau OSB en surface accueille la finition ( **fg. 11.20** ) ; la D-dalle®, dalle mixte bois-béton reprenant le principe de la dalle O’portune® associée à une dalle de compression connectée ( **fg. 11.21** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0632-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0632-00.png]]
 
 
 _**Fig. 11.20. Dalle O’portune®, en planches vissées décalées, pour des portées de 6 à 11 m (source : CBS-CTB)**_ 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0632-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0632-02.png]]
 
 **11.3.5.3 Dalles nervurées préfabriquées mixtes bois-béton** 
 
 Développé par A2C préfa, le produit Dalle BB® ( **fg. 11.22** ) est constitué de prédalles nervurées en béton armé, dont l’espace entre les nervures est comblé par des pains de bois compressé de type Pavatex (Soprema), complétées par une dalle de compression en béton armé coulée _in situ_ . L’épaisseur du complexe associant les dalles préfabriquées aux dalles de compression varie de 20 à 35 cm pour des portées allant de 6,50 m à 10 m. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0633-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0633-02.png]]
 
 
 _**Fig. 11.22. Dalle nervurée préfabriquée mixte bois-béton (source : [https://dallebb.com](https://dallebb.com))**_ 

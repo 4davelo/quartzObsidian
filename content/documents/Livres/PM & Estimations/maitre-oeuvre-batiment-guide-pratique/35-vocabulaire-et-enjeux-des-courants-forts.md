@@ -90,27 +90,27 @@ Dans la plupart des installations électriques, l’origine de l’alimentation 
 
 **on parle de branchement de type [1](83_1._le_nettoyage_de_fin_de_chantier.md) ;** 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0511-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0511-01.png]]
 
 Figure 99. Branchement individuel de type1 à puissance limitée (d’après la norme NF C14-100). 
 
 - si le point de livraison se situe en dehors des locaux de l’utilisateur (par exemple habitation individuelle avec compteur en limite de parcelle), on parle de branchement de type 2 ;
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0511-04.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0511-04.png]]
 
 Figure 100. Branchement individuel de type 2 à puissance limitée (d’après la norme NF C14-100).
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0512-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0512-00.png]]
 
 Figure 101. Exemples de compteurs de branchements à puissance limitée (ex-tarif bleu). 
 
 - de 36 à 250 kVA, on parle d’un branchement à puissance surveillée, anciennement _« tarif jaune »_ ; 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0512-03.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0512-03.png]]
 
 Figure 102. Branchement à puissance surveillée (d’après la norme NF C14-100).
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0513-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0513-00.png]]
 
 Figure 103. Exemple de compteur de branchement à puissance surveillée (ex-tarif jaune). 
 
@@ -118,7 +118,7 @@ Figure 103. Exemple de compteur de branchement à puissance surveillée (ex-tari
 
 On rencontre par exemple des tarifs verts dans les immeubles tertiaires, dans les grands restaurants, dans les centres commerciaux.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0514-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0514-00.png]]
 
 Figure 104. Exemple de compteur pour point de livraison haute tension (ex-tarif vert, l’étiquette en façade est verte). 
 
@@ -130,7 +130,7 @@ Quelles sont les principales installations électriques courants forts présente
 
 - un (voire plusieurs) tableau divisionnaire (encore appelé tableau électrique, ou tableau basse tension, ou tableau de distribution, ou armoire électrique, ou tableau de répartition, ou encore coffret de distribution s’il est de petite taille). Le tableau divisionnaire regroupe l’ensemble des protections (les disjoncteurs) alimentant une zone. Un tableau peut aussi être dédié aux alimentations de certains équipements particuliers (par exemple armoire électrique dédiée aux équipements CVC). Outre les protections, les tableaux électriques peuvent comporter
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0515-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0515-01.png]]
 
 Figure 105. Un exemple de tableau divisionnaire. 
 
@@ -140,7 +140,7 @@ Suivant le cas, il existe deux types d’alimentation pour les tableaux de distr
 
 - Premier cas, les tableaux divisionnaires sont alimentés par un point de livraison Enedis, avec un compteur. Cette configuration se rencontre par exemple pour un appartement, une maison individuelle, un petit bâtiment tertiaire, un petit commerce. Exemple : cette maison individuelle est équipée d’un unique tableau divisionnaire, alimenté par un branchement Enedis à puissance limitée ; en amont, l’alimentation Enedis provient d’un poste de distribution publique (poste haute tension Enedis) située dans le quartier.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0516-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0516-00.png]]
 
 Figure 106. Exemple d’une maison individuelle. 
 
@@ -154,11 +154,11 @@ Il arrive qu’on appelle « TGBT » par abus de langage un simple tableau divis
 
 _Nota :_ dans certains grands bâtiments existants, entre les tableaux de distribution et le TGBT viennent s’insérer une strate supplémentaire, les armoires principales. Ces armoires principales sont alimentées par le TGBT et alimentent les tableaux divisionnaires, qu’on nomme alors parfois « armoires secondaires ».
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0517-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0517-00.png]]
 
 Figure 107. Un exemple de TGBT. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0517-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0517-02.png]]
 
 Figure 108. Un exemple de TGBT d’une ancienne génération. 
 
@@ -168,7 +168,7 @@ Figure 108. Un exemple de TGBT d’une ancienne génération.
 
 Exemple : le petit immeuble de bureau de la Figure 109 comporte un TGBT qui alimente les tableaux divisionnaires situés à chaque étage, ainsi que l’ascenseur et un tableau dédié aux installations CVC ; ce TGBT est alimenté par un branchement Enedis à puissance surveillée ; en amont, ce branchement est alimenté par Enedis depuis un poste de distribution publique situé dans le quartier ; 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0518-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0518-01.png]]
 
 Figure 109. Exemple d’un petit bâtiment de bureau. 
 
@@ -184,7 +184,7 @@ Figure 109. Exemple d’un petit bâtiment de bureau.
 
 On peut par exemple trouver cette configuration avec poste haute tension privé dans un grand immeuble tertiaire, une usine, une clinique, un restaurant, un grand magasin. Exemple : le grand magasin de la Figure 110 possède un TGBT qui alimente l’ensemble de ses tableaux divisionnaires, de ses ascenseurs, de ses escaliers mécaniques et ses armoires CVC ; il possède aussi un poste HT privatif, qui alimente le TGBT ; ce poste comporte un point de livraison Enedis haute tension ; en amont, l’alimentation Enedis provient d’un poste de distribution publique que Enedis possédait dans le quartier (variante : le projet a dû intégrer un local pour accueillir le poste Enedis à côté du poste privatif) ; 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0519-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0519-02.png]]
 
 Figure 110. Exemple d’un grand magasin.
 
@@ -194,7 +194,7 @@ alimenté par d’autres postes haute tension appartenant au même propriétaire
 
 - en boucle ou en coupure d’artère. On peut rencontrer typiquement une boucle haute tension reliant les différents postes haute tension du site. Cette boucle facilite la maintenance en permettant la continuité d’exploitation lors d’un incident ou d’une opération de maintenance sur un câble. Cette configuration se rencontre par exemple dans un grand hôpital comportant plusieurs bâtiments, un site industriel, un aéroport. Exemple : ce site industriel comportant quatre bâtiments est alimenté par un point de livraison Enedis haute tension ; le site comporte quatre postes HT privatifs raccordés en boucle ; chaque poste HT privatif alimente un TGBT réservé à un bâtiment et alimentant les tableaux divisionnaires et les gros équipements de ce bâtiment.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0520-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0520-01.png]]
 
 ## 2.4. Le domaine de la haute tension 
 
@@ -210,7 +210,7 @@ On peut consulter sur [www.enedis.fr](http://www.enedis.fr) les fiches SEQUELEC 
 
 - Réalisation de postes HTA/BT de distribution publique_ .
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0522-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0522-00.png]]
 
 Figure 112. Structure du réseau public de distribution. 
 
@@ -222,27 +222,27 @@ Comme on l’a vu ci-dessus, suivant la puissance nécessaire, un bâtiment sera
 
 d’interrupteur, de raccorder un transformateur, etc. – c’est un petit peu à la haute tension ce que la boîte de raccordement est à la basse tension. Alors que les anciennes cellules HT étaient « à coupure dans l’air » ou utilisaient de l’huile comme diélectrique, de nos jours elles utilisent comme diélectrique le gaz SF6 (hexafluoride), bien plus isolant que l’air. Pour éviter les manœuvres intempestives, les cellules HT peuvent comporter des enclenchements par clés. Les cellules sont accolées les unes aux autres dans le poste ; 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0523-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0523-01.png]]
 
 Figure 113. Exemple d’un ensemble de cellules haute tension.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0524-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0524-00.png]]
 
 Figure 114. Deuxième exemple de cellules haute tension. 
 
 - un ou des transformateurs : alimentés depuis les cellules HT, ils abaissent la tension et alimentent ainsi le TGBT. Les transformateurs sont représentés sur les schémas électriques par le symbole : 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0524-03.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0524-03.png]]
 
 Le dimensionnement d’un transformateur est donné en kVA.
 
 - un (ou des) tableau général basse tension (TGBT) : comme on l’a vu, cette armoire est alimentée en basse tension par le transformateur, et alimente elle-même les tableaux divisionnaires répartis dans tout le bâtiment. Il peut aussi arriver que le TGBT ne soit pas situé dans le local du poste HT, mais dans un local séparé, ce qui permet à un électricien habilité seulement en basse tension d’accéder au local TGBT.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0525-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0525-00.png]]
 
 Figure 115. Exemple de transformateur HT/BT. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0525-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0525-02.png]]
 
 Figure 116. Troisième exemple de TGBT (ici, une ancienne génération de matériel). 
 
@@ -262,7 +262,7 @@ On peut aussi trouver dans un poste HT d’autres installations :
 
 Consulter la norme NF C13-100 et la norme NF C13-200. Consulter les sites Internet de fabricants, comme [www.schneider-electric.fr](http://www.schneider-electric.fr), [www.abb.fr](http://www.abb.fr) (produit : Uniswitch par exemple) ou [www.ormazabal.fr](http://www.ormazabal.fr) 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0526-03.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0526-03.png]]
 
 Figure 117. Exemple de poste HT mixte : partie Enedis à gauche et partie privative à droite.
 
@@ -302,7 +302,7 @@ Source délivrant l’énergie électrique permettant de poursuivre tout ou part
 
 Source prévue pour maintenir le fonctionnement des matériels concourant à la sécurité contre les risques d’incendie et de panique en cas de défaillance de la source « normal-remplacement ».
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0529-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0529-00.png]]
 
 **Alimentation normale** 
 
@@ -338,7 +338,7 @@ Le tableau général de sécurité regroupe l’alimentation des installations c
 
 L’important à retenir est que ce TGS doit être installé dans un _local dédié_ et coupe-feu.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0531-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0531-00.png]]
 
 Figure 118. Exemple de TGS, dans un local dédié. 
 
@@ -372,7 +372,7 @@ C’est l’éclairage qui est alimenté par une source de sécurité en cas de 
 
 Attention : dans certaines configurations et grands établissements, le règlement impose la source centrale.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0533-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0533-00.png]]
 
 **Figure 119. Exemple de bloc autonome d’éclairage de secours.** 
 
@@ -392,7 +392,7 @@ Il existe des normes à respecter pour qu’un groupe électrogène soit consid�
 
 Penser, lors de la conception, aux cheminées de rejet des gaz et aux procédures de dépotage des carburants. On rencontre couramment des groupes électrogènes dans les hôpitaux. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0534-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0534-01.png]]
 
 Figure 120. Exemple de groupes électrogènes de forte puissance. 
 
@@ -400,7 +400,7 @@ Figure 120. Exemple de groupes électrogènes de forte puissance.
 
 Comme les groupes électrogènes, les onduleurs peuvent être soit des alimentations électriques de sécurité, soit des alimentations de remplacement. Les systèmes d’alimentation sans interruption (ASI) utilisent des onduleurs.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0535-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0535-00.png]]
 
 Figure 121. Quelques exemples d’onduleurs (source : Eaton). 
 
@@ -408,7 +408,7 @@ Figure 121. Quelques exemples d’onduleurs (source : Eaton).
 
 L’ _énergie réactive_ est un phénomène électrique, lié au concept de cosϕ, qui engendre une surconsommation électrique. Les batteries de condensateurs sont des équipements qui permettent, en tarif vert et en tarif jaune, d’optimiser le fonctionnement des installations en compensant ce phénomène d’énergie réactive, sans toutefois le supprimer. La compensation de l’énergie réactive permet donc de diminuer le coût de la facture d’électricité. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0535-04.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0535-04.png]]
 
 Figure 122. Exemple de batterie de condensateurs (source : Legrand). 
 
@@ -422,7 +422,7 @@ Cette gaine accueille aussi le compteur Enedis et son « disjoncteur d’abonné
 
 Consulter la fiche SEQUELEC sur la gaine technique logement sur [www.enedis.fr](http://www.enedis.fr). Consulter les normes NF C15-100-07 et NF C14-100. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0536-03.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0536-03.png]]
 
 Figure 123. Exemple de gaine technique logement. 
 
@@ -502,7 +502,7 @@ Le régime de neutre, ou schéma de mise à la terre, est une notion complexe, q
 
 La barrette de connexion des neutres permet aux électriciens de savoir de quel régime de neutre relève un poste HT.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0540-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0540-00.png]]
 
 Figure 124. Connexion des neutres (les câbles sont vert et jaune). 
 
@@ -574,9 +574,9 @@ La lumière est caractérisée par sa température de couleur, exprimée en kelv
 
 **chaudes donnent une ambiance plus chaleureuse que les lumières froides.** 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0543-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0543-01.png]]
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0543-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0543-02.png]]
 
 **----- Start of picture text -----**<br>
 Figure 125. Ordres de grandeur de températures de couleur de la lumière<br>naturelle.<br>**----- End of picture text -----**<br>
@@ -645,7 +645,7 @@ L’éclairement dépend donc à la fois de l’appareil d’éclairage et de sa
 
 - **nuit de pleine lune : 0,25 lx.** 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0546-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0546-01.png]]
 
 Figure 126. Ordres de grandeurs de niveaux d’éclairement. 
 
@@ -671,11 +671,11 @@ Le principe de la fluorescence est utilisé dans les lampes à décharges. Les i
 
 - les _tubes fluorescents_ classiques (« néons »), couramment utilisés, commercialisés pour la première fois en 1937, et basés sur l’excitation d’atomes de mercure ; les plus courants sont les T8 et T5 ; 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0547-05.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0547-05.png]]
 
 - les lampes _fluocompactes_ courantes, apparues initialement en 1979, et basées sur la miniaturisation des tubes fluorescents ; 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0548-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0548-02.png]]
 
 Figure 128. Lampes fluocompactes. 
 
@@ -685,7 +685,7 @@ Les lampes à décharge à _haute pression_ (en anglais HID – _High Intensity 
 
 - _à vapeur de sodium haute pression_ (ou SHP, pour sodium haute pression), inventées en 1964, notamment utilisées en éclairage public, routier et industriel, du fait de leur bonne efficacité lumineuse et malgré leur faible indice de rendu des couleurs ; elles nécessitent un temps de mise en route de plusieurs minutes ; elles utilisent un ballast et un starter ; 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0548-06.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0548-06.png]]
 
 Figure 129. Lampe à vapeur de sodium haute pression. 
 
@@ -693,7 +693,7 @@ Figure 129. Lampe à vapeur de sodium haute pression.
 
 - ou _à iodures métalliques_ (ou _halogénures_ , et en anglais _metal halide_ ), lampes de forte puissance inventées en 1960, d’une température proche de la lumière naturelle, utilisées dans l’industrie cinématographique, la photographie, l’éclairage scénique, les musées, les commerces, l’éclairage des places publiques et monuments, etc. ; elles sont utilisées quand la priorité est donnée à la _qualité chromatique_ et au rendu des couleurs (attention toutefois, certains modèle possèdent un IRC relativement médiocre, pouvant aller jusqu’à 65) ; elles existent dans une large palette de couleurs, permettant de varier les effets ; l’ampoule contient de la vapeur de mercure haute pression dans laquelle on a ajouté des halogénures métalliques (le plus souvent des iodures) ; elles nécessitent un ballast et un système d’allumage. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0549-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0549-01.png]]
 
 Figure 130. Lampes aux halogénures métalliques. 
 
@@ -701,11 +701,11 @@ Figure 130. Lampes aux halogénures métalliques.
 
 Pour des raisons commerciales, les fabricants ne mettent souvent pas en avant la véritable composition des sources lumineuses. Ainsi, une ampoule fluocompacte n’est pas désignée sur les emballages comme « à vapeurs de mercure », car cela est perçu comme moins commercial. Ce manque de transparence ne facilite pas toujours la compréhension immédiate du sujet. **2.7.2.3. Lampes à LED** Après avoir été pendant des années les lampes de l’avenir, elles sont maintenant les lampes les plus couramment utilisées. Leur avantage est double : faible consommation et très longue durée de vie.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0550-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0550-00.png]]
 
 Figure 131. Détail de LED. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0550-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0550-02.png]]
 
 Figure 132. En éclairage public extérieur les LED sont maintenant omniprésentes. 
 
@@ -725,7 +725,7 @@ destiné à modifier le flux lumineux émis par la lampe. Ce système optique pe
 
 L’optique est caractérisée par un schéma de répartition du flux lumineux, appelé sur les fiches techniques _données photométriques_ . On parle par exemple pour les spots de faisceau intensif, semi-intensif, extensif, etc. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0551-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0551-02.png]]
 
 Figure 133. Exemple de schéma photométrique figurant sur la fiche technique d’un luminaire. 
 
@@ -745,7 +745,7 @@ On classe[40] les luminaires en :
 
 - éclairage indirect : dirigé vers le haut.** 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0552-01.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0552-01.png]]
 
 Figure 134. Types de luminaires. 
 
@@ -795,11 +795,11 @@ Ces automatismes, ou dispositifs de conduite, peuvent commander l’allumage et 
 
 Les détecteurs de présence, à infrarouges ou ultrasons, qui commandent l’allumage et l’extinction, sont adaptés pour les circulations, les sanitaires, les lieux souvent inoccupés.
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0555-00.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0555-00.png]]
 
 Figure 135. Un exemple de détecteur de présence infrarouge pour lieu de passage sans luminosité naturelle (source : Legrand). On appelle _horloges astronomiques_ des horloges programmables (très bon marché) de gestion de l’éclairage, capables de s’adapter aux horaires quotidiens de lever et coucher du soleil. Elles peuvent être synchronisées par GPS, par radio, etc. et sont bien adaptées aux grands sites et à l’éclairage public. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0555-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0555-02.png]]
 
 Figure 136. Un exemple d’horloge astronomique, ou interrupteur horaire programmable (source : Legrand). 
 

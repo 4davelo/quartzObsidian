@@ -29,7 +29,7 @@ familles_sources:
   - contrat
 ---
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0396-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0396-01.png]]
 
 
 **LA SECTION BATTERIE** 
@@ -84,4 +84,4 @@ Ces spécifications sont extraites de la NBN EN 13053+A1 :2011 §6.4.4
 
 - g) Pour pallier tout risque de corrosion, un collecteur en cuivre est recommandé dans le cas d’une exécution cuivre/cuivre ou cuivre/aluminium.
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0398-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0398-01.png]]

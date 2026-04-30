@@ -28,7 +28,7 @@ familles_sources: [ouvrage, gestion-projet]
 ---
 ## 4.8 Application 4-5
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0160-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0160-00.png]]
 
 _**Figure 4.49 Diagramme GANTT de l’application 4-4**_
 
@@ -116,8 +116,8 @@ _**Tableau 4.20 Tableau des rangs de l’application 4-5**_
 ||_Mise en place bacs_<br>_des aciers pour les_<br>_bâtiments A et B_||||
 |**_W_**|_Mise en place des_<br>_bardages pour les_<br>_bâtiments A et B_|_10_|_0_|_0_|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0166-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0166-00.png]]
 
 _**Figure 4.50 Réseau des antécédents de l’application 4-5**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0168-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0168-00.png]]

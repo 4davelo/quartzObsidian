@@ -294,7 +294,7 @@ Lorsque des menuiseries intègrent des parties ouvrantes pouvant donner lieu au 
 Lorsqu'il y a possibilité d'ouvrir la fenêtre de façon limitée tout en empêchant le passage d'un corps humain (p.ex. limitateur d'ouverture), il y a lieu de tester aux chocs la menuiserie en position ouverte. 
 
 
-![](images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0204-03.png)
+![[documents/CCTB/cctb-t4-fermetures-finitions-exterieures/images/T4_Fermetures___Finitions_extérieures_CCTB_01.13_20260317.pdf-0204-03.png]]
 
 
 **Endurance mécanique** 

@@ -79,7 +79,7 @@ L'entrepreneur est responsable de la sélection et doit si nécessaire adapter l
 
 Lorsqu’une bouche extérieure n’est pas connectée à un conduit d'air (par ex. dans le cas d'une ventilation basse d'une chaufferie), un capot "coupe-vent" (voir Fig. C15.1. -1) en aluminium ou en acier inoxydable est prévu derrière la grille, à l’intérieur du bâtiment.
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0466-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0466-01.png]]
 
 
 **----- Start of picture text -----**<br>

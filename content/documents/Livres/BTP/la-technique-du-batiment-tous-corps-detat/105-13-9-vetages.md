@@ -20,7 +20,7 @@ juridictions: [france, generique, ue]
 familles_sources: [ouvrage, guide, norme, reglementation]
 ---
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0744-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0744-00.png]]
 
 
 _**Fig. 13.13. Vêture isolante (source : Axter)**_
@@ -30,7 +30,7 @@ Le vêtage consiste à fixer mécaniquement des éléments manufacturés de pare
 Le parement peut être appliqué directement sur le support avec ou sans lame d’air ( **fg. 13.14** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0745-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0745-02.png]]
 
 
 _**Fig. 13.14. Vêtage avec lame d’air discontinue (source : Trimétal)**_ 

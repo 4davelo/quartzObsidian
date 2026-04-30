@@ -52,7 +52,7 @@ un dispositif de raccordement à l’habitation ; un dispositif à buts multiple
 
 un dispositif de raccordement de la canalisation de branchement au collecteur général appelé « point de raccordement ».
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0225-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0225-00.png]]
 
 
 _**Fig. 4.10. Regard de façade**_ 
@@ -71,9 +71,9 @@ de limiter les coûts en réalisant des branchements doubles ( **fg. 4.12** ).
 
 La fermeture du regard est assurée par un tampon devant résister aux charges envisageables sur les rives de la voie.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0227-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0227-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0228-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0228-00.png]]
 
 
 _**Fig. 4.12. Branchements doubles**_ 
@@ -99,7 +99,7 @@ les boîtes de raccordement ou regard borgne (non visitables), qui ont l’avant
 les raccords par piquage direct ou en tulipe, utilisés lorsqu’il n’existe pas de pièces de raccord préfabriquées. Ils consistent à percer le collecteur, emboîter l’élément de tuyau et réaliser un joint. L’amélioration des techniques de piquage en fait une solution de plus en plus fréquemment employée. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0229-05.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0229-05.png]]
 
 
 _**Fig. 4.13. Culotte de branchement**_

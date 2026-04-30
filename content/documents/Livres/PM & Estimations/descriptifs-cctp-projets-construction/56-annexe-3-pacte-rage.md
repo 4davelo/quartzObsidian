@@ -306,7 +306,7 @@ Intéressé(e) ? Inscrivez-vous à notre lettre d'information.
 
 Pour cela, rendez-vous à l'adresse [go.eyrolles.com/newsletter](http://go.eyrolles.com/newsletter) ou flashez ce QR code (votre adresse électronique sera à l'usage unique des éditions Eyrolles pour vous envoyer les informations demandées) :
 
-![QR code linking to the Eyrolles newsletter subscription page.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/c32495e31d3a5aa472a78b3925334d87_5_img.webp)A square QR code with a black and white pixelated pattern, used for linking to the Eyrolles newsletter subscription page.
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/c32495e31d3a5aa472a78b3925334d87_5_img.webp]]A square QR code with a black and white pixelated pattern, used for linking to the Eyrolles newsletter subscription page.
 
 Merci pour votre confiance.
 

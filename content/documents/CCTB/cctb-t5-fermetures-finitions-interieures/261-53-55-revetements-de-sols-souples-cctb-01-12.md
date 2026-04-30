@@ -100,7 +100,7 @@ Les revêtements de sol sont posés suivant les recommandations de la [NIT 241] 
 La mise en œuvre nécessite une température minimale du support conforme aux valeurs mentionnées dans le tableau ci-dessous, dépendant des conditions ambiantes du local (cf. §7.5 de la [NIT 241] pour les revêtements résilients et §7.5 de la [NIT 262] pour les revêtements textiles). 
 
 
-![](images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0406-07.png)
+![[documents/CCTB/cctb-t5-fermetures-finitions-interieures/images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0406-07.png]]
 
 
 Au préalable à la pose, le taux d'humidité du support est mesuré à l'aide de la méthode CM et il convient de s'assurer que les exigences du § 5.2.2.5. de la [NIT 241] pour les revêtements résilients et du §5.2.2.5 de la [NIT 262] pour les revêtements textiles  sont satisfaites avant la pose des revêtements de sol souples. 

@@ -46,7 +46,7 @@ Dans le cas de cheminées construites sur place, y compris les cheminées exista
 La Fig. C3.1.-1 ci-dessous montre les composants ou parties constituantes d'une cheminée multi parois construite sur place. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0145-09.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0145-09.png]]
 
 
 **LEGENDE** 
@@ -76,7 +76,7 @@ La figure C3.1.-2 reprend les paramètres dimensionnels tels que définis ci-des
 - La hauteur de tirage est la somme de la hauteur effective du conduit de fumée (Hc) et de la hauteur effective du conduit de raccordement (Hv), donc : Ht = Hc + Hv. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0146-05.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0146-05.png]]
 
 
 **LEGENDE** 
@@ -103,7 +103,7 @@ Par « systèmes d’évacuation de fumée » on comprend des cheminées préfab
 
 La Fig. C3.1.-3 montre schématiquement les composants d'un système d’évacuation de fumée.
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0147-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0147-01.png]]
 
 
 - **LEGENDE** 3.1 trappe d'accès 3.2 dispositif de ventilation pour l’espace entre le conduit d'évacuation et le mur extérieur 
@@ -226,7 +226,7 @@ Chaque conduit de fumée doit être marqué comme indiqué dans la norme NBN EN 
 **Classe de pression** : résistance à la pression à laquelle les produits de combustion sont évacués.  Cette pression donne la pression différentielle entre la pression dans le conduit et la pression atmosphérique. Classes: **dépression** (vis-à-vis la pression atmosphérique) **classe N surpression classe P grande surpression classe H** chaque classe de pression est divisée en deux sous classes, ainsi il existe 6 classes de pression : N1, N2, P1, P2, H1 et H2 **Résistance à la pénétration de condensats** : dans la classe de résistance aux condensats nous distinguons deux classes: la **classe sec** (dry) **(D)** et la **classe humide** (wet) **(W) Résistance à la corrosion** : La résistance à la corrosion est indiquée comme suit dans la norme NBN EN 1856-1 • V1 pour les produits testés suivants la norme annexe A • V2 pour les produits testés suivants la norme annexe B • V3 pour les produits testés suivants la norme annexe C • Vm pour les produits qui ont une auto certification du fabricant Note: l’essai type V1 est fait avec du gaz naturel l’essai type V2 est fait avec du fioul léger l’essai type V3 est fait avec du fioul lourd, du charbon ou du bois **Spécification du matériau** du conduit intérieur (lettre L suivie de 2 chiffres) Nuance de N° conforme conforme matériau suivant EN 10088-1 ANSI 201 EN 1856-1 20 1.4301 304 30 1.4307 304L 40 1.4401 316 50 1.4404 316L 1.4571 316TI 60 1.4432 316L* 70 1.4539 904L 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0149-06.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0149-06.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -247,7 +247,7 @@ Epaisseur de paroi  (3 chiffres en centièmes de mm)<br>Résistance au feu de ch
 
 Fig. C3.1.-4 – Exemple de marquage d’un conduit d’évacuation composé – acier inoxydable à double paroi - répondant à la norme NBN EN 1856-1
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0150-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0150-01.png]]
 
 
 **----- Start of picture text -----**<br>

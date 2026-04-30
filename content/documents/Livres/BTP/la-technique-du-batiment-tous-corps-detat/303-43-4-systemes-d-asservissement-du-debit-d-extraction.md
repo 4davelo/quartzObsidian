@@ -50,7 +50,7 @@ Ces systèmes autorisés par la réglementation de 1982, complétée par celle d
 
 Elles sont employées lorsque des appareils à gaz sont raccordés au réseau de VMC ( **fg. [43.6](305_43.6_puits_canadien_ou_puits_provençal.md)** ). Ces bouches, dont l’ouverture est plus importante lorsque l’appareil à gaz fonctionne, permettent d’asservir le débit d’extraction au fonctionnement de l’appareil.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1730-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1730-00.png]]
 
 
 _**Fig. 43.6. Principe de la bouche d’extraction thermomodulante**_ 
@@ -63,7 +63,7 @@ Comme dans la VMC à simple flux, l’air neuf est admis dans toutes les chambre
 
 Deux catégories de systèmes peuvent être utilisées : système de catégorie A : sorties hygroréglables exclusivement ; on peut adjoindre à ce système des entrées d’air insonorisantes ( **fg. 43.7** ) en zone de bruit ; système de catégorie B : entrées et sorties hygroréglables. Pour ce système, les entrées d’air déterminent, suivant le taux d’humidité de chaque chambre et du séjour, la répartition du débit imposé par les bouches d’extraction.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1732-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1732-00.png]]
 
 
 _**Fig. 43.7. Entrées d’air insonorisante (source : Aldes)**_ 
@@ -85,7 +85,7 @@ Dans certains cas de réhabilitation, il existe des bouches fonctionnant en « t
 Le système est composé de volets pouvant pivoter, ce qui détermine un passage d’air variable en fonction de la position d’une tresse sensible à l’humidité ( **fg. 43.8** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1733-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1733-04.png]]
 
 
 _**Fig. 43.8. Entrée d’air hygroréglable (source : Aldes)**_
@@ -93,7 +93,7 @@ _**Fig. 43.8. Entrée d’air hygroréglable (source : Aldes)**_
 La ventilation hygroréglable exige des ventilateurs spéciaux permettant de garantir une dépression stable pour un débit qui peut varier de 1 à 6 ( **photo [43.4](303_43.4_systèmes_dasservissement_du_débit_dextraction.md)** ). Par ailleurs, la réglementation thermique conduit désormais à la mise en place de ventilateurs basse consommation ou « microwatt ». 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1734-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1734-01.png]]
 
 
 _**Photo 43.4. Ventilateur d’extraction en caisson EasyVEC d’Aldes (source : Aldes)**_ 

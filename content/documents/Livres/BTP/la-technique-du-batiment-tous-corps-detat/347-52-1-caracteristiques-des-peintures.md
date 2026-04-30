@@ -109,7 +109,7 @@ Une modification importante des techniques de mise en œuvre mérite d’être s
 
 En complément, l’étiquette « Émissions dans l’air intérieur » ( **fg. [52.1](347_52.1_caractéristiques_des_peintures.md)** ), définie par le décret n° 2011-321 du 23 mars 2011, est obligatoire depuis septembre 2013 pour les produits de construction et de décoration. Elle indique le niveau d’émission en polluants volatils des produits de construction et de décoration. Le classement comporte quatre niveaux, de A+ pour les produits les moins émetteurs à C pour les produits les plus émetteurs. Onze polluants sont visés par la réglementation ; le classement affiché sur l’étiquette correspond à celui du composant le plus pénalisant.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1943-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1943-00.png]]
 
 
 _**Fig. 52.1. Étiquette devant obligatoirement être apposée sur les produits de construction et de décoration**_ 

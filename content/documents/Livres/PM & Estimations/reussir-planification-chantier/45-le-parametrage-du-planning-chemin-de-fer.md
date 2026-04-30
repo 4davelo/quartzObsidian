@@ -34,14 +34,14 @@ unité à la semaine, puis à la journée. Le Lean Construction reste une démar
 
 De plus, tous les plannings ne possèdent pas la même granulométrie suivant leur destination. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0223-02.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0223-02.png]]
 
 _**Figure [6.5](48_6.5_les_séquences_travaux.md) Exemple des différents types de planning en Lean Construction**_ 
 
 Il est inutile de raisonner en jours pour un planning d’études, car celui-ci va mettre des jalons sur des rendus au plus tard. _A contrario_ , il est rare de ne pas trouver un planning de chantier à la journée, tant les enclenchements sont multiples sur une semaine de travail. Concernant les plannings à la journée, le choix est laissé de faire apparaître les jours non travaillés comme les week-ends, les jours fériés, les vacances, etc. Par convention, ceux-ci sont grisés pour rappeler au lecteur que c’est un jour chômé (voir **fg. [6.6](49_6.6_application_6-2.md)** et **[6.7](50_6.7_le_rythme_des_travaux_takt_time.md)** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0224-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0224-00.png]]
 
 _**Figure [6.6](49_6.6_application_6-2.md) Un planning « grosse maille » pour cadrer le projet au départ**_ 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0224-02.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0224-02.png]]

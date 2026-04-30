@@ -98,7 +98,7 @@ la vanne à secteur ; la vanne à soupape.
 
 La pompe étant toujours montée sur le circuit à débit constant qui alimente les radiateurs, la vanne sera montée en mélange sur le circuit aller ( **fg. 39.9** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1615-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1615-00.png]]
 
 
 _**Fig. 39.9. Montage de la vanne permettant d’obtenir un débit constant et une température variable de l’eau**_ 
@@ -106,7 +106,7 @@ _**Fig. 39.9. Montage de la vanne permettant d’obtenir un débit constant et u
 Pour éviter le parasitage du vase d’expansion sur le circuit chauffage, il est recommandé de raccorder ce vase sur la tuyauterie de retour à la chaudière, entre la chaudière et la « crosse », tel que représenté sur la **fgure 39.10** . 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1615-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1615-03.png]]
 
 
 _**Fig. 39.10. Raccordement du vase d’expansion**_
@@ -129,7 +129,7 @@ Elle ne doit pas être peinte ni placée sous un auvent. Rendue facilement acces
 
 La sonde d’applique doit être mise en place sur un tuyau préalablement gratté (absence de rouille et de peinture). Il faut proscrire toute position pour laquelle, par suite d’une fuite d’eau, il pourrait y avoir infiltration dans la sonde, court-circuit et mise hors service de la régulation. La position de la sonde d’applique diffère selon que la pompe est montée sur le départ ( **fg. 39.11** .a et **fg. 39.11** .c) ou sur le retour ( **fg. 39.11** .b).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1618-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1618-00.png]]
 
 
 _**Fig. 39.11. Positions de la sonde d’applique en fonction de l’installation de la pompe**_ 
@@ -139,7 +139,7 @@ _**Fig. 39.11. Positions de la sonde d’applique en fonction de l’installatio
 Installée de préférence dans un coude de l’installation, la sonde à plongeur doit être montée dans le sens d’écoulement du fluide ( **fg. 39.12** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1618-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1618-04.png]]
 
 **39.4.2 Régulation du chauffage à eau chaude en fonction de la température extérieure** 
 
@@ -161,7 +161,7 @@ une sonde d’ambiance par horloge digitale (jour/hebdo) assortie de trois progr
 
 Enfin, un servomoteur, équipé d’un dispositif de débrayage et d’une commande manuelle, et une vanne à secteur à trois voies complètent le système ( **fg. 39.13** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1620-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1620-00.png]]
 
 
 _**Fig. 39.13. Principe de régulation en logement individuel**_ 
@@ -196,7 +196,7 @@ Ce système est sans point fixe et il convient à tous les systèmes de chauffag
 
 La base du schéma d’installation est alors celle représentée sur la **fgure 39.14** .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1622-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1622-00.png]]
 
 
 _**Fig. 39.14. Mise en place d’une sonde de retour en applique dans le schéma de principe de la figure 39.13**_ 
@@ -205,7 +205,7 @@ _**Fig. 39.14. Mise en place d’une sonde de retour en applique dans le schéma
 
 La différence essentielle entre cette installation pour chauffage par le sol ( **fg. 39.15** ) et celle pour chauffage par radiateurs réside principalement dans la limitation de la température de l’eau à l’entrée dans les grilles ( _t_ ≤ 40 °C). Cette limitation est obtenue par action sur la vanne motorisée et contrôlée par un thermostat de sécurité à réarmement manuel (différentiel : ± 3,5 K).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1623-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1623-00.png]]
 
 
 _**Fig. 39.15. Principe de régulation dans le cas d’une installation individuelle de chauffage par le sol**_ 
@@ -238,7 +238,7 @@ une sonde extérieure ; une sonde de départ ; une sonde d’ambiance.
 
 Enfin, un servomoteur (équipé d’un dispositif de débrayage et d’une commande manuelle) et une vanne à secteur à trois voies complètent
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1625-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1625-01.png]]
 
 
 _**Fig. 39.16. Principe de régulation dans un ensemble résidentiel**_ 
@@ -249,7 +249,7 @@ Ce système présente de nombreux avantages : une régulation progressive de la 
 
 une programmation par jeu de cartes à codage optique (textes en clair) ; une optimisation à l’enclenchement et au déclenchement avec sonde d’ambiance ; une optimisation horaire sans sonde d’ambiance (habitations collectives) ; un programme quotidien/hebdomadaire/annuel avec des programmes dédiés « vacances/jours fériés » ; un basculement automatique en heure d’été/heure d’hiver ; des courbes de chauffe s’adaptant à l’inertie thermique du bâtiment ; une fonction « Éco » (températures de non-chauffage) ; une prise en compte de la constante de temps du bâtiment et du pourcentage de vitrages ; une commande pompe : périodique (antigrippage) et arrêt retardé ; une fonction antigel (ambiance et installation) ; un dialogue possible entre plusieurs régulateurs (jusqu’à 6) ; une centralisation et un dialogue depuis PC par l’intermédiaire du réseau téléphonique ou satellite ( **fg. 39.17** ) ; une indication permanente de température extérieure, départ et ambiance ; un affichage des jours de chauffe, valeurs des sondes, défauts.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1627-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1627-00.png]]
 
 
 _**Fig. 39.17. Principe d’une régulation à distance par réseau téléphonique et microordinateur**_
@@ -282,7 +282,7 @@ Trois éléments thermosensibles sont utilisés par les fabricants, qui proposen
 
 à tension de vapeur (soufflet rempli d’un gaz thermosensible).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1629-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1629-00.png]]
 
 
 _**Fig. 39.18. Robinet thermostatique à détecteur de mesure incorporé**_ 

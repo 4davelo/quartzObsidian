@@ -67,7 +67,7 @@ Au contraire, si le maître d’ouvrage a pris une assurance dommageouvrage, ell
 
 La dommage-ouvrage expire en même temps que la garantie décennale. 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1062-05.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1062-05.png]]
 
 Figure 226. Processus d’indemnisation de la dommage-ouvrage.
 

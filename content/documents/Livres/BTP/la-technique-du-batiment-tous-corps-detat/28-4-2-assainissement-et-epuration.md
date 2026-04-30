@@ -72,7 +72,7 @@ eaux pluviales (EP) : eaux de ruissellement provenant des toitures.
 
 La **fgure 4.2** présente un schéma type (en plan) du système d’évacuation des eaux.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0208-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0208-00.png]]
 
 
 _**Fig. 4.2. Vue en plan d’un système d’évacuation des eaux**_ 
@@ -89,7 +89,7 @@ Pour le bon fonctionnement des dispositifs d’épuration, majoritairement conç
 
 Le système unitaire ( **fg. [4.3](29_4.3_évacuation_des_eaux_pluviales.md)** .b) consiste à évacuer l’ensemble des eaux usées et pluviales par un seul et même réseau, généralement pourvu de déversoirs d’orage. Ceux-ci permettent le rejet direct par surverse d’une partie des eaux dans le milieu naturel. Ce système est encore en service dans des communes anciennement assainies.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0211-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0211-00.png]]
 
 
 _**Fig. 4.3. Systèmes de collecte des eaux usées et des eaux pluviales**_ 
@@ -118,14 +118,14 @@ Les systèmes d’épuration mis en œuvre à l’échelle des opérations d’u
 
 - l’assainissement autonome groupé, qui relève du même principe que l’assainissement individuel, mais qui est appliqué à des groupements de constructions individuelles ou collectives. Le réseau collecte les eaux usées vers une fosse septique collective ou, plus rarement, vers un décanteurdigesteur ( **fg. [4.4](30_4.4_mise_en_place_des_réseaux_eu_et_ep.md)** ). Les eaux septiques sont traitées par un épandage souterrain alimenté par bâchées ( **fg. [4.5](31_4.5_branchements.md)** ). Les surfaces occupées par l’épandage correspondent à 3 à 6 m[2] par habitant,
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0213-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0213-00.png]]
 
 
 _**Fig. 4.4. Principe d’un décanteur-digesteur**_ 
 
 le lagunage naturel, qui permet à un processus d’épuration lent de se développer pendant les 2 mois de transit des eaux usées dans une succession de lagunes de faible profondeur. L’exutoire du lagunage est généralement un écoulement superficiel. Les surfaces de lagunage sont de l’ordre de 18 m[2] par habitant,
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0214-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0214-00.png]]
 
 
 _**Fig. 4.5. Coupe d’une tranchée filtrante**_ 
@@ -150,18 +150,18 @@ Une autre filière, assez répandue, est constituée d’un dégrillage, d’un 
 
 Le lagunage aéré, qui constitue une variante rustique des stations biologiques conventionnelles comprend un bassin d’activation muni d’aérateurs flottants, suivi d’une ou de deux lagunes de décantation.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0217-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0217-00.png]]
 
 
 _**Fig. 4.6. Lit filtrant vertical (ou filtre à sable vertical)**_ 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0217-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0217-02.png]]
 
 
 _**Fig. 4.7. Station biologique**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0218-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0218-00.png]]
 
 
 _**Fig. 4.8. Filière avec lit bactérien**_ 

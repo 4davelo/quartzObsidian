@@ -69,10 +69,10 @@ _**Tableau 3.16 Détermination des rangs des tâches de l’application 3-3**_
 |**Rang 1**|**Rang 2**||**Rang 3**|**Rang 4**||**Rang 5**||**Rang 6**|**Rang 7**|
 |_A_|_B – C_||_D – E – G_|_F – H_||_I_||_J_|_K_|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0088-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0088-00.png]]
 
 _**Figure 3.19 Matrice d’antériorité de l’application 3-3**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0089-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0089-00.png]]
 
 _**Figure 3.20 Réseau des antécédents de l’application 3-3**_

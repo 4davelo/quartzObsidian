@@ -121,7 +121,7 @@ L'épaisseur des parois ne peut cependant jamais être inférieure à O,4 mm ± 
 On appelle affaissement "c" la distance entre le niveau passant par les point d'appui du conduit et le niveau passant par le point le plus bas de la surface inférieure de l'enveloppe après application de la charge "F". (Voir Fig. C14.2.-1) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0445-08.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0445-08.png]]
 
 
 Fig. C14.2.-1 
@@ -131,7 +131,7 @@ Fig. C14.2.-1
 On appelle déformation "s" de chacune des quatre faces d'un conduit rectangulaire la distance entre la surface S contenant cette face avant l'application de la charge F et de la pression du test mécanique "pc" et le point de la même face le plus éloigné de la surface S après application. (Voir Fig. C14.2.-2) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0445-12.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0445-12.png]]
 
 
 Fig. C14.2.-2
@@ -182,7 +182,7 @@ Un exemple d'appareil de test est représenté à la Fig. C14.2.-3. L'appareil d
 
 Les poids, cylindres de pression ou autres dispositifs servant à appliquer la charge, sont étudiés pour que l'erreur ne dépasse pas ± 10 N.
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0447-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0447-01.png]]
 
 
 Fig. C14.2.-3 
@@ -194,7 +194,7 @@ Le principe de l'appareil d'essai est représenté à la Fig. C14.2.-4.
 Le ventilateur doit pouvoir fournir une pression statique au moins égale à 1,5 fois la pression d'essai mécanique et un débit supérieur de 10 % au débit de fuite admissible sous cette pression. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0447-06.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0447-06.png]]
 
 
 Fig. C14.2.-4 
@@ -220,7 +220,7 @@ Après avoir été pesé, le conduit est placé sur les supports. Les conduits r
 Les conduits destinés à être attachés à chaque raccord sont disposés de telle manière qu'un raccord repose directement à l'extérieur de chaque support. (Voir Fig. C14.2.-5) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0448-07.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0448-07.png]]
 
 
 Fig. C14.2.-5 
@@ -228,11 +228,11 @@ Fig. C14.2.-5
 Les autres conduits sont disposés de telle façon qu'un raccord se trouve à mi-distance entre les supports. (Voir Fig. C14.2.-6) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0448-10.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0448-10.png]]
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0448-11.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0448-11.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -362,11 +362,11 @@ Les coudes et les transformations de section sont réalisés conformément aux n
 - Les coudes doivent répondre aux figures Fig. C14.2.-7 et Fig. C14.2.-8 avec un rayon intérieur r = 100 mm. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0451-13.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0451-13.png]]
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0451-14.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0451-14.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -374,7 +374,7 @@ Fig. C14.2.-7<br>**----- End of picture text -----**<br>
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0451-15.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0451-15.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -390,7 +390,7 @@ r = 100 mm l =(0,5 a + r ) tg α/2 + 2 Fig. C14.2.-8
 - Tous les coudes de grandes dimensions devront être équipés d’aubes directrices en conformité avec le tableau ci-dessous en ce qui concerne leur placement et le nombre d’aubes. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0452-04.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0452-04.png]]
 
 
 |Largeur du conduit<br>mm|Nombre<br>d’aubes|Distance entre aubes (mm)|Distance entre aubes (mm)|Distance entre aubes (mm)|
@@ -405,7 +405,7 @@ Tab. C14.2.-2
 - Toutes les transformations de section, concentriques et excentriques, entre les conduits rectangulaires devront être fabriquées conformément aux figures Fig. C14.2.-9 et Fig. C14.2.-10 . L’angle α doit être ≤ 30°. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0452-08.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0452-08.png]]
 
 
 Fig. C14.2.-9 
@@ -417,11 +417,11 @@ Fig. C14.2.-10
 L’angle α doit être ≤ 30°. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0453-03.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0453-03.png]]
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0453-04.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0453-04.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -446,7 +446,7 @@ e ≥ 25 mm  e ≥ 25 mm<br>Fig. C14.2.-11  Fig. C14.2.-12<br>**----- End of pic
    - L’angle α doit être ≤ 30°. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0454-03.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0454-03.png]]
 
 
 l=(d1-d2)/[2 tan (α/2)] 
@@ -482,11 +482,11 @@ Les dérivations et jonctions latérales peuvent être réalisées de deux mani�
 - Soit avec une branche droite à section constante et une branche dérivée ou greffée "cylindrique" formant avec la branche droite un angle de 90° ; aucun organe ne guide le flux d'air dans la branche dérivée ou greffée (Voir Fig. C14.2.-16) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0455-04.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0455-04.png]]
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0455-05.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0455-05.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -496,7 +496,7 @@ Fig. C14.2.-16<br>**----- End of picture text -----**<br>
 - Soit avec une branche dérivée ou greffée constituée d'un coude normalisé, les vitesses étant égales dans les trois sections. (Voir Fig. C14.2.-17) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0455-07.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0455-07.png]]
 
 
 Fig. C14.2.-17
@@ -504,7 +504,7 @@ Fig. C14.2.-17
 - Les dérivations et jonctions en té sont construites au moyen de deux coudes normalisés placés côte à côte, les vitesses étant égales dans les trois sections. (Voir Fig. C14.2.-18) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0456-02.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0456-02.png]]
 
 
 Fig. C14.2.-18 
@@ -516,7 +516,7 @@ Les dérivations et jonctions latérales comportent toujours une branche droite 
 Elles sont composées d’une pièce spéciale du type “piquage embouti” (voir Fig. C14.2.-19) jusque et y compris le diamètre 630 mm pour le conduit principal ou du type “piquage conique” (voir Fig. C14.2.20) pour les diamètres nominaux de plus de 630 mm. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0456-07.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0456-07.png]]
 
 
 r ≥ 10 mm s > 0,15 d3 l3 > 0,5 d + r l3 > 0,5 d + s d ≤ 630 d > 630 Piquage embouti Piquage conique Fig. C14.2.-19 Fig. C14.2.-20
@@ -524,7 +524,7 @@ r ≥ 10 mm s > 0,15 d3 l3 > 0,5 d + r l3 > 0,5 d + s d ≤ 630 d > 630 Piquage 
 Elles peuvent aussi être composées d’une pièce spéciale type “Té avec piquage embouti concentrique” (Voir Fig. C14.2.-21) jusque et y compris le diamètre 630 mm pour le conduit principal. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0457-02.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0457-02.png]]
 
 
 l1 > 0,5 d3 + r d1 ≤ 630 mm l3 > 0,5 d1 + r r ≥ 10 mm 
@@ -534,7 +534,7 @@ Fig. C14.2.-21
 Ou du type “Té avec piquage conique” (Voir Fig. C14.2.-22), pour les diamètres nominaux > 630 mm. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0457-06.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0457-06.png]]
 
 
 a) Piquage b) Piquage l1 > 0,5 d3 + s concentrique tangentiel l3 > 0,5 d1 + s s > 0,15 d3 d1 > 630 mm 

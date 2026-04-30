@@ -322,4 +322,4 @@ PM
 Friction initiale [NBN EN 1527:2019+A1] : 
 
 
-![](images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0745-10.png)
+![[documents/CCTB/cctb-t5-fermetures-finitions-interieures/images/T5_Fermetures___Finitions_intérieures_CCTB_01.13_20260317.pdf-0745-10.png]]

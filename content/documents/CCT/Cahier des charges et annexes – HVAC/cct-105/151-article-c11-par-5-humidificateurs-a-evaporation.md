@@ -62,7 +62,7 @@ De plus, une distance d'au moins 10 cm est laissée libre entre la masse d'humid
 La figure C11.5.-1 ci-après reprend les accessoires à prévoir pour un humidificateur à évaporation et pour la section d'humidification dans laquelle il est intégré (voir également l'art. C12. PAR. 6) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0365-03.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0365-03.png]]
 
 
 Fig. C11.5.-1 

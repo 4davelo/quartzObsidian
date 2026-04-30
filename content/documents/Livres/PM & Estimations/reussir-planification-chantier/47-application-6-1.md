@@ -38,7 +38,7 @@ On demande de :
 
 2. Définir le micro-zoning pour les zones concernant des locaux commerciaux (coques). Pour information, la coque 1 possède une surface d’environ 60 m[2] . La coque 3 fait le double de surface de la coque 1.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0231-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0231-00.png]]
 
 _**Figure 6.12 Plan du centre commercial à étudier**_ 
 
@@ -46,12 +46,12 @@ _**Figure 6.12 Plan du centre commercial à étudier**_
 
 1. Il y a quatre typologies différentes : local commercial (coque) ; bloc sanitaire ; circulation ; hall.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0232-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0232-00.png]]
 
 _**Figure 6.13 Plan du centre commercial avec les différentes typologies de zone**_ 
 
 2. Deux solutions sont possibles. En s’appuyant sur la convention qui définit la surface d’une micro-zone entre 150 m[2] et 250 m[2] , on trouve 3 ou 4 équivalents petites coques (type coque 1). Pour information, il est fréquent que les dernières micro-zones soient plus grandes ou plus petites que les zones précédentes.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0233-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0233-00.png]]
 
 _**Figure 6.14 Plan du centre commercial avec les micro-zones des locaux commerciaux**_

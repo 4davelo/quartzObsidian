@@ -91,7 +91,7 @@ un tout-venant stabilisé mécaniquement (mélange de cailloux, gravier et sable
 
 La dalle est surmontée d’une couche anticontaminante (film en polyéthylène de 150 ∝m ou couche de sable de 5 cm) pour empêcher la pollution du béton par les constituants de la forme au moment du coulage ( **fg. 11.26** .b et **fg. 11.26** .c). Le film en polyéthylène revêt également une fonction anticapillaire.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0642-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0642-00.png]]
 
 **11.6.2 Corps du dallage** 
 
@@ -111,11 +111,11 @@ La réglementation thermique précise que les planchers sur terre-plein des loca
 
 Cet isolant doit supporter les charges auxquelles il est soumis et sera protégé des coulures de béton par un film plastique.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0644-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0644-00.png]]
 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0644-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0644-01.png]]
 
 
 **----- Start of picture text -----**<br>

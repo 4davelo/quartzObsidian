@@ -51,7 +51,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 Il s’agit de profilés de section rectangulaire issus de la découpe du bois, d’épaisseur variable de 25 à 300 mm et de 15 à 200 mm de largeur ( **fg. [8.3](64_8.3_place_du_bois_dans_la_construction.md)** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0523-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0523-01.png]]
 
 
 _**Fig. 8.3. Stockage de bois massif**_ 
@@ -61,7 +61,7 @@ _**Fig. 8.3. Stockage de bois massif**_
 Il s’agit de profilés de section rectangulaire constitués de lames de bois massif collés parallèlement au sens des fibres, d’épaisseur variable de 60 à 240 mm et de 100 à 280 mm de hauteur ( **fg. [8.4](65_8.4_réglementation_de_la_construction_en_bois.md)** ). Ils sont utilisés en charpente traditionnelle. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0523-05.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0523-05.png]]
 
 **8.2.3 Bois massif aboutés** 
 
@@ -70,7 +70,7 @@ Il s’agit de profilés de section rectangulaire obtenus par collage en bout à
 Ils sont utilisés en charpente traditionnelle. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0524-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0524-03.png]]
 
 
 _**Fig. 8.5. Exemple de pièces aboutées (source : Comptoir des bois)**_ 
@@ -81,7 +81,7 @@ Ses principes de fabrication sont identiques à ceux du BMR, mais avec des pièc
 
 Il est utilisé en charpente traditionnelle et industrielle pour de grandes portées, y compris avec charpentes cintrées ( **fg. [8.6](67_8.6_immeubles_collectifs_en_bois.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0525-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0525-00.png]]
 
 
 _**Fig. 8.6. Charpente en bois lamellé-collé (source : « Spacewood – Roofing For Sports Facilities », Wood System)**_
@@ -89,7 +89,7 @@ _**Fig. 8.6. Charpente en bois lamellé-collé (source : « Spacewood – Roofin
 Les panneaux de bois lamellé-croisé, ou CLT (pour _cross-laminated timber_ ), sont des panneaux en bois massif mis au point par l’ingénieur français Pierre Gauthier en 1947. Ils sont composés de plusieurs plis en nombre impair (de 3 à 7 couches pour une épaisseur entre 6 et 50 cm), collés perpendiculairement ( **fg. 8.7** ). Ces panneaux sont utilisés en murs, planchers, support de couverture et d’étanchéité. Ils permettent de reprendre des descentes de charges et des efforts horizontaux relativement élevés par rapport à l’ossature bois et constituent ainsi une solution pour la construction de bâtiments bois au-delà de R+4. Leurs caractéristiques sont définies par la norme NF EN 16351. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0526-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0526-02.png]]
 
 
 _**Fig. 8.7. Panneaux CLT 5 plis et 3 plis**_ 
@@ -114,7 +114,7 @@ Les panneaux lamibois, ou LVL (pour _laminated veneer lumber_ ), sont constitué
 
 De 25 à 75 mm d’épaisseur et de 100 à 2 500 mm de largeur, ils sont utilisés comme panneaux autoportants supports de couverture, de poutre ou de poutre composite.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0528-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0528-00.png]]
 
 
 _**Fig. 8.8. Panneau en lamibois (source : Steico)**_ 
@@ -123,7 +123,7 @@ _**Fig. 8.8. Panneau en lamibois (source : Steico)**_
 
 Il s’agit de poutres à âme bois ou métallique avec membrures en bois ( **fg. 8.9** ). Leur assemblage se fait par collage ou de manière mécanique.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0530-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0530-01.png]]
 
 
 **

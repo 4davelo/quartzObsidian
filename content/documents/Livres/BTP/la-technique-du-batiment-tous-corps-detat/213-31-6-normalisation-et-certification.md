@@ -140,7 +140,7 @@ Le coefficient _U_ g exprime la transmission thermique du vitrage en partie cour
 
 Les effets de bord (y) « _warm edge_ » ( **fg. [31.5](212_31.5_vitrages_isolants.md)** ) sont pris en compte lors du calcul de la performance thermique de la fenêtre ( _U_ w). Le remplacement des espaceurs courants en aluminium par des espaceurs moins conducteurs (acier inoxydable, matériaux de synthèse, mixte…) permet de réduire les effets de bord et d’améliorer la performance thermique de la fenêtre. Les espaceurs non traditionnels font l’objet de justifications techniques particulières, tels que des documents techniques d’application (DTA)…
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1279-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1279-00.png]]
 
 
 _**Fig. 31.5. Effet de bord warm edge (source : Cekal)**_ 
@@ -151,7 +151,7 @@ de la dimension du vitrage ;
 
 de la nature des menuiseries ; des éléments de ventilation ; des autres éléments constitutifs de la façade.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1280-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1280-00.png]]
 
 
 _**Fig. 31.6. Triple vitrage à isolation thermique renforcée**_ 

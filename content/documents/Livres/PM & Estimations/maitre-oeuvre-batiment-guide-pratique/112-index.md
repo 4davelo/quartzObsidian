@@ -142,6 +142,6 @@ Pour suivre toutes les nouveautés numériques du Groupe [Eyrolles](http://www.f
 
 Et retrouvez toutes les nouveautés papier sur 
 
-![](images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1135-02.png)
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1135-02.png]]
 
 @[Eyrolles](http://www.facebook.com/Eyrolles) Eyrolles

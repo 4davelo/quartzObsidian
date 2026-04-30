@@ -75,7 +75,7 @@ Pour tracer un réseau et calculer les durées par la méthode PERT, il est util
 
 - sommets du graphe, appelée aussi borne ou événement. Elle ne consomme aucun moyen et a une durée nulle. L’étape marque le début d’une ou plusieurs tâches ou la fin d’une ou plusieurs opérations. Elle est caractérisée par la date d’arrivé au plus tôt (TE), la date d’arrivé au plus tard (TL) et le battement. La **fgure [4.2](27_4.2_application_4-1.md)** présente les caractéristiques de l’étape 3 du graphe de la **fgure 4.1** .
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0092-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0092-00.png]]
 
 **Figure [4.2](27_4.2_application_4-1.md) Détails représentés dans une étape** 
 
@@ -83,7 +83,7 @@ Pour tracer un réseau et calculer les durées par la méthode PERT, il est util
 
 - Tâche fictive : une opération fictive est symbolisée par un trait discontinu orienté, utilisé pour visualiser une contrainte d’enchaînement qui lie deux étapes situées sur des chemins différents. Dans la **fgure [4.4](29_4.4_étude_de_cas_des_liaisons_avec_décalage_du_réseau_des_antécédents.md)** , la tâche J est une tâche fictive qui entraîne une liaison de dépendance entre les tâches F et G avec la tâche B. Il faut signaler qu’une tâche fictive peut modifier la durée du projet et le battement d’une étape, bien
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0093-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0093-00.png]]
 
 **----- Start of picture text -----**<br>
 qu’elle ait une durée nulle.<br>Figure [4.4](29_4.4_étude_de_cas_des_liaisons_avec_décalage_du_réseau_des_antécédents.md) Représentation du graphe contenant une opération fictive<br>•  Séquence logique (ou chemin) : elle est composée par une<br>**----- End of picture text -----**<br>
@@ -92,7 +92,7 @@ qu’elle ait une durée nulle.<br>Figure [4.4](29_4.4_étude_de_cas_des_liaison
 
 - Chemin critique : c’est le chemin le plus long qui définit la durée totale d’exécution du projet. Il passe par toutes les étapes qui ont des battements nuls et représente sa colonne vertébrale. Le chemin critique est formé des tâches critiques qui ont des dates au plus tôt égales aux dates au plus tard. Il est représenté par une flèche foncée ou brisée (voir **fg. [4.6](31_4.6_application_4-3.md)** ). Tout retard dans l’exécution d’une tâche critique aura une incidence sur la date de fin des travaux. Dans un réseau, on peut avoir plus d’un chemin critique. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0093-02.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0093-02.png]]
 
 Déterminer les dates d’arrivée au plus tôt et au plus tard de la durée du projet suit plusieurs étapes : 
 
@@ -118,7 +118,7 @@ _**Tableau 4.1 Tableau des tâches de l’exemple n° 1**_
 
 Pour déterminer les dates d’arrivée au plus tôt des différentes tâches, on utilise la terminologie présentée dans la **fgure [4.7](32_4.7_application_4-4.md)** .
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0095-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0095-00.png]]
 
 _**Figure [4.7](32_4.7_application_4-4.md) Représentation d’une tâche**_ 
 
@@ -132,7 +132,7 @@ _TE4 = TE2 + te(E) = 5 + 4 = 9 jours,_
 
 _TE5 = max {TE3 + te(C) et TE4 + te(F)} = max {8 + 15 et 9 + 18} = 27 jours_ 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0095-07.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0095-07.png]]
 
 _**Figure [4.8](33_4.8_application_4-5.md) Calcul des dates d’arrivée au plus tôt**_ 
 
@@ -140,7 +140,7 @@ _**Figure [4.8](33_4.8_application_4-5.md) Calcul des dates d’arrivée au plus
 
 indique la fin du projet dont la date d’arrivée au plus tôt est égale à la date d’arrivée au plus tard : TE8 = TL8 = 42 jours. Cela donne une durée de projet de 42 jours. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0096-01.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0096-01.png]]
 
 _**Figure [4.9](34_4.9_planning_chemin_de_fer_génie_civil.md) Calcul de la durée de projet**_ 
 
@@ -156,7 +156,7 @@ _TL5 = TL7 – te(D) = 37 – 6 = 31 jours_
 
 _TL4 = min {TL5 – te(F) et TL6 – te(G)} = min {31 – 18 et 23 – 14} = 9 jours,_ 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0096-09.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0096-09.png]]
 
 _**Figure [4.10](35_4.10_application_4-6.md) Calcul des dates d’arrivée au plus tard**_
 
@@ -178,7 +178,7 @@ On peut détailler le calcul des marges totales des tâches B et F ainsi (voir *
 
 _MT(B)  = TL3 – (TE2 + teB) = 16 – (5 + 3) = 8 jours, MT(F)  = TL5 – (TE4 + teF) = 31 – (9 + 18) = 4 jours_ 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0097-09.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0097-09.png]]
 
 **Marge libre d’une opération** 
 
@@ -208,7 +208,7 @@ _MI(C)  = max {0 ; TE5 – (TL3 + teC)_ } _= max {0 ; 27 – (16 + 15)} = max {0
 
 La marge conditionnelle est possible à condition que toutes les tâches suivantes commencent au plus tard. On la calcule en faisant l’opération suivante : 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0098-15.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0098-15.png]]
 
 Le calcul des marges conditionnelles des tâches B et C est présenté cidessous (voir **fg. 4.12** ) : 
 
@@ -220,7 +220,7 @@ _MC(C)  = max {0 ; TL5 – (TL3 + teC)} = max {0 ; 31 – (16 + 15)} = 0 jour_
 
 D’après les calculs précédents des marges conditionnelles et indépendantes, on prend zéro comme marge si les calculs donnent des valeurs négatives. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0099-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0099-03.png]]
 
 - _**Figure 4.12 Calcul des marges indépendantes et conditionnelles**_ 
 
@@ -250,15 +250,15 @@ _Marge totale de la tâche (C) = TLj – (TEi + te) = 31 – (8 + 15) = 8 jours_
 
 _Marge libre de la tâche (C) = TEj – (TEi + te) = 27 – (8 + 15) = 4 jours_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0101-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0101-00.png]]
 
 _**Figure 4.13 Représentation des marges, cas des tâches précédentes finissant au plus tôt**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0102-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0102-00.png]]
 
 _**Figure 4.14 Représentation des marges, cas des tâches précédentes finissant au plus tard**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0103-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0103-00.png]]
 
 _**Figure 4.15 Réseau PERT avec calcul des dates et des marges de l’exemple n° 1**_ 
 
@@ -323,7 +323,7 @@ _ML(B)  = TE4 – (TE2 + teB) = 8 – (5 + 3) = 0 jour,_ exemple de la tâche F,
 
 _MT(F)  = TL5 – (TE3 + teF) = 26 – (4 + 18) = 4 jours, ML(F)  = TE5 – (TE3 + teF) = 23 – (4 + 18) = 1 jour,_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0106-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0106-00.png]]
 
 _**Figure 4.16 Réseau PERT avec calcul des dates et des marges de l’exemple n° 2**_ 
 

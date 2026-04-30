@@ -62,7 +62,7 @@ La limite de flambement d’un poteau est notamment proportionnelle à son inert
 
 portance du poteau, il faut lui donner suffisamment d’inertie, en plaçant la matière le plus loin possible de l’axe géométrique du poteau : à quantité de matière égale, un poteau creux circulaire présente une inertie plus élevée qu’un poteau plein. La recherche de la meilleure inertie est limitée par les contraintes d’encombrement des poteaux dans le bâtiment.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0480-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0480-00.png]]
 
 
 _**Fig. 7.10. Flambement d’un poteau**_
@@ -129,7 +129,7 @@ les poutres à membrures en _V_ . Lorsque les nœuds sont articulés, la poutre 
 
 Les poutres-treillis constituent l’un des éléments essentiels de la construction métallique. On en trouve de grandes variétés, dont les principales sont présentées dans la **fgure 7.11** .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0486-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0486-00.png]]
 
 
 **Fig. 7.11. Principaux types de poutres-treillis** 
@@ -174,7 +174,7 @@ Pour réaliser les liaisons entre pièces, on utilise les techniques d’assembl
 
 Dans l’assemblage par boulonnage ( **fg. 7.12** ), les éléments à assembler sont percés selon un diamètre supérieur de 1 à 2 mm à celui du boulon. On emploie deux types de boulons.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0491-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0491-00.png]]
 
 
 _**Fig. 7.12. Assemblage poteaux-poutres**_ 

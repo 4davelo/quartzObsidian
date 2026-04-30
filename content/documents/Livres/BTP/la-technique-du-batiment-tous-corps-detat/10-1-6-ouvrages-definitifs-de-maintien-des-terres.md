@@ -65,7 +65,7 @@ nécessitent cependant un travail plus précis pour la mise en place des armatur
 
 Pour éviter le glissement de ces ouvrages plus légers, la semelle de fondation présente fréquemment un redan d’ancrage à l’extrémité du talon parfois appelé « bêche » ( **fg. 1.26** .b).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0114-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0114-00.png]]
 
 La largeur de la semelle (patin à l’avant + talon à l’arrière) est comprise entre 2/3 et 2/5 de la hauteur du mur suivant les caractéristiques du terrain ; en général, le patin représente 1/3 de la semelle et le talon 2/3. 
 
@@ -75,7 +75,7 @@ De conception identique au mur poids, mais réalisés avec des blocs non gélifs
 
 Un organe drainant doit être mis en place à l’interface entre terrain en place et enrochement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0116-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0116-00.png]]
 
 
 _**Fig. 1.27. Coupe d’un mur en enrochement**_

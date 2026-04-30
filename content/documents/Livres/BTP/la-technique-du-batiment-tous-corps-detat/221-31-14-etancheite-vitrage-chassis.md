@@ -190,12 +190,12 @@ Il concerne les feuillures non drainées. La garniture principale peut
 
 soit une bande préformée ( **fg. 31.25** .a) ; soit un obturateur sur fond de joint ; soit un obturateur sur ( **fg. 31.25** .b) ou sous ( **fg. 31.25** .c) bande préformée.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1327-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1327-00.png]]
 
 
 _**Fig. 31.24. Bain de mastic pour feuillures fermées par parclose**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1328-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1328-00.png]]
 
 
 _**Fig. 31.25. Système mixte avec bourrage pour feuillures fermées par parclose**_ 
@@ -206,7 +206,7 @@ La garniture secondaire est un oléoplastique remplissant complètement le reste
 
 Il concerne les feuillures drainées ( **fg. 31.26** ). La garniture principale est l’une de celles prévues dans le système mixte avec bourrage. La garniture secondaire peut être : soit une bande préformée ;
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1331-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1331-00.png]]
 
 
 **Fig. 31.26. Système mixte sans bourrage pour feuillures drainées** 
@@ -223,7 +223,7 @@ Il s’applique aux feuillures drainées. La garniture principale est un profil�
 
 La garniture d’étanchéité est, le plus souvent, un profilé élastomère en forme de U ( **fg. 31.27** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1332-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1332-00.png]]
 
 
 _**Fig. 31.27. Garniture par profilé élastomère pour feuillures portefeuilles**_ 
@@ -252,7 +252,7 @@ Les différentes faces d’accrochage des cordons de mastic font l’objet de te
 
 _**Tab. 31.12. Exposition des vitrages en fonction de la situation de la construction**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1335-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1335-00.png]]
 
 
 NF DTU 39 P1-2 (octobre 2006 – indice de classement : P 78-201-1-2) : Travaux de vitrerie-miroiterie – Partie 1-2 : critères généraux de choix des matériaux (CGM). 
@@ -265,11 +265,11 @@ Les systèmes avec étanchéité sans drainage ne s’appliquent qu’au cas des
 
 _**Tab. 31.13. Vitrage simple, système d’étanchéité sans drainage**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1337-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1337-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1338-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1338-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1339-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1339-00.png]]
 
 
 **31.14.3.3 Étanchéité pour un vitrage simple, système d’étanchéité avec drainage** 
@@ -280,7 +280,7 @@ Ces systèmes s’appliquent aux vitrages simples de toute nature. Les garniture
 
 _**Tab. 31.14. Vitrage simple, système d’étanchéité avec drainage**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1342-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1342-00.png]]
 
 
 **31.14.3.4 Étanchéité pour un vitrage isolant** 
@@ -289,9 +289,9 @@ Dans tous les cas, le système d’étanchéité doit permettre le drainage vers
 
 Les garnitures doivent être compatibles avec les composants des vitrages (produit de scellement d’un vitrage isolant ou d’un intercalaire d’un vitrage feuilleté, cales, couche de vitrage en face externe) : dans le cas où une bande préformée est associée à un profilé caoutchouc exerçant une pression, celle-ci doit comporter un système pour limiter sa déformation ; dans le cas d’un profilé extrudé en caoutchouc ou thermoplastique (TPE), celui-ci doit comporter une gorge permettant la ventilation et la récupération des eaux.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1344-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1344-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1346-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1346-00.png]]
 
 
 **31.14.4 Action du vent** 

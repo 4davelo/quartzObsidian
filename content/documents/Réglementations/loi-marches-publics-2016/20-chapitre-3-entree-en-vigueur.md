@@ -107,13 +107,13 @@ Art. N. Annexe 1, 2, 3 et 4.
 Codes du vocabulaire commun pour les marchés publics (CPV) pour les services visés à l'article 168/1, § 2, 3° 
 
 
-![](documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0086-20.png)
+![[documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0086-20.png]]
 
 
 **----- Start of picture text -----**<br>
 Code van de gemeenschappelijke Code du vocabulaire<br>woordenlijst Beschrijving commun pour les Description<br>overheidsopdrachten (CPV) marchés publics (CPV)<br>Services de transport<br>60112000-6 Openbaarvervoersdiensten 60112000-6<br>routier public<br>Services spécialisés de<br>Diensten voor speciaal<br>60130000-8 personenvervoer over land [60130000-8] transport routier de<br>passagers<br>Personenvervoer zonder Transport non régulier<br>60140000-1 60140000-1<br>dienstregeling de passagers<br>Diensten voor ophalen van Services de collecte<br>90511000-2 90511000-2<br>vuilnis des ordures<br>Transport routier<br>60160000-7 Postvervoer over de weg 60160000-7<br>postal<br>**----- End of picture text -----**<br>
 
-![](documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0087-00.png)
+![[documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0087-00.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -131,7 +131,7 @@ Art. N6. ~~[~~[1] ANNEXE VI
 Seuils d'émissions pour les véhicules légers propres 
 
 
-![](documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0087-06.png)
+![[documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0087-06.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -149,7 +149,7 @@ Catégories<br>de Jusqu'au 31 décembre 2025 en ce compris A partir du 1er janvi
 Art. N7. ~~[~~[1] ANNEXE VII Objectifs minimaux 
 
 
-![](documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0087-12.png)
+![[documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0087-12.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -158,7 +158,7 @@ Véhicules<br>Véhicules de la catégorie M3, y Véhicules de la catégorie M3 <
 Art. N8. ~~[~~[1] Annexe VIII à la [[sources/loi-du-17-juin-2016-relative-aux-marches-publics|Loi du 17 juin 2016 relative aux marchés publics]] - Tronçons présélectionnés des liaisons transfrontalières et des liaisons manquantes dans les corridors du réseau central 
 
 
-![](documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0088-02.png)
+![[documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0088-02.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -242,7 +242,7 @@ Corridor du réseau central "Atlantique"<br>Liaisons<br>transfrontalières [Evor
 
 - Baltique"<br>**----- End of picture text -----**<br>
 
-![](documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0089-00.png)
+![[documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0089-00.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -312,7 +312,7 @@ Liaisons Tallinn
 
 - Ioannina Rail<br>manquantes<br>**----- End of picture text -----**<br>
 
-![](documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0090-00.png)
+![[documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0090-00.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -400,7 +400,7 @@ Praha
 
 - Hamburg : voies d'accès de la liaison fixe du Fehmarn Belt<br>**----- End of picture text -----**<br>
 
-![](documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0091-00.png)
+![[documents/Réglementations/loi-marches-publics-2016/images/17_JUIN_2016._-_Loi_relative_aux_marchés_publics.pdf-0091-00.png]]
 
 
 **----- Start of picture text -----**<br>

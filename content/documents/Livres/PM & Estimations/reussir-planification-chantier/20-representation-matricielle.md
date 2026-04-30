@@ -44,10 +44,10 @@ Il n’y a pas de croix dans la colonne « A » des extrémités contraintes, ce
 
 Il faut noter qu’il doit y avoir au minimum une tâche initiale et une tâche finale. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0068-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0068-03.png]]
 
 On procède de la même manière que pour l’exemple n° 1 pour élaborer la matrice de l’exemple n° 2 du **tableau [3.10](22_3.10_construction_des_graphes.md)** . La nouvelle matrice est présentée dans la **fgure [3.5](17_3.5_calcul_des_durées_dexécution_des_tâches.md)** . 
 
 Il y a un changement de la matrice au niveau de : la tâche « E », qui est devenue une tâche initiale puisqu’elle n’a pas de prédécesseur ; la tâche « A » a un seul successeur. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0069-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0069-03.png]]

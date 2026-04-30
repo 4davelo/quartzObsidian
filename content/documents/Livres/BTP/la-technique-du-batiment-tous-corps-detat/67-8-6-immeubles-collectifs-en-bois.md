@@ -97,7 +97,7 @@ En résumé, dans le cas de bâtiments 100 % bois, les complexes de planchers et
 
 Avec les nouvelles exigences bas carbone, les bâtiments en structure bois se développent, en particulier les ouvrages en CLT, tant pour les planchers que pour les façades, comme le montre la **photo [8.1](61_8.1_généralités.md)** .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0540-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0540-00.png]]
 
 
 _**Photo 8.1. Chantier de la place Léon Blum à Issy-les-Moulineaux (source : Artelia)**_ 
@@ -106,7 +106,7 @@ _**Photo 8.1. Chantier de la place Léon Blum à Issy-les-Moulineaux (source : A
 
 L’encombrement des planchers bois est généralement plus important que celui des planchers béton afin de respecter les exigences d’isolation acoustique et de protection au feu. Un exemple de complexe type en résidentiel est présenté **fgure 8.13** .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0542-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0542-00.png]]
 
 
 _**Fig. 8.13. Coupe sur plancher – Épaisseur du complexe : 40 cm, selon portée (source : catalogue construction-bois FCBA-Codifab)**_ 
@@ -115,7 +115,7 @@ _**Fig. 8.13. Coupe sur plancher – Épaisseur du complexe : 40 cm, selon port�
 
 De même, les murs porteurs verticaux en structure bois présentent des épaisseurs plus importantes que les solutions traditionnelles en béton (16 à 20 cm), comme le montre la **fgure 8.14** .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0545-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0545-00.png]]
 
 
 _**Fig. 8.14. Détail du mur porteur – Épaisseur du complexe : 25 cm à l’intérieur d’un logement, 30 cm entre deux logements (source : catalogue construction-bois FCBACodifab)**_ 
@@ -148,12 +148,12 @@ un écran thermique mis en œuvre entre le bardage et le support (plaque de plâ
 
 un dispositif d’obturation de la lame d’air dans le cas de bardages ventilés ; dans le cas des façades avec ouverture, des déflecteurs de flamme dont le débord est fonction de la nature et de la performance de réaction au feu du parement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0549-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0549-00.png]]
 
 
 _**Fig. 8.15. Exemple de façade bois – Cas d’une structure de résistance au feu < 60 min (source : CSTB, FCBA, Guide « Bois construction et propagation du feu par les façades »)**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0550-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0550-00.png]]
 
 
 _**Fig. 8.16. Exemple de façade bois – Cas d’une structure de résistance au feu 90 min (source : CSTB, FCBA, Guide « Bois construction et propagation du feu par les façades »)**_

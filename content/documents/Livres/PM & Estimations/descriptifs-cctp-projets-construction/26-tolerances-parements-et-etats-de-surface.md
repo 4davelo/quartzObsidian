@@ -95,7 +95,7 @@ La tolérance d'aplomb correspond à l'écart  $\Delta$  maximum (voir schéma c
 
 $\Delta$  peut être mesuré grâce à un simple fil à plomb traditionnel ou un fil à plomb laser.
 
-![Schéma comparatif de la théorie et de la réalisation d'un poteau en I. La théorie montre un poteau parfaitement vertical. La réalisation montre un poteau légèrement penché, avec une ligne de fil à plomb et une distance Δ indiquant l'écart d'aplomb entre le point haut et le point bas.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/b108a9c8d1d79da60cf73fbbf1b9a024_8_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/b108a9c8d1d79da60cf73fbbf1b9a024_8_img.webp]]
 
 Ci-dessous quelques valeurs de tolérances (source NF DTU 21 et 25.41 P1-1).
 
@@ -134,7 +134,7 @@ Cela correspond à deux exigences :
 
 Prenons l'exemple de la surface d'une dalle (repérée avec un trait épais sur la coupe ci-dessous) :
 
-![Schéma d'une dalle avec une surface irrégulière. Une ligne épaisse indique la surface, et une flèche pointe vers elle avec l'étiquette 'Surface'.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/b108a9c8d1d79da60cf73fbbf1b9a024_16_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/b108a9c8d1d79da60cf73fbbf1b9a024_16_img.webp]]
 
 Cette surface n'est manifestement pas plane (le trait n'est pas une ligne droite).
 
@@ -148,11 +148,11 @@ Les défauts de planéité sont inévitables. Néanmoins, ils doivent rester inf
 
 #### 4.3.2.1 Mesure des défauts de planéité générale, grâce à une règle de 2 m
 
-![Diagramme illustrant la mesure de la planéité générale d'une surface. Une règle de référence (règle de 2 m) est placée sur une surface irrégulière. Une flèche pointe vers la règle avec la légende 'Règle de référence'.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_6_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_6_img.webp]]
 
 La règle de 2 m est placée sur la surface évaluée. La règle prenant appui sur les bosses, des vides apparaissent en dessous ; il est possible de mesurer la hauteur  $\Delta$  des creux.
 
-![Diagramme illustrant la mesure de la planéité générale. Une règle de 2 m est posée sur une surface irrégulière. La hauteur du creux entre la règle et la surface est notée par le symbole mathématique Delta (\Delta).](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_8_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_8_img.webp]]
 
 #### 4.3.2.2 Défauts de planéité locale (réglet de 0,20 m)
 
@@ -161,17 +161,17 @@ Voici trois exemples de ces défauts :
 Gravillon dépassant  
 de la dalle en béton armé
 
-![Schéma d'un gravillon dépassant de la surface d'une dalle en béton armé.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_12_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_12_img.webp]]
 
 Décalage entre deux carreaux  
 de carrelage
 
-![Schéma montrant un décalage entre deux carreaux de carrelage.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_14_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_14_img.webp]]
 
 Surépaisseur du joint  
 entre deux plaques de plâtre
 
-![Schéma montrant un surépaisseur du joint entre deux plaques de plâtre.](documents/Livres/PM%20&%20Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_16_img.webp)
+![[documents/Livres/PM & Estimations/descriptifs-cctp-projets-construction/images/ebf0fe70409cf59d69223baaa2c24712_16_img.webp]]
 
 #### 4.3.2.3 Quelques valeurs particulières de tolérances de planéité
 

@@ -62,7 +62,7 @@ Tout comme le BTC trouve ses origines dans l’adobe multimillénaire, le pisé 
 Si le BTC peut s’apparenter, dans ses grands principes, à la maçonnerie d’éléments de béton ou de terre cuite, le pisé se rapproche du béton coulé en place. La technique de construction du pisé permet en effet de réaliser des murs massifs, rectilignes ou courbes en compactant de la terre humide entre des banches formant un coffrage. Un mur en pisé est généralement produit sur site, mais peut également être préfabriqué à l’abri des intempéries pour être ensuite mis en place sur site ( **fg. 9.6** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0571-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0571-04.png]]
 
 
 _**Fig. 9.6. Technique de construction du pisé (source : CRAterre, Construire en pisé – Prescriptions de dimensionnement et de mise en œuvre, Éd. du Moniteur, 2020)**_ 
@@ -118,14 +118,14 @@ le pisé de classe 2 est limité à 1 niveau, le pisé de classe 3 est limité �
 
 Compte tenu du retrait lié au séchage, tout mur en pisé doit comporter des joints de retrait, aucun pan de mur ne pouvant dépasser les 5 m de longueur. Le joint de retrait peut être creux ou
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0574-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0574-01.png]]
 
 
 _**Fig. 9.7. Types de joints de retrait de murs en pisé (source : CRAterre, Construire en pisé – Prescriptions de dimensionnement et de mise en œuvre, Éd. du Moniteur, 2020)**_ 
 
 Le mur en pisé peut recevoir différentes techniques d’isolation afin de constituer une paroi complète ( **fg. 9.8** ). La terre étant un matériau hygroscopique, qui a la propriété d’absorber et de restituer l’humidité, il est important de prêter attention à la conception du système d’isolation et à sa mise en œuvre afin de ne pas bloquer les
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0577-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0577-00.png]]
 
 
 _**Fig. 9.8. Quatre techniques d’isolation d’un mur en pisé (source : CRAterre, Construire en pisé – Prescriptions de dimensionnement et de mise en œuvre, Éd. du Moniteur, 2020)**_ 

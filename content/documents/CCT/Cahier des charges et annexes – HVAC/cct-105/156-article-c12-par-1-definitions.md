@@ -29,7 +29,7 @@ familles_sources:
   - contrat
 ---
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0378-01.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0378-01.png]]
 
 
 **DEFINITIONS** 
@@ -97,13 +97,13 @@ La centrale de toiture est un groupe (ou une installation) de traitement d'air, 
 La centrale de toiture est reliée au réseau de conduits d'extraction et/ou de pulsion soit directement (type I), soit par l'intermédiaire d'un ou plusieurs conduits installés en plein air (type II). Voir Fig. C12.1.-1 et Fig. C12.1.-2. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0379-10.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0379-10.png]]
 
 
 Fig. C12.1.-1 : Centrale de toiture type I 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0379-12.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0379-12.png]]
 
 
 Fig. C12.1.-2 : Centrale de toiture type II

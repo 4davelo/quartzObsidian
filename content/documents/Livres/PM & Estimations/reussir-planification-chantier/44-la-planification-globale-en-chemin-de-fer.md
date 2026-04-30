@@ -32,16 +32,16 @@ Comme les durées de tâche et les prérequis proviennent directement des entrep
 
 Le planning chemin de fer est une matrice à deux entrées qui permet de croiser une temporalité (jours, semaines, mois, etc.) avec des zones (bâtiment, niveaux, paliers, logements, etc.). Ces deux variables sont à détailler finement afin de structurer l’information qui va ensuite être diffusée à l’ensemble des acteurs du projet. Un mauvais paramétrage au départ du planning entraînera une dégradation dans le pilotage et dans la communication entre les différents protagonistes (voir **fg. [6.2](45_6.2_le_paramétrage_du_planning_chemin_de_fer.md)** et **[6.3](46_6.3_le_micro-zoning_du_projet.md)** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0220-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0220-00.png]]
 
 _**Figure [6.2](45_6.2_le_paramétrage_du_planning_chemin_de_fer.md) Exemple d’un planning géo-temporel aussi appelé planning chemin de fer**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0221-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0221-00.png]]
 
 _**Figure [6.3](46_6.3_le_micro-zoning_du_projet.md) Les différents éléments qui composent le planning chemin de fer**_ 
 
 Afin de réaliser une planification globale en chemin de fer, il est nécessaire de respecter l’enchaînement suivant ( **fg. [6.4](47_6.4_application_6-1.md)** ).
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0222-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0222-00.png]]
 
 _**Figure [6.4](47_6.4_application_6-1.md) Les étapes nécessaires à la planification globale en chemin de fer**_

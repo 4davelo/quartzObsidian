@@ -36,7 +36,7 @@ la taille des ballons,
 
 le type de CESI (voir ci-avant).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1695-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1695-00.png]]
 
 
 _**Fig. 42.8. Zones d’ensoleillement (France métropolitaine)**_ 

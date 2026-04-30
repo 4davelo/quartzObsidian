@@ -50,14 +50,14 @@ Les panneaux-sandwiches à âme en polyuréthane (PUR) ou en polyisocyanurate (P
 
 Le panneau-sandwich est capable de supporter son poids propre en raison des matériaux qui le constituent et de sa forme, et de transmettre aux appuis toutes les charges appliquées, par exemple le poids propre, le vent, la neige, les charges d’entretien et, le cas échéant, le gradient thermique.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1064-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1064-00.png]]
 
 
 _**Fig. 24.3. Panneaux-sandwiches de couverture (source : calepin de chantier « Couverture en panneaux sandwich à deux parements en acier et à âme polyuréthane », règles RAGE, mai 2017)**_ 
 
 Ces panneaux sont fixés sur charpente acier, bois ou béton ( **fg. [24.4](167_24.4_les_panneaux-sandwiches_double_peau_à_parements_métalliques.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1065-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1065-00.png]]
 
 
 _**Fig. 24.4. Fixation de panneaux-sandwiches, dont la pose sur ossature béton nécessite l’emploi d’un insert acier (source : calepin de chantier « Couverture en panneaux sandwich à deux parements en acier et à âme polyuréthane », règles RAGE, mai 2017)**_ 
@@ -74,7 +74,7 @@ Les points singuliers (acrotère, faîtière, costière, chéneau) sont présent
 
 Une attention particulière doit être attachée à la réalisation de points singuliers, qui sont le plus souvent à l’origine des défauts d’étanchéité sources de désordres.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1068-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1068-00.png]]
 
 
 _**Fig. 24.5. Points singuliers (source : calepin de chantier « Couverture en panneaux sandwich à deux parements en acier et à âme polyuréthane », règles RAGE, mai 2017)**_ 

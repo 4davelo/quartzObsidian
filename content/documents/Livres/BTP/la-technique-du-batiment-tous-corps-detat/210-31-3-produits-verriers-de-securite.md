@@ -144,7 +144,7 @@ Les vitrages Sécurit (et autres vitrages trempés) peuvent être mis en œuvre 
 
 soit en feuillures comme les vitrages recuits ; soit en serrant les faces du vitrage par engravure, parclosage ou pièces métalliques.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1266-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1266-00.png]]
 
 
 _**Fig. 31.1. Encoches pratiquées dans le verre Sécurit**_ 
@@ -154,7 +154,7 @@ _**Fig. 31.1. Encoches pratiquées dans le verre Sécurit**_
 Les installations Sécurit comportent fréquemment des contreventements Sécurit qui assurent la résistance, la rigidité et la stabilité de ces installations : contreventement haut ou bas en un seul volume ( **fg. [31.2](209_31.2_float_glass_verre_étiré_et_glace.md)** .a) ; contreventement sur toute la hauteur en deux volumes (ou plus), d’un seul côté ou à cheval ( **fg. 31.2** .b) (largeur _l_ minimale de 25 cm) ; contreventement sur toute la hauteur en un seul volume, d’un côté ou à cheval ( **fg. 31.2** .c) (largeur _l_ minimale de 12 cm jusqu’à 320 cm de hauteur, 22 cm au-dessus). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1266-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1266-04.png]]
 
 
 _**Fig. 31.2. Contreventements pour installations Sécurit**_

@@ -89,7 +89,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 à velours (moquette) : tapis utilisé pour le recouvrement des sols ayant une couche d’usage textile formée de fils ou fibres debout au soubassement, sans velours (tapis plat) : tapis utilisé pour le recouvrement des sols composé d’une couche d’usage textile sans velours et, éventuellement, d’un soubassement. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2000-05.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2000-05.png]]
 
 
 _**Fig. 54.1. Boucles successives d’un velours (coupe longitudinale)**_ 
@@ -107,9 +107,9 @@ En se référant à la technologie de fabrication du velours ou de la
 couche d’usage, on distingue les principaux sols textiles suivants : tissés : produits réalisés sur un métier à tisser en une ou plusieurs opérations ( **fg. [54.2](361_54.2_différents_types_de_surfaces_dusage_velours.md)** .a) ; floqués : moquette obtenue par projection de fibres sur un support enduit adhésif ( **fg. 54.2** .b) ; nappés : moquette dont le velours est constitué par une nappe de fils ou de fibres, plissée et fixée sur un support par enduction ou adhésif ( **fg. 54.2** .c), ou encore directement dans un adhésif formant support ( **fg. 54.2** .d) ; aiguilletés plats : tapis dont la couche d’usage est constituée de matières textiles enchevêtrées et liées entre elles par la pénétration d’aiguilles à barbes ( **fg. 54.2** .e) ; aiguilletés à velours : moquette obtenue par aiguilletage de matières textiles, liées entre elles par des procédés physiques ou chimiques ( **fg. 54.2** .f) ; touffetés : tapis dans lesquels les fils de velours sont insérés dans une étoffe-support préalablement fabriquée, puis fixés par enduction ou adhésif ( **fg. 54.2** .g). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2001-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2001-01.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2003-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2003-00.png]]
 
 
 _**Fig. 54.2. Coupes longitudinales des différents revêtements de sol textiles**_ 

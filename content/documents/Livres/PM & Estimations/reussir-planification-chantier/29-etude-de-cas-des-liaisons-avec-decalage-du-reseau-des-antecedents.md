@@ -36,7 +36,7 @@ _**Tableau 4.12 Tableau des tâches de l’exemple n° 3, liens avec des décala
 
 À la suite de ce changement au niveau des contraintes entre les liens des tâches, on trouve que la durée du projet est portée à 40 jours.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0132-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0132-00.png]]
 
 _**Figure 4.33 Réseau des antécédents de l’exemple n° 3 avec le calcul des dates et des marges**_ 
 
@@ -69,7 +69,7 @@ _**Tableau 4.13 Formules de calcul des dates et des marges**_
 
 Les détails de calcul des dates DTO, DTA, FTO et FTA et de la marge libre sont présentés dans les formules suivantes et les **fgures 4.34** et **4.35** . La méthode de calcul de la marge totale ne change pas, quel que soit le type de lien. 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0133-03.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0133-03.png]]
 
 **Date au plus tôt : cas de la tâche B** 
 
@@ -85,7 +85,7 @@ _DTAi = DTAj – décalage_ → _DTAA = min {DTAB – décalage et DTAE – (dur
 
 _ML(i) = DTOj – (DTOi + décalage)_ → _ML(A) = min {DTOB – (DTOA + d) et DTOE – (FTOA + décalage)}_ → _ML(A) = min {3 – (0 + 3) et 9 – (5 + 4)} = 0_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0135-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0135-00.png]]
 
 _**Figure 4.35 Calcul des dates et des marges dans le cas d’un lien Début-Début avec décalage**_ 
 
@@ -93,7 +93,7 @@ _**Figure 4.35 Calcul des dates et des marges dans le cas d’un lien Début-Dé
 
 La méthode et les détails de calcul des dates DTO, DTA, FTO et FTA et de la marge libre sont présentés dans les formules suivantes et les **fgures 4.36** et **4.37** . 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0135-04.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0135-04.png]]
 
 _**Figure 4.36 Liaison Début-Fin avec décalage**_
 
@@ -117,7 +117,7 @@ _ML(i) = FTOj – (DTOi + d)_ → _ML(E) = min {FTOF – (DTOE + d) et DTOG – 
 
 _ML(E)_ _**=** min {29 – (9 + 20) et 13 – 13} = 0_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0137-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0137-00.png]]
 
 _**Figure 4.37 Calcul des dates et des marges, cas de lien Début-Fin avec décalage**_ 
 
@@ -125,7 +125,7 @@ _**Figure 4.37 Calcul des dates et des marges, cas de lien Début-Fin avec déca
 
 Les détails de calcul des dates DTO, DTA, FTO et FTA et de la marge libre sont présentés dans les formules suivantes et les **fgures 4.38** et **4.39** . 
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0137-04.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0137-04.png]]
 
 _**Figure 4.38 Liaison Fin-Début avec décalage**_
 
@@ -139,7 +139,7 @@ _DTAi = DTAj – (Durée (i) + d) et FTAi = DTAi + Durée (i) DTAF = DTAD – (D
 
 _ML(i) = DTOj – (FTOi + d) ML(F) = DTOD – (FTOF + d) = 26 – (29 – 3) = 0 jour_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0139-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0139-00.png]]
 
 _**Figure 4.39 Calcul des dates et des marges cas de lien Fin-Début avec décalage**_ 
 
@@ -147,7 +147,7 @@ _**Figure 4.39 Calcul des dates et des marges cas de lien Fin-Début avec décal
 
 Les détails de calcul des dates DTO, DTA, FTO et FTA et de la marge libre sont présentés dans les formules suivantes et les **fgures 4.40** et **4.41** .
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0140-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0140-00.png]]
 
 _**Figure 4.40 Liaison Fin-Fin avec décalage**_ 
 
@@ -167,6 +167,6 @@ _DTAi = FTAi – Durée (i)_ → _DTAG = FTAG – Durée (G) = 27 – 14 = 13 jo
 
 _ML(i) = FTOj – (FTOi + d)_ → _ML(G) = FTOH – (FTOG + d) = 35 – (27 + 8) = 0 jour_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0141-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0141-00.png]]
 
 _**Figure 4.41 Calcul des dates et des marges, cas de lien Fin-Fin avec décalage**_

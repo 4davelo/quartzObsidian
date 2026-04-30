@@ -63,7 +63,7 @@ Il s’agit d’un assemblage par contact entre deux pièces formant un angle ai
 Trois types d’embrèvements sont possibles : 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1077-22.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1077-22.png]]
 
 Un assemblage par embrèvement demande une grande précision d’usinage pour garantir le bon transfert des efforts et éviter tout fendage de la pièce amenant l’effort. 
 
@@ -176,9 +176,9 @@ Il s’agit d’un assemblage traditionnel par contact entre deux pièces forman
 Des exemples sont présentés sur les photos ci-dessous : 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1079-20.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1079-20.png]]
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1080-01.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1080-01.png]]
 
 
 **EXÉCUTION / MISE EN ŒUVRE** 
@@ -263,7 +263,7 @@ Si une résistance au feu est requise, les organes d’assemblages métalliques 
 
 **Prescriptions générales**
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1082-01.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1082-01.png]]
 
 
 Le tenon est situé dans la solive, la mortaise dans la porteuse. La solive est au maximum aussi large que la porteuse. 

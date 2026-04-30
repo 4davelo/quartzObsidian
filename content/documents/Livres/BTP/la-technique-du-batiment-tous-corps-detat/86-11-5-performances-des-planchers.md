@@ -60,7 +60,7 @@ L’amélioration de la performance acoustique d’un plancher est réalisée co
 La dalle flottante ne fait pas partie intégrante de la structure, son rôle essentiel est de protéger l’élément isolant ( **fg. 11.24** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0636-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0636-01.png]]
 
 
 _**Fig. 11.24. Dalle flottante coulée en place**_ 
@@ -91,7 +91,7 @@ La flèche (incurvation) peut être annulée par une contre-flèche (bombement),
 
 En dalles précontraintes, la contre-flèche est inhérente au processus de production (les armatures tendues sont situées en fibre basse, dans la partie inférieure de la section de la dalle).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0639-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0639-01.png]]
 
 
 **

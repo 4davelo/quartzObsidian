@@ -52,14 +52,14 @@ En ce qui concerne la source chaude :
 
 une PAC air extérieur/eau chauffe l’eau d’un circuit de chauffage avec émetteurs de chaleur basse température, de type plancher chauffant. Elle peut être constituée d’un seul élément (PAC monobloc) ou comporter deux unités distinctes ; la PAC air extérieur/eau peut aussi être associée à une installation de chauffage central existante, avec basculement automatique suivant la température extérieure entre PAC et chaudière ; une PAC air extérieur/air intérieur chauffe directement l’air du bâtiment grâce à des ventilo-convecteurs à détente directe. Ce type de PAC peut être réversible et assurer en été le rafraîchissement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1646-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1646-00.png]]
 
 
 _**Fig. 40.7. PAC air extérieur/eau (à gauche) et air extérieur/air intérieur (à droite)**_
 
 La PAC air extrait/air neuf ou « VMC double flux » associe le renouvellement de l’air du bâtiment et son préchauffage ( **fg. 40.8** ). Ce type de PAC récupère la chaleur de l’air extrait par la VMC (pour le logement, les pièces humides) et préchauffe l’air neuf. Un bon fonctionnement de ce type de système impose une circulation fluide de l’air dans les espaces à chauffer, et notamment en logement un détalonnage des portes. Ce type de PAC peut être réversible et assurer en été le rafraîchissement.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1648-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1648-00.png]]
 
 
 _**Fig. 40.8. PAC air extrait/air neuf**_ 

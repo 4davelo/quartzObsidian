@@ -33,6 +33,6 @@ Cette solution est particulièrement utilisée dans les cas de rénovation de lo
 La durée de vie de la batterie à pleine efficacité est limitée (7 à 10 ans). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1526-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1526-03.png]]
 
 **

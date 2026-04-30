@@ -70,7 +70,7 @@ le volume 3 est supprimé ;
 
 le volume 0 correspond à la baignoire ou à la douche à proprement parler, en référence à certains spas avec spots intégrés ; un volume caché est défini sous la baignoire ( **fg. 49.14** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1882-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1882-00.png]]
 
 
 _**Fig. 49.14. Désignation des zones réglementées dans une salle d’eau (source : d’après Schneider Electric)**_
@@ -80,7 +80,7 @@ Des règles s’appliquent également aux canalisations encastrées dans les par
 Si une cloison de 5 cm sépare la salle de bains d’une pièce adjacente, il est impossible d’encastrer un interrupteur dans cette pièce, dans la partie de cloison située contre la baignoire ( **fg. 49.15** ). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1883-02.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1883-02.png]]
 
 
 _**Fig. 49.15. Positionnement des canalisations par rapport aux volumes**_

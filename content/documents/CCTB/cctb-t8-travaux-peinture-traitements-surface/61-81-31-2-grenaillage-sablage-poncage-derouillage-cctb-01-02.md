@@ -260,11 +260,11 @@ Compris dans les prix unitaires respectifs des profilés à traiter.
 Type d’abrasifs suivant le tableau 1 de la [NBN EN ISO 8504-2]: 
 
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0199-04.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0199-04.png]]
 
 
 
-![](images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0199-05.png)
+![[documents/CCTB/cctb-t8-travaux-peinture-traitements-surface/images/T8_Travaux_de_peinture___Traitements_de_surface_CCTB_01.13_20260317.pdf-0199-05.png]]
 
 
 [81.31.2 b Ponçage - dérouillage intérieur sur supports métalliques ferreux [[entities/cctb|CCTB]] 01.10](61_81.31.2_grenaillage_-_sablage_ponçage_dérouillage_cctb_01.02.md)

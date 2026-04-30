@@ -140,7 +140,7 @@ La création d’ouvertures pour sondes de régulation, de mesures et ou d’ess
 Les courbes doivent être les plus amples possibles. On doit respecter un rayon de courbure minimal (voir Fig. C14.3.-1) égal à R = d + 2 x l’épaisseur de l’isolation. Les courbes en S doivent être évitées. 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0461-08.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0461-08.png]]
 
 
 Fig. C14.3.-1 

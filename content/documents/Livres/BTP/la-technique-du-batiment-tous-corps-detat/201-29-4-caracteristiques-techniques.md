@@ -55,7 +55,7 @@ Un certificat de qualification concerne l’assembleur des profilés extrudés e
 
 La section des profilés de fenêtres peut être réalisée de telle sorte que la déformation provoquée par une charge maximale au vent ne soit pas plus importante que celle correspondant à la sécurité de fonctionnement. Ainsi, la section des profilés d’ouvrants ne doit pas dépasser 2,5 mm pour ne pas mettre en cause la fonction du joint entre ouvrant et dormant ( **fg. [29.4](201_29.4_caractéristiques_techniques.md)** ). La flèche maximale admissible doit être inférieure à 1/200 de la portée :
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1232-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1232-00.png]]
 
 
 **Fig. 29.4. Désignation des parties composant le dormant et l’ouvrant** 

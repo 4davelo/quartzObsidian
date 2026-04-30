@@ -49,7 +49,7 @@ Trois familles de techniques sont couvertes par les règles professionnelles de 
 
 La paille est insérée dans les vides d’une structure porteuse à ossature bois réalisée suivant les modes constructifs en vigueur. Cette ossature peut être calculée selon les règles de la construction bois, notamment l’Eurocode 5 « Conception et calcul des structures en bois », ou en référence à la norme NF DTU 31.2 « Construction de maisons et bâtiments à ossature en bois ». La mise en œuvre de la paille s’effectue après mise en place de l’ossature porteuse, qui peut être décentrée vers l’extérieur ( **fg. [10.4](76_10.4_les_techniques_de_construction_en_paille_couvertes_par_les_règles_professionnelles.md)** ) ou l’intérieur de la paroi, ou traversante. Dans tous les cas, l’attention devra être portée à la réalisation des angles afin de garantir la continuité de l’isolation thermique et des parements intérieur et extérieur.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0588-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0588-00.png]]
 
 
 _**Fig. 10.4. Technique dite de « remplissage » avec ossature porteuse décentrée vers l’extérieur de la paroi et bardage extérieur bois (source : RFCP)**_
@@ -58,7 +58,7 @@ de bardages ou des enduits spécifiques, et enduites ou recevant un parement man
 
 Comme pour la plupart des techniques de construction, les parois associant paille et structure bois peuvent être soit intégralement assemblées sur le chantier, soit faire l’objet de préfabrications plus ou moins complètes. La technique de préfabrication la plus courante en « structure bois + paille » est la technique du « caisson » ( **fg. [10.5](77_10.5_les_types_de_parois_en_paille_synthèse.md)** ), dans laquelle les bottes de paille sont insérées dans des caissons de hauteur d’étage assemblés sur le chantier.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0590-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0590-00.png]]
 
 
 _**Fig. 10.5. Technique de préfabrication dite « à caissons » avec ossature porteuse décentrée vers l’extérieur de la paroi et bardage extérieur bois (source : RFCP)**_ 
@@ -68,7 +68,7 @@ La technique de préfabrication par caissons présente trois avantages : l’ins
 réduire les délais de chantier ; le stockage sur site est facilité par l’insertion des bottes dans les caissons. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0591-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0591-01.png]]
 
 
 _**Fig. 10.6. Compression des bottes de paille avant mise en place des parois par la technique du caisson (source : RFCP, Règles professionnelles de construction en paille – Remplissage isolant et support d’enduit – Règles CP 2012 révisées, Éd. du Moniteur, 2018)**_ 
@@ -118,7 +118,7 @@ Ces techniques dissocient le mur en paille (enveloppe) de la structure porteuse 
 
 Une ossature secondaire en bois est nécessaire pour assurer le maintien de la façade de bottes de paille, qui reçoit également enduit ou bardage côté extérieur et enduit côté intérieur. Cette ossature secondaire peut être centrée, déportée côté intérieur ou extérieur de la paroi, ou encore double (intérieure et extérieure) selon le principe dit « en tunnel » ( **fg. [10.7](79_10.7_quel_avenir_pour_la_paille_dans_la_construction.md)** ). Les parements intérieur et extérieur peuvent être du même type que ceux des systèmes à ossature primaire intégrée.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0594-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0594-00.png]]
 
 
 _**Fig. 10.7. Remplissage dit « en tunnel » d’une double ossature secondaire non porteuse enduite avec ossature principale intérieure disjointe de la paroi (source : RFCP, Règles professionnelles de construction en paille – Remplissage isolant et support d’enduit – Règles CP 2012 révisées, Éd. du Moniteur, 2018)**_ 
@@ -136,7 +136,7 @@ l’étanchéité à l’air ; un rôle de frein vapeur.
 Les enduits sont réalisés à la chaux, et éventuellement renforcés de fibres naturelles (paille hachée, fibre animale) ou industrielles (trame de lin, de fibre de verre, etc.). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0595-06.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0595-06.png]]
 
 
 _**Fig. 10.8. Enduit sur paroi en bottes de paille (source : RFCP, Règles professionnelles de construction en paille – Remplissage isolant et support d’enduit – Règles CP 2012 révisées, Éd. du Moniteur, 2018)**_

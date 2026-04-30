@@ -61,7 +61,7 @@ Il s’agit de moyens de fixation qui permettent d’assurer des liaisons mécan
 Cette appellation englobe les clous (pointes), agrafes, vis, tire-fond, broches et boulons. 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1085-15.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1085-15.png]]
 
 
 **MATÉRIAUX** 
@@ -88,7 +88,7 @@ Autres dimensions - 5% + 5% ± 1%
 Il s’agit d’un assembleur par pointe. Il existe différents types de clous, schématisés ci-dessous : 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1086-06.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1086-06.png]]
 
 
 **Remarques importantes** 
@@ -146,7 +146,7 @@ Un assemblage est composé d’au moins deux clous.
 Sauf autre prescription au cahier spécial des charges, le clouage lardé est réalisé tel qu’indiqué sur le schéma ci-contre, provenant de l’Eurocode 5 ([NBN EN 1995-1-1]). 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1087-07.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1087-07.png]]
 
 
 **Préperçage des éléments en bois** 
@@ -242,7 +242,7 @@ _**(Soit)**_
 Il s’agit de tiges cylindriques lisses de 6 à 30mm de diamètre et ne comportant pas de tête intégrée. Une broche est schématisée ci-dessous : 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1088-27.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1088-27.png]]
 
 
 **Remarques importantes**
@@ -348,7 +348,7 @@ Il s’agit d’un élément de fixation métallique cylindrique comportant une 
 Un boulon est composé de l’ensemble Vis + Ecrou + 2 Rondelles. 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1090-18.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1090-18.png]]
 
 
 **Remarques importantes** 
@@ -464,12 +464,12 @@ Il s’agit des différentes sortes de vis de charpente ; chacune de celles-ci a
 Les plus courantes sont les vis auto-taraudeuses à tête fraisée : 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1092-15.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1092-15.png]]
 
 
 Les vis à filetage total sont aussi de plus en plus utilisées
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1093-01.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1093-01.png]]
 
 
 La connexion d’éléments en acier avec du bois n’est pas possible avec toutes les vis et est liée à  des prescriptions de mise en œuvre particulières. 
@@ -619,7 +619,7 @@ Attention à l’auteur de projet sur le fait que les règles de calcul pour les
 Il s’agit d’un cas particulier de vis. Les tire-fond sont composés d’une partie lisse et d’une partie filetée, le diamètre de la partie lisse étant égal au diamètre extérieur du filetage. La tête des tire-fond 
 
 
-![](images/T2_Superstructures_CCTB_01.13_20260317.pdf-1095-25.png)
+![[documents/CCTB/cctb-t2-superstructures/images/T2_Superstructures_CCTB_01.13_20260317.pdf-1095-25.png]]
 
 
 est généralement hexagonale ou carrée. 

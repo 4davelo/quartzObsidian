@@ -219,10 +219,10 @@ _**Tableau 4.15 Tableau récapitulatif des marges de l’application 4-3**_
 
 Le diagramme GANNT est présenté dans la **fgure 4.46** . On trouve les mêmes résultats par les deux méthodes.
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0151-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0151-00.png]]
 
 _**Figure 4.45 Réseau des antécédents de l’application 4-3**_
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0152-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0152-00.png]]
 
 _**Figure 4.46 Diagramme GANTT de l’application 4-3**_

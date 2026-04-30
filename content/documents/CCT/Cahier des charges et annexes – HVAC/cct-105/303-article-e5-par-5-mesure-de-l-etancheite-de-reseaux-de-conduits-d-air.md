@@ -96,7 +96,7 @@ Le débit de fuite (qluj) est mesuré sous la pression d’épreuve (pu).
 La fig. E5.5.-1 donne une représentation schématique du dispositif d’essai 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0787-10.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0787-10.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -104,7 +104,7 @@ Testeur d’étanchéité<br>automatique<br>**----- End of picture text -----**<
 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0787-11.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0787-11.png]]
 
 
 **----- Start of picture text -----**<br>

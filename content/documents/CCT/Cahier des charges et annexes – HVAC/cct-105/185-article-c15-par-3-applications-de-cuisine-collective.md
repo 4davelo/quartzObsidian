@@ -126,7 +126,7 @@ L’air extrait est compensé (en partie) en insufflant de l’air neuf (éventu
 Cette hotte combine les principes des deux hottes précédentes : elle se compose d’une zone d’extraction et de « deux » zones de pulsion. Les zones de pulsion sont isolées hermétiquement afin de pouvoir utiliser différentes qualités d’air pour la compensation interne et externe. L’auteur de projet indique dans les [[concepts/documents-du-marche|Documents du Marché]] si ces zones de pulsion peuvent n’en former qu’une seule ; à défaut, elles seront isolées l’une de l’autre. (voir Fig. C15.3.-4) 
 
 
-![](documents/CCT/Cahier%20des%20charges%20et%20annexes%20–%20HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0480-05.png)
+![[documents/CCT/Cahier des charges et annexes – HVAC/cct-105/images/CCT105TB_FR_2023.pdf-0480-05.png]]
 
 
 Fig. C15.3.-1                         Fig. C15.3.-2                         Fig. C15.3.-3                         Fig. C15.3.-4 

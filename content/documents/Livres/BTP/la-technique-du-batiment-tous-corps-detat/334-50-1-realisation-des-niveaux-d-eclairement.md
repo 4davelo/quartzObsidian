@@ -78,7 +78,7 @@ C’est la quantité de lumière émise par un foyer lumineux (source nue ou lum
 
 Un tel flux provient, par exemple, de la réflexion sur les parois. Dans ce cas, il est déterminé par la géométrie du local, la couleur des parois et la position de la source ( **fg. [50.1](334_50.1_réalisation_des_niveaux_déclairement.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1893-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1893-00.png]]
 
 
 _**Fig. 50.1. Différents flux émis par un foyer lumineux**_ 
@@ -89,7 +89,7 @@ La distance de la source au plan utile joue un rôle essentiel. En effet, l’é
 
 Prenons un exemple ( **fg. [50.2](336_50.2_appréciation_des_quantités_de_lumière.md)** ) : un journal placé en A, à 1 m de la bougie, reçoit un éclairement de 1 lx environ ; en B, à 2 m de la
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1894-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1894-01.png]]
 
 
 _**Fig. 50.2. Valeur de l’éclairement en fonction de la distance qui sépare la source du plan utile**_ 
@@ -110,7 +110,7 @@ Il est évident que les couleurs ont une grande importance dans l’éclairement
 
 Lorsqu’une couleur présente un facteur de réflexion de 60 %, cela signifie que, sur 100 lm reçus, 40 lm sont absorbés et 60 lm sont restitués ( **fg. [50.3](337_50.3_éclairement_et_activité_dans_lhabitat.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1896-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1896-00.png]]
 
 
 _**Fig. 50.3. Facteurs de réflexion (en %) des différentes couleurs de surface**_

@@ -201,14 +201,14 @@ Les conditions météorologiques influent grandement sur les travaux : la tempé
 
 Le CPT précise les règles de pose des panneaux isolants, leur découpe et le décalage minimal nécessaire des joints entre panneaux. Les panneaux sont disposés en coupe de pierre et harpés au droit des angles avec, au minimum, 200 mm entre joints verticaux ( **fg. [13.2](98_13.2_systèmes_dimperméabilité_des_façades.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0724-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0724-00.png]]
 
 
 _**Fig. 13.2. Pose décalée et harpage en angle**_ 
 
 Aux angles des baies, les panneaux doivent être découpés en « L » afin d’éviter les joints filants ( **fg. [13.3](99_13.3_revêtements_plastiques_épais_rpe.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0725-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0725-00.png]]
 
 
 _**Fig. 13.3. Découpe des panneaux au droit des baies**_ 
@@ -217,7 +217,7 @@ _**Fig. 13.3. Découpe des panneaux au droit des baies**_
 
 Outre les modes de collage en plein ( **fg. [13.4](100_13.4_peintures_pour_traitement_des_façades.md)** .a), par plots ( **fg. 13.4** .b) ou par boudins ( **fg. 13.4** .c), un collage par boudins et plots ( **fg. 13.4** .d) est proposé par le CPT. Il permet de couvrir des écarts de planéité atteignant 10 mm sous la règle de 2 m.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0727-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0727-00.png]]
 
 
 **Fig. 13.4. Modes de collage/calage** 
@@ -230,7 +230,7 @@ Lorsque la fixation est réalisée sur un profilé, les panneaux isolants sont e
 
 La méthode de justification de la répartition des fixations de ces profilés de maintien est détaillée dans l’ _e-Cahier du CSTB_ n° 3702.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0728-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0728-00.png]]
 
 
 _**Fig. 13.5. Fixation des isolants par profilé**_ 
@@ -239,7 +239,7 @@ _**Fig. 13.5. Fixation des isolants par profilé**_
 
 Le CPT prend en compte les nouvelles dispositions d’implantation des chevilles de fixation des panneaux soit « en plein » ( **fg. [13.6](102_13.6_avantages_de_lisolation_thermique_par_lextérieur.md)** .a), soit « en joints et en plein » ( **fg. 13.6** .b), et précise les précautions à prendre pour positionner les chevilles sans porter atteinte à l’isolant.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0729-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0729-00.png]]
 
 
 _**Fig. 13.6. Exemples de répartition des chevilles**_ 
@@ -258,22 +258,22 @@ solution T : protection par travée incombustible ; réalisation de travées com
 
 La mise en œuvre de ces solutions dispense d’un calcul de la masse combustible mobilisable.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0731-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0731-00.png]]
 
 
 _**Fig. 13.7. Solution A : recoupement par bandes filantes incombustibles (source : Efectis, guide de préconisations « Protection contre l’incendie des façades béton ou maçonnerie revêtues de systèmes d’isolation thermique extérieure par enduit sur polystyrène expansé »)**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0733-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0733-00.png]]
 
 
 _**Fig. 13.8. Solution B : mise en œuvre des paniers renforcés autour des baies (source : Efectis, guide de préconisations « Protection contre l’incendie des façades béton ou maçonnerie revêtues de systèmes d’isolation thermique extérieure par enduit sur polystyrène expansé »)**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0734-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0734-00.png]]
 
 
 _**Fig. 13.9. Solution E : protection des baies par entourage incombustible (menuiseries en applique extérieure) (source : Efectis, guide de préconisations « Protection contre l’incendie des façades béton ou maçonnerie revêtues de systèmes d’isolation thermique extérieure par enduit sur polystyrène expansé »)**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0737-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0737-00.png]]
 
 
 _**Fig. 13.10. Solution T : protection par travées incombustibles (source : Efectis, guide de préconisations « Protection contre l’incendie des façades béton ou maçonnerie revêtues de systèmes d’isolation thermique extérieure par enduit sur polystyrène expansé »)**_ 
@@ -313,7 +313,7 @@ Avant préparation d’une couche de base armée, des renforts constitués de pi
 
 30 × 30 cm (appelés « mouchoirs ») doivent être mis en œuvre au droit des angles de baies, y compris dans les retours en voussures et tableaux. Le CPT propose une vue en 3D de ces pièces réalisées soit par assemblage de deux pièces prédécoupées, soit par des pièces d’angle préformées ( **fg. [13.11](107_13.11_murs_doubles_à_paroi_porteuse_intérieure.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0739-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0739-00.png]]
 
 
 _**Fig. 13.11. Renforts d’armature disposés aux angles des baies**_ 

@@ -92,7 +92,7 @@ familles de mise en œuvre des capteurs sur la toiture. La pose du capteur doit 
 Ce type de capteur ( **fg. 42.9** ) n’assure aucune fonction d’étanchéité, mais repose sur un bac d’étanchéité. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1698-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1698-03.png]]
 
 
 _**Fig. 42.9. Capteur sur un bac d’étanchéité**_ 
@@ -104,7 +104,7 @@ L’attention doit dans ce cas se porter sur la durabilité du bac et sur le mod
 Outre sa fonction de recueil de l’énergie solaire, ce type de capteur ( **fg. 42.10** ) assure une mission de couverture. C’est la solution la plus satisfaisante, mais aussi la plus exigeante : toute défaillance du capteur peut induire une défaillance d’étanchéité de la maison ou de l’immeuble. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1699-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1699-01.png]]
 
 
 _**Fig. 42.10. Mise en œuvre du capteur incorporé**_ 
@@ -115,7 +115,7 @@ Ces types de capteurs ( **fg. 42.11** ) se distinguent des capteurs incorporés 
 
 Il s’agit de produits particuliers dont la conception et la mise en œuvre dépendent de chaque projet.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1700-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1700-00.png]]
 
 
 _**Fig. 42.11. Capteurs intégrés**_ 
@@ -126,7 +126,7 @@ Pour davantage de précisions, il est possible de se référer aux « Recommanda
 
 Ce type de capteur présente quatre composants principaux ( **fg. 42.12** ) : le vitrage ; l’absorbeur ; l’isolant ; le coffre.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1701-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1701-00.png]]
 
 
 _**Fig. 42.12. Capteur solaire plan à circulation de liquide**_ 
@@ -146,12 +146,12 @@ Les résultats les plus performants sont obtenus avec les couches céramiques à
 L’isolant choisi par le fabricant est, dans la plupart des cas, une laine minérale. Le coffre est généralement réalisé soit en panneaux de bois, soit en profilés aluminium et tôle d’aluminium. La constitution du coffre est bien souvent liée au mode de mise en œuvre du capteur (semi-incorporé, incorporé, intégré). 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1702-04.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1702-04.png]]
 
 
 _**Fig. 42.13. Absorbeur à serpentin**_
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1703-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1703-00.png]]
 
 
 _**Fig. 42.14. Absorbeur à grille**_ 
@@ -166,7 +166,7 @@ développement du solaire ouvrira sans doute la voie à de multiples produits de
 
 Chaque technologie de capteur sous vide est très spécifique. On décrira ci-après l’exemple du capteur sous vide Schott ( **fg. 42.15** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1705-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1705-00.png]]
 
 
 _**Fig. 42.15. Capteur Schott ETC 16**_
@@ -174,7 +174,7 @@ _**Fig. 42.15. Capteur Schott ETC 16**_
 constitués de tubes sous vide reliés en parallèle à un distributeur/ collecteur de fluide caloporteur. Chaque module est une sorte de « bouteille thermos » ( **fg. 42.16** ) dont la paroi extérieure est un tube de verre traité, et le récipient intérieur un tube de cuivre dans lequel le fluide caloporteur circule en aller-retour. L’aller (fluide caloporteur froid) s’effectue par le centre du tube, tandis que le retour (fluide caloporteur chaud) s’effectue par la périphérie du tube ; le fluide caloporteur récupère alors l’énergie solaire sans pertes annexes. 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1706-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1706-01.png]]
 
 
 _**Fig. 42.16. Tube Schott et son raccordement au collecteur (source : DTA de l’avis technique)**_ 
@@ -245,25 +245,25 @@ Soit _T_ ext la température extérieure, _T_ capt la température du capteur, _
 L’énergie captée par le capteur sans pertes est : 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-03.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-03.png]]
 
 
 L’énergie captée réellement par le capteur est : 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-05.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-05.png]]
 
 
 Les pertes sont égales à : 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-07.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-07.png]]
 
 
 **On a donc :** 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-09.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-09.png]]
 
 
 Soit la formule suivante : 
@@ -273,9 +273,9 @@ Soit la formule suivante :
 On obtient ainsi des courbes de rendement des capteurs. En négligeant le terme quadratique _a_ 2, ces courbes sont des droites. On trouvera sur la **fgure 42.17** un exemple de droites de rendement, à partir de la formule simplifiée, sans terme quadratique : 
 
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-13.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1709-13.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1710-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1710-00.png]]
 
 
 _**Fig. 42.17. Variation du rendement en fonction de la différence de température entre capteur et extérieur rapportée au rayonnement solaire incident (source : [www.outilssolaires.com](http://www.outilssolaires.com))**_ 

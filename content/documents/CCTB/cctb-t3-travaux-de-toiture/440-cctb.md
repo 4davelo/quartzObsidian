@@ -49,16 +49,16 @@ Place Joséphine Charlotte 2, 5100 Namur
 `17-03-2026` **N° de dépôt légal** `: D/2026/11802/39` **ISBN :** `978-2-8056-0868-1` 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0723-07.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0723-07.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0723-08.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0723-08.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0723-09.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0723-09.png]]
 
 
 
-![](images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0723-10.png)
+![[documents/CCTB/cctb-t3-travaux-de-toiture/images/T3_Travaux_de_toiture_CCTB_01.13_20260317.pdf-0723-10.png]]

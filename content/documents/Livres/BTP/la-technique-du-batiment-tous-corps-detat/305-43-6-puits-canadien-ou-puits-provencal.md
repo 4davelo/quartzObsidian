@@ -48,7 +48,7 @@ quelques mètres de profondeur, restera plus stable, entre + 5 °C et + 15 °C.
 
 Le principe de cette technique consiste à faire circuler l’air neuf entrant dans la maison ou dans l’immeuble par des canalisations enterrées : en hiver, l’air se réchauffe au contact du sol et réduit ainsi les besoins en chauffage, ou permet un maintien hors-gel de la maison ou de l’immeuble : c’est le puits canadien ( **fg. 43.9** ) ; en été, l’air se rafraîchit au contact du sol, pénètre dans l’habitation à une température inférieure à la température extérieure, et améliore ainsi le confort : c’est le puits provençal.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1739-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1739-00.png]]
 
 
 _**Fig. 43.9. Principe de fonctionnement d’un puits canadien (source : d’après Cetiat)**_
@@ -113,7 +113,7 @@ Afin d’optimiser les transferts thermiques sol/air, la vitesse de l’air dans
 
 L’échangeur thermique peut être constitué d’un tuyau posé en serpentin ou en boucle autour du bâtiment, ou comporter un ensemble de tubes parallèles afin d’augmenter le débit d’air, comme indiqué sur la **fgure 43.10** .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1744-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1744-00.png]]
 
 
 _**Fig. 43.10. Implantation des tuyaux du puits canadien/provençal (source : d’après Cetiat)**_ 
@@ -122,7 +122,7 @@ _**Fig. 43.10. Implantation des tuyaux du puits canadien/provençal (source : d�
 
 Il est impératif d’éviter la stagnation de l’eau de condensation, qui se concentre au point le plus bas de la pente, afin d’éviter la croissance de germes et de bactéries, qui peut non seulement contrarier le débit, mais surtout altérer la qualité de l’air qui traverse le tuyau et donc alimente la maison. Le puits doit donc comporter un dispositif d’évacuation des condensats. Ce dispositif d’évacuation peut être intérieur au bâtiment en cas de présence d’un sous-sol. Dans le cas contraire, il sera nécessaire de réaliser un regard, comme indiqué sur la **fgure 43.11** .
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1746-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1746-00.png]]
 
 
 _**Fig. 43.11. Récupération des condensats (source : d’après Cetiat)**_ 
@@ -135,7 +135,7 @@ Le puits canadien/provençal n’a en général pas d’utilité en intersaison,
 
 Un puits canadien/provençal peut utilement être associé à un système de ventilation mécanique double flux, comme indiqué sur la **fgure 43.12** . Le ventilateur d’entrée d’air neuf de la VMC fait alors également office de moteur du puits. On notera toutefois que les débits nécessaires à une utilisation « provençale » en été sont considérablement supérieurs aux débits du renouvellement d’air imposés en hiver par la réglementation. Il conviendra donc, en cas d’utilisation d’un seul moteur, que sa puissance soit réglable en fonction de la saison.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1747-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1747-00.png]]
 
 
 _**Fig. 43.12. Puits canadien/provençal et VMC (source : d’après Cetiat)**_

@@ -78,7 +78,7 @@ La volonté de bien isoler les bâtiments a conduit les constructeurs à étudie
 
 Depuis la RT 2012, renforcée par la RE 2020, la réglementation impose, en effet, simultanément : un ratio moyen de transmission thermique linéique inférieur à 0,28 W/(m[2] .K) ; une limite de 0,6 W/(ml.K) pour les ponts thermiques des liaisons entre planchers intermédiaires et façades qui rend impossible, en logement, la simple isolation intérieure avec plancher béton sans traitement du nez de dalle ( **fg. [12.1](88_12.1_caractéristiques_générales_des_façades.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0648-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0648-00.png]]
 
 
 **Fig. 12.1. Isolation intérieure avec et sans rupteur de pont thermique** 
@@ -93,7 +93,7 @@ La façade est notamment utile :
 
 en protection contre les tentatives d’intrusion de l’extérieur vers l’intérieur du bâtiment (sûreté) ; en protection contre les chutes de l’intérieur vers l’extérieur (sûreté) ; en sécurité incendie (classement au feu et règle du « C + D », **fg. [12.2](90_12.2_matériaux_constitutifs_des_façades.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0652-01.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0652-01.png]]
 
 
 **12.1.1.5 Aspect, couleurs, textures** 
@@ -108,7 +108,7 @@ les façades porteuses, qui sont le plus souvent en béton banché, béton préf
 
 les façades portées, pour lesquelles les parties pleines des murs, trumeaux et éléments sous fenêtres (allèges) reposent sur les rives des planchers ou sur les poutres d’une ossature. Elles sont généralement réalisées en matériaux plus légers que les façades porteuses (maçonneries creuses, ossatures métalliques ou ossatures bois). La partie pleine située en haut des ouvertures (fenêtres et portes-fenêtres) constitue le linteau ; entre les deux systèmes ci-avant, on trouve les façades autoportées : ces façades ne portent qu’elles-mêmes, étant simplement maintenues à l’ossature pour éviter le dévers.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0653-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0653-00.png]]
 
 
 _**Fig. 12.3. Trois types de façade**_ 
@@ -131,7 +131,7 @@ Les façades préfabriquées se sont initialement développées dans le cadre de
 
 Un autre type d’association entre préfabrication et béton coulé en place concerne les techniques de prémur, notamment utilisées en travaux d’infrastructures et en travaux en site urbain très contraint. Le prémur peut également intégrer un isolant rigide de type PSE ( **fg. [12.4](92_12.4_façade_en_béton_coulé_en_place.md)** .).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0655-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0655-00.png]]
 
 
 _**Fig. 12.4. Principes de conception d’un prémur associant préfabrication et béton coulé en place**_ 

@@ -50,7 +50,7 @@ Les profilés sont filés au moyen d’une presse hydraulique, à partir d’une
 
 Comme le montre la **fgure [28.1](191_28.1_équipement_technique_des_fenêtres_en_fonction_de_leur_type.md)** , ces profilés sont constitués de deux éléments d’aluminium, l’un en contact avec l’atmosphère extérieure, l’autre avec l’atmosphère intérieure. Ils sont assemblés par un élément isolant qui freine les échanges par conduction, mais dont le comportement mécanique doit permettre la rigidité des deux profilés aluminium qu’il connecte. La qualité de la coupure thermique est en effet essentielle dans la performance non seulement thermique, mais aussi mécanique de la fenêtre.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1205-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1205-00.png]]
 
 
 _**Fig. 28.1. Exemples de profilés (source : fabricants)**_ 
@@ -77,7 +77,7 @@ coulage de la résine liquide dans un logement d’un profilé unique, après po
 
 Dans tous les cas, la fabrication des profilés s’effectue en continu.
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1207-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1207-00.png]]
 
 
 _**Fig. 28.2. Coupe verticale sur ouvrant à frappe K-Line (source : fabricant)**_ On distingue les deux barrettes du dormant et de l’ouvrant. 
@@ -86,9 +86,9 @@ _**Fig. 28.2. Coupe verticale sur ouvrant à frappe K-Line (source : fabricant)*
 
 Les profilés sont la base de la conception de systèmes de menuiseries extérieures, systèmes évalués par la procédure de document technique d’application (DTA) du CSTB. Ce document détaille notamment l’ensemble des profilés utilisés dans le système, les modes d’assemblage des profilés constituant les menuiseries, ainsi que les mises en œuvre des menuiseries dans les ouvrages ( **tab. [28.1](191_28.1_équipement_technique_des_fenêtres_en_fonction_de_leur_type.md)** et **fg. [28.3](193_28.3_caractéristiques_des_matériaux_et_fournitures_utilisés.md)** ).
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1209-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1209-00.png]]
 
-![](images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1211-00.png)
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1211-00.png]]
 
 
 _**Fig. 28.3. Modes d’assemblage et de pose (source : fabricants)**_ 

@@ -30,7 +30,7 @@ familles_sources: [ouvrage, gestion-projet]
 ---
 ## 3.4 Exemple n° 2 : Découpage d’un projet de réhabilitation d’une route
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0050-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0050-00.png]]
 
 _**Figure [3.2](14_3.2_découpage_du_projet.md) Organigramme WBS d’un projet de construction d’un hôpital**_
 
@@ -83,6 +83,6 @@ _**Tableau [3.2](14_3.2_découpage_du_projet.md) Exemple de découpage d’un pr
 |_5_|_Signalisation horizontale et_<br>_verticale_|_2_|
 |_6_|_Finition et repliement_|_2_|
 
-![](images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0054-00.png)
+![[documents/Livres/PM & Estimations/reussir-planification-chantier/images/Réussir_la_planification_d'un_chantier_--_2023_--_Le_Moniteur.epub-0054-00.png]]
 
 _**Figure [3.3](15_3.3_exemple_n_1_découpage_dun_projet_de_construction_dun_hôpital.md) Organigramme WBS d’un projet de réhabilitation d’une route**_
