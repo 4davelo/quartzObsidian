@@ -1,0 +1,405 @@
+---
+aliases: [CCTB T9 - Abords]
+tags: [source, cctb, abords, drainage, egouttage, amenagements-exterieurs, wallonie]
+sources: [T9 Abords CCTB 01.13_20260317.pdf]
+created: 2026-04-22
+updated: 2026-04-28
+contextes: [appel-doffres]
+autorite: [contractuel]
+juridictions: [wallonie, bruxelles]
+familles_sources: [cctb]
+---
+# CCTB T9 - Abords
+
+**Source :** T9 Abords CCTB 01.13_20260317.pdf  
+**Date d'ingestion :** 2026-04-22  
+**Type :** norme technique / référentiel de spécification (389 pages)  
+**Éditeur :** [[entities/service-public-de-wallonie|Service Public de Wallonie]]  
+**Édition :** 01.13 - 17/03/2026  
+**ISBN :** 978-2-8056-0874-2
+
+## Résumé
+
+<!-- résumé-global-importé:start -->
+Résumé du document **T9 Abords CCTB 01.13_20260317.pdf** :
+
+Le Tome 9 du Cahier des Charges Type Bâtiments (CCTB) détaille les spécifications techniques pour l'aménagement des abords, incluant terrassements, sous-fondations, fondations, drainage, revêtements de sol, plantations, petits ouvrages d'art, clôtures, mobiliers extérieurs, éclairage, signalisation et entretien. Chaque section précise les matériaux, méthodes d'exécution, variantes, options de réemploi et références normatives (CCT Qualiroutes). Les travaux sont mesurés selon des unités spécifiques (m², m³, pièces) et classés par type de marché (QF, QP, PG).
+
+Les principales thématiques abordées incluent :
+- **Terrassements et fondations** : Déblais, remblais, traitements des sols, sous-fondations (types 1 à 4), fondations en sable, empierrement, béton maigre, etc.
+- **Drainage et égouttage** : Récepteurs linéaires et ponctuels, fossés, bassins d'orage.
+- **Revêtements extérieurs** : Béton coulé, enrobés, pavés, dalles, matières synthétiques, bois, revêtements divers.
+- **Plantations et engazonnement** : Préparation des sols, semis, plaquage, plantation de végétaux ligneux, accessoires (tuteurs, paillis, protections).
+- **Petits ouvrages d'art et clôtures** : Béton armé, maçonnerie, gabions, enrochements, clôtures (poteaux, fils, treillis, portails).
+- **Mobiliers et équipements extérieurs** : Bancs, poubelles, signalisation, éclairage, équipements sportifs et de loisirs.
+- **Entretien** : Revêtements, plantations, mobiliers, canalisations, clôtures.
+
+Le document est publié par le Service Public de Wallonie (SPW), avec des ressources disponibles sur [batiments.wallonie.be](https://batiments.wallonie.be).
+<!-- résumé-global-importé:end -->
+
+Le tome T9 du [[entities/cctb|CCTB]] traite les aménagements extérieurs du bâtiment : terrassements des abords, sous-fondations et fondations, drainage et égouttage d'abords, revêtements extérieurs, plantations, petits ouvrages, mobilier, éclairage extérieur et entretien.
+
+Pour le HVAC, son apport doit être lu de façon stricte. T9 n'est pas un tome de conception des installations techniques. Il devient utile lorsqu'un projet doit coordonner des zones techniques extérieures, des ouvrages de collecte d'eaux de surface, des raccordements à l'égout, des terrassements localisés pour appareils d'abords, ou certains supports civils autour d'équipements et d'accès de maintenance.
+
+## Structure couverte
+
+- `91` terrassements, sous-fondations et fondations pour aménagements des abords
+- `92` drainage et égouttage
+- `93` revêtements de sol extérieurs et éléments linéaires
+- `94` engazonnement, plantations et entretien
+- `95` petits ouvrages d'art, pièces d'eau, clôtures, constructions préfabriquées
+- `96` équipements divers des abords
+- `97` équipements d'éclairage et d'électricité d'extérieur
+- `98` entretien
+
+## Interfaces directes avec le HVAC
+
+### Drainage et égouttage des abords
+
+- Le chapitre `92` constitue l'interface la plus nette avec les techniques.
+- Il vise les récepteurs extérieurs intégrés aux revêtements, destinés à recueillir les eaux de surface et/ou de nettoyage.
+- Les caniveaux, avaloirs et autres récepteurs sont accompagnés de leurs terrassements, fondations, pose dans le revêtement et raccordement à l'égout ou à des chambres de visite.
+- Le tome précise notamment l'intégration au niveau du revêtement, la stabilité de l'assise, l'étanchéité des raccordements et, pour les caniveaux, le raccordement aux égouts ou chambres de visite via éléments adaptés.
+- Cette matière est directement pertinente autour de locaux techniques extérieurs, socles d'équipements, zones de livraison ou de maintenance, et plus largement partout où des équipements techniques exposés peuvent générer ou subir des ruissellements.
+
+### Terrassements et fondations pour éléments ponctuels ou linéaires
+
+- Le chapitre `91.11.1b` vise les fondations d'éléments linéaires d'abords comme bordures, filets d'eau, bandes de contrebutage, caniveaux ou glissières.
+- Le chapitre `91.11.1c` vise les éléments localisés tels qu'avaloirs, grilles, trappillons, couvercles, puisards, bouches d'incendie, bornes d'incendie, poteaux et autres dispositifs de surface.
+- Pour un projet HVAC, cette matière est directement utile lorsqu'un ouvrage technique extérieur ou hydraulique doit être implanté dans les abords avec un support civil précis.
+- Le lien reste cependant limité au support et au génie civil de ces ouvrages, pas au dimensionnement des installations techniques qu'ils servent.
+
+## Interfaces indirectes ou lointaines
+
+### Revêtements drainants et géométrie des abords
+
+- Certaines sections du chapitre `93` traitent de revêtements drainants, d'ouvertures de drainage dans les pavés, de filets d'eau et de détails autour de points singuliers comme chambres de visite, avaloirs et grilles.
+- Cela peut influencer la manière dont une zone technique extérieure évacue les eaux de ruissellement et reste accessible.
+- Le lien avec le HVAC est réel mais indirect : il concerne l'environnement de surface d'un équipement, pas l'équipement lui-même.
+
+### Plantations, fosses et drains de plantation
+
+- Le chapitre `94` mentionne, parmi les accessoires de plantation, des drains constitués de tuyaux de drainage entourés ou non d'un filtre biodégradable afin de permettre une évacuation permanente de l'eau.
+- Ce sujet peut compter à proximité de réseaux enterrés ou d'équipements extérieurs sensibles aux racines et à l'humidité.
+- L'interface reste lointaine et paysagère : il s'agit surtout de coordination de site.
+
+### Pièces d'eau et équipements associés
+
+- Le chapitre `95.22` couvre des équipements de pièces d'eau comme pompes, filtres, traitements, trop-pleins, alimentations en eau, alimentations électriques, éclairage et canalisations.
+- Cette matière peut intéresser certains projets techniques hybrides ou paysagers, mais elle ne relève pas du coeur HVAC courant du bâtiment.
+- Elle doit donc être signalée comme un voisin technique possible, non comme une interface HVAC standard.
+
+### Réseaux d'éclairage extérieur et gaines
+
+- Le chapitre `97` couvre les terrassements pour gaines, la pose de gaines et câbles, ainsi que certains raccordements et accessoires pour l'éclairage extérieur.
+- Ces prescriptions peuvent servir de repère lorsque des réseaux extérieurs techniques partagent des tranchées ou des zones d'abords.
+- Le lien avec le HVAC reste indirect et de coordination inter-lots, sauf cas particulier expressément prévu au [[concepts/csc|CSC]].
+
+## Le reste du tome en contexte de lot
+
+- La majorité de T9 concerne l'aménagement des surfaces extérieures, le paysage, les clôtures, le mobilier, la signalétique, l'éclairage extérieur et l'entretien courant des ouvrages d'abords.
+- Le tome encadre donc d'abord le comportement hydraulique, mécanique et fonctionnel du site autour du bâtiment, pas les installations HVAC intérieures.
+- Pour un marché public HVAC, T9 sert surtout à éviter les angles morts sur les raccords extérieurs, les ouvrages de collecte d'eau, les supports civils localisés et l'accessibilité durable des zones techniques implantées dans les abords.
+
+## Entités mentionnées
+
+- [[entities/service-public-de-wallonie|Service Public de Wallonie]] - autorité éditrice du référentiel
+- [[entities/cctb|CCTB]] - cadre normatif qui héberge le tome T9
+
+## Concepts couverts
+
+- [[concepts/abords-et-interfaces-hvac|Abords et Interfaces HVAC]] - lecture prudente du tome T9 depuis les seuls points de contact réels avec les techniques
+- [[concepts/assainissement-et-reseaux-enterres|Assainissement et Réseaux Enterrés]] - prolongement extérieur des ouvrages de collecte, évacuation et raccordement
+- [[concepts/terrassements-et-fondations|Terrassements et Fondations]] - génie civil de support pour certains éléments techniques ou hydrauliques d'abords
+- [[concepts/installations-sanitaires|Installations Sanitaires]] - articulation entre récepteurs intérieurs de `T6` et récepteurs extérieurs d'abords
+
+## Lecture orientée interfaces HVAC
+
+Cette source n'est pas le coeur technique du lot HVAC. Dans le wiki, elle est donc exploitée en priorité pour ses interfaces avec les techniques spéciales : percements, supports, réservations, étanchéité, sécurité, accès maintenance, coordination, alimentation électrique, égouttage, abords ou livrables. Les prescriptions propres au métier principal du tome ne doivent pas être surinterprétées comme des exigences HVAC, sauf renvoi explicite du [[concepts/csc|CSC]], du [[entities/cctb|CCTB]] T6 ou du bordereau.
+
+## Découpage wiki/documents
+
+- Index document : [[documents/CCTB/cctb-t9-abords/index|CCTB T9 — Abords 01.13 — Index]]
+- Sections ingérées : 273
+- Dossier raw : `raw/cahier des charges type/cctb/T9 Abords CCTB 01.13_20260317/T9 Abords CCTB 01.13_20260317_MD/`
+
+### Table des matières complète
+
+- [[documents/CCTB/cctb-t9-abords/01-batiments|BÂTIMENTS]]
+- [[documents/CCTB/cctb-t9-abords/02-cctb|CCTB]]
+- [[documents/CCTB/cctb-t9-abords/03-t9-abords-cctb-01-13-20260126|T9 Abords CCTB 01.13 20260126]]
+  - [[documents/CCTB/cctb-t9-abords/04-9-t9-abords-cctb-01-13|9 T9 Abords CCTB 01.13]]
+    - [[documents/CCTB/cctb-t9-abords/05-91-terrassements-sous-fondations-et-fondations-pour-amenagements-des-abords-cctb-01-09|91 Terrassements, sous fondations et fondations pour aménagements des abords CCTB 01.09]]
+      - [[documents/CCTB/cctb-t9-abords/06-91-1-deblais-remblai-pour-amenagements-des-abords-cctb-01-09|91.1 Déblais, remblai pour aménagements des abords CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/07-91-11-deblais-localises-cctb-01-09|91.11 Déblais localisés CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/08-91-11-1-deblais-localises|91.11.1 Déblais localisés]]
+        - [[documents/CCTB/cctb-t9-abords/09-91-12-traitement-de-remblai-cctb-01-09|91.12 Traitement de remblai CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/10-91-12-1-fourniture-d-additif-a-emission-de-poussiere-reduite-cctb-01-09|91.12.1 Fourniture d'additif à émission de poussière réduite CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/11-91-12-2-traitement-du-materiau-cctb-01-09|91.12.2 Traitement du matériau CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/12-91-12-3-corps-de-remblai-leger-cctb-01-09|91.12.3 Corps de remblai léger CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/13-91-13-remblai-pour-gazonnement-et-plantation-cctb-01-09|91.13 Remblai pour gazonnement et plantation CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/14-91-13-1-remblai-pour-gazonnement-et-plantation|91.13.1 Remblai pour gazonnement et plantation]]
+        - [[documents/CCTB/cctb-t9-abords/15-91-14-remblai-d-argile-pour-etancheisation-de-lagunage-etang-bassins-piscine-etc|91.14 Remblai d'argile pour étanchéisation de lagunage, étang, bassins, piscine, etc.]]
+          - [[documents/CCTB/cctb-t9-abords/16-91-14-1-remblai-d-argile-pour-etancheisation-de-lagunage-etang-bassins-piscine-etc|91.14.1 Remblai d'argile pour étanchéisation de lagunage, étang, bassins, piscine, etc.]]
+      - [[documents/CCTB/cctb-t9-abords/17-91-2-terrassements-particuliers-cctb-01-09|91.2 Terrassements particuliers CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/18-91-21-travaux-de-profilage-paysager|91.21 Travaux de profilage paysager]]
+          - [[documents/CCTB/cctb-t9-abords/19-91-21-1-travaux-de-profilage-paysager|91.21.1 Travaux de profilage paysager]]
+        - [[documents/CCTB/cctb-t9-abords/20-91-22-remise-sous-profil-d-accotement-cctb-01-09|91.22 Remise sous profil d'accotement CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/21-91-22-1-remise-sous-profil-d-accotement|91.22.1 Remise sous profil d'accotement]]
+        - [[documents/CCTB/cctb-t9-abords/22-91-23-terrassements-pour-fosses-cctb-01-09|91.23 Terrassements pour fossés CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/23-91-23-1-deblais-pour-realisation-de-fosses-section-0-50-m2-cctb-01-09|91.23.1 Déblais pour réalisation de fossés : section <= 0,50 m² CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/24-91-23-2-deblais-pour-realisation-de-fosses-0-50-m2-section-1-00-m2-cctb-01-09|91.23.2 Déblais pour réalisation de fossés : 0,50 m²< section <= 1,00 m² CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/25-91-23-3-reprofilage-de-fosses-cctb-01-09|91.23.3 Reprofilage de fossés CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/26-91-24-terrassement-pour-fond-de-coffre-cctb-01-09|91.24 Terrassement pour fond de coffre CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/27-91-24-1-compactage-du-fond-de-coffre|91.24.1 Compactage du fond de coffre]]
+          - [[documents/CCTB/cctb-t9-abords/28-91-24-2-nivellement-de-fond-de-coffre|91.24.2 Nivellement de fond de coffre]]
+          - [[documents/CCTB/cctb-t9-abords/29-91-24-3-traitement-du-fond-de-coffre-cctb-01-12|91.24.3 Traitement du fond de coffre CCTB 01.12]]
+        - [[documents/CCTB/cctb-t9-abords/30-91-25-terrassements-pour-lagunage-etang-bassins-piscine-etc|91.25 Terrassements pour lagunage, étang, bassins, piscine, etc.]]
+          - [[documents/CCTB/cctb-t9-abords/31-91-25-1-terrassements-pour-lagunage-etang-bassins-piscine-etc|91.25.1 Terrassements pour lagunage, étang, bassins, piscine, etc.]]
+      - [[documents/CCTB/cctb-t9-abords/32-91-3-sous-fondations-cctb-01-09|91.3 Sous fondations CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/33-91-31-geogrille-ou-geotextile-cctb-01-09|91.31 Géogrille ou géotextile CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/34-91-31-1-geogrille-ou-geotextile|91.31.1 Géogrille ou géotextile]]
+        - [[documents/CCTB/cctb-t9-abords/35-91-32-reprofilage-d-une-sous-fondation-fondation-preexistante-cctb-01-09|91.32 Reprofilage d'une sous fondation/fondation préexistante CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/36-91-32-1-reprofilage-et-compactage-cctb-01-11|91.32.1 Reprofilage et compactage CCTB 01.11]]
+          - [[documents/CCTB/cctb-t9-abords/37-91-32-2-materiaux-d-apport-pour-reprofilage-cctb-01-11|91.32.2 Matériaux d'apport pour reprofilage CCTB 01.11]]
+          - [[documents/CCTB/cctb-t9-abords/38-91-32-3-retraitement-en-place-de-structures-existantes|91.32.3 Retraitement en place de structures existantes]]
+        - [[documents/CCTB/cctb-t9-abords/39-91-33-sous-fondations-de-type-1-cctb-01-09|91.33 Sous fondations de type 1 CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/40-91-33-1-sous-fondations-de-type-1|91.33.1 Sous fondations de type 1]]
+        - [[documents/CCTB/cctb-t9-abords/41-91-34-sous-fondations-de-type-2-cctb-01-09|91.34 Sous fondations de type 2 CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/42-91-34-1-sous-fondations-de-type-2|91.34.1 Sous fondations de type 2]]
+        - [[documents/CCTB/cctb-t9-abords/43-91-35-sous-fondations-de-type-3|91.35 Sous fondations de type 3]]
+          - [[documents/CCTB/cctb-t9-abords/44-91-35-1-sous-fondations-de-type-3|91.35.1 Sous fondations de type 3]]
+        - [[documents/CCTB/cctb-t9-abords/45-91-36-sous-fondations-de-type-4-cctb-01-09|91.36 Sous fondations de type 4 CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/46-91-36-1-sous-fondations-de-type-4|91.36.1 Sous fondations de type 4]]
+      - [[documents/CCTB/cctb-t9-abords/47-91-4-fondations-cctb-01-09|91.4 Fondations CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/48-91-41-fondations-en-sable|91.41 Fondations en sable]]
+          - [[documents/CCTB/cctb-t9-abords/49-91-41-1-fondations-en-sable|91.41.1 Fondations en sable]]
+        - [[documents/CCTB/cctb-t9-abords/50-91-42-fondation-en-empierrement-ou-sable-stabilise|91.42 Fondation en empierrement ou sable stabilisé]]
+          - [[documents/CCTB/cctb-t9-abords/51-91-42-1-fondation-en-empierrement-ou-sable-stabilise|91.42.1 Fondation en empierrement ou sable stabilisé]]
+        - [[documents/CCTB/cctb-t9-abords/52-91-43-fondation-en-beton-maigre-cctb-01-12|91.43 Fondation en béton maigre CCTB 01.12]]
+          - [[documents/CCTB/cctb-t9-abords/53-91-43-1-fondation-en-beton-maigre-cctb-01-12|91.43.1 Fondation en béton maigre CCTB 01.12]]
+        - [[documents/CCTB/cctb-t9-abords/54-91-44-fondation-en-beton-maigre-poreux-cctb-01-09|91.44 Fondation en béton maigre poreux CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/55-91-44-1-fondation-en-beton-maigre-poreux|91.44.1 Fondation en béton maigre poreux]]
+    - [[documents/CCTB/cctb-t9-abords/56-92-drainage-et-egouttage-cctb-01-09|92 Drainage et égouttage CCTB 01.09]]
+      - [[documents/CCTB/cctb-t9-abords/57-92-1-appareils-recepteurs-lineaires-cctb-01-09|92.1 Appareils récepteurs linéaires CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/58-92-11-appareils-recepteurs-lineaires|92.11 Appareils récepteurs linéaires]]
+          - [[documents/CCTB/cctb-t9-abords/59-92-11-1-caniveaux-realises-sur-place-cctb-01-09|92.11.1 Caniveaux réalisés sur place CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/60-92-11-2-caniveaux-prefabriques-cctb-01-09|92.11.2 Caniveaux préfabriqués CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/61-92-11-3-avaloirs-en-ligne-pour-caniveaux-prefabriques|92.11.3 Avaloirs en ligne pour caniveaux préfabriqués]]
+      - [[documents/CCTB/cctb-t9-abords/62-92-2-appareils-recepteurs-ponctuels-cctb-01-11|92.2 Appareils récepteurs ponctuels CCTB 01.11]]
+        - [[documents/CCTB/cctb-t9-abords/63-92-21-appareils-recepteurs-ponctuels|92.21 Appareils récepteurs ponctuels]]
+          - [[documents/CCTB/cctb-t9-abords/64-92-21-1-avaloirs-cctb-01-09|92.21.1 Avaloirs CCTB 01.09]]
+      - [[documents/CCTB/cctb-t9-abords/65-92-3-fosses-revetus-et-bassins-d-orage-cctb-01-09|92.3 Fossés revêtus et bassins d'orage CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/66-92-31-revetement-de-fosse-et-de-bassin-d-orage|92.31 Revêtement de fossé et de bassin d'orage]]
+          - [[documents/CCTB/cctb-t9-abords/67-92-31-1-revetement-de-fosse-et-de-bassin-d-orage|92.31.1 Revêtement de fossé et de bassin d'orage]]
+    - [[documents/CCTB/cctb-t9-abords/68-93-revetements-de-sol-exterieurs-cctb-01-09|93 Revêtements de sol extérieurs CCTB 01.09]]
+      - [[documents/CCTB/cctb-t9-abords/69-93-1-revetements-de-sol-exterieurs|93.1 Revêtements de sol extérieurs]]
+        - [[documents/CCTB/cctb-t9-abords/70-93-11-revetements-en-beton-coule-sur-place-cctb-01-11|93.11 Revêtements en béton coulé sur place CCTB 01.11]]
+          - [[documents/CCTB/cctb-t9-abords/71-93-11-1-revetements-en-beton-coule-sur-place-continu-en-beton-arme-cctb-01-09|93.11.1 Revêtements en béton coulé sur place continu en béton armé CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/72-93-11-2-revetements-en-beton-coule-sur-place-discontinu-cctb-01-09|93.11.2 Revêtements en béton coulé sur place discontinu CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/73-93-11-3-revetements-en-beton-coule-sur-place-poreux|93.11.3 Revêtements en béton coulé sur place poreux]]
+          - [[documents/CCTB/cctb-t9-abords/74-93-11-4-revetements-en-beton-coule-sur-place-traitement-de-surface-cctb-01-09|93.11.4 Revêtements en béton coulé sur place, traitement de surface CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/75-93-12-revetement-hydrocarbones-et-bitumineux-cctb-01-09|93.12 Revêtement hydrocarbonés et bitumineux CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/76-93-12-1-enrobes-a-squelette-sableux-cctb-01-09|93.12.1 Enrobés à squelette sableux CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/77-93-12-2-operation-sur-revetement-en-enrobe|93.12.2 Opération sur revêtement en enrobé]]
+          - [[documents/CCTB/cctb-t9-abords/78-93-12-3-traitements-de-surface-cctb-01-09|93.12.3 Traitements de surface CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/79-93-13-revetement-en-dalles-cctb-01-11|93.13 Revêtement en dalles CCTB 01.11]]
+          - [[documents/CCTB/cctb-t9-abords/80-93-13-1-dalles-en-pierre-naturelle-cctb-01-13|93.13.1 Dalles en pierre naturelle CCTB 01.13]]
+          - [[documents/CCTB/cctb-t9-abords/81-93-13-2-dalles-en-beton-prefabrique-cctb-01-10|93.13.2 Dalles en béton préfabriqué CCTB 01.10]]
+          - [[documents/CCTB/cctb-t9-abords/82-93-13-3-dalles-en-matiere-synthetique|93.13.3 Dalles en matière synthétique]]
+          - [[documents/CCTB/cctb-t9-abords/83-93-13-4-dalles-de-reperage-cctb-01-09|93.13.4 Dalles de repérage CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/84-93-13-5-dalles-de-reemploi-cctb-01-09|93.13.5 Dalles de réemploi CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/85-93-14-revetement-en-matiere-synthetique|93.14 Revêtement en matière synthétique]]
+          - [[documents/CCTB/cctb-t9-abords/86-93-14-1-planches-en-matiere-synthetique|93.14.1 Planches en matière synthétique]]
+          - [[documents/CCTB/cctb-t9-abords/87-93-14-2-sur-revetements-en-matiere-synthetique|93.14.2 Sur revêtements en matière synthétique]]
+          - [[documents/CCTB/cctb-t9-abords/88-93-14-3-revetement-epdm|93.14.3 Revêtement EPDM]]
+          - [[documents/CCTB/cctb-t9-abords/89-93-14-4-revetement-en-matiere-synthetique-de-reemploi|93.14.4 Revêtement en matière synthétique de réemploi]]
+        - [[documents/CCTB/cctb-t9-abords/90-93-15-revetement-en-bois-cctb-01-09|93.15 Revêtement en bois CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/91-93-15-1-planches-en-bois-cctb-01-09|93.15.1 Planches en bois CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/92-93-15-2-dalles|93.15.2 Dalles]]
+          - [[documents/CCTB/cctb-t9-abords/93-93-15-3-revetement-en-bois-de-reemploi|93.15.3 Revêtement en bois de réemploi]]
+        - [[documents/CCTB/cctb-t9-abords/94-93-16-revetement-en-paves-cctb-01-09|93.16 Revêtement en pavés CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/95-93-16-1-paves-en-pierre-naturelle-cctb-01-13|93.16.1 Pavés en pierre naturelle CCTB 01.13]]
+          - [[documents/CCTB/cctb-t9-abords/96-93-16-2-paves-en-beton-cctb-01-10|93.16.2 Pavés en béton CCTB 01.10]]
+          - [[documents/CCTB/cctb-t9-abords/97-93-16-3-paves-en-briques-de-terre-cuite-cctb-01-13|93.16.3 Pavés en briques de terre cuite CCTB 01.13]]
+          - [[documents/CCTB/cctb-t9-abords/98-93-16-4-paves-de-reemploi-cctb-01-09|93.16.4 Pavés de réemploi CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/99-93-17-revetement-divers|93.17 Revêtement divers]]
+          - [[documents/CCTB/cctb-t9-abords/100-93-17-1-revetement-divers|93.17.1 Revêtement divers]]
+      - [[documents/CCTB/cctb-t9-abords/101-93-2-elements-lineaires-exterieurs-cctb-01-09|93.2 Eléments linéaires extérieurs CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/102-93-21-bordures-et-bandes-de-contrebutage-cctb-01-09|93.21 Bordures et bandes de contrebutage CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/103-93-21-1-bordures-et-bandes-de-contrebutage|93.21.1 Bordures et bandes de contrebutage]]
+        - [[documents/CCTB/cctb-t9-abords/104-93-22-bordures-filet-d-eau-et-filets-d-eau|93.22 Bordures filet d'eau et filets d'eau]]
+          - [[documents/CCTB/cctb-t9-abords/105-93-22-1-bordures-filet-d-eau-et-filets-d-eau|93.22.1 Bordures filet d'eau et filets d'eau]]
+      - [[documents/CCTB/cctb-t9-abords/106-93-3-revetements-de-sol-exterieurs-renovation|93.3 Revêtements de sol extérieurs Rénovation]]
+        - [[documents/CCTB/cctb-t9-abords/107-93-31-revetements-de-sol-exterieurs-renovation|93.31 Revêtements de sol extérieurs Rénovation]]
+          - [[documents/CCTB/cctb-t9-abords/108-93-31-1-revetements-de-sol-exterieurs-renovation|93.31.1 Revêtements de sol extérieurs Rénovation]]
+    - [[documents/CCTB/cctb-t9-abords/109-94-plantation-et-engazonnement-cctb-01-09|94 Plantation et engazonnement CCTB 01.09]]
+      - [[documents/CCTB/cctb-t9-abords/110-94-1-preparation-et-traitement-du-site-pour-plantation-et-engazonnement-cctb-01-09|94.1 Préparation et traitement du site pour plantation et engazonnement CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/111-94-11-preparation-du-terrain-pour-plantation-et-engazonnement|94.11 Préparation du terrain pour plantation et engazonnement]]
+          - [[documents/CCTB/cctb-t9-abords/112-94-11-1-preparation-du-terrain-pour-plantation-et-engazonnement|94.11.1 Préparation du terrain pour plantation et engazonnement]]
+        - [[documents/CCTB/cctb-t9-abords/113-94-12-protection-des-vegetaux-existants|94.12 Protection des végétaux existants]]
+          - [[documents/CCTB/cctb-t9-abords/114-94-12-1-protection-des-vegetaux-existants|94.12.1 Protection des végétaux existants]]
+        - [[documents/CCTB/cctb-t9-abords/115-94-13-traitement-du-sol-cctb-01-09|94.13 Traitement du sol CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/116-94-13-1-traitement-du-sol|94.13.1 Traitement du sol]]
+        - [[documents/CCTB/cctb-t9-abords/117-94-14-amelioration-du-sol-cctb-01-09|94.14 Amélioration du sol CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/118-94-14-1-amelioration-du-sol-par-amendements-organiques-cctb-01-09|94.14.1 Amélioration du sol par amendements organiques CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/119-94-14-2-amelioration-du-sol-par-amendements-physiques-cctb-01-09|94.14.2 Amélioration du sol par amendements physiques CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/120-94-14-3-amelioration-du-sol-par-engrais-organiques-cctb-01-09|94.14.3 Amélioration du sol par engrais organiques CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/121-94-14-4-amelioration-du-sol-par-engrais-mineraux-cctb-01-09|94.14.4 Amélioration du sol par engrais minéraux CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/122-94-15-deblais-generaux-pour-plantation-et-gazonnement-cctb-01-09|94.15 Déblais généraux pour plantation et gazonnement CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/123-94-15-1-deblais-generaux-pour-plantation-et-gazonnement|94.15.1 Déblais généraux pour plantation et gazonnement]]
+        - [[documents/CCTB/cctb-t9-abords/124-94-16-remblais-pour-plantation-et-gazonnement|94.16 Remblais pour plantation et gazonnement]]
+          - [[documents/CCTB/cctb-t9-abords/125-94-16-1-remblais-pour-fosses-de-plantation-cctb-01-09|94.16.1 Remblais pour fosses de plantation CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/126-94-16-2-remblais-pour-plantation-et-gazonnement-pour-zones-de-plantation|94.16.2 Remblais pour plantation et gazonnement pour zones de plantation]]
+      - [[documents/CCTB/cctb-t9-abords/127-94-2-creation-de-pelouses-et-de-pres-cctb-01-09|94.2 Création de pelouses et de prés CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/128-94-21-semis-cctb-01-13|94.21 Semis CCTB 01.13]]
+          - [[documents/CCTB/cctb-t9-abords/129-94-21-1-semis|94.21.1 Semis]]
+        - [[documents/CCTB/cctb-t9-abords/130-94-22-creation-d-engazonnement-par-plaquage-cctb-01-13|94.22 Création d'engazonnement par plaquage CCTB 01.13]]
+          - [[documents/CCTB/cctb-t9-abords/131-94-22-1-creation-d-engazonnement-par-plaquage|94.22.1 Création d'engazonnement par plaquage]]
+      - [[documents/CCTB/cctb-t9-abords/132-94-3-plantation-de-vegetaux-ligneux-cctb-01-13|94.3 Plantation de végétaux ligneux CCTB 01.13]]
+        - [[documents/CCTB/cctb-t9-abords/133-94-31-arbre-a-haute-tige-cctb-01-09|94.31 Arbre à haute tige CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/134-94-31-1-arbre-a-haute-tige-essence-indigene|94.31.1 Arbre à haute tige essence indigène]]
+          - [[documents/CCTB/cctb-t9-abords/135-94-31-2-arbre-a-haute-tige-essence-horticole|94.31.2 Arbre à haute tige essence horticole]]
+        - [[documents/CCTB/cctb-t9-abords/136-94-32-baliveau-cctb-01-09|94.32 Baliveau CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/137-94-32-1-baliveau|94.32.1 Baliveau]]
+        - [[documents/CCTB/cctb-t9-abords/138-94-33-arbuste-cctb-01-09|94.33 Arbuste CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/139-94-33-1-arbuste|94.33.1 Arbuste]]
+        - [[documents/CCTB/cctb-t9-abords/140-94-34-conifere-cctb-01-09|94.34 Conifère CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/141-94-34-1-conifere|94.34.1 Conifère]]
+        - [[documents/CCTB/cctb-t9-abords/142-94-35-plant-forestier-cctb-01-09|94.35 Plant forestier CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/143-94-35-1-plant-forestier|94.35.1 Plant forestier]]
+        - [[documents/CCTB/cctb-t9-abords/144-94-36-plante-specifique-cctb-01-13|94.36 Plante spécifique CCTB 01.13]]
+          - [[documents/CCTB/cctb-t9-abords/145-94-36-1-plante-specifique|94.36.1 Plante spécifique]]
+        - [[documents/CCTB/cctb-t9-abords/146-94-37-accessoires-pour-plantation-cctb-01-11|94.37 Accessoires pour plantation CCTB 01.11]]
+          - [[documents/CCTB/cctb-t9-abords/147-94-37-1-accessoires-pour-plantation|94.37.1 Accessoires pour plantation]]
+      - [[documents/CCTB/cctb-t9-abords/148-94-4-couvertures-de-sol|94.4 Couvertures de sol]]
+        - [[documents/CCTB/cctb-t9-abords/149-94-41-couvertures-de-sol-en-vrac-cctb-01-09|94.41 Couvertures de sol en vrac CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/150-94-41-1-couvertures-de-sol-en-vrac|94.41.1 Couvertures de sol en vrac]]
+        - [[documents/CCTB/cctb-t9-abords/151-94-42-couvertures-de-sol-a-l-aide-de-nappes-de-paillage-cctb-01-09|94.42 Couvertures de sol à l'aide de nappes de paillage CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/152-94-42-1-couvertures-de-sol-a-l-aide-de-nappes-de-paillage|94.42.1 Couvertures de sol à l'aide de nappes de paillage]]
+        - [[documents/CCTB/cctb-t9-abords/153-94-43-couvertures-de-sol-a-l-aide-de-film|94.43 Couvertures de sol à l'aide de film]]
+          - [[documents/CCTB/cctb-t9-abords/154-94-43-1-couvertures-de-sol-a-l-aide-de-film|94.43.1 Couvertures de sol à l'aide de film]]
+      - [[documents/CCTB/cctb-t9-abords/155-94-5-entretien-de-plantation-et-engazonnement|94.5 Entretien de plantation et engazonnement]]
+        - [[documents/CCTB/cctb-t9-abords/156-94-51-entretien-general-cctb-01-09|94.51 Entretien général CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/157-94-51-1-entretien-general|94.51.1 Entretien général]]
+        - [[documents/CCTB/cctb-t9-abords/158-94-52-entretien-d-engazonnement-cctb-01-09|94.52 Entretien d'engazonnement CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/159-94-52-1-fauchage-cctb-01-09|94.52.1 Fauchage CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/160-94-52-2-tonte-cctb-01-09|94.52.2 Tonte CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/161-94-52-3-scarification-cctb-01-09|94.52.3 Scarification CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/162-94-52-4-entretiens-divers|94.52.4 Entretiens divers]]
+        - [[documents/CCTB/cctb-t9-abords/163-94-53-entretien-de-plantation|94.53 Entretien de plantation]]
+          - [[documents/CCTB/cctb-t9-abords/164-94-53-1-entretien-du-sol-entre-les-plantations-cctb-01-09|94.53.1 Entretien du sol entre les plantations CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/165-94-53-2-amelioration-du-sol-entre-les-plantations-cctb-01-09|94.53.2 Amélioration du sol entre les plantations CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/166-94-53-3-taille-d-arbustes-de-rosiers-et-de-graminees-cctb-01-09|94.53.3 Taille d'arbustes, de rosiers et de graminées CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/167-94-53-4-taille-d-arbres-a-haute-tige-cctb-01-09|94.53.4 Taille d'arbres à haute tige CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/168-94-53-5-titre-reserve|94.53.5 Titre réservé]]
+          - [[documents/CCTB/cctb-t9-abords/169-94-53-6-titre-reserve|94.53.6 Titre réservé]]
+          - [[documents/CCTB/cctb-t9-abords/170-94-53-7-soins-aux-plaies|94.53.7 Soins aux plaies]]
+          - [[documents/CCTB/cctb-t9-abords/171-94-53-8-entretien-divers-cctb-01-09|94.53.8 Entretien divers CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/172-94-54-elagage-d-arbres-cctb-01-09|94.54 Élagage d'arbres CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/173-94-54-1-elagage-d-arbres|94.54.1 Élagage d'arbres]]
+    - [[documents/CCTB/cctb-t9-abords/174-95-petits-ouvrages-d-art-et-clotures-cctb-01-09|95 Petits ouvrages d'art et clôtures CCTB 01.09]]
+      - [[documents/CCTB/cctb-t9-abords/175-95-1-petits-ouvrages-d-art|95.1 Petits ouvrages d'art]]
+        - [[documents/CCTB/cctb-t9-abords/176-95-11-beton-arme-cctb-01-11|95.11 Béton armé CCTB 01.11]]
+          - [[documents/CCTB/cctb-t9-abords/177-95-11-1-beton-arme|95.11.1 Béton armé]]
+        - [[documents/CCTB/cctb-t9-abords/178-95-12-petits-ouvrages-d-art-de-maconnerie-cctb-01-09|95.12 Petits ouvrages d'art de maçonnerie CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/179-95-12-1-petits-ouvrages-d-art-de-maconnerie|95.12.1 Petits ouvrages d'art de maçonnerie]]
+        - [[documents/CCTB/cctb-t9-abords/180-95-13-couvre-murs-margelles-et-tablettes-sous-garde-corps-cctb-01-09|95.13 Couvre murs, margelles et tablettes sous garde corps CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/181-95-13-1-couvre-murs-margelles-et-tablettes-sous-garde-corps|95.13.1 Couvre murs, margelles et tablettes sous garde corps]]
+        - [[documents/CCTB/cctb-t9-abords/182-95-14-gabion-cctb-01-09|95.14 Gabion CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/183-95-14-1-gabion|95.14.1 Gabion]]
+        - [[documents/CCTB/cctb-t9-abords/184-95-15-enrochements-cctb-01-09|95.15 Enrochements CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/185-95-15-1-enrochements|95.15.1 Enrochements]]
+        - [[documents/CCTB/cctb-t9-abords/186-95-16-petits-ouvrages-d-art-de-reemploi|95.16 Petits ouvrages d'art de réemploi]]
+          - [[documents/CCTB/cctb-t9-abords/187-95-16-1-petits-ouvrages-d-art-de-reemploi|95.16.1 Petits ouvrages d'art de réemploi]]
+      - [[documents/CCTB/cctb-t9-abords/188-95-2-pieces-d-eau|95.2 Pièces d'eau]]
+        - [[documents/CCTB/cctb-t9-abords/189-95-21-structure-de-pieces-d-eau|95.21 Structure de pièces d'eau]]
+          - [[documents/CCTB/cctb-t9-abords/190-95-21-1-structure-de-pieces-d-eau|95.21.1 Structure de pièces d'eau]]
+        - [[documents/CCTB/cctb-t9-abords/191-95-22-equipement-pour-pieces-d-eau|95.22 Équipement pour pièces d'eau]]
+          - [[documents/CCTB/cctb-t9-abords/192-95-22-1-equipement-pour-pieces-d-eau|95.22.1 Équipement pour pièces d'eau]]
+      - [[documents/CCTB/cctb-t9-abords/193-95-3-constructions-prefabriquees|95.3 Constructions préfabriquées]]
+        - [[documents/CCTB/cctb-t9-abords/194-95-31-constructions-prefabriquees|95.31 Constructions préfabriquées]]
+          - [[documents/CCTB/cctb-t9-abords/195-95-31-1-constructions-prefabriquees|95.31.1 Constructions préfabriquées]]
+      - [[documents/CCTB/cctb-t9-abords/196-95-4-constructions-specifiques-avec-description|95.4 Constructions spécifiques (avec description)]]
+        - [[documents/CCTB/cctb-t9-abords/197-95-41-constructions-specifiques-avec-description|95.41 Constructions spécifiques (avec description)]]
+          - [[documents/CCTB/cctb-t9-abords/198-95-41-1-constructions-specifiques-avec-description|95.41.1 Constructions spécifiques (avec description)]]
+      - [[documents/CCTB/cctb-t9-abords/199-95-5-elements-de-cloture-cctb-01-09|95.5 Eléments de clôture CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/200-95-51-poteaux-pour-cloture-cctb-01-09|95.51 Poteaux pour clôture CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/201-95-51-1-poteaux-pour-cloture|95.51.1 Poteaux pour clôture]]
+        - [[documents/CCTB/cctb-t9-abords/202-95-52-fils-pour-cloture|95.52 Fils pour clôture]]
+          - [[documents/CCTB/cctb-t9-abords/203-95-52-1-fils-pour-cloture|95.52.1 Fils pour clôture]]
+        - [[documents/CCTB/cctb-t9-abords/204-95-53-treillis-et-filets-pour-cloture|95.53 Treillis et filets pour clôture]]
+          - [[documents/CCTB/cctb-t9-abords/205-95-53-1-treillis-et-filets-pour-cloture|95.53.1 Treillis et filets pour clôture]]
+        - [[documents/CCTB/cctb-t9-abords/206-95-54-tissus-et-toiles-pour-cloture|95.54 Tissus et toiles pour clôture]]
+          - [[documents/CCTB/cctb-t9-abords/207-95-54-1-tissus-et-toiles-pour-cloture|95.54.1 Tissus et toiles pour clôture]]
+        - [[documents/CCTB/cctb-t9-abords/208-95-55-panneaux-et-toles-pour-cloture|95.55 Panneaux et tôles pour clôture]]
+          - [[documents/CCTB/cctb-t9-abords/209-95-55-1-panneaux-et-toles-pour-cloture|95.55.1 Panneaux et tôles pour clôture]]
+        - [[documents/CCTB/cctb-t9-abords/210-95-56-elements-de-cloture-de-reemploi|95.56 Eléments de clôture de réemploi]]
+          - [[documents/CCTB/cctb-t9-abords/211-95-56-1-elements-de-cloture-de-reemploi|95.56.1 Eléments de clôture de réemploi]]
+      - [[documents/CCTB/cctb-t9-abords/212-95-6-systemes-specifiques-de-clotures-cctb-01-09|95.6 Systèmes spécifiques de clôtures CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/213-95-61-systemes-specifiques-de-clotures|95.61 Systèmes spécifiques de clôtures]]
+          - [[documents/CCTB/cctb-t9-abords/214-95-61-1-systemes-specifiques-de-clotures|95.61.1 Systèmes spécifiques de clôtures]]
+      - [[documents/CCTB/cctb-t9-abords/215-95-7-portillons-portails-et-systemes-de-controle-et-gestion-d-acces-cctb-01-09|95.7 Portillons, portails et systèmes de contrôle et gestion d'accès CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/216-95-71-portillon-acces-pieton-cctb-01-09|95.71 Portillon (accès piéton) CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/217-95-71-1-portillon-acces-pieton-cctb-01-09|95.71.1 Portillon (accès piéton) CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/218-95-72-portail-acces-vehicules-cctb-01-09|95.72 Portail (accès véhicules) CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/219-95-72-1-portail-acces-vehicules|95.72.1 Portail (accès véhicules)]]
+        - [[documents/CCTB/cctb-t9-abords/220-95-73-borne-retractable-acces-vehicules|95.73 Borne rétractable (accès véhicules)]]
+          - [[documents/CCTB/cctb-t9-abords/221-95-73-1-borne-retractable-acces-vehicules|95.73.1 Borne rétractable (accès véhicules)]]
+        - [[documents/CCTB/cctb-t9-abords/222-95-74-portillons-et-portails-de-reemploi-cctb-01-09|95.74 Portillons et portails de réemploi CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/223-95-74-1-portillons-et-portails-de-reemploi|95.74.1 Portillons et portails de réemploi]]
+    - [[documents/CCTB/cctb-t9-abords/224-96-mobiliers-et-autres-equipements-exterieurs|96 Mobiliers et autres équipements extérieurs]]
+      - [[documents/CCTB/cctb-t9-abords/225-96-1-equipements-d-activite|96.1 Equipements d'activité]]
+        - [[documents/CCTB/cctb-t9-abords/226-96-11-equipements-et-mobiliers-de-jeux-loisir|96.11 Équipements et mobiliers de jeux / loisir]]
+          - [[documents/CCTB/cctb-t9-abords/227-96-11-1-equipements-et-mobiliers-de-jeux-loisir|96.11.1 Équipements et mobiliers de jeux / loisir]]
+      - [[documents/CCTB/cctb-t9-abords/228-96-2-equipements-et-mobilier-urbain-cctb-01-09|96.2 Equipements et mobilier urbain CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/229-96-21-equipements-et-mobilier-urbain|96.21 Equipements et mobilier urbain]]
+          - [[documents/CCTB/cctb-t9-abords/230-96-21-1-equipements-et-mobilier-urbain|96.21.1 Equipements et mobilier urbain]]
+      - [[documents/CCTB/cctb-t9-abords/231-96-3-equipements-de-protection|96.3 Equipements de protection]]
+        - [[documents/CCTB/cctb-t9-abords/232-96-31-equipements-de-protection|96.31 Equipements de protection]]
+          - [[documents/CCTB/cctb-t9-abords/233-96-31-1-equipements-de-protection|96.31.1 Equipements de protection]]
+      - [[documents/CCTB/cctb-t9-abords/234-96-4-equipements-de-signalisation-et-d-information|96.4 Equipements de signalisation et d'information]]
+        - [[documents/CCTB/cctb-t9-abords/235-96-41-signalisation-routiere-cctb-01-09|96.41 Signalisation routière CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/236-96-41-1-signalisation-verticale-cctb-01-09|96.41.1 Signalisation verticale CCTB 01.09]]
+          - [[documents/CCTB/cctb-t9-abords/237-96-41-2-signalisation-horizontale-cctb-01-09|96.41.2 Signalisation horizontale CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/238-96-42-signaletique|96.42 Signalétique]]
+          - [[documents/CCTB/cctb-t9-abords/239-96-42-1-signaletique-verticale|96.42.1 Signalétique verticale]]
+          - [[documents/CCTB/cctb-t9-abords/240-96-42-2-signaletique-horizontale|96.42.2 Signalétique horizontale]]
+      - [[documents/CCTB/cctb-t9-abords/241-96-5-mobiliers-et-equipements-exterieurs-renovation-cctb-01-09|96.5 Mobiliers et équipements extérieurs Rénovation CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/242-96-51-mobiliers-et-equipements-exterieurs-renovation|96.51 Mobiliers et équipements extérieurs Rénovation]]
+          - [[documents/CCTB/cctb-t9-abords/243-96-51-1-mobiliers-et-equipements-exterieurs-renovation|96.51.1 Mobiliers et équipements extérieurs Rénovation]]
+    - [[documents/CCTB/cctb-t9-abords/244-97-equipements-d-eclairage-et-d-electricite-d-exterieur-cctb-01-09|97 Equipements d'éclairage et d'électricité d'extérieur CCTB 01.09]]
+      - [[documents/CCTB/cctb-t9-abords/245-97-1-eclairage-d-exterieur|97.1 Éclairage d'extérieur]]
+        - [[documents/CCTB/cctb-t9-abords/246-97-11-installation-et-preparatifs-pour-l-eclairage-d-exterieur|97.11 Installation et préparatifs pour l'éclairage d'extérieur]]
+          - [[documents/CCTB/cctb-t9-abords/247-97-11-1-installation-et-preparatifs-pour-l-eclairage-d-exterieur|97.11.1 Installation et préparatifs pour l'éclairage d'extérieur]]
+        - [[documents/CCTB/cctb-t9-abords/248-97-12-luminaire-sur-mat|97.12 Luminaire sur mât]]
+          - [[documents/CCTB/cctb-t9-abords/249-97-12-1-luminaire-sur-mat|97.12.1 Luminaire sur mât]]
+        - [[documents/CCTB/cctb-t9-abords/250-97-13-luminaire-de-balisage|97.13 Luminaire de balisage]]
+          - [[documents/CCTB/cctb-t9-abords/251-97-13-1-luminaire-de-balisage|97.13.1 Luminaire de balisage]]
+        - [[documents/CCTB/cctb-t9-abords/252-97-14-projecteurs|97.14 Projecteurs]]
+          - [[documents/CCTB/cctb-t9-abords/253-97-14-1-projecteurs|97.14.1 Projecteurs]]
+      - [[documents/CCTB/cctb-t9-abords/254-97-2-gestion-d-eclairage-d-exterieur|97.2 Gestion d'éclairage d'extérieur]]
+        - [[documents/CCTB/cctb-t9-abords/255-97-21-gestion-d-eclairage-d-exterieur|97.21 Gestion d'éclairage d'extérieur]]
+          - [[documents/CCTB/cctb-t9-abords/256-97-21-1-gestion-d-eclairage-d-exterieur|97.21.1 Gestion d'éclairage d'extérieur]]
+      - [[documents/CCTB/cctb-t9-abords/257-97-3-autre-equipements-electriques|97.3 Autre équipements électriques]]
+        - [[documents/CCTB/cctb-t9-abords/258-97-31-autre-equipements-electriques|97.31 Autre équipements électriques]]
+          - [[documents/CCTB/cctb-t9-abords/259-97-31-1-autre-equipements-electriques|97.31.1 Autre équipements électriques]]
+    - [[documents/CCTB/cctb-t9-abords/260-98-entretien|98 Entretien]]
+      - [[documents/CCTB/cctb-t9-abords/261-98-1-entretien-de-canalisation-cctb-01-09|98.1 Entretien de canalisation CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/262-98-11-entretien-de-canalisation|98.11 Entretien de canalisation]]
+          - [[documents/CCTB/cctb-t9-abords/263-98-11-1-entretien-de-canalisation|98.11.1 Entretien de canalisation]]
+      - [[documents/CCTB/cctb-t9-abords/264-98-2-entretien-de-revetements-de-sol-cctb-01-09|98.2 Entretien de revêtements de sol CCTB 01.09]]
+        - [[documents/CCTB/cctb-t9-abords/265-98-21-entretien-de-revetements-de-sol|98.21 Entretien de revêtements de sol]]
+          - [[documents/CCTB/cctb-t9-abords/266-98-21-1-entretien-de-revetements-de-sol|98.21.1 Entretien de revêtements de sol]]
+      - [[documents/CCTB/cctb-t9-abords/267-98-3-entretien-pour-constructions-exterieures-et-clotures|98.3 Entretien pour constructions extérieures et clôtures]]
+        - [[documents/CCTB/cctb-t9-abords/268-98-31-entretien-pour-constructions-exterieures-et-clotures|98.31 Entretien pour constructions extérieures et clôtures]]
+          - [[documents/CCTB/cctb-t9-abords/269-98-31-1-entretien-pour-constructions-exterieures-et-clotures|98.31.1 Entretien pour constructions extérieures et clôtures]]
+      - [[documents/CCTB/cctb-t9-abords/270-98-4-entretien-de-mobilier-et-equipements-exterieurs|98.4 Entretien de mobilier et équipements extérieurs]]
+        - [[documents/CCTB/cctb-t9-abords/271-98-41-entretien-de-mobilier-et-equipements-exterieurs|98.41 Entretien de mobilier et équipements extérieurs]]
+          - [[documents/CCTB/cctb-t9-abords/272-98-41-1-entretien-de-mobilier-et-equipements-exterieurs|98.41.1 Entretien de mobilier et équipements extérieurs]]
+- [[documents/CCTB/cctb-t9-abords/273-cctb|CCTB]]
+
+## Voir aussi
+
+- [[documents/CCTB/cctb-t9-abords/index|CCTB T9 — Abords 01.13 — Index]] — découpage complet du document source
+- [[meta/source-inventory|Inventaire des Sources]] — suivi des documents sources
