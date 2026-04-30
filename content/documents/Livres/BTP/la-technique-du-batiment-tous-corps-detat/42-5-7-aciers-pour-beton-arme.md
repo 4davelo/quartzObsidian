@@ -50,7 +50,7 @@ Les armatures pour béton armé sont des assemblages de barres en acier à carac
 
 les ronds lisses ou ronds à béton ; les aciers à haute adhérence ; les aciers nervurés ; les aciers crénelés.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0340-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0340-00.png]]
 
 
 _**Fig. 5.5. Principaux types d’acier en barres pour armatures**_ 
@@ -64,7 +64,7 @@ soit préfaçonnées en usine (treillis soudés ou métal déployé).
 Les treillis de fils soudés ( **fg. 5.6** ) sont constitués de fils porteurs et de fils de répartition, superposés orthogonalement aux premiers. Ils sont livrés en plaques (nappes), ou en rouleaux pour les petits diamètres. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0341-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0341-02.png]]
 
 
 _**Fig. 5.6. Nappe de treillis soudé**_ 
@@ -87,7 +87,7 @@ Les armatures sont disposées en tout premier lieu pour répondre à ces efforts
 
 Elles se développent tout au long des zones comprimées et tendues. Selon leur position, elles sont dites « armatures inférieures ou supérieures », ou « chapeau » pour la partie supérieure sur appui central ( **fg. [5.7](42_5.7_aciers_pour_béton_armé.md)** ). Elles sont généralement terminées sur les appuis de rive par un dispositif d’ancrage tel que crosse ou crochet.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0344-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0344-00.png]]
 
 
 _**Fig. 5.7. Positionnement des différentes armatures dans une poutre**_ 
@@ -97,7 +97,7 @@ _**Fig. 5.7. Positionnement des différentes armatures dans une poutre**_
 Ce sont les cadres, étriers, épingles ( **fg. [5.8](43_5.8_coffrages_pour_béton_armé.md)** ) qui enserrent les barres longitudinales et se répartissent en intervalles (écartements) de plus en plus serrés au fur et à mesure que l’on s’approche des appuis. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0344-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0344-04.png]]
 
 
 _**Fig. 5.8. Types d’armatures transversales**_ 
@@ -109,14 +109,14 @@ Les différentes armatures sont liées entre elles par des ligatures ou attaches
 envisagé, les armatures ne doivent subir aucune altération dans le temps. On peut redouter, en particulier, l’oxydation due à la migration de la vapeur d’eau de l’air ou la perte de résistance provoquée par une élévation anormale de la température en cas d’incendie. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0345-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0345-01.png]]
 
 
 _**Fig. 5.9. Assujettissement des armatures transversales**_ 
 
 Pour ces raisons et bien d’autres (chocs, agressivité des fumées, de l’eau de mer…), les armatures doivent être protégées par une épaisseur suffisante de béton, que l’on ménage grâce à des écarteurs (ou cales) placés en fond de coffrage ( **fg. [5.10](45_5.10_méthode_de_vérification_simple_du_contreventement.md)** ). Les distances de protection latérales sont obtenues généralement par un calage provisoire contre les coffrages qui peut être retiré dès que la couche de béton assujettit suffisamment l’ensemble armaturé ou par un calage définitif du treillis soudé dans les banches.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0346-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0346-00.png]]
 
 
 _**Fig. 5.10. Réglage des armatures longitudinales par rapport au coffrage**_ 
@@ -133,7 +133,7 @@ Cette pratique s’accompagne nécessairement de dispositions spéciales pour le
 
 De l’élément déjà coulé émergent les aciers en attente qui, avec les aciers de l’élément ultérieur, assureront une longueur de recouvrement suffisante, appréciée en fonction des efforts et du diamètre des armatures ( **fg. 5.11** ) et cousue par des armatures transversales.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0349-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0349-00.png]]
 
 
 _**Fig. 5.11. Reprise de coulage d’un voile en béton armé**_ 

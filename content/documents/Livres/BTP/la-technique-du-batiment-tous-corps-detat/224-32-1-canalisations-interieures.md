@@ -224,13 +224,13 @@ l’écrou de serrage ( **fg. [32.1](224_32.1_canalisations_intérieures.md)** .
 
 Il consiste à utiliser un raccord dans lequel les deux tubes viennent s’emboîter ; une pince à sertissage permet de réaliser la liaison ( **photo [32.1](224_32.1_canalisations_intérieures.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1359-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1359-00.png]]
 
 
 **Fig. 32.1. Principaux types de raccords du tube de cuivre** 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1359-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1359-02.png]]
 
 
 _**Photo 32.1. Exemples d’assemblage par sertissage**_ 
@@ -242,7 +242,7 @@ Lorsque les deux tubes sont préparés et nettoyés, la partie extérieure du tu
 applique la soudure sur l’extrémité du tube A, avec une finition par lissage à l’aide du porte-soudure ( **fg. [32.2](226_32.2_canalisations_extérieures.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1360-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1360-01.png]]
 
 
 _**Fig. 32.2. Principe de l’emboîture de deux tubes de cuivre**_ 
@@ -251,7 +251,7 @@ _**Fig. 32.2. Principe de l’emboîture de deux tubes de cuivre**_
 
 Les dérivations sur tubes, appelées encore « piquages », peuvent se faire directement par façonnage ou à l’aide d’un outillage spécial : le tube A est percé avec un foret, et les bords relevés avec une broche de plombier pour former une collerette. Le tube B est mandriné de façon qu’il vienne s’ajuster par-dessus la collerette de A. L’extrémité de B est mise en forme pour s’adapter légèrement sur les flancs de A ( **fg. 32.3** ). Ces piquages ne doivent pas être soudés à l’étain, mais obligatoirement brasés (soudure à l’argent extrêmement robuste).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1361-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1361-00.png]]
 
 
 _**Fig. 32.3. Principe du piquage réalisé avec deux tubes de cuivre**_ 
@@ -270,7 +270,7 @@ Ils peuvent être encastrés sans fourreau pour les fluides dont la température
 
 Les tubes de cuivre sont recouverts d’une gaine isolante en mousse de
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1362-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1362-01.png]]
 
 
 _**Fig. 32.4. Tube de cuivre prégainé**_ 
@@ -353,12 +353,12 @@ les raccords à compression ( **photo [32.2](226_32.2_canalisations_extérieures
 
 les raccords à glissement ( **photo 32.3** ), dont la mise en place requiert un matériel spécifique. Généralement vendus en coffret, ils comprennent une pince coupe-tube pour le plastique, une pince à évasement et une pince à glissement.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1366-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1366-00.png]]
 
 
 _**Photo 32.2. Mise en place d’un raccord à compression (source : [www.systemed.fr](http://www.systemed.fr))**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1367-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1367-00.png]]
 
 
 _**Photo 32.3. Mise en place d’un raccord à glissement (source : [www.systemed.fr](http://www.systemed.fr))**_ 
@@ -377,7 +377,7 @@ _**Photo 32.3. Mise en place d’un raccord à glissement (source : [www.systeme
 
 Le tube multicouche combine trois matériaux : le polyéthylène de résistance élevée à haute température (PERT) pour la partie intérieure, le polyéthylène haute densité (PEHD) pour la partie extérieure et l’aluminium intermédiaire comme barrière antioxygène. C’est une forme de PER amélioré, qui se caractérise par une faible dilatation et par une étanchéité parfaite à l’oxygène qui empêche la formation de boue en installation de chauffage. Il se courbe à la main avec un ressort de cintrage, et conserve sa forme après cintrage ( **fg. 32.5** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1369-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1369-00.png]]
 
 
 _**Fig. 32.5. Couches successives d’un tube multicouches (source : Fluxo-Nicoll)**_ 
@@ -402,7 +402,7 @@ un corps ( **fg. 32.6** .a) constituant à une extrémité un insert destiné à
 
 un corps ( **fg. 32.6** .a) constituant à une extrémité un insert destiné à recevoir le tube. Cet insert comporte deux joints toriques en EPDM ( **fg. 32.6** .b) et un joint diélectrique en polypropylène (PP) utilisé aussi comme témoin visuel d’insertion du tube. L’autre extrémité du corps permet le raccordement au réseau par filetage/taraudage, une bague à sertir avec un témoin de sertissage.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1371-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1371-00.png]]
 
 
 _**Fig. 32.6. Raccords à sertir de la gamme Fluxo (source : Fluxo-Nicoll)**_ 
@@ -506,7 +506,7 @@ La douille à emboîter est utilisée pour la jonction entre tubes en PVC et pi�
 ( **fg. 32.7** ). On doit réserver un dévêtissement _D_ égal à la longueur filetée de l’écrou de rappel, de manière à pouvoir dévisser ce dernier. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1375-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1375-01.png]]
 
 
 _**Fig. 32.7. Douille à emboîter pour réaliser la jonction entre un tube en PVC et un tube métallique**_ 
@@ -538,9 +538,9 @@ L’extrémité non tulipée du tube à emboîter doit être chanfreinée, et de
 Le raccordement se fait par l’intermédiaire d’un manchon à épaulement de diamètre intérieur égal au diamètre extérieur du tube ( **fg. 32.8** ). On procède au collage du premier tube sur le manchon, puis du second : les tubes doivent être emboîtés à fond de butée sur l’épaulement du manchon. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1376-06.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1376-06.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1377-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1377-00.png]]
 
 
 _**Fig. 32.8. Principe des deux types d’emboîture**_ 
@@ -556,7 +556,7 @@ emboîture. Ce raccordement doit, dans le cas des assemblages coulissants, perme
 En plus de la douille à emboîter, il existe un collet moulé avec écrou tournant. L’écrou est métallique ou en matière plastique. Tube et collet sont assemblés par collage ( **fg. 32.9** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1378-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1378-03.png]]
 
 
 _**Fig. 32.9. Principe de jonction d’un tube PVC avec une pièce métallique par collet moulé et écran tournant**_ 
@@ -569,7 +569,7 @@ Après s’être dilatés sous l’effet de la chaleur, les tubes se rétractent
 
 Il est absolument nécessaire d’absorber ces déplacements linéaires par l’utilisation d’assemblages coulissants (manchons et chambres de dilatation). Interdits dans les coudes, les colliers de support doivent permettre un glissement de la canalisation qu’ils supportent afin de ne pas la bloquer, sauf dans le cas d’exécution de points fixes. Cette exigence conduit à ne pas serrer à fond les colliers métalliques ( **fg. 32.10** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1379-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1379-00.png]]
 
 **Points fixes et assemblages coulissants** 
 
@@ -587,7 +587,7 @@ Les branchements situés à plus de 2 m d’un point fixe doivent être réalis�
 
 La chambre de dilatation et de retrait ( **fg. 32.11** ) présente un joint amovible, en élastomère, du type coulissant à doubles lèvres, lequel est maintenu par une bague démontable, encliquetée sur la collerette moulée à cet effet en bordure de la chambre.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1381-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1381-00.png]]
 
 
 _**Fig. 32.11. Chambre de dilatation et de retrait pour canalisation plastique**_ 
@@ -596,7 +596,7 @@ La surface du joint en contact avec le tube comporte des godrons qui permettent 
 
 La **fgure 32.12** schématise le mode de pose de ce type d’assemblage coulissant.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1382-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1382-00.png]]
 
 
 _**Fig. 32.12. Réalisation d’un point fixe en aval d’une chambre de dilatation et de retrait**_ 
@@ -692,7 +692,7 @@ Dans les petits diamètres, jusqu’à 16 mm, on peut utiliser des tubes en acie
 
 Le tuyau flexible ( **fg. 32.13** ) est un tube polyvalent qui permet une plomberie sans soudure comme les tubes synthétiques. Ces tuyaux offrent une bonne résistance à la pression (pour l’alimentation), conviennent à des endroits difficiles et sont utilisables tant pour l’eau chaude que pour l’eau froide. Leur coût plus élevé induit une utilisation ponctuelle, notamment en raccordement d’appareils.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1387-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1387-00.png]]
 
 
 _**Fig. 32.13. Raccordement avec tuyau flexible**_ 

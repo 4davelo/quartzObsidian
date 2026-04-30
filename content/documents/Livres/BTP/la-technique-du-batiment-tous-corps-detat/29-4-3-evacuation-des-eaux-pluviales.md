@@ -76,7 +76,7 @@ les tranchées absorbantes garnies de matériaux buvards comportent un revêteme
 
 un équipement à structure-réservoir (chaussée, parking, etc.) consiste en la reprise directe des eaux de voirie et de toitures riveraines par un revêtement de chaussée poreux ( **fg. 4.9** ). D’aspect rustique, il ne peut être utilisé que pour les petites opérations, et nécessite des précautions lors de la mise en œuvre afin d’éviter les colmatages partiels. Il est également possible de limiter ces risques par la pose de quelques grillesavaloirs.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0220-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0220-00.png]]
 
 
 _**Fig. 4.9. Principes de fonctionnement d’une structure-réservoir**_ 

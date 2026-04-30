@@ -43,7 +43,7 @@ Les égouts, faîtages et arêtiers nécessitent des dispositions spécifiques :
 chevron ». Pour les ouvrages spéciaux, on se sert de tuiles ayant un galbe particulier : tuiles pendantes, gauches, gambardières, coffines ( **fg. [22.2](158_22.2_couverture_en_tuiles_à_emboîtement_et_à_glissement.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1001-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1001-01.png]]
 
 
 _**Fig. 22.2. Principales tuiles plates galbées**_ 
@@ -76,7 +76,7 @@ _**Tab. 22.2. Pente minimale admissible**_
 |Site normal|0,90|1,00|1,10|
 |Site exposé|1,10|1,20|1,25|
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1003-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1003-00.png]]
 
 
 _**Fig. 22.3. Zones géographiques d’application des vents**_
@@ -101,7 +101,7 @@ Lors de la pose, le bon positionnement de la tuile doit résulter de l’accroch
 
 Les tuiles se chevauchant sur une longueur importante, il est nécessaire d’employer au départ de l’égout, comme en arrivée en faîtage, des tuiles courtes ( **fg. [22.4](160_22.4_couverture_en_tuiles_béton.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1006-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1006-00.png]]
 
 
 _**Fig. 22.4. Principaux types d’égouts de toitures en tuiles plates**_ 
@@ -132,7 +132,7 @@ Le premier rang de tuiles en zone d’égout est accroché en partie haute sur l
 
 soit disposées jointivement bout à bout ; soit à emboîtement ou à glissement ( **fg. 22.5** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1008-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1008-00.png]]
 
 
 _**Fig. 22.5. Mise en œuvre des faîtières**_ 
@@ -151,13 +151,13 @@ Les joints entre les arêtiers et les tuiles sont également calfeutrés au mêm
 
 Les arêtiers peuvent être exécutés en utilisant des noquets métalliques ou par un filet en mortier bâtard, cette dernière possibilité étant la moins sûre car elle présente un risque de fissuration ( **fg. 22.6** .b).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1010-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1010-00.png]]
 
 Elle se réalise de différentes manières : 
 
 utilisation d’éléments spéciaux (pièces de noue en terre cuite), lorsque les deux versants ont la même pente ( **fg. 22.7** .a) ; double tranchis de tuiles ; les noues sont alors encaissées avec un revêtement métallique ( **fg. 22.7** .c), ou comportent des noquets cachés entre la superposition des tuiles ( **fg. 22.7** .b) ; utilisation de pièces métalliques sans support continu (autoportantes).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1013-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1013-00.png]]
 
 
 _**Fig. 22.7. Principaux types de noues de toiture en tuiles plates**_ 
@@ -168,9 +168,9 @@ _**Fig. 22.7. Principaux types de noues de toiture en tuiles plates**_
 
 Soit on exécute un solin en mortier en relevant les tuiles latéralement (dévirure, sur la **fgure 22.8** .a), soit on installe un noquet métallique et une bande de solin ( **fg. 22.8** .b).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1014-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1014-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1015-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1015-01.png]]
 
 
 **Perpendiculairement à la ligne de plus grande pente de la couverture** 

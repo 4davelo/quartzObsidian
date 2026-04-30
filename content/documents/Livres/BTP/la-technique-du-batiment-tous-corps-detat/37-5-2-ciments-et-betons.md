@@ -348,7 +348,7 @@ dans lequel le clinker est limité tout en préservant la résistance mécanique
 La norme NF EN 197-5 de mai 2021 relative aux ciments composés CEM/C-M et CEM VI définit les caractéristiques de ces ciments qui permettent une réduction de 35 à 65 % de l’impact carbone par rapport au CEM I ( **fg. [5.2](37_5.2_ciments_et_bétons.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0285-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0285-02.png]]
 
 
 _**Fig. 5.2. Ciment bas carbone : empreinte carbone en kg de CO2 éq. t de ciment pour chaque ciment normalisé (source : Infociments)**_ 

@@ -94,7 +94,7 @@ Cette disposition simple ne reçoit pas d’isolant thermique incorporé. Le poi
 
 Le bardage à simple peau peut comporter des surfaces translucides ou transparentes, ponctuelles ou continues ( **fg. 12.14** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0689-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0689-00.png]]
 
 **Pose verticale des bardages en acier prélaqué** 
 
@@ -136,9 +136,9 @@ Les nervures de la peau extérieure sont souvent verticales afin d’assurer un 
 
 La peau intérieure peut être considérée comme une contre-façade (l’ensemble peut, éventuellement, ne pas être isolant). Le poids moyen de ce type de bardage est de 15 à 20 kg/m[2] , suivant la nature du matériau.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0692-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0692-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0693-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0693-00.png]]
 
 
 _**Fig. 12.15. Bardage à double peau**_ 
@@ -180,7 +180,7 @@ Quincaillerie, visserie, système de fixation doivent comporter une protection c
 La **fgure 12.16** montre un exemple de fixation traversante de panneau-sandwich. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0695-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0695-02.png]]
 
 
 _**Fig. 12.16. Exemple de fixation d’un panneau composite**_

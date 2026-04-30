@@ -110,12 +110,12 @@ Les éléments devant être enduits sont : les briques plâtrières, les briques
 
 Ils possèdent des dispositifs, tels que rainure et tenon ou clavette, qui donnent un positionnement précis et permettent de supprimer l’enduit de finition : carreaux de plâtre ( **fg. [14.1](109_14.1_classification.md)** et **fg. [14.2](111_14.2_cloisons_contre-cloisons_et_doublages.md)** ), carreaux alvéolaires en céramique.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0756-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0756-00.png]]
 
 
 _**Fig. 14.1. Carreau de plâtre : dimensions**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0758-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0758-00.png]]
 
 
 **Fig. 14.2. Carreaux de plâtre : principe de pose** 
@@ -134,7 +134,7 @@ Leur mode d’assemblage permet la réalisation de chantiers « à sec ».
 
 Les principaux systèmes sont les suivants : cloison non porteuse à parements en plaques de plâtre collées sur réseau alvéolaire offrant une grande productivité de pose ( **fg. 14.3** ) ;
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0760-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0760-00.png]]
 
 
 _**Fig. 14.3. Cloison non porteuse sur réseau alvéolaire (source : Plâtres Lafarge)**_ 
@@ -144,7 +144,7 @@ cloison non porteuse à parements en plaques de plâtre vissées de part et d’
 de construction permettant l’incorporation d’un isolant pour une bonne performance acoustique et thermique ( **fg. 14.4** ) ; 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0761-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0761-01.png]]
 
 **Fig. 14.4. Cloison non porteuse sur ossature acier (source : Plâtres Lafarge)** 
 
@@ -152,17 +152,17 @@ cloison séparative à hautes performances acoustiques composée de deux demi-cl
 
 contre-cloison réalisée par assemblage d’une plaque de plâtre vissée sur une ossature métallique verticale, elle-même fixée sur une paroi extérieure ; le vide de construction ménagé entre cette paroi et le parement de la contre-cloison permet l’incorporation d’un matelas isolant ( **fg. 14.6** ) ; doublage thermique intérieur réalisé par collage de panneaux composites sur une paroi extérieure. Ces panneaux sont constitués par encollage d’une plaque de plâtre (avec ou sans pare-vapeur) sur un panneau isolant certifié Acermi ( **fg. 14.7** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0763-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0763-00.png]]
 
 
 _**Fig. 14.5. Cloison séparative à hautes performances acoustiques (source : Plâtres Lafarge)**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0764-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0764-00.png]]
 
 
 _**Fig. 14.6. Contre-cloison (source : Plâtres Lafarge)**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0765-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0765-00.png]]
 
 
 _**Fig. 14.7. Doublage isolant (source : Plâtres Lafarge)**_

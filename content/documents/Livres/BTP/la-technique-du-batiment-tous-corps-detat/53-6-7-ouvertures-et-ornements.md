@@ -68,7 +68,7 @@ La jonction entre la maçonnerie et la baie est composée de trois éléments :
 
 l’appui de fenêtre ou seuil de porte-fenêtre réalisé en béton moulé sur place ou préfabriqué présente un profil en pente vers l’extérieur et une partie débordante ou larmier ( **fg. 6.21** ) ; les tableaux sont réalisés à l’aide d’éléments spéciaux prévus à cet effet de préférence aux éléments courants de la maçonnerie ; le linteau est réalisé en béton armé coulé sur place dans des éléments de coffrage spéciaux de la maçonnerie, ou préfabriqué.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0432-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0432-00.png]]
 
 
 **Fig. 6.21. Exemples d’appuis de maçonnerie** 
@@ -76,9 +76,9 @@ l’appui de fenêtre ou seuil de porte-fenêtre réalisé en béton moulé sur 
 Dans le cas particulier de la fermeture avec volet roulant, le coffre de volet roulant intérieur menuisé est souvent remplacé par un coffre de volet roulant préfabriqué en terre cuite ou béton de fibre qui s’intègre dans la maçonnerie au cours du montage de celle-ci. Ces éléments de coffres pour volet roulant font l’objet d’avis techniques ( **fg. 6.22** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0432-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0432-03.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0434-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0434-00.png]]
 
 
 _**Fig. 6.22. Coffres de volets roulants**_ 
@@ -108,17 +108,17 @@ la hauteur réduite de protection au droit d’une allège de fenêtre est de 0,
 
 les dimensions maximales des vides des garde-corps ajourés sont conformes à la **fgure 6.24** pour les compositions à barreaux et à la **fgure 6.25** pour les compositions avec lisses, ou ne doivent pas permettre le passage d’un gabarit rectangulaire de 0,25 × 0,11 m pour les autres compositions.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0436-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0436-00.png]]
 
 
 _**Fig. 6.23. Composants de garde-corps en béton ou en pierre**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0437-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0437-00.png]]
 
 
 _**Fig. 6.24. Garde-corps avec barreaux (source : norme NF P 01-012)**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0438-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0438-00.png]]
 
 
 _**Fig. 6.25. Garde-corps avec lisses (source : norme NF P 01-012)**_ 
@@ -135,7 +135,7 @@ En ornement de maçonneries, les balèvres désignent les pierres en saillie par
 
 Est qualifié de « bossage » un type de parement de mur dans lequel les saillies des pierres taillées forment un motif décoratif ( **fg. 6.26** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0441-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0441-01.png]]
 
 
 **6.7.3.3 Recherche** 

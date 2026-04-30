@@ -70,7 +70,7 @@ Pour mémoire :
 
 - les appuis glissants autorisent une translation, permettant ainsi la dilatation d’un ouvrage. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0467-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0467-04.png]]
 
 Figure 78. Exemple de liaison articulée. 
 
@@ -92,11 +92,11 @@ Le contreventement est la structure qui résiste aux poussées horizontales que 
 
 Dans les immeubles neufs, une manière courante d’assurer le contreventement de la structure est d’utiliser les cages d’escalier et trémies d’ascenseurs, en leur assurant une rigidité qui permet de résister aux efforts horizontaux. Les cages d’escalier assurant ce rôle de contreventement sont appelées _noyaux de contreventement_ .
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0469-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0469-00.png]]
 
 Figure 79. Noyaux de contreventement. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0469-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0469-02.png]]
 
 Figure 80. Dans ces immeubles, le noyau de contreventement est constitué par une trémie d’ascenseur en béton. 
 
@@ -110,7 +110,7 @@ Figure 80. Dans ces immeubles, le noyau de contreventement est constitué par un
 
 - HEA, HEB et HEM : poutrelles HE, dite gamme européenne. La différence entre ces trois types réside dans l’épaisseur relative des ailes et de l’âme. Leur profil est de forme carrée. Les HEA sont les plus utilisées. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0470-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0470-01.png]]
 
 Figure 81. Dénomination des poutrelles courantes. 
 
@@ -118,13 +118,13 @@ Les poutres reconstituées soudées (PRS) sont des poutrelles fabriquées _sur m
 
 **L’évidement peut être de forme circulaire, hexagonale, ou sinusoïdale.** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0471-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0471-01.png]]
 
 Figure 82. Poutrelles alvéolaires à évidement circulaire, sinusoïdal ou hexagonal (source : Construiracier). 
 
 À partir de 20 m de portée, les tubes ronds métalliques ont la réputation d’être plus performants que les poutrelles à profil ouvert (à vérifier au cas par cas). Enfin, les poutrelles IFB et SFB ont de larges âmes inférieures et sont utilisées comme structure métallique de plancher-dalle. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0471-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0471-04.png]]
 
 Figure 83. Poutrelle IFB et poutrelle SFB (source : Construiracier). 
 
@@ -208,7 +208,7 @@ Consulter [www.pnrecybeton.fr](http://www.pnrecybeton.fr).
 
 Un plancher collaborant est constitué d’un bac acier sur lequel est coulée une dalle en béton. Grâce à des connecteurs, le bac acier participe (collabore) à la résistance du béton. L’acier étant situé en sous-face, il travaille en traction, alors que le béton, situé au-dessus, travaille en compression. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0475-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0475-02.png]]
 
 Figure 84. Principe d’un plancher collaborant. 
 
@@ -244,11 +244,11 @@ La cure du béton consiste à protéger un béton qui vient d’être coulé con
 
 Une boîte d’attente est une réservation dans un mur en béton, contenant des aciers en attente repliés. Ces aciers, une fois dépliés, sont utilisés pour être liaisonnés à un nouvel ouvrage : plancher ou voile béton perpendiculaire. Les aciers sont initialement pliés, pour permettre la mise en place du coffrage du mur. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0476-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0476-03.png]]
 
 Figure 85. Boîte d’attente, avant sa mise en œuvre. Les arceaux seront noyés dans le mur en béton.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0477-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0477-00.png]]
 
 Figure 86. Après décoffrage du mur, les aciers repliés sur l’autre face de la boîte sont dépliés. 
 
@@ -405,7 +405,7 @@ Utiliser les trois ouvrages fondamentaux suivants, disponibles sur [www.codifab.
 
 Elles sont utilisées quand le « bon sol » est peu profond, pour les petits bâtiments présentant de faibles descentes de charges : au maximum deux étages sur rez-de-chaussée. Elles sont généralement constituées par une semelle en béton armé, posée sur un béton de propreté et sur laquelle s’appuie le soubassement du bâtiment. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0484-06.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0484-06.png]]
 
 Figure 87. Constitution d’une fondation superficielle.[[5](87_5._problématiques_liées_aux_lots_techniques.md)] 
 
@@ -449,7 +449,7 @@ Ils sont par exemple utilisés :
 
 Pour les réaliser, on pratique un forage tubé, dans lequel on insère une armature qui est ensuite scellée par injection de coulis de ciment. Puis le micropieu est solidarisé avec la superstructure qu’il supportera.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0487-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0487-00.png]]
 
 Figure 88. Exemple de groupe de micropieux. 
 
@@ -475,7 +475,7 @@ Ces fondations de diamètre plus important peuvent être battues (avec refouleme
 
 Les _pieux battus_ sont des pieux en bois (dans le passé), en béton, en coulis, en fonte ou en acier, mis en place par battage, avec refoulement du sol. Leur mise en place comprime le sol le long du fût, ce qui permet de bénéficier d’un frottement maximal. On les appelle aussi _pieux façonnés à l’avance_ ou _préfabriqués_ . 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0488-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0488-04.png]]
 
 Figure 89. Pieux en bois (d’après _Dico TP_ ). 
 
@@ -495,11 +495,11 @@ Consulter la norme NF EN 12699 Exécution des travaux géotechniques spécieux
 
 Les _pieux forés_ sont réalisés en béton, coulé dans un forage.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0490-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0490-00.png]]
 
 Figure 90. Pieu foré : principe d’exécution (d’après _Dico TP_ ). 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0490-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0490-02.png]]
 
 Figure 91. Réalisation d’un pieu foré, fondation d’un immeuble.
 
@@ -523,7 +523,7 @@ Consulter la norme NF EN 1538 Exécution des travaux géotechniques spécieux
 
 - Parois moulées.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0492-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0492-00.png]]
 
 Figure 92. Principe de réalisation d’une paroi moulée. 
 
@@ -531,13 +531,13 @@ Dans les milieux urbains à proximité d’avoisinants, les sous-sols sont réal
 
 On appelle _recépage_ des pieux ou micropieux l’opération qui consiste à éliminer le béton de mauvaise qualité qu’on trouve en tête des pieux en béton. En effet, au fur et à mesure qu’on coule le béton des pieux, un mélange d’eau, de boue, de béton et d’éboulis se forme, qui est refoulé vers la surface. Ce mélange ne présente pas les qualités mécaniques requises et il doit être éliminé : c’est l’opération de recépage. Cette étape, qui nécessite des méthodes destructrices, n’est pas toujours facile à réaliser sur le terrain. Dans le cas des pieux métalliques battus, l’opération de recépage consiste cette fois à couper la partie supérieure du pieux, qui a été fissurée par le battage.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0493-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0493-00.png]]
 
 Figure 93. Réalisation d’une paroi moulée :
 
 - excavation.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0493-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0493-02.png]]
 
 Figure 94. Réalisation d’une paroi moulée :
 
@@ -683,7 +683,7 @@ Ce sont surtout les données d’entrée du calcul qui ont été bouleversées (
 
 Le nouveau zonage[[10](92_10._la_commission_de_sécurité_en_erp.md)] définit cinq zones de sismicité, de la zone [1](83_1._le_nettoyage_de_fin_de_chantier.md) de très faible sismicité à la zone [5](87_5._problématiques_liées_aux_lots_techniques.md) particulièrement exposée (Antilles). Ce n’est pas l’Eurocode qui a introduit le nouveau zonage : l’Eurocode est une méthode de calcul, qui utilise le zonage comme donnée d’entrée. Pour chaque zone de sismicité, l’arrêté définit l’accélération maximale de référence à prendre en compte dans les calculs, agr.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0501-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0501-00.png]]
 
 Figure 95. Zonage sismique de la France. 
 
@@ -739,7 +739,7 @@ L’Eurocode [8](90_8._consignes_de_sécurité_incendie_et_plans_associés.md) e
 
 Les étapes successives de l’étude parasismique, qui consistent dans un premier temps à déterminer des paramètres puis à les utiliser dans le calcul, peuvent se résumer par le schéma suivant.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0505-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0505-00.png]]
 
 Figure 96. Paramètres de l’étude parasismique. 
 
@@ -793,11 +793,11 @@ Pour éviter la transmission au futur bâtiment des vibrations du site, la solut
 
 La coupure acoustique, qui est la surface séparant les locaux « nobles » (habitations, hôtels, bureaux,…), à protéger, et les locaux non protégés (commerces, locaux techniques, parkings, fondations), est décrite par le BET Structure suivant les préconisations de l’acousticien. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0507-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0507-04.png]]
 
 Figure 97. Exemple de délimitation d’une coupure acoustique entre une zone de parking souterrain et une zone de bureaux.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0508-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0508-00.png]]
 
 Figure 98. Exemple de coupure acoustique réalisée par des boîtes à ressort insérées entre un rez-de-chaussée et un premier étage. Cette coupure présente un certain encombrement : on pourra retenir qu’en amont de l’étude acoustique il faut réserver à titre de mesure conservatoire [1](83_1._le_nettoyage_de_fin_de_chantier.md) m verticalement et [15](97_15._archivage_en_fin_de_chantier.md) cm horizontalement sur tout le pourtour du bâtiment. Aussi étonnant que cela puisse paraître, les boîtes à ressorts peuvent nécessiter un remplacement à long terme. Cette opération est réalisée en positionnant des vérins de part et d’autre de la boîte, et en « soulevant » le bâtiment pendant le remplacement de la boîte à ressorts. 
 

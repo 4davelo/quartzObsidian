@@ -31,7 +31,7 @@ Un vitrage respirant met en relation avec l’extérieur la lame d’air de la p
 de pression entre la lame d’air et l’extérieur. Il ne s’agit pas d’un échange par convection comme dans les remplissages ventilés ( **fg. [31.12](219_31.12_conception_des_ouvrages.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1293-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1293-01.png]]
 
 
 _**Fig. 31.12. Coupe verticale de la partie basse d’un remplissage vitré respirant**_ 

@@ -32,7 +32,7 @@ Seuls les bardages utilisant des matériaux et modes de pose traditionnels sont 
 
 Un bardage d’isolation extérieure rapporté comprend : une ossature fixée mécaniquement à la paroi lourde (ossature en bois ou métal) ; un isolant thermique inséré entre les éléments de l’ossature (généralement des panneaux de fibres minérales semi-rigides) ; une lame d’air ventilée ; une peau extérieure constituée d’écailles, de bardeaux, de clins, de frises, ou de plaques de moyennes ou grandes dimensions ( **fg. 13.15** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0748-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0748-00.png]]
 
 
 **Fig. 13.15. Différents types de bardages** 

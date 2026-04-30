@@ -131,7 +131,7 @@ Les _lois_ sont votées par le Parlement. Elles ne donnent que des principes gé
 
 La majeure partie de la réglementation applicable à la construction est constituée par des arrêtés ministériels, qui précisent les conditions techniques d’application des lois et décrets pour la conception et la réalisation des bâtiments. Les _circulaires_ sont des textes internes à l’administration. Ce ne sont pas des textes réglementaires, et elles ne sont pas opposables à des tiers. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0127-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0127-03.png]]
 
 Figure 1. La pyramide du droit en France : les principales strates qui peuvent concerner le maître d’œuvre. 
 
@@ -457,7 +457,7 @@ Les techniques non courantes, au sens des assureurs, recouvrent notamment :
 
 - les avis techniques dont la famille a été mise en observation par la C2P, ce qui concerne environ [2](84_2._les_autocontrôles_et_essais.md) % des avis techniques ; 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0141-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0141-02.png]]
 
 Figure 2. Techniques courantes et non courantes suite aux analyses de la C2P (source : AQC). 
 
@@ -485,7 +485,7 @@ Exemples :
 
 - de qualification d’entreprise : le règlement ERP exige que les installations de sprinklage soient réalisées par des entreprises qualifiées.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0143-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0143-00.png]]
 
 Figure 3. Exemples de certifications de produits. 
 
@@ -927,7 +927,7 @@ catégorie ou en [1](83_1._le_nettoyage_de_fin_de_chantier.md)[re] , [2](84_2._l
 
 - en [5](87_5._problématiques_liées_aux_lots_techniques.md)[e] catégorie : les « Dispositions applicables aux établissements de 5[e] catégorie ». 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0164-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0164-02.png]]
 
 Figure 4. Étapes pour la détermination de la catégorie ERP et du cadre réglementaire d’un projet d’ERP. 
 
@@ -993,7 +993,7 @@ Ce Livre II du Règlement ERP est présenté sous la forme d’articles classés
 
 - articles MS pour les moyens de secours contre l’incendie. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0167-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0167-01.png]]
 
 Figure 5. Couverture du Règlement de sécurité ERP – Dispositions générales : la bible du maître d’œuvre travaillant en ERP. 
 
@@ -1081,7 +1081,7 @@ Cet article important prescrit la _stabilité au feu des toitures_ . Il comporte
 
 - la structure de la toiture est visible. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0171-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0171-03.png]]
 
 Figure 6. Définition de C et D en application de l’article CO 21.
 
@@ -1119,7 +1119,7 @@ Exemples : pour une salle de conférence (type L), l’article L8 implique que l
 
 Ces articles traitent des différents types de _dégagements_ : 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0173-06.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0173-06.png]]
 
 L’article CO 35 contient la règle relative aux culs-de-sac : la porte des locaux publics donnant sur un dégagement en cul-de-sac doit être à moins de 10 m du « débouché du cul-de-sac », c’est-à-dire du point à partir duquel on n’est plus en cul-de-sac. 
 
@@ -1167,7 +1167,7 @@ Cet article – lui aussi fondamental – donne les _distances maximales à parc
 
 Ces articles traitent des règles à respecter pour la conception des escaliers. On retiendra en particulier (CO 52) que les escaliers utilisés dans le calcul réglementaire d’évacuation sont _protégés_ , c’est-à-dire encloisonnés ou à l’air libre, sauf exceptions. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0175-06.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0175-06.png]]
 
 Figure 7. Répartition des escaliers et distances maximales à parcourir en application de l’article CO 49. 
 
@@ -1213,7 +1213,7 @@ Les organes de coupure et les extincteurs sont à placer à l’extérieur des c
 
 En complément aux articles CH, l’arrêté sur les chaufferies[91] est applicable aux ERP, mais il n’apporte pas d’exigences supplémentaires, il contient les mêmes prescriptions que les articles CH.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0178-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0178-00.png]]
 
 Figure 8. Exemple de clapet coupe-feu, pouvant être exigé par le CH 32. 
 
@@ -1417,7 +1417,7 @@ Cela signifie que les systèmes radio utilisés par les pompiers et la police (b
 
 Si le réseau INPT des services de secours n’est pas capté dans les locaux, il faut mettre en place un système de répéteurs.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0186-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0186-00.png]]
 
 Figure 9. Principe d’une installation de continuité radioélectrique en application de l’article MS 71 : des répéteurs assurent la couverture des locaux. La mise en conformité d’un site est précédée par une étape de diagnostic, à réaliser par un organisme agréé. Les locaux enterrés sont les plus concernés par cette problématique. 
 
@@ -1463,7 +1463,7 @@ Toute salle de projection ou de spectacle de plus de 200 places doit disposer d�
 
 Cet article donne le nombre maximal de siège sur une rangée, et les différentes solutions possibles à ce sujet. Le nombre de sièges par rangée peut être augmenté à condition de prévoir un gabarit libre plus large entre rangées. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0188-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0188-03.png]]
 
 Figure 10. Cet ERP de type L comportant plus de 16 sièges par rangée, les rangées sont dotées d’une surlargeur, en application de l’article L 28. On dit que le gabarit de la rangée est augmenté. 
 
@@ -1661,13 +1661,13 @@ Les niveaux des parkings (sauf ceux largement ventilés) doivent être recoupés
 
 Les compartiments sont séparés par portes E60 à fermeture automatique, avec un système de commande de chaque côté.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0196-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0196-00.png]]
 
 Figure 11. Exemple de porte de compartimentage E60 de parking public en application de l’article PS 12. 
 
 **PS 13 – Communications intérieures, escaliers et sorties** Cet article important donne les distances maximales à parcourir jusqu’aux escaliers et sorties, et permet donc d’implanter les escaliers en plan. Différence essentielle par rapport aux autres types d’ERP, il n’y a pas de notion pour les parkings couverts de nombre d’UP des dégagements : les escaliers sont simplement à dimensionner à 0,90 m au moins. Ceci s’explique par le fait que l’ensemble du public n’étant pas présent en même temps dans le parking, il y a peu de risque que les sorties soient sousdimensionnées.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0197-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0197-00.png]]
 
 Figure 12. Exemple de calcul des distances maximales à parcourir jusqu’aux escaliers en application de l’article PS 13. 
 
@@ -1689,7 +1689,7 @@ Le désenfumage mécanique doit assurer un débit de 900 m[[3](85_3._les_opr.md)
 
 Une particularité des parkings est que l’éclairage de sécurité (d’évacuation) doit comporter des luminaires implantés au sol ou à moins de 50 cm du sol (dits « nappe basse ») en plus des luminaires implantés à la hauteur habituelle. Cette nappe basse peut être remplacée par un balisage LED incrusté au sol comme dans les avions. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0198-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0198-03.png]]
 
 Figure 13. Exemple de double nappe d’éclairage de sécurité d’un parking public en application de l’article PS 22. 
 
@@ -1739,7 +1739,7 @@ Il s’agit :
 
 - des maisons individuelles à un étage sur rez-de-chaussée, groupées en bandes, dont les structures porteuses sont indépendantes des maisons voisines.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0201-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0201-00.png]]
 
 Figure 14. Habitations de la [1](83_1._le_nettoyage_de_fin_de_chantier.md)[re] famille.[100] 
 
@@ -1755,7 +1755,7 @@ Figure 14. Habitations de la [1](83_1._le_nettoyage_de_fin_de_chantier.md)[re] f
 
 - des immeubles collectifs d’au plus trois étages sur rez-de-chaussée.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0202-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0202-00.png]]
 
 Figure 15. Habitations de la [2](84_2._les_autocontrôles_et_essais.md)[e] famille.[101] 
 
@@ -1763,7 +1763,7 @@ Figure 15. Habitations de la [2](84_2._les_autocontrôles_et_essais.md)[e] famil
 
 Ce sont les habitations dont le plancher bas du logement le plus haut est à 28 m au plus au-dessus du niveau d’accès des engins de secours. On distingue les [3](85_3._les_opr.md)[e] familles A et B. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0202-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0202-04.png]]
 
 Figure 16. Habitations de la [3](85_3._les_opr.md)[e] famille A.[[2](84_2._les_autocontrôles_et_essais.md)]
 
@@ -1781,7 +1781,7 @@ Ce sont les habitations qui répondent de plus à toutes les prescriptions suiva
 
 Ce sont les habitations de [3](85_3._les_opr.md)[e] famille qui ne répondent pas à l’une des trois prescriptions ci-dessus.[103] Exemple : immeuble au fond d’une cour.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0204-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0204-00.png]]
 
 Figure 17. Habitations de la [3](85_3._les_opr.md)[e] famille B.[[1](83_1._le_nettoyage_de_fin_de_chantier.md)] 
 
@@ -1797,7 +1797,7 @@ Figure 17. Habitations de la [3](85_3._les_opr.md)[e] famille B.[[1](83_1._le_ne
 
 - [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)[e] famille : immeubles de moyenne hauteur (28 à 50 m), non IGH 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0205-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0205-01.png]]
 
 Figure 18. Habitations de la [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)[e] famille/IMH. 
 
@@ -1845,7 +1845,7 @@ Il impose la fameuse règle du C+D, « bête noire » de nombreux maîtres d’�
 
 L’arrêté impose une valeur minimale pour le C+D, en fonction de la famille et en fonction de la « masse combustible mobilisable » de la façade, dite M, en MJ/m[[2](84_2._les_autocontrôles_et_essais.md)] (mégajoules par mètre carré). Pour les immeubles en maçonnerie traditionnelle, on considère cette masse combustible M comme nulle. Pour déterminer cette valeur M, il faut se reporter à l’IT 249 ou aux essais définis par arrêté. Suivant les cas, le C+D doit être supérieur à un minimum qui peut aller de 0,60 m à [1](83_1._le_nettoyage_de_fin_de_chantier.md),30 m, pour les [3](85_3._les_opr.md)[e] et [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)[e] familles.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0208-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0208-00.png]]
 
 Figure 19. Rappel de C et D. 
 
@@ -1877,13 +1877,13 @@ Il précise les matériaux autorisés dans les escaliers.
 
 Dans le collectif, il est précisé que les escaliers d’accès aux sous-sols doivent comporter une porte EI30 (coupe-feu une demi-heure) s’ouvrant vers la montée, et ne doivent pas déboucher dans la cage d’escalier desservant les étages.[114]
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0210-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0210-00.png]]
 
 Figure 20. Distance entre fenêtres des façades en retour et escalier.[[2](84_2._les_autocontrôles_et_essais.md)] 
 
 En [2](84_2._les_autocontrôles_et_essais.md)[e] et [3](85_3._les_opr.md)[e] famille A, les cages d’escalier doivent comporter un exutoire en haut de la cage d’escalier de [1](83_1._le_nettoyage_de_fin_de_chantier.md) m[2] pour l’évacuation des fumées, commandé depuis le rez-de-chaussée. En 3[e] famille A, il doit être asservi à un détecteur autonome déclencheur (DAD).
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0211-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0211-00.png]]
 
 Figure 21. Désenfumage naturel des escaliers en [2](84_2._les_autocontrôles_et_essais.md)[e] et [3](85_3._les_opr.md)[e] famille A. 
 
@@ -1913,7 +1913,7 @@ L’arrêté définit aussi depuis 2015 le concept d’escalier extérieur et se
 
 Les circulations horizontales de la [3](85_3._les_opr.md)[e] famille B et de la [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)[e] famille doivent être « protégées », c’est-à-dire soit « à l’air libre », soit « à l’abri des fumées ».[116]
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0213-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0213-00.png]]
 
 Figure 22. Circulation horizontale à l’abri des fumées. 
 
@@ -1935,7 +1935,7 @@ Le terme _dégagement_ désigne l’ensemble circulation horizontale + escalier.
 
 **la détection des fumées.** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0214-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0214-01.png]]
 
 Figure 23. Circulation désenfumée par deux ouvrants opposés en [3](85_3._les_opr.md)[e] famille B. 
 
@@ -1943,19 +1943,19 @@ Dans les immeubles de [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_récepti
 
 - **Solution [1](83_1._le_nettoyage_de_fin_de_chantier.md) :** chaque logement peut être évacué par deux escaliers protégés, auxquels il est relié par des circulations horizontales protégées. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0214-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0214-04.png]]
 
 Figure 24. Solution [1](83_1._le_nettoyage_de_fin_de_chantier.md) en [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)[e] famille ~~.~~[117] 
 
 - **Solution [2](84_2._les_autocontrôles_et_essais.md) :** les dégagements protégés peuvent comporter une circulation horizontale protégée qui relie chaque logement à un seul escalier protégé, mais un volume (un palier) à l’air libre doit séparer la circulation horizontale de l’escalier, à chaque étage.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0215-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0215-00.png]]
 
 Figure 25. Solution [2](84_2._les_autocontrôles_et_essais.md) en [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)[e] famille. 
 
 - **Solution [3](85_3._les_opr.md)** (la plus courante) **:** les dégagements protégés peuvent comporter un escalier à l’abri des fumées doté d’un système de mise en surpression par ventilateur, associé à une circulation horizontale protégée (désenfumée) ; escalier et circulation horizontale doivent alors être séparés par un sas ventilé. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0215-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0215-03.png]]
 
 Figure 26. Solution [3](85_3._les_opr.md) en [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)[e] famille : un escalier en surpression avec sas. Il faut consulter l’arrêté, qui comporte de nombreux détails
 
@@ -2082,7 +2082,7 @@ _« La distance maximale à parcourir pour gagner un escalier en étage ou en so
 
 Cette règle diffère légèrement du Règlement ERP (article CO 49), lequel considère une distance de 30 m au lieu de 40 m dans certains cas.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0224-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0224-00.png]]
 
 Figure 27. Exemples de cul-de-sac. 
 
@@ -2233,7 +2233,7 @@ C’est le respect de ces deux règles qu’on appelle le « cloisonnement
 
 **traditionnel ».** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0232-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0232-01.png]]
 
 Figure 28. Exemple de cloisonnement traditionnel d’un ERT. 
 
@@ -2251,7 +2251,7 @@ Cette solution alternative permet de s’affranchir de la limite des 300 m[[2](8
 
 - chaque compartiment doit être désenfumé. Consulter l’arrêté pour le détail des prescriptions.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0233-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0233-00.png]]
 
 Figure 29. Exemple de compartiments en ERT. 
 
@@ -2287,7 +2287,7 @@ Un immeuble de grande hauteur est un immeuble dont le plancher du dernier niveau
 
 - à plus de 200 m pour les immeubles de très grande hauteur (ITGH).[153]
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0235-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0235-00.png]]
 
 Figure 30. Classement des IGH. 
 
@@ -2295,7 +2295,7 @@ Les bâtiments contigus sont aussi considérés comme IGH, sauf s’ils bénéfi
 
 intégralement coupe-feu, et c’est le concept de volume de protection qui est utilisé en pratique. Dans le volume de protection ne peuvent être présents que des bâtiments dont le dernier niveau est à moins de 8 m de hauteur du sol et dont l’enveloppe est entièrement RE120 (pare-flammes deux heures), ce qui est assez contraignant.[155] 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0236-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0236-01.png]]
 
 Figure 31. Volume de protection d’un IGH : une zone de non-constructibilité. 
 
@@ -2327,7 +2327,7 @@ La responsabilité du promoteur peut être engagée si un acheteur considère
 
 sa place de parking inexploitable, comme l’a montré un récent arrêt de la Cour de cassation.[162] Une vigilance toute particulière est donc nécessaire sur ce point. Pour mémoire, on veillera par ailleurs aux règles relatives aux emplacements vélo et aux alimentations pour véhicules électriques. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0238-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0238-01.png]]
 
 **Figure 32. Exemple de dimensionnement de places de parking extrait de la norme NF P91-120 (vue en plan). **3.8.3. Installations de recharge des véhicules électriques et zones de stationnement vélos** 
 
@@ -2605,7 +2605,7 @@ On trouvera les règles à respecter suivant les cas dans l’article DF [5](87_
 
 Les locaux de grande surface (supérieurs à [2](84_2._les_autocontrôles_et_essais.md) 000 m[2] ou de plus de 60 m de long) doivent être divisés en _cantons de désenfumage_ , afin de permettre un bon fonctionnement du désenfumage. L’IT 246§7.1 donne des règles à respecter pour les dimensions maximales et minimales de ces cantons.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0251-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0251-00.png]]
 
 Figure 33. Écran de cantonnement vitré. 
 
@@ -2633,7 +2633,7 @@ Attention, le calcul déterminant la hauteur minimale des écrans dépend du car
 
 **Exemple de calcul de cantonnement** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0252-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0252-03.png]]
 
 Figure 34. Exemple de calcul d’un écran de cantonnement. 
 
@@ -2651,7 +2651,7 @@ La zone d’évacuation des fumées peut être constituée par des exutoires en 
 
 - Exutoires en couverture Le désenfumage naturel peut être réalisé par des exutoires en couverture. L’IT 246§7 précise les règles de calcul des surfaces de ces ouvrants, en distinguant surface géométrique de l’exutoire (longueur × largeur) et surface utile de l’exutoire, qui s’en déduit en multipliant la surface géométrique par un coefficient aéraulique.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0254-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0254-00.png]]
 
 Figure 35. Exemple d’exutoire de désenfumage en toiture. 
 
@@ -2667,7 +2667,7 @@ _… l’intégration architecturale des ouvrants de désenfumage en façade sur
 
 Dans certains volumes à caractère historique, le désenfumage naturel par ouvrants en façade peut constituer une solution discrète de prise en compte de la réglementation. Cependant, la mise au point de la solution et sa description dans les pièces peut nécessiter des recherches importantes. Cette complexité provient du fait que les ouvrants de désenfumage en façade doivent respecter une norme – la norme NF S 61-937 – et que les solutions sur mesure avec prise en compte du caractère historique de la façade ne peuvent respecter la norme qu’après étude détaillée avec un fabricant.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0255-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0255-00.png]]
 
 La commande d’ouverture des exutoires et ouvrants peut être manuelle, ou automatique suivant les cas. En présence d’un SSI de catégorie A ou B, cette commande devra être intégrée au SSI. Consulter le coordonnateur SSI pour s’en assurer. 
 
@@ -2683,7 +2683,7 @@ Pour des exemples, consulter le site de fabricants, comme [www.bluetek.fr](http:
 
 En désenfumage naturel, les évacuations doivent être implantées le plus haut possible dans le volume intérieur si la pente du plafond est supérieure à 10 % ; si elle est inférieure à 10 %, par exemple pour les locaux avec plafond horizontal, elles doivent être implantées à une distance inférieur à [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md) fois la hauteur sous plafond pour tout point du local et quoi qu’il en soit à moins de 30 m de tout point du local.[179] C’est principalement cette règle qui est utilisée pour savoir si un local peut être désenfumé naturellement. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0255-07.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0255-07.png]]
 
 Figure 36. Désenfumage naturel d’un local : il n’est possible que pour certaines dimensions de locaux. 
 
@@ -2751,11 +2751,11 @@ Parmi ces prescriptions issues des articles EL, l’une des plus importantes dé
 
 - installation de désenfumage mécanique des établissements de [3](85_3._les_opr.md)[e] et [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)[e] catégorie.[187]
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0259-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0259-00.png]]
 
 Figure 37. Exemple de moteur de désenfumage centrifuge. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0259-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0259-02.png]]
 
 Figure 38. Exemple de coffret de relayage d’un moteur de désenfumage.
 
@@ -2845,7 +2845,7 @@ Pour caractériser un SSI, on dit donc qu’il est de telle catégorie, avec un 
 
 N’importe quel type d’alarme ne peut pas être installé dans un SSI de n’importe quelle catégorie ; la figure ci-contre donne les types d’alarmes cohérents avec les catégories de SSI. Les types d’alarmes sont définis dans la norme NF S61-936.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0264-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0264-00.png]]
 
 Figure 39. Correspondance catégorie de SSI/type d’alarme. 
 
@@ -2865,25 +2865,25 @@ Il permet la détection des sinistres dans les locaux équipés. Il est composé
 
 - les _détecteurs automatiques_ (DA), dont il existe de nombreux types (notamment détecteurs optiques ou détecteurs linéaires, lesquels sont particulièrement pratiques pour couvrir des volumes de grande
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0265-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0265-01.png]]
 
 Figure 40. Exemple de détecteur automatique. 
 
 - les _indicateurs d’action_ (IA), voyants installés au-dessus de la porte des locaux et permettant aux pompiers de savoir dans quel local un détecteur automatique s’est déclenché ; c’est donc une aide à l’exploitation ; 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0265-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0265-04.png]]
 
 Figure 41. Exemple d’indicateur d’action. 
 
 - les _déclencheurs manuels_ (DM), boîtiers rouges disposés _« dans les circulations, à chaque niveau, à proximité immédiate de chaque escalier, au rez-de-chaussée à proximité des sorties »_[194] ~~,~~ et permettant de lancer une alerte ; 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0265-07.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0265-07.png]]
 
 Figure 42. Déclencheur manuel.
 
 - et l’ _équipement de contrôle et de signalisation_ (ECS), qui est en quelque sorte le tableau de contrôle central de l’installation, installé au poste de sécurité. Cet ECS peut – pour les plus grosses installations – être doublé par des ECS déportés sur le terrain. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0266-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0266-03.png]]
 
 Figure 43. Exemple d’équipement combinant ECS et CMSI. 
 
@@ -2899,7 +2899,7 @@ Il est composé d’un système central et d’équipements situés sur le terra
 
   - l’unité de gestion de l’alarme (UGA) ;
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0267-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0267-00.png]]
 
 Figure 44. Exemple d’un petit CMSI. 
 
@@ -2925,7 +2925,7 @@ Figure 44. Exemple d’un petit CMSI.
 
 **(UGA) ;** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0268-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0268-01.png]]
 
 Figure 45. Exemple de diffuseur sonore. 
 
@@ -2947,7 +2947,7 @@ Mais ce sont aussi les portes DAS qu’il faut essayer d’éviter, pour cette m
 
 Certes, il existe des cas où le Règlement ou la configuration du projet obligent à prévoir des portes DAS, par exemple pour éviter dans un immeuble de bureaux des portes coupe-feu dans les circulations principales. Mais il arrive aussi qu’il soit possible de les éviter et que le coordonnateur SSI ait tendance à les multiplier inutilement.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0269-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0269-00.png]]
 
 Figure 46. Exemple de DAS : porte coupe-feu à ventouse. 
 
@@ -2973,7 +2973,7 @@ Ils sont en particulier associés aux établissements avec locaux de sommeil et 
 
 **Dans les ERP avec locaux de sommeil, la réglementation impose la détection incendie.** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0270-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0270-01.png]]
 
 Figure 47. Exemple d’un petit SSI de catégorie A dans un petit hôtel, en application de l’article PE 32. 
 
@@ -3001,13 +3001,13 @@ On les trouve notamment :
 
 Ils ne comportent pas de détection automatique. Les déclencheurs manuels sont raccordés à un tableau d’alarme appelé « BAAS de type Pr ou Ma » (bloc autonome d’alarme sonore de type principal ou de type marche/arrêt) qui commande le déclenchement de l’alarme et gère les DAS. Ils ne comportent pas de CMSI. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0271-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0271-03.png]]
 
 Figure 48. Exemple de BAAS de type Pr. 
 
 L’alarme peut par exemple être diffusée par des BAAS satellites (alarme de type 2b). 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0271-06.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0271-06.png]]
 
 Figure 49. Exemple de BAAS satellite. 
 
@@ -3035,7 +3035,7 @@ L’installation la plus rudimentaire est constituée par un SSI réduit à un s
 
 Les fabricants proposent des installations plus complexes, avec possibilité d’ajout de diffuseurs sonores pour obtenir l’ _audibilité en tout point_ .
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0273-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0273-00.png]]
 
 Figure 50. Exemple d’alarme de type [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md) à piles. 
 
@@ -3043,31 +3043,31 @@ On trouve notamment les alarmes de type [4](86_4._le_rôle_du_bureau_de_contrôl
 
 _**Pour en savoir plus sur les alarmes de type [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)**_ Consulter le site d’un fabricant, par exemple [www.legrand.fr](http://www.legrand.fr), rubrique professionnel/tertiaire/alarme type 4. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0273-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0273-04.png]]
 
 **Type [1](83_1._le_nettoyage_de_fin_de_chantier.md)
 
 - Une ou plusieurs zones de diffusion d’alarme**
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0274-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0274-00.png]]
 
 **Type 2a
 
 - Une ou plusieurs zones de diffusion d’alarme** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0274-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0274-02.png]]
 
 **Type 2b
 
 - Une seule zone de diffusion d’alarme** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0274-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0274-04.png]]
 
 **Type [3](85_3._les_opr.md)
 
 - Une seule zone de diffusion d’alarme**
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0275-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0275-00.png]]
 
 **Type [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)
 
@@ -3075,7 +3075,7 @@ _**Pour en savoir plus sur les alarmes de type [4](86_4._le_rôle_du_bureau_de_c
 
 **3.10.4.5. Comparaison des catégories de SSI** Afin d’avoir une vue synthétique des différents types de SSI, les schémas[210] ci-contre montrent leur composition. Certains équipements, par exemple les DAS, ne sont présents que si nécessaire.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0276-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0276-00.png]]
 
 **Point de vigilance : caractéristiques exigibles et installation volontaire d’équipements** 
 
@@ -3491,7 +3491,7 @@ Cet indicateur essentiel a été conservé dans la RE2020 et sera évoqué cides
 
 La RT 2012 fixait la consommation maximale d’énergie primaire, Cepmax, à 50 kWh/m[[2](84_2._les_autocontrôles_et_essais.md)] /an d’énergie primaire en moyenne. Par rapport à la RT 2005, cette exigence constituait une réduction d’un facteur 2 pour une alimentation en gaz, et d’un facteur [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md) pour une alimentation électrique. Par exemple dans la zone de l’est de la France, où la RT 2005 imposait une consommation maximale de 250 kW.h/m[2] /an d’énergie primaire pour un bâtiment avec chauffage électrique, la RT 2012 a imposé en moyenne 60 kW.h/m[2] /an seulement. Il s’est donc agi de réaliser, en deux ans seulement, un saut énergétique aussi important que celui réalisé au cours des trente années précédentes. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0297-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0297-03.png]]
 
 Figure 53. Comparaison des consommations moyennes par type de bâtiment (source : Ademe/CSTB). 
 
@@ -3687,7 +3687,7 @@ Sont exclus du périmètre des calculs ACV dans la RE2020 :
 
 Les enjeux énergétiques sont évalués dans la RE2020 par les indicateurs Bbio, Cep et Cepnr.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0306-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0306-00.png]]
 
 Figure 54. Les zones climatiques de la RE2020 (source : Légifrance, annexe de l’arrêté du [4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md) août 2021) 
 
@@ -3725,7 +3725,7 @@ où :
 
 **Pour les seuils des autres bâtiments tertiaires, consulter le Code de la construction et de l’habitation.** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0308-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0308-01.png]]
 
 Figure 55. Exemples de Bbiomax (en points) pour une maison individuelle et pour un immeuble de logements collectifs (source : Guide RE2020 CEREMA) 
 
@@ -3741,7 +3741,7 @@ On ne peut donc pas comparer le Bbio RT 2012 et le Bbio RE2020 : ce sont en fait
 
 **qui respectait le critère Bbiomax de la RT 2012 mais qui ne respecte pas le critère Bbiomax de la RE2020, du fait de la prise en compte des besoins en froid.** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0309-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0309-01.png]]
 
 Figure 56. Comparaison du Bbio RT 2012 et RE2020 pour un même projet 
 
@@ -3779,7 +3779,7 @@ On a cité plus haut au paragraphe relatif au périmètre de la RE2020 les usage
 
 Pour les seuils des autres bâtiments tertiaires, consulter le Code de la construction et de l’habitation. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0310-05.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0310-05.png]]
 
 **Figure 57. Exemples de Cepmax (en kWhep/m[[2](84_2._les_autocontrôles_et_essais.md)] /an) pour une maison individuelle et pour un immeuble de logements collectifs (source : Guide RE2020 CEREMA)** 
 
@@ -3793,7 +3793,7 @@ Pour l’électricité, l’énergie primaire était fixée dans la RT 2012 par 
 
 Ce coefficient fait l’objet de nombreux débats. Les spécialistes de l’association Négawatt, qui proposent un scénario de transition énergétique durable, affirment que la valeur de ce coefficient est en fait largement sousestimée, et que les pertes par effet Joule sur le réseau électrique national sont beaucoup plus importantes ; ces valeurs de [2](84_2._les_autocontrôles_et_essais.md),58 puis 2,[3](85_3._les_opr.md) sont, selon eux, partiales et influencées par le lobby des électriciens.[246] On remarque qu’au Royaume-Uni le coefficient utilisé par la réglementation est d’environ 3 : _primary energy_ = 3 × _delivered energy._[247] 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0311-06.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0311-06.png]]
 
 Figure 58. Coefficient de conversion entre énergie primaire et énergie finale.
 
@@ -3805,7 +3805,7 @@ L’énergie _finale_ est l’énergie consommée par l’utilisateur final, par
 
 Pour le bois-énergie ou le gaz, l’énergie primaire est égale à l’énergie finale : il n’y a quasiment pas de perte lors de l’acheminement. Pour l’électricité, l’énergie primaire est la somme de l’énergie finale et des pertes liées à la production et au transport de l’électricité. Sur la base du coefficient officiel, 50 kWh d’énergie primaire électrique correspondent à 22 kWh enregistrés au compteur électrique. Enfin, l’énergie _utile_ est la part de l’énergie consommée par l’utilisateur final qui sert réellement à rendre le service énergétique attendu. Elle est égale à l’énergie finale moins les pertes de rendement à l’utilisation. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0312-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0312-04.png]]
 
 Figure 59.Énergie primaire, énergie finale et énergie utile (source : association Négawatt). 
 
@@ -3849,7 +3849,7 @@ L’abonnement contracté auprès d’un fournisseur d’électricité ou de gaz
 
 Dans le calcul du Cep nr, la production photovoltaïque ou solaire thermique produite sur le site et autoconsommée n’est _pas_ soustraite, car elle était déjà exclue du Cep : le Cep ne prend en compte que les énergies _importées_ , comme illustré dans la figure ci-dessous. Ce point est assez contre-intuitif.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0315-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0315-00.png]]
 
 Figure 60. Flux énergétiques pris en compte dans Cep et Cep nr 
 
@@ -3875,7 +3875,7 @@ Cep nr_max = Cep nr_maxmoyen × ([1](83_1._le_nettoyage_de_fin_de_chantier.md) +
 
 Pour les seuils des autres bâtiments tertiaires, consulter le Code de la construction et de l’habitation. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0316-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0316-03.png]]
 
 Figure 61. Exemples de Cep nrmax (en kWhep/m[[2](84_2._les_autocontrôles_et_essais.md)] /an) pour une maison individuelle et pour un immeuble de logements collectifs (source : Guide RE2020 CEREMA) 
 
@@ -3913,7 +3913,7 @@ Par exemple, s’il fait 20 °C toute l’année dans un logement, excepté pend
 
 (30 – 28) °C × 12 h × 10 jours + (30 – 26) °C × 12 h × 10 nuits = 720 °C.h
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0318-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0318-00.png]]
 
 Figure 62. Exemple de calcul du DH sur une journée (source : Guide CEREMA RE2020) 
 
@@ -3935,7 +3935,7 @@ C’est une pénalisation du Cep, la « clim fictive ».
 
 Ce forfait de consommation est proportionnel à l’intensité de l’inconfort, [DH – seuil bas] ; et est modulé en fonction de la typologie et de la zone climatique. On prend ainsi en compte le risque que les utilisateurs ajoutent ultérieurement une climatisation. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0319-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0319-01.png]]
 
 Figure 63. Vérification de la conformité à la RE2020 pour le confort d’été 
 
@@ -3977,7 +3977,7 @@ Tous ces indicateurs sont exprimés en kg CO2 éq/m[[2](84_2._les_autocontrôles
 
 signifiant que l’on convertit les émissions des gaz à effet de serre autres que le CO2 en émissions de CO2 équivalentes. Sur la base de ces « briques élémentaires », l’arrêté définit des [3](85_3._les_opr.md) indicateurs complémentaires, permettant de cibler un périmètre : 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0321-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0321-01.png]]
 
 **Le carbone incorporé : Icconstruction** 
 
@@ -4020,11 +4020,11 @@ Enseignement 900 kg éq. 770 kg éq. 680 kg éq. 590 kg éq. primaire et CO2/m[[
 
 Pour les seuils des autres bâtiments tertiaires, consulter le Code de la construction et de l’habitation. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0323-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0323-02.png]]
 
 Figure 64. Exemples d’Icconstruction_max pour une maison individuelle en kg éq CO2/m[[2](84_2._les_autocontrôles_et_essais.md)] (source : Guide RE2020 CEREMA) 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0323-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0323-04.png]]
 
 Figure 65. Exemples d’Icconstruction_max pour un immeuble d’habitation collectif en kg éq. CO2/m[[2](84_2._les_autocontrôles_et_essais.md)] (source : Guide RE2020 CEREMA)
 
@@ -4134,7 +4134,7 @@ Icénergie_max = Icénergie_maxmoyen × ([1](83_1._le_nettoyage_de_fin_de_chanti
 
 On remarque la grande différence entre les valeurs en individuel et en collectif. Pour les seuils des autres bâtiments tertiaires, consulter le Code de la construction et de l’habitation. Le calcul réel est en fait un peu plus complexe, car Icénergie se calcule en ACV dynamique et non statique. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0329-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0329-02.png]]
 
 Figure 66. Exemples d’Icénergie_max pour une maison individuelle/pour un collectif en kg éq. CO2/m[[2](84_2._les_autocontrôles_et_essais.md)] (source : Guide RE2020 CEREMA) 
 
@@ -4158,15 +4158,15 @@ Les émissions liées aux fuites des fluides frigorigènes constituent aussi un 
 
 - soit _via_ un calcul détaillé basé sur la charge de fluide, la probabilité de fuite et le potentiel de réchauffement climatique. On peut présenter comme suit les « emboîtements » des indicateurs carbone de la RE2020 (avec des ordres de grandeur réalistes) :
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0331-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0331-00.png]]
 
 Figure 67. Décomposition d’Icprojet. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0331-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0331-02.png]]
 
 Figure 68. Décomposition d’Icprojet montrant les composants d’Icbâtiment.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0332-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0332-00.png]]
 
 Figure 69. Décomposition d’Icprojet montrant les composants d’Icbâtiment et d’Icconstruction. 
 

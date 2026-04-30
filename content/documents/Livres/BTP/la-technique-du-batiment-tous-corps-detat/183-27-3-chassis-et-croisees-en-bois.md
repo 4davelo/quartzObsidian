@@ -84,7 +84,7 @@ et dormant, les seuils métalliques à rupture de ponts thermiques, l’évaluat
 Les produits visés par cette norme, mis en œuvre conformément à la norme NF DTU 36.5, sont considérés comme permettant de réaliser des ouvrages traditionnels. La durée de vie des menuiseries en bois dépend de leur conception, de leur exposition, des essences utilisées, du système de finition et de leur entretien. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1145-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1145-02.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -109,7 +109,7 @@ trouvent ébauchés (c’est-à-dire non terminés et destinés à recevoir un e
 
 Suivant l’épaisseur du mur, la croisée se place : dans un ébrasement plus ou moins profond, avec une tablette (ou non) d’allège, donc dans une partie médiane du mur ( **fg. [27.9](189_27.9_entretien_et_finitions.md)** .a) ; en feuillure (bâti du dormant en saillie sur le nu intérieur de la maçonnerie brute, pour permettre un enduit minimum de 10 mm) ( **fg. 27.9** .b) ; en applique, sur le parement intérieur du mur (constructions légères) ( **fg. 27.9** .c).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1148-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1148-00.png]]
 
 
 _**Fig. 27.9. Position des croisées**_ 
@@ -118,7 +118,7 @@ _**Fig. 27.9. Position des croisées**_
 
 La largeur de la croisée est égale à la largeur du tableau plus deux largeurs de feuillure (deux fois 36 mm au minimum) ( **fg. 27.10** .a). La hauteur de la croisée est égale à la hauteur du tableau, plus une hauteur de feuillure (36 mm), plus 15 mm de rejingot ( **fg. 27.10** .b).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1150-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1150-00.png]]
 
 
 _**Fig. 27.10. Croisée en feuillure (coupes)**_ 
@@ -151,7 +151,7 @@ Sur les parties horizontales (traverse haute et pièce d’appui) dont la largeu
 
 Dans les croisées et portes-croisées, le risque de fuite (étanchéité à l’eau) se situe aux liaisons entre la maçonnerie et la menuiserie, d’une part, et entre les éléments fixes et mobiles des menuiseries, d’autre part. Les menuiseries sont rendues étanches à l’air grâce à des joints souples (joints en néoprène) et à des chambres de décompression. L’étanchéité à l’eau est obtenue grâce aux joints souples, aux goulottes et aux trous d’évacuation placés dans les pièces d’appui, aux larmiers (gouttes d’eau) exécutés à la partie inférieure des jets d’eau. La **fgure 27.11** présente diverses solutions à ce problème.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1154-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1154-01.png]]
 
 
 **27.3.5.1 Menuiseries à recouvrement** 
@@ -164,7 +164,7 @@ Dans les menuiseries coulissantes ( **fg. 27.12** ), un joint souple procure l�
 
 Pour faciliter sa translation, on adapte sur le châssis mobile un dispositif qui permet de le soulever afin de dégager suffisamment le galet à bille. En position basse de fermeture, une bonne étanchéité est assurée du fait que le vantail s’abaisse au contact de la pièce d’appui. La porte coulissante à levage peut être immobilisée en tout point de sa trajectoire.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1156-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1156-00.png]]
 
 
 _**Fig. 27.12. Joints pour menuiseries coulissantes**_ 

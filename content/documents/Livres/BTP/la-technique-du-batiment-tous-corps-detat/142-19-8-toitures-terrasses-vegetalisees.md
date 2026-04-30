@@ -104,7 +104,7 @@ L’article 101 de la loi Climat et résilience a été traduit dans l’article
 
 Il convient de distinguer trois formes de végétalisation des terrasses ( **fg. 19.19** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0919-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0919-00.png]]
 
 
 _**Fig. 19.19. Trois types de végétalisation (source : d’après Lassalle (François), Végétalisation extensive des terrasses et toitures, Éd. du Moniteur, 2[e] éd., 2008)**_
@@ -149,7 +149,7 @@ La végétalisation intègre pleinement la toiture-terrasse au projet architectu
 
 La **fgure 19.20** présente le principe d’une toiture-terrasse végétalisée sur support béton. À la différence d’une terrasse traditionnelle fondée sur une couche de protection gravillonnée, la toiture végétalisée se fonde sur : deux couches techniques : une couche filtrante et une couche de drainage ; de la terre végétale ; les plantations proprement dites.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0924-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0924-00.png]]
 
 
 _**Fig. 19.20. Description de principe d’une toiture végétalisée sur support béton (source : d’après Lassalle (François), Végétalisation extensive des terrasses et toitures, Éd. du Moniteur, 2[e] éd., 2008)**_ 
@@ -172,7 +172,7 @@ la surcharge technique, essentiellement pour l’entretien des terrasses non acc
 
 La surcharge prise en compte correspond à la capacité maximale en eau du complexe de culture (c’est-à-dire la différence entre le poids sec et le poids en saturation d’eau). Dans le cas des supports bois et acier, le rapport entre la surcharge de la végétalisation et le poids propre de la structure est très différent de celui du béton.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0926-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0926-00.png]]
 
 
 _**Fig. 19.21. Description de principe d’une toiture végétalisée sur support bois (source : d’après Lassalle (François), Végétalisation extensive des terrasses et toitures, Éd. du Moniteur, 2[e] éd., 2008)**_
@@ -181,7 +181,7 @@ _**Fig. 19.21. Description de principe d’une toiture végétalisée sur suppor
 
 La pente de toiture est un élément fondamental pour la végétalisation.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0928-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0928-00.png]]
 
 
 _**Fig. 19.22. Description de principe d’une toiture végétalisée sur support en tôle d’acier nervurée (source : d’après Lassalle (François), Végétalisation extensive des terrasses et toitures, Éd. du Moniteur, 2[e] éd., 2008)**_

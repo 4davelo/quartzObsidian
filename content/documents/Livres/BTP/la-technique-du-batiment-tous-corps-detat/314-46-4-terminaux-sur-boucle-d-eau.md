@@ -64,9 +64,9 @@ au mur (le plus souvent en allège) avec un habillage ou « capotage » ( **fg. 
 
 en plafond (dans un plénum de faux plafond ou apparent) avec soufflage et reprise par grilles (diffuseurs), raccordés ou non à l’appareil ( **fg. 46.2** ) ; en faux planchers (solution peu courante).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1787-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1787-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1788-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1788-00.png]]
 
 
 _**Fig. 46.2. Ventilo-convecteur en plafond (source : Carrier)**_ 
@@ -83,7 +83,7 @@ le système en allège, induisant une perte de surface.
 
 Il est l’ancêtre des systèmes « poutres froides à induction » présentés
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1789-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1789-01.png]]
 
 
 _**Fig. 46.3. Éjecto-convecteur (source : LTG)**_
@@ -106,12 +106,12 @@ Les gaines de soufflage et de reprise cheminent en faux plafond jusqu’à un di
 
 Le système a été initialement inventé pour les tours de La Défense. Il permettait de limiter les hauteurs des plénums de faux plafonds, qui ne recevaient que des gaines de faible section au lieu d’appareils d’un gabarit plus important. Son entretien est facilité, puisqu’il est centralisé dans des locaux techniques d’étage.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1791-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1791-00.png]]
 
 
 _**Fig. 46.4. Éclaté d’un module de traitement d’air (MTA) (source : d’après Carrier)**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1792-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1792-00.png]]
 
 
 _**Fig. 46.5. Principe de distribution en MTA (sourec : d’après Carrier)**_
@@ -121,14 +121,14 @@ Les premières poutres froides dites « statiques » ou « passives » étaient 
 Ces systèmes sont limités dans le cas de densification importante des bureaux, car les apports ne peuvent être combattus par la simple convection, ce qui impose un renouvellement d’air important par un circuit aéraulique spécifique. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1793-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1793-03.png]]
 
 Des solutions de poutres froides à induction, sortes d’éjectoconvecteurs plafonniers, ont été développées (photo et **fg. 46.6** ). 
 
 L’air est préparé en centrale à la température de consigne pour chaque zone thermiquement homogène. Cet air primaire est distribué dans un réseau aéraulique à pression constante jusqu’aux appareils terminaux, qui fonctionnent sur le principe de l’induction par effet Venturi. Chaque terminal aspire l’air ambiant extrait et adapte son débit d’air primaire en fonction des besoins thermiques des locaux détectés par une sonde d’ambiance. Un régulateur détermine le débit en fonction de la température souhaitée. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1794-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1794-02.png]]
 
 
 _**Fig. 46.6. Poutre froide dynamique à induction (source : d’après Carrier)**_ 
@@ -142,7 +142,7 @@ utilisé comme salle de réunion, nécessitant alors un brassage et un renouvell
 Parmi les autres systèmes fonctionnant à induction, citons notamment la poutre froide Varilair ( **fg. 46.7** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1795-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1795-03.png]]
 
 
 _**Fig. 46.7. Terminaux Varilair (source : conseils.xpair.com)**_ 

@@ -109,7 +109,7 @@ de la surface non exposée au feu (isolation thermique). L’élément évite (d
 
 Les lettres R, E et I sont systématiquement suivies de deux ou trois chiffres indiquant le temps de résistance en minutes.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0007-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0007-00.png]]
 
 
 _**Fig. 0.1. Stabilité au feu, coupe-feu, pare-flammes (source : Guide Veritas)**_
@@ -208,7 +208,7 @@ L’étiquette « Émissions dans l’air intérieur » ( **fg. 0.2** ), défini
 Les composés cancérogènes, mutagènes ou reprotoxiques font l’objet d’une réglementation spécifique. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0011-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0011-04.png]]
 
 - Directive 2004/42/CE du Parlement européen et du Conseil du 21 avril 2004 relative à la réduction des émissions de composés organiques volatils dues à l’utilisation de solvants organiques dans certains vernis et peintures et dans les produits de retouche de véhicules, et modifiant la directive 1999/13/CE. 
 
@@ -315,7 +315,7 @@ Dans le cas particulier de structures poteux-poutres, on rencontre également de
 Les différentes réglementations thermiques ont imposé une limitation globale des ponts thermiques qui a contribué au développement de solutions d’isolation thermique par l’extérieur (ITE) et a conduit les fabricants à développer des systèmes de « rupteurs de ponts thermiques » permettant de limiter les transmissions linéiques dans le cas d’une isolation thermique par l’intérieur (ITI). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0016-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0016-04.png]]
 
 **Cas particulier des menuiseries** 
 
@@ -323,7 +323,7 @@ La menuiserie comprend une structure ou cadre en PVC, aluminium, acier, bois ou 
 
 À noter que plus la fenêtre est recoupée en petits éléments, plus la performance est faible du fait de la multiplication des ponts thermiques.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0018-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0018-00.png]]
 
 
 _**Fig. 0.4. Coefficients de vitrage**_ 
@@ -342,12 +342,12 @@ les horaires de fonctionnement de la ventilation, de l’éclairage ; les besoin
 
 À partir de ces scénarios définis dans les méthodes RT 2012 ( **fg. 0.5** ) puis RE 2020 ainsi que des fichiers météorologiques normalisés adaptés à la zone du projet ( **fg. 0.6** ), la méthode réglementaire calcule les coefficients de besoin bioclimatique ( _Bbio_ ) et les consommations conventionnelles.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0022-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0022-00.png]]
 
 
 _**Fig. 0.5. Exemple de scénario de fonctionnement d’une zone de bureaux selon la méthode Th-BCE (RT 2012)**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0023-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0023-00.png]]
 
 
 _**Fig. 0.6. Les huit zones climatiques en France métropolitaine et en Corse**_
@@ -375,7 +375,7 @@ C’est l’énergie totale puisée sur la planète pour produire l’énergie f
 par le coefficient _Cep_ exprimé en kilowatts-heures d’énergie primaire par mètres carrés et par an (kWh.ep/m[2] /an) et encadrée par la réglementation. Le passage d’énergie finale à énergie primaire se fait _via_ un coefficient de conversion qui varie selon la réglementation applicable ( **tab. 0.4** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0025-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0025-01.png]]
 
 
 _**Fig. 0.7. De l’énergie primaire à l’énergie finale**_ 
@@ -408,7 +408,7 @@ DH=∑k=0nHeures×Tressentie−Tconfort
 
 avec _T_ confort = 28 °C le jour et 26 °C la nuit.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0027-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0027-00.png]]
 
 Il se mesure par l’indicateur _DH_ exprimé en degrés Celsius heures (°C.h). 
 
@@ -438,7 +438,7 @@ leur mise en œuvre (la phase chantier) ;
 
 leur vie « en œuvre » y compris renouvellements nécessaires pendant la durée de vie du bâtiment soit conventionnellement 50 ans ; leur fin de vie (mise en décharge, incinération, recyclage, réemploi).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0029-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0029-00.png]]
 
 
 _**Fig. 0.9. Schéma cycle de vie**_ 
@@ -457,7 +457,7 @@ _Ic_ composants est calculé en multipliant la quantité de chaque produit par s
 
 Les éléments pour le calcul de l’indicateur environnemental sont mis à disposition sur la base Inies administrée par le Centre scientifique et technique du bâtiment (CSTB) ( **fg. 0.10** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0031-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0031-00.png]]
 
 
 _**Fig. 0.10. Étapes du cycle de vie d’un produit de construction ou équipement (source : Inies)**_ 

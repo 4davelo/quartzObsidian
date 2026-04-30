@@ -41,9 +41,9 @@ Le vitrage doit être isolant, comportant au minimum deux glaces espacées de 6 
 
 Les fenêtres de toit peuvent être équipées de stores intérieurs ou de volets roulants extérieurs.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1158-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1158-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1159-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1159-00.png]]
 
 
 _**Fig. 27.13. Fenêtres de toit en bois**_ a) Ouvrant à projection b) Ouvrant à projection et rotation c) Ouvrant à rotation
@@ -52,7 +52,7 @@ _**Fig. 27.13. Fenêtres de toit en bois**_ a) Ouvrant à projection b) Ouvrant 
 
 La fenêtre bois-aluminium est une menuiserie bois dont le dormant et l’ouvrant accueillent un profilé aluminium, comme l’illustre la **fgure 27.14** .
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1161-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1161-00.png]]
 
 
 _**Fig. 27.14. Fenêtre bois-aluminium (source : Laurent Menuiseries)**_ 

@@ -43,7 +43,7 @@ Les tuiles à glissement ne comportent pas d’emboîtement transversal et néce
 
 Cette famille de tuiles comporte deux sous-familles : les petits moules ( **fg. 22.10** .a et **fg. 22.10** .b) et grands moules ( **fg. 22.10** .c et **fg. 22.10** .d). Le **tableau [22.3](159_22.3_couverture_en_tuiles_canal.md)** présente leurs principales caractéristiques.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1019-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1019-00.png]]
 
 
 _**Fig. 22.10. Principaux types de tuiles à emboîtement et à glissement**_ 
@@ -127,7 +127,7 @@ Le type de fixation est lié à la pente de la toiture ; il est particulier pour
 
 Les tuiles sont fixées par pannetonnage (fixation des faces inférieures, **fg. 22.11** ), crochetage ou clouage, avec un minimum d’une tuile sur cinq ; les tuiles fixées sont réparties régulièrement. C’est également le cas si l’exposition du versant au vent le réclame.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1022-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1022-00.png]]
 
 
 _**Fig. 22.11. Tuiles à emboîtement et à glissement fixées par pannetonnage**_ 
@@ -144,9 +144,9 @@ Toutes doivent être fixées lorsque la pente est supérieure à 1 m par mètre 
 
 Toutes les rives et intersections qui interviennent dans les toitures en tuiles à emboîtement comportent des dispositions particulières.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1023-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1023-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1024-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1024-00.png]]
 
 
 _**Fig. 22.12. Principaux types de rives de tête de toitures en tuiles à emboîtement et à glissement**_ 
@@ -169,7 +169,7 @@ par ruellée maçonnée avec dévirure, cette dernière ayant pour but de rejete
 
 par pièces spéciales, en particulier en terre cuite, dites « rives » ou « tuiles de rive gauche ou droite », à simple recouvrement ou à emboîtement complet ( **fg. 22.13** .c), fixées par tire-fonds ou crochet-agrafe ; par tuiles double bourrelet légèrement débordantes ou par tuiles courantes posées avec un léger débord.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1027-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1027-00.png]]
 
 
 _**Fig. 22.13. Principaux types de rives latérales de toitures en tuiles à emboîtement et à glissement**_ 
@@ -192,7 +192,7 @@ Certains systèmes de faîtage à sec permettent d’assurer une sortie d’air 
 
 Les extrémités de faîtage doivent être obturées. Cette obturation peut être réalisée grâce à l’emploi de pièces spéciales dites « abouts de
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1028-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1028-01.png]]
 
 
 _**Fig. 22.14. Faîtage à sec pour toitures à tuiles à emboîtement et à glissement**_ 
@@ -220,7 +220,7 @@ Deux cas sont possibles :
 intersection au point haut de la couverture : l’ouvrage est traité comme « rive de tête » avec dépassement de mur ; intersection au point bas de la couverture : cette intersection constitue le chéneau et doit être traitée comme telle. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1029-06.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1029-06.png]]
 
 **22.2.4.1 Écran** 
 
@@ -236,7 +236,7 @@ soit par des lés de feutre bitumé satisfaisant au moins aux prescriptions impo
 
 En aucun cas, cet écran ne peut être mis directement sur les liteaux, car il est indispensable que l’air circule entre sa surface et les tuiles. La meilleure solution consiste à fixer l’écran sur les chevrons et à relever le niveau d’appui des liteaux par une contre-latte clouée sur la face supérieure du chevron ( **fg. 22.16** .a). On peut également disposer l’écran sur les chevrons sans le tendre entre les chevrons consécutifs ( **fg. 22.16** .b).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1031-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1031-00.png]]
 
 
 _**Fig. 22.16. Exemples de mise en place de l’écran sous la couverture en tuile**_ 
@@ -251,7 +251,7 @@ Les dispositions prises en conséquence devront tenir compte de l’épaisseur d
 
 La meilleure formule consiste à placer l’isolant sous les chevrons. Cependant, lorsque le comble est habitable, un habillage de la charpente est généralement prévu en sous-face (voliges, contreplaqué, plaques diverses). L’isolant spécifique est alors disposé entre les chevrons ; pour assurer la libre circulation de l’air malgré l’épaisseur de l’isolant, il faut d’ordinaire prévoir, en sous-face des chevrons, un dispositif ménageant un vide adéquat – par exemple, des lattes clouées sous taquets ( **fg. 22.17** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1034-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1034-00.png]]
 
 
 _**Fig. 22.17. Mise en place de l’isolant entre chevrons**_ 
@@ -266,7 +266,7 @@ Les jeux entre les tuiles ne permettent pas la ventilation nécessaire. Elle doi
 
 Dans des conditions de site favorables, les entrées d’air en partie basse peuvent également être assurées par des ouvertures pratiquées dans l’avant-toit ( **fg. 22.18** .b).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1035-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1035-00.png]]
 
 
 _**Fig. 22.18. Mise en place des chatières et exécution des entrées d’air**_ 

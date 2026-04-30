@@ -126,14 +126,14 @@ On trouvera ci-après deux exemples de structures adaptées : le premier concern
 
 La structure S-TE Integra ( **fg. 51.8** ), de 45 mm d’épaisseur, est destinée à l’intégration à une toiture en tuiles ou en ardoises. Elle est utilisable en couverture partielle des bâtiments (locaux à usage d’habitation, établissement destiné à l’enseignement, service sanitaire, etc.). Adaptée aux pentes faibles (minimum 15° ou 27 %), elle comprend une structure porteuse en aluminium qui se pose sur une charpente en bois traditionnelle. La dimension des modules (1 500 × 700 × 45 mm) est adaptée au traitement des points singuliers de toiture.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1934-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1934-00.png]]
 
 
 _**Fig. 51.8. Structure S-TE Integra (source : d’après Tenesol)**_ 
 
 La structure S-TE Integra Max ( **fg. 51.9** ), d’une grande simplicité de mise en œuvre, assure la production d’énergie solaire, mais également une étanchéité identique à une couverture traditionnelle de grands éléments sur des constructions industrielles, agricoles et tertiaires. Réalisable sur des toitures présentant une pente comprise entre 5 et 50° (soit 9 et 120 %), le procédé comporte une association de modules photovoltaïques (1 660 × 990 × 50 mm) cadrés fixés sur un châssis. La distance entre deux pannes est de 2 500 mm dans la plupart des zones neige et vent.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1935-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1935-00.png]]
 
 
 _**Fig. 51.9. Structure S-TE Integra Max (source : d’après Tenesol)**_ 

@@ -74,7 +74,7 @@ _**Tab. 19.6. Panneaux isolants non porteurs**_
 |**Composants végétaux**|Liège (aggloméré expansé pur)||
 ||Fibres de bois (panneaux isolants mous)||
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0903-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0903-00.png]]
 
 
 _**Fig. 19.8. Deux types de mise en œuvre de panneaux isolants en laine de roche**_ 
@@ -84,7 +84,7 @@ _**Fig. 19.8. Deux types de mise en œuvre de panneaux isolants en laine de roch
 Il s’agit d’éléments en tôle d’acier galvanisée, profilée à froid, dont les plages peuvent être pleines ou perforées ( **fg. 19.9** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0903-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0903-04.png]]
 
 
 _**Fig. 19.9. Éléments en tôle d’acier galvanisé profilée à froid**_ 

@@ -142,7 +142,7 @@ comités professionnels. C’est une entreprise dynamique, dont la renommée ne 
 
 Consulter [www.usgbc.org](http://www.usgbc.org). Les référentiels sont en ligne, mais les recherches sont fastidieuses vu le grand nombre de documents disponibles. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0741-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0741-03.png]]
 
 Figure 210. Check-list des thèmes LEED. 
 
@@ -228,7 +228,7 @@ Consulter [www.assohqe.org](http://www.assohqe.org). Les référentiels sont acc
 
 nombreux et dispersés sur plusieurs sites Internet : [www.certivea.fr](http://www.certivea.fr) pour les bâtiments tertiaires, le site de l’association Qualitel, [www.qualitel.org](http://www.qualitel.org), pour le logement. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0745-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0745-01.png]]
 
 Figure 211. Le volume des certifications HQE en 2017 (source : HQEGBC). 
 
@@ -385,7 +385,7 @@ La comparaison des implantations mondiales des différents systèmes est peu doc
 
 D’après un travail de recherche universitaire de 2017[44] ~~,~~ les labels se positionneraient comme suit, en nombre total de projets certifiés dans le monde depuis la création de chaque label : 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0753-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0753-03.png]]
 
 Sur le segment des immeubles de bureaux à Paris et sur sa petite couronne, HQE représentait en 2017 70 % des certifications environnementales, contre 28 % pour BREEAM et 3 % pour LEED. En Angleterre les certifications BREEAM sont sans surprise majoritaires, alors que l’Allemagne est dominée par les certifications DGNB.[45] À l’international, BREEAM est majoritaire dans certains pays et LEED dans d’autres. 
 

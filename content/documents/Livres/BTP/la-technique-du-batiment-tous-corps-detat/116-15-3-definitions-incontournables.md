@@ -39,7 +39,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 Ils font l’objet de la **fgure [15.4](117_15.4_règles_de_conception.md)** : trémie d’escalier ou cage d’escalier : vide de construction dans lequel sont implantés les volées d’escalier et les paliers ; volée d’escalier : ensemble de marches (25 au maximum) compris entre deux paliers consécutifs ; palier : plateforme constituant un repos entre deux volées intermédiaires ; paillasse : dalle inclinée en béton armé incorporant marches et contremarches dans la masse ; rampant : sous-face de la paillasse ;
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0777-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0777-00.png]]
 
 limon : poutre inclinée qui sert d’appui aux marches et permet de franchir la hauteur entre deux paliers ; crémaillère : poutre inclinée, centrale ou latérale, dont la face supérieure est à redans et qui porte les marches de toute une volée ; mur d’échiffre : mur supportant latéralement les marches ; noyau d’escalier : partie centrale pleine de la cage d’escalier sur laquelle viennent s’appuyer les marches ; le noyau peut être constitué par un voile dans le cas des escaliers à volée droite ou par un poteau dans le cas de l’escalier hélicoïdal ; jour d’escalier : espace central autour duquel se développe un escalier. 
 
@@ -47,7 +47,7 @@ limon : poutre inclinée qui sert d’appui aux marches et permet de franchir la
 
 La norme NF P 01-012 fixe la hauteur de protection pour les rampes pleines à 90 cm sur volée d’escalier et à 100 cm sur palier dans la zone où la main courante est horizontale, mais si la largeur du jour d’escalier est égale ou inférieure à 60 cm, la hauteur de protection peut être ramenée à 90 cm. Pour les rampes ajourées, on se reportera à la **fgure [15.5](118_15.5_escaliers_en_béton.md)** .
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0780-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0780-00.png]]
 
 
 _**Fig. 15.5. Rampes ajourées**_ 
@@ -58,7 +58,7 @@ NF P 01-012 (juillet 1988 – indice de classement : P 01-012) : Dimensions des 
 
 Ils font l’objet de la **fgure [15.6](119_15.6_escaliers_en_bois.md)** : hauteur de marche _H_ : différence de niveau entre deux marches successives, comprise entre 13 et 17 cm ; giron _G_ : profondeur de marche, mesurée sur la ligne de foulée, comprise entre 25 et 32 cm ; nez de marche : partie de la marche en saillie de 2 à 3 cm par rapport à la contremarche ; emmarchement _E_ : c’est la largeur de la marche, égale en général à 90 cm pour les maisons individuelles et à 120 cm pour les habitations collectives ;
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0782-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0782-00.png]]
 
 
 _**Fig. 15.6. Éléments de calcul**_ 

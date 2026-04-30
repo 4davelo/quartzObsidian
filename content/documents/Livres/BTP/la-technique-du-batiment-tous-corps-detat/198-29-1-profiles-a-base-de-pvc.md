@@ -41,7 +41,7 @@ le profilé de battement, la tapée, la pièce d’appui.
 Les formes des profilés évoquent les lettres L, Z et T. Les plus grandes sections des profilés principaux s’inscrivent dans un carré de 7 × 7 cm, et leur épaisseur est comprise entre 2,5 et 4 mm (2 mm pour les profilés complémentaires). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1224-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1224-02.png]]
 
 
 _**Fig. 29.1. Profilés types de menuiseries en plastique**_ 

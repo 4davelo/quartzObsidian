@@ -115,7 +115,7 @@ Pour des projets dont l’ampleur des réseaux ne nécessite pas de cellule de s
 
 L’exemple extrême de projets pour lesquels la mission de synthèse a à l’opposé une importance fondamentale est constitué par les projets d’établissements hospitaliers : ces projets comportent de très nombreux réseaux, ce qui rend cruciale la bonne qualité de la synthèse. Une mauvaise synthèse peut par exemple conduire à l’impossibilité de mettre en place un équipement médical encombrant (scanner, etc.), du fait d’une hauteur sous faux-plafond insuffisante (exemple réellement survenu).
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1010-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1010-00.png]]
 
 Figure 223. Extrait d’un plan de synthèse. 
 

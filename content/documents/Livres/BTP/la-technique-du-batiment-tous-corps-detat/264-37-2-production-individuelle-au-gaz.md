@@ -36,9 +36,9 @@ Le chauffage à eau chaude est obtenu par un générateur central placé dans le
 Les constructeurs proposent de tels matériels sous la forme de chaudières murales pour les maisons individuelles, qui peuvent être alimentées en gaz naturel, butane et propane. Leur dosseret de fixation permet de procéder aux raccordements eau, gaz et électricité dès que les canalisations correspondantes sont réalisées dans le logement ; des robinets d’isolement autorisent la mise sous pression du circuit. Le montage de la chaudière pourra être réalisé avantageusement en fin de chantier ( **photo [37.1](262_37.1_production_individuelle_au_fuel.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1530-06.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1530-06.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1532-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1532-00.png]]
 
 
 _**Photo 37.1. Dosseret de fixation d’une chaudière murale (source : ELM Leblanc)**_ 
@@ -57,7 +57,7 @@ un entretien réduit, car l’air prélevé à l’extérieur ne contient ni vap
 
 Les chaudières sont équipées d’un corps de chauffe en cuivre avec trois dispositifs de sécurité sur le chauffage, dont le système de sécurité totale par thermocouple ( **photo [37.2](264_37.2_production_individuelle_au_gaz.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1534-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1534-00.png]]
 
 
 _**Photo 37.2. Chaudière murale à haut rendement (vue intérieure) (source : ELM Leblanc)**_ 
@@ -70,7 +70,7 @@ Les caractéristiques hydrauliques pour des appareils d’une puissance de chauf
 
 La température de réglage est comprise entre 34 et 85 °C. Les dimensions extérieures sont d’environ 0,82 m pour la hauteur et 0,40 m pour la largeur ; le poids est de 45 kg.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1535-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1535-00.png]]
 
 
 _**Fig. 37.1. Caractéristiques hydrauliques pour des générateurs de puissance de 11 à 23 kW (source : ELM Leblanc)**_ 
@@ -82,7 +82,7 @@ La microventouse comprend deux tubes concentriques permettant : l’admission d�
 Cette ventouse, à placer en traversée de mur, est conçue de telle façon que l’installateur puisse effectuer toutes les opérations de montage par l’intérieur de la pièce où il pose l’appareil. Elle est prévue en série pour une longueur de 600 mm. Le principe d’installation est schématisé sur la **fgure [37.2](264_37.2_production_individuelle_au_gaz.md)** . 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1536-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1536-01.png]]
 
 
 _**Fig. 37.2. Principe d’installation d’une microventouse**_
@@ -101,18 +101,18 @@ Le pouvoir calorifique inférieur (PCI) correspond à une eau de combustion supp
 
 L’installation d’une chaudière à condensation, nécessite l’évacuation des condensats et une prise d’air extérieure, intégrée dans le conduit à ventouse ( **fg. [37.3](265_37.3_production_individuelle_au_bois_biomasse.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1539-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1539-00.png]]
 
 
 _**Fig. 37.3. Chaudière murale étanche pour raccordement à un conduit de fumée (source : ELM Leblanc)**_ 
 
 La comparaison avec les chaudières « classiques » montre le ou les échangeurs qui caractérisent la chaudière à condensation ( **fg. [37.4](266_37.4_production_collective.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1540-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1540-00.png]]
 
 Il existe deux types de chaudières à condensation ( **fg. 37.5** ) : avec deux échangeurs en série : un premier échangeur abaisse la température des produits de combustion jusqu’à une température inférieure au point de rosée (absence de condensation). Un second échangeur récupère la quasi-totalité de la chaleur sensible encore disponible et de la chaleur de condensation ; avec un super-échangeur unique : le refroidissement des produits de combustion et la condensation ont lieu dans le même super-échangeur.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1542-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1542-00.png]]
 
 
 _**Fig. 37.5. Chaudières à condensation**_ 
@@ -135,7 +135,7 @@ l’un dit « conduit collecteur » pour l’évacuation des gaz de combustion ;
 
 Les éléments de raccordement sont de conception identique. Le principe des branchements superposés est également indiqué sur la **fgure 37.6** .
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1544-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1544-00.png]]
 
 
 _**Fig. 37.6. Conduit collectif 3CE pour chaudières étanches (source : d’après ELM Leblanc)**_
@@ -146,7 +146,7 @@ La VMC-gaz résulte du mariage de la ventilation mécanique contrôlée et du ch
 
 C’est pour pallier les inconvénients, parfois très graves, consécutifs à une telle situation, que des mesures de sécurité ont été mises en place. Plus de 300 000 logements, en immeubles collectifs, sont donc équipés d’une VMC-gaz.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1546-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1546-00.png]]
 
 **37.2.4.3 Dispositif de sécurité collective** 
 
@@ -162,7 +162,7 @@ la détection du défaut au niveau de l’extracteur ; la transmission du signal
 
 l’exécution de l’ordre d’arrêt des chaudières, en cas de défaut détecté au niveau du ventilateur d’extraction.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1550-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1550-00.png]]
 
 
 _**Fig. 37.8. Circuit d’alimentation électrique d’un dispositif de sécurité collective (DSC)**_ 

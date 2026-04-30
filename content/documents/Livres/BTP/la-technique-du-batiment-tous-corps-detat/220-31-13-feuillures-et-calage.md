@@ -77,7 +77,7 @@ Le calage assure et maintient le positionnement correct du vitrage dans la feuil
 
 Ces feuillures, ouvertes vers l’extérieur ( **fg. 31.18** ), sont réservées à la pose des vitrages de faible épaisseur (4 mm) et de dimensions réduites (demi-périmètre maximal 2,50 m, longueur maximale 2 m). Elles ont une section minimale de 12 mm en hauteur et de 16 mm en largeur. Leur largeur maximale est inférieure ou égale à l’épaisseur
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1311-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1311-01.png]]
 
 
 _**Fig. 31.18. Feuillures ouvertes**_ 
@@ -96,7 +96,7 @@ comporter de saillies supérieures à 1 mm.
 
 La **fgure 31.19** rassemble les types les plus courants de feuillures fermées. Dans les châssis coulissants, le châssis est, en général, constitué de profilés en U, sans parclose démontable, emboîtés sur les chants des vitrages.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1314-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1314-00.png]]
 
 
 _**Fig. 31.19. Feuillures fermées**_ 
@@ -105,12 +105,12 @@ _**Fig. 31.19. Feuillures fermées**_
 
 Le drainage des fonds de feuillure a pour objet d’équilibrer la pression entre l’air extérieur et le fond de la feuillure, ce qui limite les possibilités de pénétration d’eau et de condensation, et favorise l’évacuation d’infiltrations éventuelles. Les feuillures autodrainantes ( **fg. 31.20** ) sont recommandées pour la pose des vitrages isolants ou feuilletés ; de plus, certains montages de ce type ( **fg. 31.21** ) permettent de diminuer les tensions d’origine thermique sur les bords des vitrages.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1315-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1315-00.png]]
 
 
 _**Fig. 31.20. Feuillures autodrainantes**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1317-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1317-00.png]]
 
 
 **Fig. 31.21. Terminologie des feuillures fermées** 
@@ -149,7 +149,7 @@ La largeur utile des feuillures devra donc être égale à l’épaisseur du vit
 Le calage est généralement obtenu par des cales ponctuelles qui évitent le contact entre vitrage et châssis ( **fg. 31.22** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1318-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1318-04.png]]
 
 
 _**Fig. 31.22. Système de calage du vitrage**_ 
@@ -190,7 +190,7 @@ L’épaisseur des cales latérales doit être égale au jeu latéral prévu pou
 
 La **fgure 31.23** précise, selon les types d’ouverture, les emplacements des cales d’assise C1, des cales périphériques ajustées C2 et éventuellement des cales périphériques de sécurité C3.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1321-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1321-00.png]]
 
 **Cales d’assise** 
 

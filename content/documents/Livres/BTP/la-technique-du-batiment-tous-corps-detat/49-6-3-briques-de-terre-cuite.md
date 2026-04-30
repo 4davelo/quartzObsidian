@@ -97,7 +97,7 @@ Pour satisfaire aux différentes exigences de qualité requises pour les maçonn
 
 Ces briques sont essentiellement utilisées pour les cloisons intérieures à plâtrer ( **fg. 6.9** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0400-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0400-00.png]]
 
 
 _**Fig. 6.9. Exemples de briques plâtrières**_ 
@@ -106,7 +106,7 @@ _**Fig. 6.9. Exemples de briques plâtrières**_
 
 On désigne par les termes « briques creuses » les briques de terre cuite dont la superficie des trous est supérieure à 40 % de la section totale de la brique ( **fg. 6.10** .a).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0402-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0402-00.png]]
 
 
 _**Fig. 6.10. Principaux types de briques**_ 

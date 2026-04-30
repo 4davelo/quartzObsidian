@@ -71,7 +71,7 @@ NF EN 771-6+A1 (octobre 2015 – indice de classement : P 12-121-6) : Spécifica
 
 Le moellon est un bloc de pierre calcaire de petites dimensions ( **fg. 6.11** ). Livré soit brut, soit équarri et plus ou moins taillé, il est utilisé pour la construction des murs en pierre maçonnés (murs de soubassement, murs de façades de constructions individuelles, murs de clôture…).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0407-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0407-00.png]]
 
 
 _**Fig. 6.11. Moellons : désignation des faces et des lits**_ 
@@ -89,7 +89,7 @@ Un mur de moellons est constitué ( **fg. 6.12** ) :
 de parpaings : moellons ayant l’épaisseur même du mur ; de boutisses : moellons dont l’épaisseur et la largeur sont visibles sur le parement du mur ; de panneresses : moellons disposés de façon à ce que leur plus grande dimension se trouve sur le parement du mur ; de « carreaux » : moellons dont la largeur au parement du mur est plus grande que la queue. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0408-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0408-04.png]]
 
 
 _**Fig. 6.12. Exemple de mur de maçonnerie de moellons**_
@@ -102,7 +102,7 @@ Les meulières sont des pierres à gros pores constituées de silicate de chaux 
 
 Les parois extérieures en pierre autoporteuse sont constituées de moellons ou de pierres taillées posés en assises appareillées ( **fg. 6.13** ). Ils ont une épaisseur de 8 à 20 cm et leur stabilité, vis-àvis du déversement, est assurée par des liaisons fixées au mur porteur. Ce type d’ouvrage est parfois désigné par l’expression « mur double » ou « mur manteau ». Ce procédé permet de réaliser des murs en pierre de taille, massifs mais de faible épaisseur, en offrant la possibilité d’intégrer un isolant entre la pierre et le mur porteur. Les attaches sont directement insérées dans les joints entre moellons.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0410-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0410-00.png]]
 
 
 **Fig. 6.13. Principe de la pierre autoporteuse (source : Rocamat, www.rocamat.fr/produits[et-applications](http://www.rocamat.fr/produits-et-applications))** 
@@ -117,7 +117,7 @@ Les revêtements extérieurs attachés en pierre mince sont fixés par des attac
 
 soit attachés par agrafes métalliques et polochons ( **fg. 6.14** .a et **fg. 6.14** .b) ; soit fixés par attaches métalliques sans polochon ( **fg. 6.14** .c) ; soit fixés sur une ossature intermédiaire.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0413-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0413-00.png]]
 
 
 **Fig. 6.14. Principe de fixation de la pierre attachée (source : Guide Entretien, rénovation, réhabilitation des bâtiments)** 
@@ -125,14 +125,14 @@ soit attachés par agrafes métalliques et polochons ( **fg. 6.14** .a et **fg. 
 Les pierres utilisées sont des pierres naturelles conformes à la norme NF B 10-601 et à son amendement A1. Leur épaisseur minimale est de 27 mm (voire 30 mm compte tenu des tolérances) ; elle peut être ramenée à 20 mm dans le cas décrit à la **fgure 6.15** . 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0413-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0413-03.png]]
 
 
 _**Fig. 6.15. Épaisseur des pierres attachées (source : Guide Entretien, rénovation, réhabilitation des bâtiments)**_ 
 
 Les façades avec revêtement mural attaché en pierre mince sont assimilées à des murs de type II b ou III selon la composition du mur (béton ou maçonnerie), la présence ou non d’une isolation ainsi que le traitement des joints entre pierres ( **fg. 6.16** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0415-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0415-00.png]]
 
 
 _**Fig. 6.16. Pierre attachée et type de mur (source : Guide Entretien, rénovation, réhabilitation des bâtiments)**_ 

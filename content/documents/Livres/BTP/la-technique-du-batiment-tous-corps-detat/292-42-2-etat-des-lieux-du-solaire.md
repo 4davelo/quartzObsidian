@@ -58,7 +58,7 @@ Une des difficultés du recours à l’énergie solaire vient bien entendu de sa
 
 En France, on prend souvent comme référence conventionnelle le rayonnement annuel reçu à Lyon, qui est de 1 425 kWh/m[2] , soit environ 4 kWh/m[2] .j ( **fg. [42.2](292_42.2_état_des_lieux_du_solaire.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1684-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1684-00.png]]
 
 
 _**Fig. 42.2. Moyennes annuelles en kWh/m[2] .j de l’énergie reçue sur une surface orientée au sud et inclinée d’un angle égal à la latitude (source : [www.tecsol.fr](http://www.tecsol.fr))**_ 

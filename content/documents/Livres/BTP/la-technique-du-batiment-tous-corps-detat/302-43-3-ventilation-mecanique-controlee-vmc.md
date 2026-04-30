@@ -70,7 +70,7 @@ des entrées d’air sont placées dans les pièces principales telles que le s�
 
 un extracteur mécanique, souvent situé en combles, est raccordé aux bouches d’extraction par le biais d’un réseau de conduits.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1723-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1723-00.png]]
 
 
 _**Fig. 43.2. Principe de fonctionnement d’une VMC à simple flux en maison individuelle et en logement collectif**_ 
@@ -93,7 +93,7 @@ de type A : les entrées d’air sont autoréglables, et les bouches d’extract
 
 Dans ce type d’installation ( **fg. [43.3](302_43.3_ventilation_mécanique_contrôlée_vmc.md)** ), l’introduction de l’air ainsi que son extraction sont assurées par des dispositifs mécaniques : bouches d’insufflation en pièces principales et bouches d’extraction en pièces de service. La VMC à double flux présente trois avantages : traitement acoustique performant des bruits extérieurs. Cette technique est particulièrement intéressante, par exemple dans le cas d’un environnement à niveau sonore élevé ; possibilité de filtration de l’air entrant, ce qui limite l’introduction de polluants ; préchauffage de l’air insufflé en hiver par un récupérateur de chaleur sur l’air extrait, ce qui permet des économies de chauffage.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1725-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1725-00.png]]
 
 
 _**Fig. 43.3. Principe de fonctionnement d’une VMC à double flux (maison individuelle et logement collectif)**_ 
@@ -108,12 +108,12 @@ un local coupe-feu, création d’une gaine spécifique pour renvoyer l’air ex
 
 Ces systèmes, assez peu développés, ne diffèrent d’une VMC ordinaire que par l’entrée d’air : l’air neuf chemine à l’intérieur d’un mur ( **fg. [43.4](303_43.4_systèmes_dasservissement_du_débit_dextraction.md)** ) ou d’un double vitrage ( **fg. [43.5](304_43.5_dimensionnement_des_installations_vmc.md)** ), parallèlement aux parois, ce qui conduit à une diminution des déperditions thermiques et à une augmentation du confort (l’air neuf est préchauffé, ce qui, dans certains cas, limite la gêne provoquée par les courants d’air).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1727-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1727-00.png]]
 
 
 _**Fig. 43.4. Principe de l’effet pariétodynamique**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1729-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1729-00.png]]
 
 
 _**Fig. 43.5. Fenêtre à double effet pariétodynamique**_ 

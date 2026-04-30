@@ -265,7 +265,7 @@ L’essai de traction qui mesure la limite d’élasticité ne donne qu’une ap
 
 _Flexion par choc (essai de résilience)_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0454-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0454-00.png]]
 
 
 _**Fig. 7.1. Variation de la limite d’élasticité en fonction de l’épaisseur de l’élément**_ 
@@ -310,7 +310,7 @@ Les textes techniques définissent six variables de sollicitation par croisement
 
 Les hypothèses de chargement distinguent le chargement statique du chargement dynamique.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0457-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0457-00.png]]
 
 **Les trois conditions de service S1, S2 et S3 dépendent des contraintes locales ( **tab. [7.2](57_7.2_poteaux_poutres_et_assemblages.md)** ).** 
 
@@ -328,7 +328,7 @@ Dans le domaine du bâtiment, on considère que les sollicitations sont statique
 
 Les exemples de courbes ( **fg. [7.3](58_7.3_structures_en_acier.md)** ) montrent, pour une nuance et une qualité d’acier données, le lien pour chaque type de condition de service entre l’épaisseur maximale des éléments de structure et la température de service minimale admissible.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0461-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0461-00.png]]
 
 
 _**Fig. 7.3. Lien entre épaisseur maximale et température de service minimale**_ 
@@ -380,7 +380,7 @@ Cette norme décrit les aciers de qualité non alliés et les aciers spéciaux a
 Cette norme spécifie les vérifications complémentaires sur le comportement du matériau dans la direction du travers court. Elle permet de réduire le risque d’arrachement lamellaire de la matière consécutif à la traction d’une soudure ( **fg. [7.4](59_7.4_protection_contre_la_corrosion.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0463-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0463-01.png]]
 
 
 _**Fig. 7.4. Arrachement lamellaire**_ 
@@ -528,7 +528,7 @@ les tôles ondulées, présentant de petites ou de grandes ondulations longitudi
 étirage d’une tôle en acier. Il est notamment employé comme platelage de passerelle, clôture, etc. ( **fg. [7.5](60_7.5_protection_contre_lincendie.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0470-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0470-01.png]]
 
 
 _**Fig. 7.5. Métal déployé**_ 
@@ -537,7 +537,7 @@ _**Fig. 7.5. Métal déployé**_
 
 Des catalogues de tôles perforées présentent de multiples produits pour platelages, chemins de câbles, etc. ( **fg. 7.6** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0471-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0471-00.png]]
 
 
 _**Fig. 7.6. Tôles perforées : différents exemples de motifs**_ 
@@ -546,7 +546,7 @@ Les caillebotis sont des assemblages croisés de barres d’acier disposées en 
 
 Les **fgures 7.7** , **7.8** et **7.9** présentent les principales gammes de produits : produits longs (pieux, poutrelles, poutres alvéolaires…) ; produits creux (ronds, carrés…) ; autres produits (câbles, palplanches, armatures).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0474-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0474-00.png]]
 
 
 _**Fig. 7.7. Poutrelles classiques (source : Lemoine (Bertrand), Construire avec les aciers, Éd. du Moniteur, 2002, ouvrage épuisé)**_

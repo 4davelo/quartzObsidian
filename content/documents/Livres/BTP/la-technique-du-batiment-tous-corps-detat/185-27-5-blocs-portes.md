@@ -50,7 +50,7 @@ bâti dormant, placé en feuillure, scellé ; cadre d’embrasure, recouvrant to
 
 En cloisonnement en panneaux de type plaques de plâtre cartonnées, les huisseries sont intégrées aux ossatures de la cloison ( **fg. 27.16** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1166-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1166-00.png]]
 
 
 _**Fig. 27.16. Cloison à ossature : intégration de la menuiserie**_ 
@@ -69,7 +69,7 @@ Les huisseries peuvent être reliées au plafond ( **fg. 27.17** ) :
 
 - par des aiguilles en bois ou en métal qui se trouvent noyées dans la cloison maçonnée. Dans ce cas, les huisseries restent en place après le montage des cloisons ; par des étais tubulaires à ressort ; par des lattes avec coins en plafond.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1168-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1168-00.png]]
 
 
 **Fig. 27.17. Fixation des huisseries en plafond** 
@@ -86,7 +86,7 @@ Dans les installations très soignées, on peut utiliser l’ensemble prébâti 
 
 Un calfeutrement vient recouvrir le jeu de réglage et la liaison cloison-prébâti ( **fg. 27.18** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1169-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1169-00.png]]
 
 
 _**Fig. 27.18. Calfeutrement de la liaison cloison-prébâti**_ 
@@ -101,7 +101,7 @@ Sur les portes avec bâti ( **fg. 27.19** ), la vitre, fixée à l’aide de par
 
 dans le cas de portes isoplanes, la vitre (ou l’oculus) est généralement placée dans une moulure « grand cadre » ; dans le cas des portes en glace, l’appui et l’étanchéité de la porte sont assurés par un joint en néoprène.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1172-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1172-00.png]]
 
 
 _**Fig. 27.19. Portes pleines et portes vitrées**_ 
@@ -138,7 +138,7 @@ en neuf : soit huisserie métallique traditionnelle ou à bancher, soit huisseri
 
 L’isolation thermique du tout est : _K_ = 2,42 W/m[2] .°C avec huisserie métal. L’affaiblissement acoustique est : _R_ = 33 dB(A). L’ensemble est classé A2 et présente un degré coupe-feu 1/4 h pour une protection au feu 1/2 h. Il est classé en niveau 1 antieffraction (5 min).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1176-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1176-00.png]]
 
 
 **Fig. 27.20. Bloc porte antieffraction (source : Huet)** 
@@ -161,7 +161,7 @@ dimensions : hauteur 2 047, 2 147 ou 2 247 mm ; largeur 860 ou 960 mm ; épaisse
 
 - •  un seuil en aluminium extrudé.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1177-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1177-00.png]]
 
 
 _**Fig. 27.21. Bloc porte d’extérieur (source : Malerba Dugelet)**_ 

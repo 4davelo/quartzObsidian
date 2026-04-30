@@ -44,7 +44,7 @@ L’article 101 de la loi Climat et résilience a été traduit dans l’article
 
 On distingue : le capteur solaire indépendant sur support ( **fg. [25.1](168_25.1_typologie_des_capteurs_solaires.md)** .a) : est dit indépendant [ou en surimposition] un capteur solaire installé sur un support, n’assurant ni la fonction de couverture, ni celle de parement extérieur ; le capteur solaire incorporé en couverture ( **fg. 25.1** .b) : est dit incorporé un capteur solaire assurant la fonction de couverture ou de parement extérieur ; le capteur solaire semi-incorporé en couverture ( **fg. 25.1** .c) : est dit semi-incorporé un capteur solaire n’assurant ni la fonction de couverture, ni celle de parement extérieur mais qui, associé à un accessoire adéquat (bac d’étanchéité), constitue un ensemble assurant la fonction de couverture ; le capteur solaire intégré en couverture ( **fg. 25.1** .d) : est dit intégré un capteur solaire placé sous un écran transparent, l’écran étant un élément de couverture (par exemple, une tuile en verre).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1072-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1072-00.png]]
 
 
 _**Fig. 25.1. Quatre familles de capteurs solaires de toiture (source : Guide de la réglementation pour les projets de bâtiments)**_ 

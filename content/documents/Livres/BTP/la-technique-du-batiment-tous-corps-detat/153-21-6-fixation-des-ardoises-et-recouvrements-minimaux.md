@@ -42,7 +42,7 @@ Les recouvrements sont plus importants pour l’ardoise-ciment que pour l’ardo
 
 On distingue les crochets à ardoises et les clous à ardoises : les crochets sont à agrafe ou à pointe ( **fg. [21.3](150_21.3_caractéristiques_physiques_des_ardoises.md)** ) et réalisés en acier galvanisé, en cuivre ou en acier inoxydable ;
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0964-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0964-00.png]]
 
 
 _**Fig. 21.3. Principaux types de crochets à ardoises**_ 
@@ -53,7 +53,7 @@ Le DTU 40.11 (NF P 32-201) a fixé les recouvrements minimaux par zones de vent 
 
 NF P 32-201 (mai 1993 – indice de classement : P 32-201) : DTU 40.11 – Couverture en ardoises – Partie 1 : cahier des charges – Partie 2 : cahier des clauses spéciales.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0966-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0966-00.png]]
 
 Les courbes représentent un essai de synthèse pour la zone I en ce qui concerne l’ardoise et l’ardoise-ciment. 
 

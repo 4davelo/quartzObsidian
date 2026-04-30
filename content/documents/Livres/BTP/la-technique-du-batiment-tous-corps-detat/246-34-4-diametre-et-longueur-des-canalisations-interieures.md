@@ -142,7 +142,7 @@ _**Tab. 34.4. Calcul du débit de gaz sur un tronçon**_
 
 Considérons un immeuble à un seul logement ( **fg. [34.3](245_34.3_installation_des_appareils_dutilisation.md)** ) et disposant d’un compteur dans un coffret extérieur sur rue, c’est-à-dire en limite de propriété.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1497-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1497-00.png]]
 
 Le gaz naturel alimente un seul générateur à double service (chauffage et eau chaude) d’une puissance nominale de 28 kW. La tuyauterie en cuivre mesure 30 m. 
 

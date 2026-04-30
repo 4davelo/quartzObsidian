@@ -33,7 +33,7 @@ La couverture peut également être :
 
 en modèles carrés posés en diagonale ( **fg. [21.2](149_21.2_principaux_modèles.md)** .d) : les ardoises sont posées en lignes horizontales, une des diagonales étant également horizontale. Les rangs supérieurs chevauchent les rangs inférieurs, les joints étant alternés ; à claire-voie ( **fg. 21.2** .e) : les ardoises sont posées en lignes horizontales, mais écartées les unes des autres de manière à conserver un recouvrement latéral de 6 à 8 cm. Les rangs supérieurs chevauchent les rangs inférieurs comme pour la couverture à pureau entier, ou se superposent par deux comme dans la couverture à pureau développé – dans ce dernier cas, on parle de « couverture à claire-voie développée » ( **fg. 21.2** .f).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0963-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0963-01.png]]
 
 
 **

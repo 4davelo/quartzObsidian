@@ -24,7 +24,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 Évolution du prémur, le mur à coffrage et isolation intégrés (MCII) est fabriqué en usine et constitué de deux parois minces en béton armé reliées entre elles par les organes de liaison (connecteurs, ancres porteuses). Un matériau isolant est accolé à la face intérieure de la paroi extérieure au cours de la fabrication. Le prémur est posé sur chantier et l’espace entre les parois est rempli de béton coulé en place ( **fg. 13.17** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0752-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0752-00.png]]
 
 
 _**Fig. 13.17. Mur à coffrage et isolation intégrée (source : « Mur à coffrage et isolation intégrée – Calepin de chantier », Programme PACTE, février 2018)**_

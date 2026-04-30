@@ -117,7 +117,7 @@ actionnement du « carré pompiers » au niveau d’accès dédié ; mise en ser
 
 du carré en contact dans le boîtier de la cabine) ; acheminement direct de l’ascenseur (sans satisfaire un éventuel appel palier) vers le niveau sélectionné par le pompier ; envoi d’une instruction de non-desserte du niveau sinistré par le système de détection incendie, accès des pompiers à ce même niveau par l’étage adjacent ; déverrouillage du système pour une reprise de l’utilisation normale des ascenseurs, une fois la situation maîtrisée.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0822-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0822-00.png]]
 
 
 _**Photo 16.1.a et b. Boîtier d’« appel pompiers » et niveau prioritaire « accès pompiers »**_

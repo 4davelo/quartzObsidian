@@ -59,7 +59,7 @@ La tôle d’acier utilisée, conforme aux normes, est généralement de 12,5/10
 
 Ces radiateurs satisfont à une pression maximale de service de 6 bars. Les puissances thermiques sont indiquées dans les catalogues des différents fournisseurs (le **tableau [39.1](270_39.1_corps_de_chauffe.md)** en fournit un exemple).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1595-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1595-00.png]]
 
 À titre indicatif, un élément PA de 1 m de longueur et de 0,70 m de hauteur pèse 19,7 kg et contient 3,65 l d’eau. 
 
@@ -78,7 +78,7 @@ Il existe trois types de radiateurs en acier : à panneaux sans ailettes (P) ; �
 
 L’habillage comporte deux joues latérales et une grille supérieure ( **fg. [39.2](272_39.2_réseau_de_distribution.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1597-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1597-00.png]]
 
 Les ailettes sont au pas de 40 mm. Leur finition comporte deux couches de peinture : une couche de fond effectuée par trempage et cuite au four à 190 °C ; une seconde couche de 110 ∝ d’épaisseur, obtenue de manière électrostatique et cuite au four à 210 °C (coloris blanc). 
 
@@ -94,7 +94,7 @@ L’espacement minimum à respecter entre le radiateur et les parois est de :
 
 Réalisés en alliage aluminium moulé sous pression, ces radiateurs ( **fg. [39.3](273_39.3_tubes_incorporés_dans_la_dalle_de_plancher.md)** ) présentent une finition blanche composée d’une peinture anaphorèse (première couche) et d’une peinture à poudre époxy (seconde couche). Le **tableau [39.2](272_39.2_réseau_de_distribution.md)** donne les principales caractéristiques des radiateurs en alliage d’aluminium.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1599-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1599-00.png]]
 
 
 _**Fig. 39.3. Radiateur en alliage d’aluminium (source : Faral)**_ 
@@ -123,7 +123,7 @@ Les dispositifs de fixation dépendent de la nature de la paroi d’adossement. 
 
 les consoles à scellement pour murs et cloisons lourdes ( **fg. [39.4](274_39.4_régulation_du_chauffage.md)** .a) ; les consoles supports vissées sur les cloisons légères ( **fg. 39.4** .b) ; les supports réglables, généralement vissés ( **fg. 39.4** .c).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1602-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1602-00.png]]
 
 
 _**Fig. 39.4. Types de radiateurs en fonte**_ 
@@ -167,7 +167,7 @@ _**Tab. 39.4. Caractéristiques des radiateurs porte-serviette**_
 
 Les puissances indiquées dans les catalogues des fabricants sont valables pour des corps de chauffe installés normalement, selon les configurations HBCO et HBMC ( **fg. 39.5** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1606-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1606-00.png]]
 
 
 **Fig. 39.5. Dénominations des modes de raccordement principaux des radiateurs (source : Cegibat)** 

@@ -72,7 +72,7 @@ Les vantaux sont maintenus repliés en tableau : par un fléau en polyéthylène
 
 expressions doivent être maîtrisés : encadrement : profilés extrudés en PVC rigide à plusieurs chambres, assemblés par soudure à chaud (traverses horizontales ou verticales suivant dimensions données par la **fgure [29.6](203_29.6_fermetures_en_pvc.md)** ) ; garnissage : frise verticale, frise horizontale, persienné jointif ou persienné ajouré ( **fg. 29.6** ) ; ferrage : paumelles en aluminium anodisé, gonds à visser en tableau en acier zingué ; verrouillage : fermeture par crémone en aluminium 2 ou 3 points ; immobilisation en façade par tourniquet marseillais en acier zingué ou arrêt automatique en aluminium.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1241-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1241-00.png]]
 
 
 _**Fig. 29.6. Volets battants en plastique (source : Arban-Grosfillex)**_ 
@@ -83,7 +83,7 @@ _**Fig. 29.6. Volets battants en plastique (source : Arban-Grosfillex)**_
 
 Comme pour les autres volets roulants, les coffres des constructions neuves impliquent ( **fg. 29.7** ) :
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1242-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1242-00.png]]
 
 
 _**Fig. 29.7. Volets roulants pour constructions neuves (source : d’après les documents d’un fabricant)**_ 
@@ -126,7 +126,7 @@ dimensions du tablier ; •  des coulisses :
 
 en aluminium anodisé filé, équipées de deux joints antibruit, avec paroi de retenue de clip « anti-grand vent ».
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1245-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1245-00.png]]
 
 **Fenêtres mixtes** 
 

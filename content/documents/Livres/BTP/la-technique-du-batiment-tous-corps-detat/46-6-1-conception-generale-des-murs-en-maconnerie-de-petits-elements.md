@@ -100,7 +100,7 @@ Les maçonneries de petits éléments présentent par construction un linéaire 
 On distingue ainsi quatre types principaux de murs de façade en maçonnerie, suivant les procédés adoptés pour résoudre les problèmes d’étanchéité à la pluie ( **fg. [6.1](46_6.1_conception_générale_des_murs_en_maçonnerie_de_petits_éléments.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0381-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0381-04.png]]
 
 NF DTU 20.1 P3 (juillet 2020 – indice de classement : P 10-202-3) : Ouvrages en maçonnerie de petits éléments – Parois et murs – Partie 3 : dispositions constructives minimales. 
 
@@ -148,7 +148,7 @@ NF DTU 20.1 (juillet 2020 – indice de classement : P 10-202) : Ouvrages en ma�
 Ce type de mur ( **fg. [6.2](48_6.2_blocs_de_béton.md)** ) ne comporte aucune disposition spécifique permettant de s’opposer au cheminement des eaux de pluie jusqu’au parement intérieur. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0386-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0386-01.png]]
 
 
 _**Fig. 6.2. Mur de type XI (source : Guide Veritas)**_ 
@@ -157,7 +157,7 @@ _**Fig. 6.2. Mur de type XI (source : Guide Veritas)**_
 
 Ce type de mur ( **fg. [6.3](49_6.3_briques_de_terre_cuite.md)** ) comporte un système d’isolation thermique par l’extérieur s’opposant au cheminement de l’eau du fait de sa faible reprise d’eau par capillarité. Dans ce cas, le système d’isolation thermique n’est pas étanche par lui-même mais la paroi support, selon sa composition, peut pallier cette insuffisance pour des expositions à la pluie relativement peu sévères.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0388-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0388-00.png]]
 
 
 _**Fig. 6.3. Murs de type XII (source : Guide Veritas)**_ 
@@ -166,7 +166,7 @@ _**Fig. 6.3. Murs de type XII (source : Guide Veritas)**_
 
 - Ce type de mur ( **fg. [6.4](50_6.4_pierres.md)** ) comporte : soit un système d’isolation thermique par enduit sur isolant, posé sur une maçonnerie enduite ou un mur en béton, s’opposant au cheminement de l’eau du fait de sa faible reprise d’eau par capillarité ; soit un système d’isolation par l’extérieur, dont la peau extérieure n’est pas totalement étanche à l’eau de pluie mais derrière laquelle est disposée une lame d’air continue permettant la récupération et l’évacuation des eaux d’infiltration.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0390-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0390-00.png]]
 
 
 _**Fig. 6.4. Murs de type XIII (source : Guide Veritas)**_ 
@@ -176,7 +176,7 @@ _**Fig. 6.4. Murs de type XIII (source : Guide Veritas)**_
 Ce type de mur ( **fg. 6.5** ) comporte une peau extérieure étanche à l’eau du fait de sa composition intrinsèque et des dispositions prises aux jonctions entre éléments. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0390-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0390-04.png]]
 
 L’exigence acoustique est exprimée en termes de résultat global pour un logement (ou un local) dans l’arrêté du 30 juin 1999 et peut être respectée en appliquant les « Exemples de solutions acoustiques » du CSTB. 
 

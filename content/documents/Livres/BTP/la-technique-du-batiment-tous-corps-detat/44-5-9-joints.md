@@ -96,7 +96,7 @@ Sur ce point, voir **chapitre 12** .
 
 Ces joints de dilatation ( **fg. 5.23** ) sont volontairement exécutés dans la structure pour les bâtiments de grandes dimensions ; on évite ainsi, dans l’ouvrage, les désordres dus aux variations thermiques (dilatation et retrait thermique).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0372-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0372-00.png]]
 
 
 _**Fig. 5.23. Joints de rupture ou de dilatation**_ 
@@ -116,7 +116,7 @@ Ces joints sont destinés à éviter que deux constructions ou blocs de construc
 Les joints parasismiques doivent être disposés de façon à découper, en plan, les constructions en blocs de forme sensiblement rectangulaire ( **fg. 5.24** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0373-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0373-03.png]]
 
 
 _**Fig. 5.24. Découpage en rectangle**_ 

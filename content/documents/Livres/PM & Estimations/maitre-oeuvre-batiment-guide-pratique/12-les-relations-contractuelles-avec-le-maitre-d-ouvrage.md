@@ -320,9 +320,9 @@ Après avoir répertorié les éléments de complexité de la mission, avec ou s
 
 **Tableau B. Plages du coefficient de complexité.** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0092-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0092-02.png]]
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0093-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0093-00.png]]
 
 Ce tableau n’est pas toujours très convaincant, par exemple on peut se demander pourquoi les établissements d’enseignement du premier degré sont réputés plus simples que ceux du second degré, et on peut se demander ce que sont les « bâtiments administratifs de complexité moyenne »… Il n’en reste pas moins que l’idée d’une plage indicative est intéressante et cadre la négociation. 
 
@@ -849,7 +849,7 @@ Pour les travaux de réaménagement de bâtiments existant, le décret, maintena
 
 Le décret comporte aussi des articles consacrés aux projets d’infrastructure. Pour récapituler, les éléments de mission du décret Missions sont :
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0117-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0117-00.png]]
 
 À strictement parler, le décret ne précise pas quels éléments relèvent de la _mission de base_ en Infrastructure. On remarque que le DCE (dossier de consultation des entreprises), résultat des études PRO, n’est pas une phase en lui-même dans le décret Missions. 
 

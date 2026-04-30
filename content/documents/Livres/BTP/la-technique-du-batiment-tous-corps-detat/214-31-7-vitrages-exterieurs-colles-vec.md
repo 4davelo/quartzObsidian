@@ -52,7 +52,7 @@ Les systèmes de vitrage extérieur collé (VEC) ( **fg. [31.7](214_31.7_vitrage
 
 On peut définir le VEC comme une technique particulière de mise en œuvre d’un vitrage par collage. Elle relève d’un avis technique qui se traduit par la formulation d’un DTA. Le VEC s’est développé en France selon la technique du collage en atelier ; il s’applique aux quatre côtés des cadres finis prêts à être accrochés en façade, sans travaux de finition (la maîtrise des fonctions d’étanchéité est meilleure que dans les murs-rideaux traditionnels). Les produits verriers et les règles d’assemblage font référence aux normes NF EN 13022-1 et NF EN 13022-2.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1283-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1283-00.png]]
 
 
 _**Fig. 31.7. Coupe verticale et horizontale d’un VEC (source : Guide Veritas)**_ 
@@ -92,7 +92,7 @@ Guide d’ATE n[o] 2 « Systèmes de vitrages extérieurs collés (VEC) » – P
 protège ainsi les tranches des volumes de verre. Ce cadre constitue un support de cales d’assise. Un cordon d’étanchéité par mastic extrudé doit être mis en place entre le vitrage et le cadre ( **fg. [31.8](215_31.8_survitrages.md)** ). Pour un vitrage isolant, les efforts de vent en dépression, qui s’exercent sur le vitrage extérieur, transitent par le mastic de scellement du vitrage. Ce dernier doit donc avoir les mêmes propriétés que le mastic de collage (mastic silicone VEC) et le vitrage doit justifier d’un label Cekal. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1286-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1286-01.png]]
 
 
 _**Fig. 31.8. VEC bordé (source : Guide Veritas)**_ 
@@ -106,7 +106,7 @@ ambiance extérieure ( **fg. [31.9](216_31.9_vitrages_ventilés.md)** ). Pour un
 Un vitrage isolant est systématiquement calé par mise en place de supports ponctuels. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1287-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1287-02.png]]
 
 
 _**Fig. 31.9. VEC non bordé (source : Guide Veritas)**_ 
@@ -116,6 +116,6 @@ _**Fig. 31.9. VEC non bordé (source : Guide Veritas)**_
 de vent en dépression ne sont pas retransmis sur le mastic de scellement du vitrage isolant. Par conséquent, la hauteur de scellement n’est pas à justifier et une certification Cekal E est suffisante ; lorsque le collage est réalisé sur la face intérieure, les efforts dus au vent transitent par le mastic de scellement du vitrage isolant. La hauteur du mastic de scellement est donc à justifier en fonction des efforts à reprendre et une certification Cekal V est requise. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1288-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1288-01.png]]
 
 **

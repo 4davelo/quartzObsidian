@@ -49,7 +49,7 @@ _**Tab. 31.6. Types de vitrages ventilés (source : Guide Veritas)**_
 |Ventilation<br>mécanique sur<br>l’intérieur<br>(**fg. [31.11](218_31.11_produits_de_moulage.md)**<br>.d)|Lame d’air mise en<br>communication avec<br>l’intérieur par une<br>extraction<br>mécanique (1)|Le remplissage<br>intérieur doit être<br>ouvrant pour assurer<br>les opérations de<br>maintenance|Cette technique,<br>considérée comme<br>non traditionnelle,<br>nécessite une<br>évaluation technique<br>spécifque|
 |(1) La paroi extérieure de la façade assure à elle seule le clos et le couvert.||||
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1292-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1292-00.png]]
 
 
 _**Fig. 31.11. Coupes verticales de principe**_ 

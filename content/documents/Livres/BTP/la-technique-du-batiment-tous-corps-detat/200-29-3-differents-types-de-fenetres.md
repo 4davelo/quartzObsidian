@@ -48,6 +48,6 @@ Les fenêtres PVC sont en grande majorité blanches, le matériau PVC étant tei
 
 La conception des menuiseries vise à répondre aussi bien aux constructions neuves qu’à la réhabilitation ( **fg. [29.3](200_29.3_différents_types_de_fenêtres.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1229-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1229-00.png]]
 
 **

@@ -201,7 +201,7 @@ de la nature et de l’environnement des feuillures ; de la nature des parois au
 
 L’échauffement du vitrage est fonction de son facteur d’absorption énergétique vis-à-vis du rayonnement solaire incident. Sont considérés comme soumis à l’ensoleillement les vitrages dont
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1307-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1307-01.png]]
 
 
 _**Fig. 31.17. Prise en compte du rayonnement solaire incident dans l’hémisphère nord**_ 

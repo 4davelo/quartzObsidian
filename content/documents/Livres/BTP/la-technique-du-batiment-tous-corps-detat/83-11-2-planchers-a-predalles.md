@@ -41,7 +41,7 @@ Certaines prédalles comportent des raidisseurs constitués de poutrelles métal
 L’épaisseur est toujours inférieure à la moitié de celle de la dalle pleine, et supérieure ou égale à 5 cm. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0614-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0614-02.png]]
 
 
 _**Fig. 11.7. Plancher à prédalles**_ 

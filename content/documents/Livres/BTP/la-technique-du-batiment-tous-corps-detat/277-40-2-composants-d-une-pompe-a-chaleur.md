@@ -35,14 +35,14 @@ La pompe à chaleur (PAC) fonctionne selon le même principe que le réfrigérat
 Dans un moteur de Carnot classique, le rendement (production de travail) est d’autant plus élevé que la différence de température entre sources froide et chaude est élevée : on comprendra aisément que, dans une PAC qui fonctionne en sens inverse, on a intérêt au contraire à ce que les deux sources – froides et chaudes – aient des températures proches afin de faire fonctionner l’appareil avec un minimum d’apport externe de travail. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1632-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1632-03.png]]
 
 
 _**Fig. 40.1. PAC et réfrigérateur (source : Ademe)**_
 
 Pour réaliser le transfert de chaleur, c’est-à-dire prélever un peu de chaleur de la source froide (sol du jardin, air environnant ou eau d’une nappe), augmenter le niveau de température de la PAC et restituer une chaleur à une température plus élevée dans le bâtiment, le dispositif comporte un circuit fermé et étanche dans lequel circule un fluide frigorigène qui passe de l’état liquide à l’état gazeux et inversement, par transferts successifs dans les quatre principaux organes de l’appareil que sont l’évaporateur, le compresseur, le condenseur et le détendeur ( **fg. [40.2](277_40.2_composants_dune_pompe_à_chaleur.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1634-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1634-00.png]]
 
 Le fluide frigorigène permet de prélever l’énergie à la source froide, par exemple dans le sol, car il présente la caractéristique de s’évaporer à basse température. En parcourant un échangeur de chaleur, dans lequel il circule sous basse pression, ce fluide entre en contact indirect avec un sol plus chaud que lui, et ce contact provoque son évaporation. En s’évaporant, il prend de la chaleur au sol. 
 

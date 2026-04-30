@@ -237,7 +237,7 @@ Les fonderies proposent trois gammes de produits qui se distinguent par leur for
 
 La fixation des descentes pluviales est assurée par des U en acier inoxydable. Ces profilés se scellent dans les murs de façades et les tuyaux s’y trouvent bloqués par une tige d’arrêt à écrou.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1396-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1396-00.png]]
 
 
 _**Fig. 32.14. Principaux types de descentes pluviales en fonte**_

@@ -70,7 +70,7 @@ noue : jonction de deux rampants formant un creux ; queue de vache ou retroussis
 rive de toit : extrémité du toit côté pignon ; terrasson : partie haute d’une toiture à la Mansart ; versant ou rampant : partie en pente ; la pente est fonction de la région et des charges permanentes (poids de la couverture) 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0833-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0833-01.png]]
 
 
 **----- Start of picture text -----**<br>

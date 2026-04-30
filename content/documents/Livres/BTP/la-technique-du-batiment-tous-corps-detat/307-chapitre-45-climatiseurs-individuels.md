@@ -29,6 +29,6 @@ D’où l’intérêt présenté par les climatiseurs réversibles. Dans de tels
 La plupart des informations initialement contenues dans ce chapitre sont issues de l’ouvrage _Guide technique de la climatisation individuelle,_ publié par le Costic avec le concours d’EDF et du groupement d’intérêt collectif (GIE) Climatisation et développement. Elles ont été complétées et actualisées au fil des éditions. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1750-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1750-04.png]]
 
 **

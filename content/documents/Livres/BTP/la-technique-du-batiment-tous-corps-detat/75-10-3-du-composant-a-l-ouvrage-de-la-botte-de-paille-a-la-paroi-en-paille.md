@@ -32,7 +32,7 @@ la mise en place d’un liteau bois permettant la mise en compression des bottes
 
 l’opposition au déversement par des éléments ponctuels (rosaces) ou filants (liteaux).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0586-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0586-00.png]]
 
 
 _**Fig. 10.3. Compression avec mise en place de rosaces anti-déversement (source : RFCP, Règles professionnelles de construction en paille – Remplissage isolant et support d’enduit – Règles CP 2012 révisées, Éd. du Moniteur, 2018)**_ 

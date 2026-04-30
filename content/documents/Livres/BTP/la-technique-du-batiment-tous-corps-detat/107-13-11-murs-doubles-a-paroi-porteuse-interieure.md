@@ -32,7 +32,7 @@ l’une intérieure, porteuse, en maçonnerie de petits éléments ou en béton 
 
 Un vide d’air sépare les deux parois, dans lequel est interposé un isolant thermique ( **fg. 13.16** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0751-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0751-00.png]]
 
 
 _**Fig. 13.16. Mur double avec isolation (source : « Mur double ITE – Calepin de chantier », Programme PACTE, décembre 2019)**_ 

@@ -54,14 +54,14 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 Les portes de garages individuels les plus répandues sont les portes basculantes. Trois modes de fonctionnement sont généralement présentés par les constructeurs : sans débord extérieur ( **fg. [28.5](195_28.5_fermetures_en_métal.md)** .a) ; avec débord en cours de manœuvre seulement ( **fg. [28.6](196_28.6_portes_de_garage_individuel.md)** ) ; avec débord en cours de manœuvre et en position ouverte ( **fg. 28.5** .b).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1217-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1217-00.png]]
 
 
 _**Fig. 28.5. Portes de garages individuels : courbes d’ouverture (source : Garador)**_ 
 
 Les modèles courants sont généralement métalliques. Celui qui est décrit dans la **fgure [28.6](196_28.6_portes_de_garage_individuel.md)** comporte un débord en cours de manœuvre seulement.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1218-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1218-00.png]]
 
 
 _**Fig. 28.6. Porte de garage avec débord en cours de manœuvre (source : Novoferm Siebau)**_ 
@@ -76,7 +76,7 @@ le guidage se fait par des roulettes en plastique circulant dans des rails horiz
 
 Les portes de garage individuel de type sectionnel ( **fg. [28.6](196_28.6_portes_de_garage_individuel.md)** ) présentent peu d’encombrement et offrent plus de passage libre en hauteur avec davantage d’espace devant et à l’intérieur du garage.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1220-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1220-00.png]]
 
 
 _**Fig. 28.7. Porte de garage de type sectionnel (vues avant et arrière)**_ 

@@ -97,7 +97,7 @@ La téléphonie sur IP nécessite des autocoms particuliers, dits IP-PBX (pour _
 
 Cette technologie permet des économies importantes au sein des entreprises. Un PCBX est un autocom bâti sur un PC utilisant un logiciel dédié, comme le logiciel Asterisk.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0563-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0563-00.png]]
 
 Figure 138. Exemple de répartiteur téléphonique, avec réglettes et jarretières. 
 
@@ -183,7 +183,7 @@ par les postes clients ;
 
 Les réseaux informatiques locaux sont gérés par des baies informatiques qui comportent des éléments actifs, ou concentrateurs. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0567-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0567-03.png]]
 
 Figure 139. Exemple de baie informatique, accueillant différents éléments actifs. 
 
@@ -199,7 +199,7 @@ nouvelles installations. Ils sont remplacés par des _switches_ . On peut les re
 
 Les _switches_ (en français, « commutateurs ») sont les éléments actifs les plus couramment utilisés dans les baies informatiques de réseaux locaux. En recevant une information, un _switch_ décode les données pour ne les envoyer que vers le port Ethernet destinataire, ce qui réduit le trafic sur l’ensemble du câblage réseau par rapport à un _hub_ qui renvoie les données sur tous les ports. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0568-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0568-03.png]]
 
 Figure 140. Exemple de _switch_ . 
 

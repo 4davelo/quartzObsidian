@@ -56,14 +56,14 @@ Les câbles chauffants des trois premiers types sont reliés à l’installation
 
 Les jonctions entre le câble chauffant et les liaisons froides, appelées « jonctions froides », doivent être enrobées dans la masse accumulatrice. L’ensemble constitué d’un câble chauffant et de ses liaisons froides est appelé « élément chauffant » ou « élément de chauffage » ( **fg. [36.5](257_36.5_appareil_statique_compensé.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1524-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1524-00.png]]
 
 
 **Fig. 36.5. Élément chauffant** 
 
 Les éléments chauffants alimentés en 220 ou 380 V sont préparés en usine et livrés soit en trame chauffante préfabriquée prête à être mise en place, soit en couronne ( **fg. [36.6](258_36.6_films_chauffants_pour_plafonds_chauffants.md)** ). Ils sont généralement placés directement sur le ferraillage de la dalle à couler ou sur plaque isolante pour les chapes. La protection est assurée par un disjoncteur différentiel de 500 mA associé à la mise à la terre de la gaine ou de la tresse métallique.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1525-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1525-00.png]]
 
 
 _**Fig. 36.6. Éléments chauffants livrés en trame préfaçonnée**_ 

@@ -82,7 +82,7 @@ par rapport à l’éclairage, c’est une activité qui requiert un niveau d’
 
 Le niveau d’éclairement d’une activité élémentaire est déterminé essentiellement par la nature de la tâche à réaliser (finesse) et par la valeur du fond sur lequel elle est exécutée. Des contrastes moyens ou faibles nécessitent un éclairement trois ou dix fois supérieur à un contraste élevé ( **fg. 50.5** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1908-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1908-01.png]]
 
 
 **50.3.2 Volume élémentaire de lumière** 

@@ -80,7 +80,7 @@ L’emplacement des charnières est repéré sur les tapées, de manière à cr�
 
 Le rail supérieur et le rail inférieur où circulent des galets en PVC sont scellés dans la maçonnerie. Les arrêts des volets sont vissés en haut et en bas dans l’axe de la crémone ( **fg. 27.24** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1187-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1187-01.png]]
 
 
 **27.8.2 Volets roulants** 
@@ -93,7 +93,7 @@ Les glissières métalliques latérales sont fixées sur les tapées.
 
 L’axe de rotation est placé dans le linteau de la baie. Un disque, fixé au bout de l’axe, permet d’actionner le tablier au moyen d’une chaînette, d’un câble ou d’une tige avec manivelle ( **fg. 27.25** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1190-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1190-00.png]]
 
 
 **Fig. 27.25. Volets roulants** 

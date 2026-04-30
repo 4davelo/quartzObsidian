@@ -86,16 +86,16 @@ dans le sens vertical (coins ou détentes en pieds d’étais, manchon ou écrou
 
 - •  dispositifs de sécurité suivant les types de coffrages (jambes de force, étais des contreventements), assurant la stabilité des ouvrages jusqu’à ce que le béton ait atteint une résistance suffisante.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0351-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0351-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0352-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0352-00.png]]
 
 
 _**Fig. 5.12. Principaux éléments constitutifs d’un coffrage**_ 
 
 Les parties en bois des coffrages font appel aux débits suivants ( **fg. 5.13** ) : tasseau ou liteau, volige, planche, chevron, bastaing, madrier.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0353-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0353-00.png]]
 
 
 _**Fig. 5.13. Principaux débits de bois de coffrage**_ 
@@ -109,13 +109,13 @@ Le coffrage de la poutre ( **fg. 5.14** ) est placé en hauteur sur une série d
 sert de prise d’appui aux contrefiches assurant stabilité et contreventement latéral du coffrage. Les planches de fond de coffrage reposent directement sur les bléchets. Les joues de coffrage s’appuient sur des montants (ou raidisseurs) fixés en pied et contrebutés sur les bléchets. Le serrage provisoire des pièces en bois nécessaires au coffrage se fait à l’aide de serre-joints. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0354-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0354-01.png]]
 
 **5.8.1.2 Plancher** 
 
 Le platelage ( **fg. 5.15** ) est placé en altitude par une série d’étais réglables et contreventés entre eux par des fils d’acier avec tendeurs à lanterne ; chaque file d’étais soutient un cours (une longueur) de poutre sur lequel viennent prendre appui les solives du platelage.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0357-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0357-00.png]]
 
 
 _**Fig. 5.15. Principe de platelage pour coffrage d’un plancher**_ 
@@ -138,7 +138,7 @@ Les banches peuvent être réalisées en bois, mais les entreprises font de plus
 
 La banche métallique ( **fg. 5.16** ) comporte une poutraison à treillis (en tubes ou en profilés) sur laquelle s’appuie la joue du coffrage, par l’intermédiaire de deux réseaux orthogonaux de raidisseurs. La verticalité du coffrage est obtenue grâce à des vérins d’équilibrage placés au pied des membrures extérieures. En partie supérieure sont installées les passerelles de travail où peuvent évoluer les ouvriers, protégés des chutes par des garde-fous solidaires du coffrage.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0360-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0360-00.png]]
 
 
 _**Fig. 5.16. Structures et banches métalliques pour coffrages répétitifs de voiles**_ 
@@ -150,7 +150,7 @@ Le coffrage grimpant vise à réaliser le coulage de parois verticales en contin
 La prise d’appui se fait sur la section de la paroi qui vient d’être décoffrée, ce qui implique un durcissement rapide du béton auquel on incorpore, pour ce faire, un accélérateur de prise. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0360-05.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0360-05.png]]
 
 **Coffrage glissant** 
 
@@ -177,20 +177,20 @@ Des étais sont toujours disposés à mi-travée lors du décoffrage.
 Le panneau vertical et les béquilles sont équipés de roulettes. Des vérins, en partie basse du panneau vertical, permettent le réglage en hauteur. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0362-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0362-04.png]]
 
 
 _**Fig. 5.18. Demi-coquille de coffrage tunnel**_ 
 
 Des verrous de clé assurent un parfait affleurement des panneaux horizontaux ( **fg. 5.19** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0363-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0363-00.png]]
 
 Plusieurs demi-coquilles peuvent être assemblées et manutentionnées simultanément au palonnier ou à l’élingue ( **fg. 5.20** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0365-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0365-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0366-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0366-00.png]]
 
 
 _**Fig. 5.20. Dispositifs de mise en place des éléments du coffrage tunnel**_ 
@@ -202,7 +202,7 @@ Le chantier est généralement équipé d’un jeu de tunnels susceptibles de co
 La cadence du jeu de tunnels étant d’un logement par jour, il faut multiplier le nombre de jeux si l’on veut obtenir des cadences supérieures. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0366-05.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0366-05.png]]
 
 
 _**Fig. 5.21. Passerelle de service pour reprise des éléments du coffrage tunnel**_
@@ -214,7 +214,7 @@ Ces procédés ont permis des gains de productivité importants : l’équipe, l
 Des perfectionnements ( **fg. 5.22** ) ont été apportés au service du coffrage comme à la sécurité des ouvriers (passerelles de service, de circulation, de décoffrage). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0367-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0367-03.png]]
 
 
 _**Fig. 5.22. Conception et mise en place de passerelles de circulation**_

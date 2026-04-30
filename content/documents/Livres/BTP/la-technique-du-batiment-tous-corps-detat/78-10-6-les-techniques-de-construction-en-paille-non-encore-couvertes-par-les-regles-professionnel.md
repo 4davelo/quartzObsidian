@@ -40,7 +40,7 @@ Deux familles de techniques ne sont pas encore couvertes par les règles profess
 
 L’isolation thermique par l’extérieur (ITE) ( **fg. 10.9** ) représente un axe important pour l’emploi de la paille dans la construction. Si cette technique n’est pas encore couverte par les règles professionnelles, de multiples expérimentations ont cependant confirmé son potentiel.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0599-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0599-00.png]]
 
 
 _**Fig. 10.9. Principe de la technique ITE (source : RFCP)**_ 
@@ -50,14 +50,14 @@ Plusieurs techniques sont possibles pour fixer la paille au mur existant avant r
 a été adoptée pour la partie basse de la résidence, à raison de deux bretelles par botte. Pour les étages supérieurs, la paille est insérée dans une ossature en bois. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0600-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0600-01.png]]
 
 
 _**Fig. 10.10. Opération expérimentale d’ITE en paille avec enduit extérieur : à gauche, partie inférieure du mur, fixation par « bretelles » ; à droite, insertion dans une ossature bois (source : Paris Habitat)**_
 
 La paille porteuse, dans laquelle les murs sont constitués de bottes de paille empilées en quinconce et comprimées entre lisse de fondation et panne sablière, permet notamment une économie de bois de structure ( **fg. 10.11** ). Si elle n’est pas couverte actuellement par les règles professionnelles, de multiples expérimentations sont toutefois en cours.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0602-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0602-00.png]]
 
 Dans le système de paille porteuse, les bottes de paille assemblées sont comprimées entre lisses haute et basse puis reçoivent un revêtement extérieur et intérieur. Des essais de comportement mécanique, comme de fluage (déformation sous charges sur longue période), conduisent à estimer qu’aucun obstacle majeur ne s’opposerait à terme, pour des constructions de faible hauteur, à l’entrée de la paille dans le cercle réservé des matériaux de structure. 
 

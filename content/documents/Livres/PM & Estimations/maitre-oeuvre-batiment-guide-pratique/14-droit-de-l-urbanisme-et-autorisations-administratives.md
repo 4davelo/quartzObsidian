@@ -62,7 +62,7 @@ Des dérogations sont aussi possibles pour implanter des équipements collectifs
 
 **4.1.1.2. Règles relatives à la desserte des constructions** Pour être constructible dans le cadre du RNU, le terrain doit être desservi par une _voie routière_ et des _réseaux_ VRD correspondant à l’importance des constructions projetées.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0356-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0356-00.png]]
 
 Figure 70. Quelques situations d’accès au terrain. 
 
@@ -154,7 +154,7 @@ Tout PLU doit obligatoirement contenir :
 
 - éventuellement un _programme d’orientations et d’actions_ (POA) qui porte sur la politique en matière d’habitat et de transport.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0361-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0361-00.png]]
 
 Figure 71. Un exemple de plan de zonage, extrait du PLU de la ville de Nanterre. 
 
@@ -716,7 +716,7 @@ Avant de lancer l’étude d’impact, le maître d’ouvrage peut demander des 
 
 Après la réalisation de l’étude d’impact, le public est consulté _via_ une enquête publique, puis la décision autorisant ou non le projet est prise par l’administration.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0388-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0388-00.png]]
 
 **Projets soumis à demande d’examen au cas par cas** 
 

@@ -200,7 +200,7 @@ Mentionnons également le compresseur hermétique Scroll (deux spirales emboît�
 
 La vanne à quatre voies d’inversion de cycle ( **photo [45.1](308_45.1_composants_des_climatiseurs.md)** ) est l’un des éléments sensibles du climatiseur réversible. Elle requiert un circuit sans aucune particule (éventuelles bavures de cuivre survenant au montage) et suppose le maintien de sa température en dessous de 110 °C au moment des soudures. À la mise en marche, et lors des opérations de maintenance, il faut attendre la mise en régime de l’installation (BP, HP) avant d’actionner la vanne.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1758-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1758-00.png]]
 
 
 _**Photo 45.1. Exemple de vanne à quatre voies (source : Danfoss)**_ 

@@ -233,7 +233,7 @@ Le support est destiné à porter un ou plusieurs luminaires. Il peut se présen
 
 Un candélabre peut comprendre différentes parties telles que fût, rehausse, crosse, pièce de raccord du luminaire, genouillère, plaque d’appui, ouverture de visite avec porte, barrette d’accrochage des tiges de scellement, chapeau de fermeture ( **fg. 4.22** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0258-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0258-00.png]]
 
 
 **Fig. 4.22. Différents types de candélabres** 
@@ -246,7 +246,7 @@ les candélabres en béton, en béton armé pré- ou postcontraint sont généra
 
 La distance _D_ entre supports de hauteur _H_ est généralement comprise entre 3 × _H_ pour les voies de distribution ( _H_ étant de l’ordre 4 à 8 m) et 6 × _H_ pour les voies de desserte ( _H_ étant de l’ordre 3 à 5 m).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0260-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0260-00.png]]
 
 
 _**Fig. 4.23. Massif d’ancrage**_ 
@@ -305,6 +305,6 @@ Les mesures de protection contre les contacts directs et indirects peuvent s’e
 
 un défaut d’isolement (emploi de matériel de classe I). Cette disposition impose la mise à la terre de tous les appareils (luminaires, appareillages, supports, etc.). Cette mise à la terre peut être réalisée soit par une prise de terre individuelle, soit par un conducteur nu en cuivre de 25 mm[2] de section servant à la fois de prise de terre et de liaison équipotentielle, soit enfin par une prise de terre commune ; par l’utilisation d’un type de matériel rendant improbable l’apparition de tout défaut d’isolement (matériel de classe II).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0263-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0263-00.png]]
 
 **Partie 2**

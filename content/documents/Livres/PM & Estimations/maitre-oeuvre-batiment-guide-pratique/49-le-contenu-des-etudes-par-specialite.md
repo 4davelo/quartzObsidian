@@ -193,11 +193,11 @@ Dans le premier exemple (Figure 215), relatif à un projet dans l’existant (mu
 
 - l’ascenseur est numéroté et sa capacité précisée. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0812-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0812-02.png]]
 
 Figure 215. Exemple d’un plan PRO insuffisamment renseigné.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0813-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0813-00.png]]
 
 Figure 216. Exemple d’un plan PRO relativement bien renseigné. 
 
@@ -1066,7 +1066,7 @@ La liste des pièces pourra comprendre, outre la notice descriptive, des plans p
 
 La liste des pièces comprendra le CCTP, des plans et éventuellement des coupes de désenfumage, ainsi que DPGF et coût d’objectif. Un synoptique est souhaitable pour synthétiser graphiquement les solutions techniques retenues et permettre leur compréhension sans examen détaillé des plans et pièces écrites. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0857-06.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0857-06.png]]
 
 **… la présynthèse** 
 
@@ -1144,7 +1144,7 @@ Le marché de déconstruction doit être très précis sur les modalités de dé
 
 - qui charge le camion ? (L’entreprise de déconstruction n’est pas censée monter dans un camion), etc.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0862-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0862-00.png]]
 
 Figure 217. Exemple de plan de démolition dans l’existant, avec distinction entre murs conservés (en noir), démolitions structurelles (en gris) et déposes TCE (+++ et hachures). Une fois des matériaux ou équipements sélectionnés pour un réemploi, il faut que le gardiennage du site permette d’éviter les vols, qui rendraient caduc le réemploi. Lorsque de gros volumes sont en jeu, les maquettes numériques DRIM ( _deconstruction and recovery information modeling_ ), encore rares, peuvent faciliter le réemploi des composants du bâtiment à déconstruire en permettant leur localisation et leur quantification. 
 
@@ -1178,11 +1178,11 @@ En cas de présence d’avoisinants, une expertise Structure peut être nécessa
 
 avec, dans les deux cas, définition d’une procédure à suivre sur le chantier en cas de mouvements, avec des seuils d’alerte. Penser à vérifier que le maître d’ouvrage a missionné le bureau de contrôle sur la mission « Stabilité des avoisinants ». 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0864-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0864-02.png]]
 
 Figure 218. Exemple de démolition avec protection du public par un écran supporté par une grue.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0865-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0865-00.png]]
 
 Figure 219. Enjeux de la stabilité des avoisinants. 
 
@@ -1358,7 +1358,7 @@ Les phases d’études sont généralement, comme pour les travaux d’in[fr](ht
 
 Le _modèle numérique de terrain_ (MNT) est le fichier, issu des relevés topographiques, qui décrit le nivellement du terrain, sans prendre en compte les objets qui occupent le sol : bâtiments, végétation, etc. Le MNT est réalisé sur la base d’un maillage des données. Le _modèle numérique d’élévation_ (MNE) ou modèle numérique de surface (MNS) décrit l’altimétrie du terrain nu et aussi des objets qui l’occupent. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0873-06.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0873-06.png]]
 
 Figure 220. Différence entre MNT et MNS (source : IGN). 
 
@@ -1603,7 +1603,7 @@ C’est pour résoudre cette absurdité qu’a été élaborée la nouvelle mét
 
 Des coefficients de pondération différents sont prévus pour les fluides [fr](http://rt-re-batiment.developpement-durable.gouv.fr)igorigènes.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0886-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0886-00.png]]
 
 Figure 221. Coefficients de pondération en ACV dynamique (source : CEREMA). 
 

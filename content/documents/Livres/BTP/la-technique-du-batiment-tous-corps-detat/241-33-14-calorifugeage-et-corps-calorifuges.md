@@ -92,7 +92,7 @@ Réservées aux gros diamètres, elles sont réalisées par une tôle d’alumin
 
 Plusieurs sociétés fabriquent des tubes en cuivre tout calorifugés, généralement appelés « tubes de cuivre isolé » et commercialisés en couronnes (diamètres de 6 × 8 à 20 × 22) ou en barres (de 6 × 8 à 50 × 54) ( **fg. 33.25** .d).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1481-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1481-00.png]]
 
 
 _**Fig. 33.25. Principaux types de calorifugeage**_

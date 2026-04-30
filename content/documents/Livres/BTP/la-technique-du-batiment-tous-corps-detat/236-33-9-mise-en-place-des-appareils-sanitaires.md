@@ -64,20 +64,20 @@ La fixation au sol est réalisée par des vis en métal inoxydable fixées sur d
 Dans le cas d’appareils sanitaires encastrés, le ruissellement des eaux de la paroi verticale doit s’effectuer sur le bord de l’appareil afin qu’il y ait écoulement dans la cuve ( **fg. [33.1](227_33.1_appareils_et_robinetterie_sanitaires_généralités.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1412-06.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1412-06.png]]
 
 **33.9.4 Adossement à une paroi** 
 
 Dans le cas d’appareils sanitaires adossés à une paroi, un joint plastique qui peut être collé sur la paroi verticale doit assurer l’étanchéité entre l’appareil et la paroi ( **fg. [33.2](229_33.2_appareils_sanitaires_en_céramique.md)** ). Ce joint ne doit pas comporter de coupure sur la longueur ou la largeur d’un appareil ; il doit résister sans déformation à une température de 150 °C dans les cuisines et 100 °C dans les salles d’eau, et ne pas être détérioré par les produits d’entretien courants. La même technique est appliquée en cas de juxtaposition de blocs.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1414-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1414-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1415-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1415-00.png]]
 
 La **fgure [33.3](230_33.3_appareils_en_fonte_émaillée.md)** schématise les deux types de raccordement des appareils sanitaires aux canalisations d’évacuation : raccord vissé ou douille soudée. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1416-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1416-02.png]]
 
 
 _**Fig. 33.3. Types de raccordement des appareils sanitaires aux canalisations d’évacuation**_ 

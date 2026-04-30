@@ -49,4 +49,4 @@ un ou des ballons de stockage ; un ou plusieurs échangeurs ; une régulation.
 Cette installation simple est soumise, notamment au niveau du capteur solaire, à deux contraintes fortes : l’échauffement du circuit et la position extérieure exposée aux intempéries. Les deux grands ennemis du bâtiment sont l’eau et les variations de température ; le capteur solaire est, par nature, directement soumis à l’une et à l’autre. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1681-05.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1681-05.png]]

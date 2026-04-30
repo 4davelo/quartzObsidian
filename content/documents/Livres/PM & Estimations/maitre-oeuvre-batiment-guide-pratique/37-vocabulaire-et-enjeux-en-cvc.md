@@ -92,7 +92,7 @@ Les CTA à double flux à récupération d’énergie comportent de plus des éc
 
 - échangeurs à roue : d’un rendement fort (autour de 85%), ils permettent d’atteindre des débits plus élevés que les échangeurs à plaques, mais ils ne garantissent pas l’étanchéité totale entre air neuf et air extrait.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0574-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0574-00.png]]
 
 Figure 141. Détail du principe de fonctionnement d’une CTA double flux. 
 
@@ -104,7 +104,7 @@ Les CTA double flux à récupération d’énergie et à haut rendement sont cou
 
 - pour les bâtiments existants peu étanches à l’air, car les entrées d’air parasites perturberaient le fonctionnement de la ventilation. _A contrario_ , les CTA double flux sont tout particulièrement recommandées dans les zones polluées ou bruyantes où l’on ne vit pas la fenêtre ouverte.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0575-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0575-00.png]]
 
 Figure 142. Principe d’une CTA double flux à récupération d’énergie. 
 
@@ -116,7 +116,7 @@ Alors que les CTA pouvaient encore au début du XXI[e] siècle être insérées 
 
 - la Philharmonie de Paris possède un local CTA de 1 000 m[2] , contenant une trentaine de CTA. Les gaines sont plus grosses que dans le passé, plus nombreuses, et calorifugées. Il est important de connaître cette évolution, car les architectes dotés d’une longue expérience sont parfois étonnés par les demandes de locaux techniques du thermicien, si importantes par rapport à leurs anciennes habitudes. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0576-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0576-02.png]]
 
 Figure 143. Exemple de CTA double flux en local technique. 
 
@@ -144,7 +144,7 @@ D’autres types de CTA sont même de la taille d’un bungalow, avec portes d�
 
 Outre les CTA à débit constant, qui traitent tous les locaux de leur zone de la même manière, il existe des CTA à débit variable, qui permettent d’adapter le débit d’insufflation au cas particulier de chaque local traité, grâce à une installation de régulation. Le débit total est réduit de près d’un tiers par rapport à une CTA à débit constant. Les consommations électriques sont donc réduites, ainsi que l’encombrement de la CTA et des gaines.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0578-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0578-00.png]]
 
 Figure 144. Autre exemple de CTA double flux en local technique. On voit les quatre réseaux d’air et les deux boucles d’eau (chaude et froide). 
 
@@ -162,13 +162,13 @@ Dans certains types de bâtiment comme les musées et les usines d’électroniq
 
 Ces grandes centrales de traitement d’air intègrent une batterie de production de froid et une batterie de production de chaud (couramment au gaz) pour le traitement de l’air. Elles n’ont donc pas à être raccordées à un circuit d’eau chaude ou d’eau glacée. Elles ont pour avantages de ne pas nécessiter de local technique, ce qui est un gain en mètres carrés, et de permettre une maintenance sans intervention dans les locaux du bâtiment, mais la durée de vie des équipements peut être inférieure à celle des équipements en locaux techniques. Elles sont bien adaptées aux grands volumes à traiter : hôpitaux, hypermarchés, etc. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0579-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0579-02.png]]
 
 Figure 145. Exemple de _Rooftop_ sur un hôpital. 
 
 **4.1.2. Les réseaux de distribution d’air des CTA** Parmi les « curiosités » du lot CVC, on peut citer les gaines textiles de diffusion d’air, utilisées pour le chauffage ou pour le rafraîchissement dans les bâtiments tertiaires (commerces notamment) ou agricoles.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0580-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0580-00.png]]
 
 Figure 146. Exemple d’une réseau de distribution d’air neuf par gaine textile. 
 
@@ -190,19 +190,19 @@ On peut rencontrer différentes configurations dans l’habitat collectif :
 
 **(typiquement dans l’habitat social ; les installations sont centralisées pour faciliter la maintenance),** 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0581-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0581-01.png]]
 
 Figure 147. Ventilateurs et échangeur centralisés. 
 
 - centrales double flux avec ventilateurs et échangeurs décentralisés[51] (typiquement dans de petits immeubles d’habitat intermédiaire en R+3 sans gaine technique ; chaque appartement possède son installation individuelle),
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0582-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0582-00.png]]
 
 Figure 148. Ventilateurs et échangeur décentralisés. 
 
 - centrales double flux avec ventilateurs centralisés et échangeurs décentralisés (typiquement dans des immeubles d’habitat privé, où chaque copropriétaire est sensibilisé à l’entretien de son échangeur).
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0583-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0583-00.png]]
 
 Figure 149. Ventilateurs centralisés et échangeurs décentralisés.[52] 
 
@@ -210,7 +210,7 @@ Figure 149. Ventilateurs centralisés et échangeurs décentralisés.[52]
 
 Dans l’habitat individuel, on utilise plutôt le terme VMC (ventilation mécanique contrôlée) que le terme CTA, bien que le principe soit le même. Les centrales sont de petite taille et ne nécessitent pas un local technique. Les VMC hygroréglables de type B adaptent le débit d’extraction et d’entrée d’air au taux d’humidité de chaque pièce, réduisant ainsi la consommation électrique. Elles sont plus performantes que les VMC hygroréglables de type A, dont seuls les débits d’extraction sont variables, mais dont les entrées d’air, elles, sont fixes. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0583-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0583-04.png]]
 
 **… les VMC double flux dans les maisons individuelles** 
 
@@ -278,7 +278,7 @@ Les appareils de ventilation double flux _décentralisés_ pièce par pièce per
 
 certains modèles avec de courtes gaines). Ces appareils compacts sont directement raccordés à l’extérieur par un simple carottage à travers le mur extérieur. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0586-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0586-01.png]]
 
 Figure 150. Principe d’une ventilations double flux décentralisée pièce par pièce (source : [www.meltem.com](http://www.meltem.com)). Les pionniers ont su développer des produits performants, qui sont maintenant en plein boom outre-Rhin et commencent à arriver en France. Ces appareils, initialement réservés à l’habitat, ont trouvé outre-Rhin un nouveau marché dans les salles de classes, salles de réunion et cantines existantes, locaux à fort effectif et mal ventilés. 
 
@@ -362,11 +362,11 @@ Il existe aussi de nombreux systèmes basés sur des pompes à chaleur. Ainsi, �
 
 Pour la production d’eau chaude sanitaire (ECS) en maison individuelle, les cumulus classiques et les chauffe-eau solaires sont concurrencés par les chauffe-eau thermodynamiques individuels (CETI), basés sur le même principe que les pompes à chaleur.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0591-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0591-00.png]]
 
 Figure 151. Exemple de chauffe-eau thermodynamique avec split extérieur 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0591-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0591-02.png]]
 
 **… la micro-cogénération** 
 
@@ -432,7 +432,7 @@ Dans les grands sites, certaines boucles de distribution de chauffage peuvent ê
 
 Les boucles d’eau chaude peuvent alimenter des batteries chaudes de CTA, ou des radiateurs.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0596-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0596-00.png]]
 
 Figure 153. Principe de distribution de chaleur au sein d’un immeuble collectif, avec modules thermiques d’appartement. 
 
@@ -472,7 +472,7 @@ Ces systèmes sont destinés à de petites surfaces : petits commerces, petits b
 
 Les _split systems_ sont par ailleurs pertinents pour le rafraîchissement de certains locaux techniques informatiques qui doivent être préservés de toute fuite d’eau : en cas de fuite sur les tuyaux, le fluide frigorigène s’évapore et cause beaucoup moins de dégâts que ne le ferait un réseau d’eau glacée. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0598-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0598-04.png]]
 
 Figure 154. Unités extérieures de _split systems_ : un impact visuel déplorable. 
 
@@ -496,7 +496,7 @@ Ce sont des équipements sophistiqués, intégrant dans un volume réduit les fo
 
 Elles sont soit à détente directe, soit sur réseau d’eau glacée. Il en existe de très nombreux types. Elles sont par exemple utilisées dans des commerces ou dans des salles informatiques.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0600-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0600-00.png]]
 
 Figure 155. Différents types de systèmes à détente directe. 
 
@@ -504,11 +504,11 @@ Figure 155. Différents types de systèmes à détente directe.
 
 Ces sigles désignent les systèmes à volume de réfrigérant variable, encore appelés à débit de réfrigérant variable. Le principe utilisé par ces systèmes pour produire du froid ou du chaud est de faire varier le débit du liquide frigorigène en fonction des besoins des locaux. Or, cette variation de débit s’accompagne d’une variation de consommation électrique. Cette technologie est donc très efficace en termes énergétiques. Le système est composé d’unités extérieures accolées en toiture, relativement légères, et d’unités intérieures aussi nombreuses qu’il est nécessaire ; cela dispense d’un local technique, ce qui peut être intéressant en rénovation.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0601-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0601-00.png]]
 
 Figure 156. Unité extérieure de VRV.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0602-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0602-00.png]]
 
 Figure 157. Principe des VRV. 
 
@@ -530,13 +530,13 @@ Comme vu au chapitre Ventilation, les centrales de traitement d’air peuvent jo
 
 Les refroidisseurs de liquide produisent de l’eau glacée, qui circule dans une boucle de distribution vers des batteries à eau, lesquelles utilisent cette eau glacée pour le traitement des locaux.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0604-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0604-00.png]]
 
 ###### 4.3.3.1. Les systèmes de production d’eau glacée 
 
 Ils peuvent être à condensation à air ou à condensation à eau. Ils utilisent tous un _cycle fondamental_ de la physique ; le froid est produit par un fluide enfermé dans la machine frigorifique ou en circuit, qui subit un cycle : 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0604-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0604-03.png]]
 
 Ce même cycle est utilisé aussi par les pompes à chaleur. Les groupes froid comprennent donc généralement les équipements suivants, qui permettent de réaliser ce cycle :
 
@@ -560,11 +560,11 @@ Ce même cycle est utilisé aussi par les pompes à chaleur. Les groupes froid c
 
 Dans les TAR à refroidissement _adiabatique_ , de l’eau est utilisée pour refroidir le réseau. Certains systèmes de refroidissement adiabatique ont pu, dans le passé, être accusés de présenter des risques en termes de légionellose s’ils n’étaient pas correctement entretenus. Ce type d’installations doit donc être réservé aux maîtres d’ouvrage capables d’assurer une maintenance suivie.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0606-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0606-00.png]]
 
 Figure 158. Exemple de groupe froid de 480 kW à condensation à air, installé en extérieur. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0606-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0606-02.png]]
 
 Figure 159. Exemple de groupe froid ancien, en local technique. 
 
@@ -574,7 +574,7 @@ Au contraire, les _dry coolers_ , plus encombrants, ont l’avantage de présent
 
 Il existe de très nombreuses variétés d’installations, avec leurs avantages et inconvénients. Par exemple des équipements compacts jouent le rôle à la fois de groupes froid et de centrale de traitement d’air. En local technique, il faut penser à prévoir un socle au lot maçonnerie, posé sur un matériau antivibratile. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0607-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0607-02.png]]
 
 Figure 160. Exemple de _dry cooler_ . 
 
@@ -604,9 +604,9 @@ On rencontre parfois une distribution en _« change-over »_ : système dans leq
 
 Dans les grands bâtiments, des sous-stations permettent l’échange entre le circuit primaire et un circuit secondaire. Elles comportent des échangeurs et des pompes. Elles peuvent être implantées indifféremment en sous-sol ou en étage, n’ayant pas de gros besoins en échange avec l’air extérieur. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0608-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0608-04.png]]
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0609-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0609-00.png]]
 
 Figure 161. Exemple d’échangeur à plaques dans une sous-station froid alimentée par le réseau Fraîcheur de Paris (ex-Climespace). 
 
@@ -638,7 +638,7 @@ Consulter par exemple [www.fraicheurdeparis.fr](http://www.fraicheurdeparis.fr),
 
 - par des unités locales de traitement d’air ou des _modules de traitement d’air_ (MTA) : ces équipements sont comparables aux ventiloconvecteurs, mais ils sont installés dans un local technique par zone ou par niveau et distribuent l’air dans des jeux de gaines vers les locaux, ce qui permet une évolutivité du cloisonnement des locaux (tout en nécessitant un local technique) ;
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0611-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0611-01.png]]
 
 Figure 162. Exemple de ventilo-convecteur. 
 
@@ -726,7 +726,7 @@ Des capteurs horizontaux sont implantés dans le sol, et un fluide frigorigène 
 
 C’est la chaleur du sous-sol qui fait passer le fluide frigorigène de l’état liquide à l’état gazeux, dans le capteur horizontal, implanté entre 0,6 et 1,[2](84_2._les_autocontrôles_et_essais.md) m de profondeur. Pour chauffer une maison individuelle, compter en surface de jardin entre 1 et 1,8 fois la surface de plancher de la maison. Une partie importante du coût provient des grandes quantités de fluide frigorigène nécessaire (on peut d’ailleurs s’interroger sur les impacts environnementaux de ces fluides). Cette technique est maintenant bien rodée depuis longtemps en maison individuelle, généralement pas pour des immeubles. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0615-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0615-04.png]]
 
 Figure 163. Géothermie avec capteur horizontal.[69]
 
@@ -734,7 +734,7 @@ Figure 163. Géothermie avec capteur horizontal.[69]
 
 Ce système, encore appelé sonde géothermique, est similaire au précédent, avec un forage au lieu des capteurs horizontaux. Le forage atteint entre 50 et 300 m, avec un diamètre entre 10 et 15 cm. La température du sol est constante à ces profondeurs, ce qui évite aux pompes à chaleur de subir les variations de température jour/nuit et au cours de l’année. Les capteurs verticaux sont constitués par une boucle d’eau glycolée insérée en U dans un tube (sonde géothermique). 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0616-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0616-02.png]]
 
 Figure 164. Pompe à chaleur avec capteurs verticaux. 
 
@@ -762,7 +762,7 @@ Pour un bâtiment tertiaire d’une certaine importance, ce sont généralement 
 
 Il existe par ailleurs des variantes avec rejet des eaux de nappe dans le réseau d’eaux pluviales ou dans un cours d’eau, mais elles ne peuvent être que déconseillées du fait de leur impact environnemental, outre le refus potentiel de l’administration.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0618-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0618-00.png]]
 
 Figure 165. Géothermie sur eau de nappe. 
 
@@ -816,9 +816,9 @@ La réforme de 2015 a simplifié le régime de la géothermie de minime importan
 
 La plupart des forages géothermiques de moins de 10 m de profondeur sont maintenant exclus du Code minier. Un régime déclaratif allégé a de plus été créé au-delà de 10 m de profondeur, jusqu’à 200 m de profondeur et 500 kW.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0621-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0621-00.png]]
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0621-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0621-01.png]]
 
 **----- Start of picture text -----**<br>
 Figure 166. Récapitulatif du régime déclaratif allégé de la géothermie<br>de minime importance. [73]<br>**----- End of picture text -----**<br>

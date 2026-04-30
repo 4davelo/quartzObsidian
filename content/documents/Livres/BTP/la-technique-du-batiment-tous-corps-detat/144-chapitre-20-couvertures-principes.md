@@ -57,7 +57,7 @@ l’appentis, toit en auvent à une seule pente, adossé à un mur et soutenu pa
 
 Tous les plans formant le comble sont limités par des lignes de toiture ( **fg. [20.1](143_20.1_combles.md)** ) qui peuvent être classées en trois familles : les rives (limites des différents plans avec le vide) ; les intersections (jonction de deux plans sur une ligne commune) ; les pénétrations (jonction d’un plan du comble avec une partie de bâtiment – pénétrations continues –, ou avec un ouvrage en superstructure – pénétrations discontinues).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0935-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0935-00.png]]
 
 
 _**Fig. 20.1. Position des différentes parties des combles et des lignes de toiture**_ 

@@ -114,7 +114,7 @@ mortier-colle avec blocs calibrés ou usinés sur leurs faces de pose), pour les
 
 blocs courants pour les parties courantes, blocs spéciaux (blocs linteaux, blocs de coupe, blocs tableau, blocs de chaînage, blocs poteaux, blocs d’angle) pour les parties d’ouvrage correspondantes.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0395-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0395-00.png]]
 
 
 _**Fig. 6.7. Blocs de béton courants traditionnels**_ 
@@ -156,7 +156,7 @@ blocs maçonnés, blocs montés à sec, blocs de coffrage ; •  blocs acoustiqu
 blocs absorbants acoustiques, blocs destinés à améliorer l’isolement acoustique. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0396-07.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0396-07.png]]
 
 
 _**Fig. 6.8. Exemples de blocs de béton à isolation thermique intégrée**_ 

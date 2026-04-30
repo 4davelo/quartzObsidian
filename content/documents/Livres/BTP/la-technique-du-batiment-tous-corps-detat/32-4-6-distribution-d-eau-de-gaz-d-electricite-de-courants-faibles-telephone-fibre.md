@@ -110,9 +110,9 @@ Le réseau de desserte peut être ramifié ou maillé :
 
 - réseau ramifié, arborescent ou en antenne. Il est économique, mais toute rupture qui intervient sur un point du réseau prive d’eau tous les branchements situés en aval de ce point ( **fg. 4.14** ) ;
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0231-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0231-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0232-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0232-00.png]]
 
 
 _**Fig. 4.14. Améliorations d’un réseau ramifié classique**_ 
@@ -154,7 +154,7 @@ Il est conseillé de prévoir des trajets rectilignes avec des massifs en béton
 Le branchement particulier ( **fg. 4.15** ) comprend un dispositif de prise en charge, une canalisation de branchement, un robinet d’arrêt avant compteur et un compteur placé en tête du réseau de l’abonné. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0234-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0234-04.png]]
 
 
 _**Fig. 4.15. Branchement particulier**_ 
@@ -238,7 +238,7 @@ Tous ces réseaux sont équipés en câbles unipolaires torsadés (3 phases + ne
 La **fgure 4.16** représente les différents éléments d’un réseau de desserte électrique d’une opération d’habitation. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0238-07.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0238-07.png]]
 
 **Fig. 4.16. Éléments d’un réseau de desserte électrique** 
 
@@ -262,7 +262,7 @@ La section des conducteurs à mettre en place est déterminée par une limitatio
 
 6. Coffret de comptage abonné et disjoncteur de branchement.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0240-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0240-00.png]]
 
 
 _**Fig. 4.17. Branchement à basse tension (BT)**_ 
@@ -286,7 +286,7 @@ NF C 14-100 (juillet 2021 – indice de classement : C 14-100) : Installations d
 Dans le cas d’une maison individuelle, le branchement est réalisé selon les indications de la **fgure 4.18** . 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0241-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0241-04.png]]
 
 
 _**Fig. 4.18. Raccordement d’une maison individuelle au réseau**_ 
@@ -303,7 +303,7 @@ Ces données permettent de déterminer la section théorique de chacun des tron�
 
 L’acheminement de l’énergie électrique dans les immeubles collectifs est étudié plus loin ( **chapitre 53** relatif à la distribution du courant dans les immeubles).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0243-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0243-00.png]]
 
 
 _**Fig. 4.19. Réservations pour un coffret encastré**_ 
@@ -322,7 +322,7 @@ L’arrêt du RTC annoncé par Orange ne concerne donc que le service téléphon
 
 L’architecture d’un réseau local de communication est donnée par la **fgure 4.20** .
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0245-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0245-00.png]]
 
 
 _**Fig. 4.20. Architecture d’un réseau local de télécommunication**_ 
@@ -377,7 +377,7 @@ tranchée qui serait rendue nécessaire par une infrastructure d’accueil sous-
 
 Les fibres sont mises en attente au niveau du point de raccordement de l’immeuble dans un coffret. Lorsque par convention le réseau optique de l’immeuble est mis à disposition d’un opérateur d’immeuble, celui-ci raccorde le point de mutualisation des réseaux d’opérateurs au point de raccordement de l’immeuble en utilisant les infrastructures d’adduction installées par le maître d’ouvrage. Le choix d’installer ou non des points de branchement optique (PBO) dans les étages est laissé à l’installateur ; s’il choisit d’en installer, leur nombre et leur lieu d’implantation sont, entre autres, fonction du nombre de logements par étage. Chacun de ces PBO dessert en général un maximum de 8 lots en quadrifibres et de 24 lots en monofibre.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0250-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0250-00.png]]
 
 
 _**Fig. 4.21. Exemple de raccordement d’immeuble d’au moins 12 lots situé en zone très dense, câblage avec PBO (source : Objectif Fibre, « Installation d’un réseau en fibre optique dans les immeubles neufs à usage d’habitation ou à usage mixte », 2022)**_ 

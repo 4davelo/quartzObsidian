@@ -89,7 +89,7 @@ En bas, le balancement commence à la marche 4, qui correspond le mieux au doubl
 
 On prolonge ensuite les traces de la marche 9 sur l’alignement de la marche 4. Le segment obtenu est répété autant de fois qu’il y a de marches à balancer. On trace alors des droites entre les extrémités des segments et les points limitant les girons sur la ligne de foulée ; ces droites dessinent les marches ( **fg. 15.7** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0787-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0787-01.png]]
 
 
 **

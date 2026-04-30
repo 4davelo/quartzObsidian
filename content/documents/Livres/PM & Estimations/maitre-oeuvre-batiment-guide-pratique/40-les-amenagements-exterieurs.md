@@ -172,7 +172,7 @@ Plusieurs relances peuvent être nécessaires, par exemple dans le cas courant o
 
 Le résultat de cette mission est le plan de synthèse VRD de la zone, qui est le document de base de l’étude VRD du projet, et qui doit être une des pièces du dossier de consultation des entreprises. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0635-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0635-03.png]]
 
 Figure 173. Zoom extrait d’un exemple de plan de synthèse VRD, montrant des réseaux concessionnaires sur un carrefour. 
 

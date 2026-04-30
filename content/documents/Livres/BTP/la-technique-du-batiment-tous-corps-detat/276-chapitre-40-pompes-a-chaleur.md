@@ -27,7 +27,7 @@ La pompe à chaleur (PAC) fonctionne selon le même principe que le réfrigérat
 Dans un moteur de Carnot classique, le rendement (production de travail) est d’autant plus élevé que la différence de température entre sources froide et chaude est élevée : on comprendra aisément que, dans une PAC qui fonctionne en sens inverse, on a intérêt au contraire à ce que les deux sources – froides et chaudes – aient des températures proches afin de faire fonctionner l’appareil avec un minimum d’apport externe de travail. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1632-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1632-03.png]]
 
 
 _**Fig. 40.1. PAC et réfrigérateur (source : Ademe)**_

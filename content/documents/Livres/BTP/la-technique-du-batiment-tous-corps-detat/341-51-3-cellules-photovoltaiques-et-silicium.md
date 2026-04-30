@@ -75,7 +75,7 @@ La cellule monocristalline ainsi fabriquée, utile dans les composants électron
 
 Ce matériau, obtenu après refonte des déchets issus du tirage de monocristaux, se présente sous la forme de blocs taillés en barreaux de section carrée (10 × 10 ou 15 × 15 cm), qui seront sciés en _wafers_ . Ces derniers s’assemblent bien évidemment plus facilement sur un plan, avec un meilleur remplissage du module photovoltaïque qu’avec des disques issus des cylindres. La cellule finalement constituée à partir de ce matériau comporte différentes couches techniques ( **fg. [51.2](340_51.2_génération_du_flux_électrique.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1918-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1918-00.png]]
 
 
 _**Fig. 51.2. Coupe d’une cellule photovoltaïque au silicium monocristallin (échelle des dimensions non respectée)**_ 
@@ -89,7 +89,7 @@ La technique la plus courante pour fabriquer les cellules au silicium
 amorphe est le dépôt par plasma, qui permet d’empiler différentes couches par modification de la composition gazeuse. Le dopage se réalise ainsi sans difficulté. L’électrode arrière est le plus souvent constituée d’aluminium, également en couche mince, puis de nickel ou d’un autre matériau soudable ( **fg. [51.3](341_51.3_cellules_photovoltaïques_et_silicium.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1919-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1919-01.png]]
 
 
 _**Fig. 51.3. Coupe d’une cellule photovoltaïque au silicium amorphe (échelle des dimensions non respectée)**_ 

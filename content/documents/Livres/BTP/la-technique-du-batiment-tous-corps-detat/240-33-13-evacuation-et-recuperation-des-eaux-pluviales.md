@@ -78,14 +78,14 @@ En cas d’engorgement des descentes, le maintien de la stabilité des ouvrages 
 Les joints des descentes intérieures doivent être collés. Un joint de dilatation sera prévu tous les 4 m. Seul le collier situé sous ce joint doit être serré, les autres seront du type coulissant ( **fg. 33.20** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1467-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1467-02.png]]
 
 
 _**Fig. 33.20. Descente intérieure d’eaux pluviales : joint de dilatation et colliers de fixation**_ 
 
 La descente doit traverser les planchers, de préférence sous fourreau ( **fg. 33.21** .a). Si elle est bloquée dans le plancher ou par un branchement, un joint de dilatation est prévu ( **fg. 33.21** .b).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1469-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1469-00.png]]
 
 La longueur du tube ne devra pas excéder 3 m. Le raccordement de tube à tube peut se faire par simple emboîtement, sans collage. Le collier placé à mi-tube doit être coulissant, celui qui est placé sous la tulipe étant serré ( **fg. 33.22** ). 
 
@@ -94,7 +94,7 @@ L’emboîtement devra être effectué de manière que l’extrémité du tube n
 La descente doit traverser les dalles de balcon, de préférence sous fourreau ( **fg. 33.21** .c). Dans le cas où elle est bloquée dans la dalle ou par un branchement, un joint de dilatation est prévu ( **fg. 33.21** .b). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1470-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1470-04.png]]
 
 **33.13.3 Récupération des eaux pluviales** 
 
@@ -106,7 +106,7 @@ Récupérer l’eau de pluie présente contribue à diminuer la facture d’eau,
 
 Toutefois, l’eau de pluie n’est ni pure ni potable, et son usage ainsi que ses conditions d’utilisation et d’entretien sont encadrés. Le règlement sanitaire départemental type interdit ainsi toute utilisation des eaux autres que l’eau potable en rapport avec l’alimentation et les usages sanitaires. La réglementation autorise certains usages domestiques de l’eau de pluie récupérée à l’aval de toitures inaccessibles, définit les conditions d’usage de cette eau dans les bâtiments mais aussi les conditions d’installation, d’entretien et de surveillance des équipements afin d’éviter toute contamination et toute confusion entre les deux catégories d’eau.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1473-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1473-00.png]]
 
 
 _**Fig. 33.23. Descente extérieure d’eaux pluviales : joint de dilatation et colliers de fixation (source : Frasquet (Simone), Complément technique, n° 7, mars 2009)**_ Les usages autorisés de l’eau de pluie issue d’un système de récupération sont listés au **tableau [33.9](236_33.9_mise_en_place_des_appareils_sanitaires.md)** . 
@@ -145,7 +145,7 @@ parallélépipédiques avec des angles plus ou moins cassés ou arrondis selon l
 
 Les matériaux couramment utilisés pour la fabrication sont le béton, le polyéthylène, le polyester, l’acier inoxydable et l’acier recouvert de polyester.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1477-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1477-00.png]]
 
 
 _**Fig. 33.24. Filtre et cuve de stockage d’eaux pluviales (source : Frasquet (Simone), Complément technique, n° 7, mars 2009)**_ 

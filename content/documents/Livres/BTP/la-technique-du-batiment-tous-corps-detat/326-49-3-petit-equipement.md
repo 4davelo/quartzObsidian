@@ -81,7 +81,7 @@ l’un se branche sur le réseau 220 V, de préférence dans les locaux secs ; l
 
 alimentée par un transformateur branché sur le secteur ; le circuit de commande (boutons-poussoirs et bobine) est entièrement séparé du circuit lampes ( **fg. [49.5](328_49.5_types_de_courants_et_distribution_adaptée.md)** .b). On peut ainsi utiliser pour le circuit de commande un câblage à isolement réduit, plus économique. Cette installation de sécurité dotée de lampes d’éclairage de 220 V peut notamment être utile dans une chambre d’enfant, une cave, un escalier intérieur ou extérieur.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1855-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1855-00.png]]
 
 
 _**Fig. 49.5. Types de télérupteurs (avec ou sans transformateur)**_ 
@@ -107,7 +107,7 @@ La bobine de l’électro-aimant est généralement alimentée par un petit tran
 Le bouton d’ouverture de la porte peut être placé soit sur le circuit secondaire, comme sur la figure, soit sur le circuit primaire pour éviter une consommation de courant à vide. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1856-05.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1856-05.png]]
 
 
 _**Fig. 49.6. Principe d’une gâche électrique**_ 
@@ -124,7 +124,7 @@ Les appareils dits « d’appartement » se placent dans les pièces dont on con
 
 Le déplacement réalisé par un point mobile, sous l’action de la température, est transformé et transmis à l’organe commandé par un système de leviers ou de ressorts ( **fg. [49.7](330_49.7_services_généraux.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1858-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1858-00.png]]
 
 **49.3.2.2 Thermostat à régulation indirecte** 
 
@@ -134,7 +134,7 @@ La commande se fait par l’intermédiaire d’un relais : soit que le déplacem
 
 La norme NF C 15-100 impose désormais de distribuer tous les médias (TNT, câble, informatique, etc.) sur le même type de câble _via_ des prises RJ 45 blindées de catégorie 6 ( **fg. [49.8](331_49.8_installations_électriques_spécifiques.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1861-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1861-00.png]]
 
 
 **Fig. 49.8. Coffret de communication et répartition des flux électriques (source : Schneider Electric)** 

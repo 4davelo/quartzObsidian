@@ -108,7 +108,7 @@ généraux de choix des matériaux. •  NF DTU 60.1 P2 (décembre 2012 – indi
 
 Chaque appareil est affecté d’un coefficient ( **tab. [33.5](232_33.5_appareils_en_tôle_émaillée.md)** ). En faisant la somme des coefficients, on détermine le diamètre minimal d’alimentation d’un groupe d’appareils à l’aide d’un graphique ( **fg. [33.8](235_33.8_parois_écrans_et_cabines_de_douche.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1432-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1432-00.png]]
 
 
 _**Fig. 33.8. Diamètre minimal d’alimentation d’un groupe d’appareils**_ 
@@ -128,7 +128,7 @@ _**Tab. 33.5. Coefficient de chaque appareil individuel**_
 
 Si la somme des coefficients définis ci-dessus est supérieure à 15, les diamètres de cette installation doivent être calculés selon la formule de Flamant. Les abaques de Dariès ( **fg. [33.9](236_33.9_mise_en_place_des_appareils_sanitaires.md)** ), plus pratiques à utiliser, sont le résultat de l’application de cette formule.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1435-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1435-00.png]]
 
 
 _**Fig. 33.9. Abaque de Dariès pour le calcul des conduites d’eau (exemple pour un débit de 0,15 l/s et une vitesse maximum de 1 m/s)**_ 
@@ -139,7 +139,7 @@ Connaissant le débit probable et la vitesse maximale de l’eau, une règle joi
 
 La vitesse maximale de l’eau est de 1,5 m/s dans les colonnes montantes et de 2 m/s dans les sous-sols ou vides sanitaires.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1436-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1436-00.png]]
 
 
 _**Fig. 33.10. Coefficient de simultanéité**_ 
@@ -176,7 +176,7 @@ L’énergie d’impact du coup de bélier est non seulement bruyante et désagr
 
 éviter les coudes trop fermés qui ralentissent la veine liquide ; choisir des robinets à fermeture progressive. Les joints demisphériques du clapet sont préférables aux joints cylindriques droits ; éviter de fixer les canalisations sur des cloisons trop minces, qui transmettent les vibrations. Choisir de préférence la pose sur mur. On peut même placer des manchons amortisseurs en caoutchouc entre collier et conduite. Les canalisations en plastique, par leur nature même, paraissent devoir apporter une amélioration sensible ; installer des antibéliers ( **fg. [33.11](238_33.11_distribution_intérieure_deau_avec_pression.md)** ). Ces régulateurs antibéliers contenant de l’eau et de l’air se fixent au point haut de l’installation, et sont branchés sur la tuyauterie par un té de dérivation à collets battus.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1439-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1439-00.png]]
 
 
 _**Fig. 33.11. Schéma d’installation d’un antibélier à piston**_ 
@@ -191,7 +191,7 @@ Elle provient de l’usure du disque qui oscille en interrompant et en libérant
 
 Pour maintenir la pression dans des limites acceptables (1 à 2 bars), on peut munir la canalisation d’un réducteur de pression en amont de l’installation intérieure au logement ( **fg. [33.12](239_33.12_évacuation_des_eaux_usées.md)** ). On le monte alors entre deux manchons souples afin qu’il ne communique pas son bruit propre aux canalisations.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1441-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1441-00.png]]
 
 
 _**Fig. 33.12. Réducteur de pression d’eau pour alimentation intérieure (source : SFR)**_ 

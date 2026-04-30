@@ -29,7 +29,7 @@ Les convecteurs sont des appareils à convection naturelle ou forcée : l’air 
 Les résistances électriques sont fixées à l’intérieur d’un carter ( **fg. [36.1](252_36.1_convecteurs_électriques.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1515-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1515-04.png]]
 
 coupe l’alimentation de l’appareil lorsque la température interne devient excessive (par exemple lors de l’obstruction par un corps étranger de la cheminée de convection). 
 

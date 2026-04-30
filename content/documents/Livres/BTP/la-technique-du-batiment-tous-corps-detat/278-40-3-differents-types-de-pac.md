@@ -76,7 +76,7 @@ La caractéristique essentielle d’une PAC est son coefficient de performance (
 
 La **fgure [40.3](278_40.3_différents_types_de_pac.md)** présente un exemple de variation du COP d’une PAC eau glycolée/eau en fonction de la température extérieure de la source froide (eau glycolée). La chute de performance par temps froid est de plus de 50 %, alors que les besoins en chauffage augmentent : c’est la contradiction structurelle du fonctionnement de toute PAC.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1638-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1638-00.png]]
 
 
 _**Fig. 40.3. Variation du coefficient de performance (COP) en fonction de la température de la source froide (source : [www.ef4.be](http://www.ef4.be))**_ 

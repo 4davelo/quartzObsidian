@@ -39,7 +39,7 @@ Le plancher est composé de solives en bois massif, d’un panneau porteur (22 m
 
 Les éléments de structure de mur reposent toujours sur un ouvrage de soubassement composé d’une fondation et d’un muret en maçonnerie couronné d’un chaînage en béton armé solidarisé à un plancher à entrevous en polystyrène expansé (PSE) ou désolidarisé d’un dallage isolé. Une coupure de capillarité, dépassant d’au moins 0,20 m du sol fini extérieur, est interposée entre la maçonnerie et la structure bois ; elle est associée à une lisse basse en bois dur pour rattraper les tolérances d’exécution de la maçonnerie ( **fg. 8.10** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0532-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0532-00.png]]
 
 
 _**Fig. 8.10. Liaison de l’élément de structure de mur et de l’ouvrage de soubassement**_
@@ -52,7 +52,7 @@ Si les murs intérieurs sont simplement complétés par une plaque de plâtre BA
 
 une plaque de plâtre BA 13 ou un complexe d’isolation thermique intérieure ; un film polyéthylène formant pare-vapeur et étanchéité à l’air ; un matelas isolant fibreux minéral semi-rigide 100 mm ou plus inséré entre les montants ; un pare-pluie en film maintenu sur le panneau par un lattage support du revêtement extérieur et ménageant une lame d’air ventilée ; un revêtement extérieur du type clin (bois, fibres, aluminium), enduit ciment sur grillage, revêtement plastique épais (RPE) sur panneau bois-ciment.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0534-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0534-00.png]]
 
 
 _**Fig. 8.11. Élément de structure de mur**_ 
@@ -61,7 +61,7 @@ _**Fig. 8.11. Élément de structure de mur**_
 
 L’élément de plancher est constitué d’un solivage en bois massif, qui supporte en partie supérieure un plancher porteur en panneaux de particules de 22 mm et en partie inférieure un plafond BA 13 sur contrelattage métallique ( **fg. 8.12** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0536-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0536-00.png]]
 
 
 _**Fig. 8.12. Liaison de l’élément de structure de mur et du plancher en bois**_ 

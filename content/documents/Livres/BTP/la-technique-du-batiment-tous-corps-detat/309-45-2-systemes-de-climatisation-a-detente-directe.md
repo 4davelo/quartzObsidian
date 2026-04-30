@@ -47,7 +47,7 @@ détendeur, le ventilateur et un filtre peut être placée indifféremment au mu
 
 Le _split system_ est dit « air-air » ( **fg. [45.2](309_45.2_systèmes_de_climatisation_à_détente_directe.md)** ) si l’évaporateur intérieur est à air et si le condenseur extérieur est également à air (à tubes ailettés avec ventilateur hélicoïde). Le condenseur à air et le compresseur hermétique sont utilement associés dans une même cassette. Le _split system_ air/air est utilisé pour des températures sèches extérieures comprises entre 20 et 50 °C. Il peut être réversible grâce à l’interposition d’une vanne à 4 voies entre les deux unités. Dans ce cas, le chauffage produit par l’inversion de cycle assure généralement un chauffage des locaux pour la mi-saison.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1765-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1765-00.png]]
 
 
 **Fig. 45.2. Split system air-air** 
@@ -58,7 +58,7 @@ Une batterie de [[Chauffage Électrique]] intégrée dans l’unité intérieure
 
 Une vanne à eau pressostatique permet de limiter la consommation d’eau.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1766-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1766-00.png]]
 
 
 _**Fig. 45.3. Tour de refroidissement pour la production d’eau glacée**_ 
@@ -71,9 +71,9 @@ progressivement sur une vanne motorisée à 3 voies, à soupape ; sur les 2 vent
 
 Tous les appareils sont regroupés dans le même caisson. Si le condenseur est à air, il s’agit du type « _window_ » ( **fg. 45.4** ). Si le condenseur est à eau, il s’agit du type « console d’eau » ( **fg. 45.5** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1768-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1768-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1769-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1769-01.png]]
 
 
 _**Fig. 45.5. Climatiseur monobloc eau-air**_ 
@@ -90,12 +90,12 @@ Le mode de diffusion qui contribue à la stabilité des conditions climatiques d
 
 Le jet d’air soufflé dans un local est caractérisé par sa portée et sa chute. Sa position par rapport aux parois fait qu’il peut être en contact avec l’air ambiant soit sur quatre faces (s’il est loin des parois), soit sur trois faces (s’il est adjacent à une paroi). Dans ce dernier cas, le jet d’air rencontre une moindre résistance, d’où une amélioration de sa portée avec une meilleure diffusion de l’air dans le local : il s’agit là de l’effet Coanda ( **fg. 45.6** et **fg. 45.7** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1771-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1771-00.png]]
 
 
 _**Fig. 45.6. Jet d’air sans et avec effet Coanda**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1772-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1772-00.png]]
 
 
 _**Fig. 45.7. Jet d’air en provenance du plafond, avec effet Coanda**_ 
@@ -123,7 +123,7 @@ Enfin, pour réaliser l’équilibrage de l’ensemble de l’installation, il e
 L’air est soufflé dans les locaux par des bouches de soufflage. Après s’être mélangé à l’air du local et lui avoir cédé une partie de son enthalpie (il s’est réchauffé ou refroidi) et de son humidité (il s’est humidifié ou séché), l’air est repris par les bouches de reprise et réintroduit dans l’installation. Le trajet général de l’air dans un local est représenté sur la **fgure 45.8** . 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1773-04.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1773-04.png]]
 
 
 _**Fig. 45.8. Trajet de l’air soufflé dans un local (source : d’après Porcher (Gérard), Cours de climatisation, Éd. parisiennes, 1993)**_ 
@@ -145,7 +145,7 @@ en partie basse d’un mur (en plinthe, ou en allège) : cette position est la p
 **représentés sur la **fgure 45.9** .** 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1775-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1775-01.png]]
 
 
 _**Fig. 45.9. Types de bouches radiales (source : d’après Porcher (Gérard), Cours de climatisation, Éd. parisiennes, 1993)**_ 

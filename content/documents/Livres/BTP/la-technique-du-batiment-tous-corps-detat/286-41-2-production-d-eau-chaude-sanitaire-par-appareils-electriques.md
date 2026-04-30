@@ -107,7 +107,7 @@ Les appareils à accumulation sont généralement à pression, c’est-àdire so
 
 Pour s’adapter à la configuration des locaux, les constructeurs proposent généralement plusieurs modèles : vertical, vertical sur socle, horizontal. Pour le vertical et l’horizontal, les capacités en litres sont 75, 100, 150 et 200 l ; pour le vertical sur socle, 300 l.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1663-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1663-00.png]]
 
 
 _**Fig. 41.1. Chauffe-eau électrique vertical (source : Chaffoteaux)**_ 
@@ -189,7 +189,7 @@ par le capteur solaire ( **chapitre 42** ). Les calories ainsi produites sont v�
 Le thermostat différentiel intervient en fonction de la différence de température entre le capteur et le ballon, différence qu’il compare avec celle qui a été affichée préalablement et avec la température sélectionnée pour l’eau sanitaire (de l’ordre de 50 °C). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1666-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1666-02.png]]
 
 **41.2.4 Chauffe-eau thermodynamique** 
 

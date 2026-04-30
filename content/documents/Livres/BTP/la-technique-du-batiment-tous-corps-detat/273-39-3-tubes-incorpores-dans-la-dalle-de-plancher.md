@@ -28,7 +28,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 L’eau chaude qui circule dans les tubes ne doit pas dépasser 40 °C pour que la température de contact reste limitée à 27 ou 28 °C ( **fg. 39.8** ), ce qui évite les sensations désagréables de chaleur et les désordres physiologiques.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1612-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1612-00.png]]
 
 
 _**Fig. 39.8. Différentes températures observées dans un local chauffé par des tubes incorporés dans la dalle**_ 

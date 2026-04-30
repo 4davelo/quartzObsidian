@@ -26,14 +26,14 @@ Tout comme la construction en paille induit une réaction infondée sur la crain
 
 Au-delà de la sensibilité à l’eau, friabilité et retrait sont les principales zones de vigilance à intégrer dans les techniques de construction en terre crue.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0556-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0556-00.png]]
 
 
 _**Fig. 9.1. Disposition de pied de mur en terre pour protéger de l’humidité (source : Briques Technic Concept, ATEx n° 2957-v1, « Procédé de murs porteurs en blocs de terre comprimée », CSTB, 5 octobre 2021)**_ 
 
 Un bâtiment construit en terre présente un impact environnemental faible : incorporation minimale d’énergie dans la fabrication des ouvrages (transport, mise en œuvre) et recyclabilité complète ( **fg. 9.2** ). À ces performances de construction s’ajoutent des qualités d’usage (notamment concernant la régulation hygrométrique), d’acoustique et d’inertie thermique.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0557-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0557-00.png]]
 
 
 _**Fig. 9.2. Cycle de la construction en terre (source : Cycle Terre, « Guide de conception et de construction – Cahier 2 : Les blocs de terre comprimée », coll. « Fabriquer la ville bas carbone avec Cycle Terre », vol. 01, mai 2021)**_ 

@@ -39,7 +39,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 En fonction des activités de l’usager, différentes modalités de raccordement sont possibles ; elles dépendent de la puissance souscrite et des disponibilités du réseau ( **fg. 47.5** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1810-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1810-00.png]]
 
 
 _**Fig. 47.5. Algorithme des modalités de raccordement**_ 

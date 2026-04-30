@@ -61,7 +61,7 @@ en sapin du nord blanc ou acier, à profil traditionnel à feuillure, en rail de
 
 à l’intérieur de laquelle circule un galet qui accompagne le mouvement latéral de la porte.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1179-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1179-00.png]]
 
 
 _**Fig. 27.22. Porte à débattement réduit (source : Saferm)**_ 
@@ -74,7 +74,7 @@ Les portes de placard coulissantes proposées par les fabricants sont, en géné
 
 Les portes de placard pliantes sont généralement en métal. Les utilisateurs les nomment le plus souvent « portes Kazed » ( **fg. 27.23** ), nom de marque d’un fournisseur, précurseur dans ce domaine.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1182-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1182-00.png]]
 
 
 _**Fig. 27.23. Porte Kazed (source : Krieg et Zivy)**_ **Articles de quincaillerie** •  ferme-porte à frein. Ils se présentent sous deux formes : 

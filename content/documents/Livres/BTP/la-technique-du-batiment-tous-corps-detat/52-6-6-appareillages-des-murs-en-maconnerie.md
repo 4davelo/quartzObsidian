@@ -50,7 +50,7 @@ Les murs en maçonnerie sont réalisés par lits avec interposition de joints r�
 
 Appareiller un mur, c’est le réaliser selon un mode d’assemblage déterminé. Appareiller une pierre, c’est la tailler pour lui donner les dimensions appropriées à son utilisation. La plupart des maçonneries sont réalisées « en liaison », ce qui signifie que les joints verticaux d’un lit tombent au milieu de l’élément du lit immédiatement inférieur ( **fg. 6.17** .a). On rencontre également des maçonneries appareillées en _opus incertum_ dans lesquelles des blocs irréguliers sont imbriqués les uns dans les autres ( **fg. 6.17** .b).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0422-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0422-00.png]]
 
 
 _**Fig. 6.17. Appareils de murs : en liaison et en opus incertum**_ 
@@ -59,7 +59,7 @@ _**Fig. 6.17. Appareils de murs : en liaison et en opus incertum**_
 
 On distingue les joints de maçonnerie par leur face apparente au parement de la maçonnerie : la **fgure 6.18** en présente les principaux types.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0425-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0425-01.png]]
 
 
 **6.6.3 Exemples d’appareils de murs en briques et en pierres** 
@@ -71,13 +71,13 @@ Les abouts de murs donnent lieu à des appareils appropriés à ceux des parties
 La jonction de deux murs situés dans un même plan vertical peut se réaliser par une chaîne de pierre. La jonction d’un mur orthogonal avec un mur courant peut se réaliser par un arrachement ( **fg. 6.19** .b). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0425-06.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0425-06.png]]
 
 
 _**Fig. 6.19. Appareils appropriés aux abouts, angles et jonctions de murs**_ 
 
 **6.6.3.2 Parties courantes**
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0428-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0428-00.png]]
 
 **

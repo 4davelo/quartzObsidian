@@ -94,7 +94,7 @@ De même, toujours en marchés publics, en cas de diminution de la masse des tra
 
 ne peut prétendre à indemnisation que si la diminution de la masse des travaux dépasse 20 % du montant contractuel. On trouve un mécanisme similaire dans la norme volontaire CCAP des marchés privés de travaux, mais avec des seuils différents.[20] 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0935-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0935-01.png]]
 
 Figure 222. Évolutions possibles de la masse des travaux. 
 
@@ -498,7 +498,7 @@ Cette méthode consiste tout simplement à tenir à jour pendant toute la durée
 
 Trois colonnes permettent de tracer la responsabilité du TS. Ces colonnes permettent, si nécessaire, au maître d’œuvre de s’exonérer de la responsabilité des TS dus à des aléas ou à des demandes du maître d’ouvrage. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0954-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0954-02.png]]
 
 #### 6.4.8.2. La fiche de suivi du marché 
 

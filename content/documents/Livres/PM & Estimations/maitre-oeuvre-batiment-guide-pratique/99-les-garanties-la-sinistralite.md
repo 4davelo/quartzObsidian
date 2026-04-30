@@ -60,7 +60,7 @@ Pour faire appliquer ces garanties légales, le maître d’ouvrage n’a pas be
 
 civil, c’est-à-dire entrepreneurs mais aussi maîtres d’œuvre) : l’existence d’un désordre suffit à rendre applicable la garantie. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1067-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-1067-01.png]]
 
 Figure 227. Durée des trois garanties légales 
 

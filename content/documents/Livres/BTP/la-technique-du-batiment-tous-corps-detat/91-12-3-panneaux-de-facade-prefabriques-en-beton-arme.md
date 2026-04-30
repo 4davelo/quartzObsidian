@@ -59,7 +59,7 @@ La paroi extérieure visible est généralement réalisée à l’aide d’un b�
 
 constitution interne : les panneaux pleins ; les panneaux nervurés ; les panneaux-sandwiches à voiles solidaires ; les panneaux-sandwiches à voile extérieur librement dilatable (VELD).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0662-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0662-00.png]]
 
 
 _**Fig. 12.5. Les quatre types de panneaux de façade préfabriqués en béton armé (source : Cerib)**_ 
@@ -104,7 +104,7 @@ Les procédés complets de préfabrication en béton (murs, planchers et façade
 
 Tous les aspects du béton sont possibles : gravillons lavés, bouchardé, sablé, poli. Les techniques de préfabrication permettent également l’incorporation en fabrication de tous éléments de revêtement (terre cuite, céramiques…). On citera notamment les techniques de béton matricé, qui permettent de diversifier les aspects extérieurs à l’aide d’un négatif, le plus souvent en élastomère, mis en place dans les moules de préfabrication. Le béton matricé est aussi utilisable dans les banches, en béton coulé en place ( **photo [12.1](88_12.1_caractéristiques_générales_des_façades.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0665-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0665-00.png]]
 
 
 _**Photo 12.1. Béton matricé aux Docks de Saint-Ouen – Panneaux de façade préfabriqués inspirés d’un QR code – Architectes Valero Gadan (source : Reckli)**_ 
@@ -131,7 +131,7 @@ situation abritée : _H_ de 4 à 5 cm ;
 
 situation normale : _H_ de 6 à 7 cm ; situation très exposée : _H_ de 8 à 10 cm.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0667-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0667-00.png]]
 
 
 _**Fig. 12.6. Joint courant à deux étages (source : Cerib)**_ 
@@ -142,7 +142,7 @@ La **fgure [12.7](95_12.7_bardages_métalliques.md)** présente les deux famille
 
 joint à glissière et languette ; écran pare-pluie et chambre de décompression.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0670-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0670-01.png]]
 
 
 **12.3.2.5 Durabilité** 

@@ -143,7 +143,7 @@ Les ACV utilisées dans le domaine du bâtiment (notamment pour évaluer l’imp
 
 Les méthodes utilisées pour mesurer l’impact sur la biodiversité utilisent au contraire des méthodes ACV dites _endpoint_ , qui évaluent un dommage en toute fin de la chaine des relations de cause à effet. Par exemple les émissions carbone concourent au réchauffement climatique et celui-ci entraine une perte de biodiversité.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0655-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0655-00.png]]
 
 Figure 174. Un exemple illustrant la différence entre _midpoint_ et _endpoint_ dans la démarche ACV. 
 
@@ -236,11 +236,11 @@ Un bâtiment bioclimatique minimise ses besoins en chauffage et en rafraîchisse
 
 En été, on cherche à limiter les apports solaires au sud et surtout à l’ouest grâce aux protections solaires, à profiter de l’inertie du bâtiment et à évacuer la chaleur la nuit grâce à la ventilation traversante. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0659-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0659-01.png]]
 
 Figure 175. Les grands principes du confort d’hiver. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0659-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0659-03.png]]
 
 Figure 176. Les grands principes du confort d’été.
 
@@ -304,7 +304,7 @@ En isolation par l’extérieur, le traitement des ponts thermiques est facilit�
 
 Avec une isolation par l’extérieur, les planchers ne constituent plus des ponts thermiques : ils sont intégrés dans l’enveloppe isolée. Les balcons peuvent poser problème s’ils existent, mais le traitement des ponts thermiques constitués par les balcons se réalise (désolidarisation). Il faut aussi être vigilant sur les encadrements de fenêtres et portes, ainsi que les jonctions avec le sol extérieur.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0663-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0663-00.png]]
 
 Figure 177. Exemple d’ITE en cours de pose sur un immeuble existant. 
 
@@ -312,7 +312,7 @@ D’autre part, l’isolation par l’extérieur, et c’est là le point princi
 
 En été, avec une isolation par l’extérieur, la masse des murs du bâtiment reste relativement fraîche, comme dans un bâtiment ancien aux épais murs de pierre ; cette masse participe donc au confort d’été. Par contre, avec une isolation par l’intérieur, la masse des murs reste chaude ; elle emmagasine le jour la chaleur du soleil, et constitue la nuit un manteau chaud n’apportant aucun bénéfice au volume intérieur en termes de confort d’été. Depuis 2015, on peut de plus déroger aux règles d’urbanisme pour implanter une isolation en saillie des façades ou par surélévation des toitures, sous réserve du droit des tiers[[5](87_5._problématiques_liées_aux_lots_techniques.md)] ~~.~~ 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0663-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0663-04.png]]
 
 L’isolation par l’intérieur est à éviter, car moins performante thermiquement. Elle est couramment à l’origine de moisissures, du fait du mauvais traitement des ponts thermiques. 
 
@@ -440,11 +440,11 @@ Les assemblages doivent être calfeutrés, avec utilisation aux points singulier
 
 Dans le cas des bâtiments à ossature bois à isolation thermique répartie, l’étanchéité à l’air est dégradée par les réseaux techniques (fourreaux électriques,...) qui percent le pare-vapeur. Une solution consiste à ajouter, côté intérieur du pare-vapeur, un espace de cheminement des réseaux, constitué par [5](87_5._problématiques_liées_aux_lots_techniques.md) cm d’isolant supplémentaire. Cette solution permet de ne pas percer le parevapeur.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0669-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0669-00.png]]
 
 Figure 178. Exemple de coupe verticale sur isolation répartie. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0669-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0669-02.png]]
 
 Figure 179. Coupe verticale : variante avec zone de cheminement des réseaux. 
 
@@ -466,11 +466,11 @@ Les rupteurs de ponts thermiques sont des accessoires isolants qui sont disposé
 
   - fixation d’une façade rapportée extérieure. La mise en œuvre des rupteurs thermiques mérite un soin particulier, car ils sont en interface avec les structures porteuses, et ils peuvent avoir une incidence en termes de sécurité incendie et d’acoustique. Par ailleurs, leur utilisation pose parfois problème en zones sismiques.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0670-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0670-01.png]]
 
 Figure 180. Exemple d’utilisation d’un rupteur de pont thermique en ITE.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0671-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0671-00.png]]
 
 Figure 181. Exemple de rupteur de pont thermique en ITE (source : Schöck). 
 
@@ -552,7 +552,7 @@ La donnée importante à connaître est la hauteur du soleil sur le site aux heu
 
 La conception des protections solaires nécessite une véritable étude et ne doit pas être négligée : insuffisantes ou mal orientées, elles entraînent des surchauffes d’été ; excessives, elles entraînent une perte d’éclairage naturel.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0675-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0675-00.png]]
 
 Figure 182. Hauteurs du soleil (au niveau du 45° de latitude nord). 
 
@@ -570,7 +570,7 @@ Dans les bâtiments tertiaires, la protection solaire peut aussi utiliser des ve
 
 - le _facteur solaire_ g[[9](91_9._la_prononciation_de_la_réception.md)] ~~,~~ qui caractérise la proportion d’énergie solaire qui traverse le vitrage, par rapport à l’énergie solaire totale incidente sur la paroi vitrée; plus ce taux est faible et plus le verre protège le volume intérieur de la chaleur solaire ; ainsi un verre doté d’un facteur solaire de 70 % pourra convenir pour un vitrage exposé au nord, alors qu’un facteur solaire de 30 % sera nécessaire pour un vitrage horizontal ou très exposé ; 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0676-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0676-03.png]]
 
 Figure 183. Définition du facteur solaire d’un vitrage. 
 
@@ -588,7 +588,7 @@ Ce procédé innovant (bien qu’inventé dans les années 70) consiste à favor
 
 Comme évoqué au chapitre Commandes d’éclairage, il ne suffit pas de privilégier l’éclairage naturel, il faut aussi prendre en compte cet apport dans les commandes d’éclairage, et permettre à l’utilisateur de passer en manuel.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0678-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0678-00.png]]
 
 Figure 184. Diagramme des trajectoires du soleil. 
 
@@ -656,11 +656,11 @@ Le taux d’autoproduction est la part de la consommation couverte par la produc
 
 En ce qui concerne l’orientation des cellules, la production optimale est obtenue plein sud avec 35° d’inclinaison ; il convient donc d’éviter les implantations en façade. Le schéma ci-dessous rappelle la production obtenue dans les autres cas. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0681-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0681-03.png]]
 
 Figure 185. Production électrique comparée aux conditions d’exposition optimales.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0682-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0682-00.png]]
 
 Figure 186. Carte schématique du potentiel d’énergie solaire. Ce potentiel peut être utilisé en photovoltaïque ou en solaire thermique. 
 
@@ -682,7 +682,7 @@ Afin de rester dans le cadre des techniques courantes au sens des assureurs, il 
 
 **Le choix des équipements photovoltaïques et les configurations de pose** Les poses classiques sont soit intégrées au bâti, soit en surimposition. Il existe aussi des systèmes lestés, qui épargnent toute fixation sur les toitures plates, et sont calculés pour résister aux vents grâce à leur poids. Les verres intégrant des cellules photovoltaïques sont intéressants en termes de communication pour les maîtres d’ouvrage. Les films souples peuvent être pertinents sur les bâtiments existants pour éviter le surpoids. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0683-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0683-03.png]]
 
 Figure 187. Exemple de cellules photovoltaïques insérées entre deux verres. 
 
@@ -720,7 +720,7 @@ Elle exploite les apports solaires pour produire de l’eau chaude, utilisée po
 
 Pour donner un ordre de grandeur, [3](85_3._les_opr.md) à [6](88_6._les_dossiers_des_ouvrages_exécutés_doe.md) m[[2](84_2._les_autocontrôles_et_essais.md)] de panneaux permettent de couvrir en partie les besoins en ECS d’une famille de quatre personnes. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0685-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0685-02.png]]
 
 Figure 188. Principe du solaire thermique pour la production d’ECS. 
 
@@ -752,7 +752,7 @@ Le principe de ce système est de stocker la production de chaleur excédentaire
 
 exemple une cuve d’un ordre de grandeur d’une centaine de mètres cubes) sont plus efficaces et plus rentables car ils réduisent les pertes. Cette technique peut être proposée comme une solution tout particulièrement astucieuse dans les projets où le site comprend justement un volume existant désaffecté pouvant être utilisé pour le stockage (ancienne fosse désaffectée par exemple). 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0687-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0687-01.png]]
 
 Le bois-énergie peut se présenter sous la forme :
 
@@ -766,7 +766,7 @@ Le bois-énergie peut se présenter sous la forme :
 
 - de déchets de scierie et d’élagage des haies. Le label Flamme Verte identifie les équipements les plus performants en termes de rendement et d’émissions.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0689-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0689-00.png]]
 
 Figure 190. Carte des forêts françaises. 
 
@@ -796,7 +796,7 @@ Sur le site Internet d’un fabricant d’équipements, [www.meiko.fr](http://ww
 
 Les éoliennes classiques ne sont pas intégrables à un bâtiment, mais de petites productions horizontales ou verticales peuvent l’être. En ville, les vents sont « chaotiques », ce qui est peu propice à la production éolienne, mais de petites éoliennes à axe vertical ont été
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0691-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0691-01.png]]
 
 Figure 191. Le potentiel éolien suivant la configuration du site. 
 
@@ -820,7 +820,7 @@ Douches, baignoires, lave-vaisselle, lave-linge, piscines, salles de sport, cuis
 
 - ou préchauffer l’eau froide arrivant au robinet de la douche. Ces procédés peuvent être utilisés à petite échelle dans l’habitat ou à grande échelle dans un bâtiment tertiaire. Ils sont maintenant bien rodés et d’usage très courant ; ils peuvent être prescrits systématiquement.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0693-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0693-00.png]]
 
 Figure 192. Le _Power Pipe_ , l’un des récupérateurs de chaleur sur eaux usées chaudes les plus couramment utilisés (source : Norellag). 
 
@@ -846,7 +846,7 @@ orientation solaire : il est plus rare de prévoir un type de façade identique 
 
 - des protections solaires disposées côté intérieur. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0694-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0694-03.png]]
 
 Figure 193. La BNF, un exemple de bâtiment à l’opposé du bioclimatique.
 
@@ -888,7 +888,7 @@ Avant que la RE2020 n’impose la méthode ACV comme l’outil d’évaluation d
 
 Le bilan carbone n’analyse que l’impact sur le réchauffement climatique ; il ne prend pas en compte les autres impacts environnementaux des activités (par exemple, nuisances pour la santé des matériaux utilisés, imperméabilisation des sols, consommations d’électricité d’origine nucléaire, etc.). 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0696-05.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0696-05.png]]
 
 Le bilan carbone peut être envisagé à de nombreuses échelles (on parle de _scopes_ ), par exemple pour un immeuble de bureau : 
 
@@ -994,7 +994,7 @@ a) Au titre du carbone incorporé :
 
   - les consommations et rejets d’eau en phase exploitation.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0702-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0702-00.png]]
 
 Figure 195. Les émissions carbone du projet, extrait du _Climate Emergency Design Guide_ du LETI. 
 
@@ -1022,7 +1022,7 @@ En construction neuve, la répartition _moyenne_ – qui masque la variabilité 
 
 Le _Climate Emergency Design Guide_ du LETI, évoqué plus haut, donne des répartitions moyennes entre lots, par type de bâtiment neuf.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0704-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0704-00.png]]
 
 Figure 196. Exemple de répartition typique entre les contributeurs sur un projet neuf. 
 
@@ -1108,7 +1108,7 @@ Les bétons et mortiers de ciment ont un mauvais impact carbone, du fait de l’
 
 Cet impact carbone est en grande partie dû à l’un des constituants du ciment, le _clinker_ , qui résulte de la cuisson à [1](83_1._le_nettoyage_de_fin_de_chantier.md) 450 °C dans un four à ciment d’un mélange composé d’environ 80 % de calcaire (CaCO3) et de 20 % d’argiles, donnant la réaction :
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0708-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0708-00.png]]
 
 Figure 197. Principe simplifié d’un four à ciment. 
 
@@ -1118,7 +1118,7 @@ Les deux grands impacts majeurs de la production du ciment sont donc dus :
 
 - à la réaction ci-dessus, qui entraine la libération d’énormes quantités de CO2 et sur laquelle un changement de vecteur énergétique est sans effet.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0708-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0708-03.png]]
 
 Figure 198. Les composants du ciment. 
 
@@ -1185,7 +1185,7 @@ Les projets exemplaires en matière d’impact carbone peuvent couramment engend
 
 Pour appréhender cette problématique et communiquer avec le maître d’ouvrage, on peut utiliser le concept de _coût marginal de la tonne de dioxyde de carbone évitée_ , qui caractérise la « rentabilité » des efforts réalisés par le concepteur vers la sobriété carbone. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0712-04.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0712-04.png]]
 
 Figure 199. Comparaison d’un projet « standard » et d’un projet exemplaire, en termes de bilan carbone. 
 
@@ -1247,7 +1247,7 @@ En amont de l’installation, il est important de savoir que la pression à laqu
 
 La pression augmente de [1](83_1._le_nettoyage_de_fin_de_chantier.md) bar pour [10](92_10._la_commission_de_sécurité_en_erp.md) mètres de différence d’altimétrie. Pour pallier ce problème et limiter ainsi la consommation d’eau, il faut penser à prévoir juste après le compteur d’eau un limitateur de pression. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0715-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0715-02.png]]
 
 Figure 200. Pression de livraison excessive. 
 
@@ -1285,7 +1285,7 @@ Les eaux de pluie en provenance de la toiture sont récupérées, filtrées et s
 
 La toiture ne doit pas être en amiante-ciment, ni accessible. Les toitures végétalisées n’empêchent pas la récupération d’eau pluviale. Les points de puisage doivent être repérés par une signalétique indiquant que l’eau n’est pas potable. En cas de pénurie d’eau de pluie, le réseau est alimenté par un secours en eau de ville. Afin d’éviter une éventuelle contamination des réseaux d’eau potable, cet apport de secours doit être séparé de l’eau récupérée par une disconnexion[23] ~~,~~ c’est-à-dire tout simplement quelques centimètres d’air permettant l’absence de contact entre arrivée d’eau et réservoir. Un exemple de système est présenté ci-contre, dans le cas d’un grand bâtiment tertiaire. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0717-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0717-01.png]]
 
 Figure 201. Schéma de principe d’un système de récupération d’eaux de pluie. 
 
@@ -1315,11 +1315,11 @@ Ce qu’il faut retenir
 
 - Des règles strictes, décrites dans l’arrêté, doivent être respectées, avec notamment une « disconnexion » entre l’apport d’eau de ville et l’eau récupérée.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0719-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0719-00.png]]
 
 Figure 202. Filtre tourbillonnaire. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0719-02.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0719-02.png]]
 
 Figure 203. Exemple d’une installation utilisant deux filtres tourbillonnaires. 
 
@@ -1341,7 +1341,7 @@ Dans le cadre d’une démarche environnementale, il est intéressant comme on l
 
 Il faut être conscient que ces projets « sans tuyaux » nécessitent en fait une technicité d’étude élevée (bien plus que le « tout tuyau »), et une association des ingénieurs VRD à la conception très en amont.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0721-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0721-00.png]]
 
 Figure 204. Exemple de bassin de stockage des eaux d’orage (que l’on cherche à éviter). 
 
@@ -1367,7 +1367,7 @@ Pour caractériser l’imperméabilité des revêtements de sol, on utilise un c
 
 - les mares tampons : les eaux de pluie sont dirigées vers une mare, dont on peut aussi trouver l’intérêt en termes paysagés.[26] 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0722-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0722-03.png]]
 
 Figure 205. Exemple de zone d’infiltration. 
 
@@ -1379,11 +1379,11 @@ La limitation des rejets d’eaux pluviales est fortement encadrée depuis 2019 
 
 _**Pour en savoir plus sur les limitations des rejets d’eaux pluviales**_ Consulter le site de l’association pour le développement opérationnel et la promotion des techniques alternatives en matière d’eaux pluviales : [http://](http://adopta.fr/) [adopta.fr/](http://adopta.fr/). Consulter le site du CEREMA.
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0724-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0724-00.png]]
 
 Figure 206. Quelques techniques d’infiltration des eaux pluviales à la parcelle. (D’après _Les Cahiers techniques du Bâtiment_ , dossier spécial Eau, 2012.)
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0725-00.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0725-00.png]]
 
 Figure 207. Un exemple de chaussée réservoir : avenue Twickenham à Douai (d’après ADOPTA). 
 
@@ -1461,7 +1461,7 @@ Pour orienter le choix des matériaux, il y avait encore récemment peu de label
 
 Voir aussi ci-dessous le § « Santé et qualité de l’air intérieur », sur l’étiquette santé des produits de construction. 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0729-03.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0729-03.png]]
 
 Figure 208. Quelques labels et étiquetages portant sur les matériaux. 
 
@@ -1547,7 +1547,7 @@ _Concrètement, la valeur indiquée sur l’étiquette est établie sur la base 
 
 couramment cité] _, acétaldéhyde, toluène, tétrachloroéthylène, xylène, [1](83_1._le_nettoyage_de_fin_de_chantier.md),[2](84_2._les_autocontrôles_et_essais.md),[4](86_4._le_rôle_du_bureau_de_contrôle_pour_la_réception_du_chantier.md)-triméthylbenzène, 1,4-dichlorobenzène, éthylbenzène, 2- butoxyéthanol, styrène ainsi que sur les composés organiques volatils totaux (COVT). Une liste importante et assez complète en l’état actuel des connaissances sur les polluants organiques, mais pas exhaustive. Autant dire qu’un produit estampillé A+ ne saurait garantir l’absence totale de risque sanitaire lors d’une exposition prolongée. De même l’étiquette n’a pas vocation à décrire l’impact environnemental, écologique et/ou carbone du produit visé, ni même son origine. »_[33] 
 
-![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0734-01.png]]
+![[documents/Livres/PM & Estimations/maitre-oeuvre-batiment-guide-pratique/images/Maître_d'oeuvre_bâtiment,_9e_édition-_Guide_pratique,_--_Leonard_Hamburger_--_2023_--_Eyrolles.epub-0734-01.png]]
 
 Figure 209. L’étiquetage des émissions en polluants volatils des produits de construction et de décoration. 
 

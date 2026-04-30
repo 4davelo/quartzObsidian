@@ -83,7 +83,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 Elles concernent les panneaux en bois massif et les produits semifinis utilisés dans les ouvrages menuisés intérieurs et extérieurs. La **fgure [27.1](180_27.1_panneaux_de_bois_reconstitué.md)** présente les diverses liaisons d’élargissement.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1125-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1125-00.png]]
 
 
 _**Fig. 27.1. Liaisons d’élargissement de panneaux**_ 
@@ -102,7 +102,7 @@ On réalise des constructions soit à arêtes vives, soit à arêtes façonnées
 
 Il existe divers modes de réalisation ( **fg. [27.2](182_27.2_liaisons_en_menuiserie_bois.md)** ) : plats-joints ou entailles, enfourchements ou tenons et mortaises. En principe, on utilise les enfourchements dans les angles extérieurs des constructions.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1128-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1128-00.png]]
 
 
 _**Fig. 27.2. Liaisons de cadres à arêtes vives**_ 
@@ -111,9 +111,9 @@ _**Fig. 27.2. Liaisons de cadres à arêtes vives**_
 
 Ces liaisons peuvent être réalisées soit avec feuillure, soit avec rainure, soit à simple parement pour les moulures à petit cadre ( **fg. [27.3](183_27.3_châssis_et_croisées_en_bois.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1129-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1129-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1130-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1130-00.png]]
 
 
 _**Fig. 27.3. Liaisons de cadres à arêtes façonnées**_ 
@@ -138,7 +138,7 @@ La profondeur ordinaire des embrèvements du premier type est, en général :
 
 Elle permet la réalisation de panneaux essentiellement destinés à la menuiserie intérieure ( **fg. [27.4](184_27.4_fenêtres_de_toit.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1132-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1132-00.png]]
 
 
 **Fig. 27.4. Liaisons bâtis-panneaux** 
@@ -151,7 +151,7 @@ On place une moulure décorative en saillie sur le nu du bâti, laquelle forme u
 
 Les liaisons d’allongement sont utilisées pour assembler des éléments linéaires de même section ( **fg. [27.5](185_27.5_blocs_portes.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1134-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1134-00.png]]
 
 
 _**Fig. 27.5. Liaisons d’allongement**_ 
@@ -182,7 +182,7 @@ Les liaisons de dièdres sont utilisées pour construire des volumes à partir d
 
 Elles se présentent de bout ou de fil, d’équerre ou non. Les contreplaqués épais à plis ou les lattés acceptent en principe les mêmes liaisons que les bois massifs. On dispose de plusieurs types de liaisons ( **fg. [27.6](186_27.6_portes_daménagements_intérieurs.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1137-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1137-00.png]]
 
 
 **Fig. 27.6. Liaisons de dièdres en bois massif** 
@@ -195,7 +195,7 @@ Indiquons, à propos de l’une d’elles, que le bouvetage est le profilage d�
 
 On utilise ( **fg. 27.7** ) : le plat-joint à vif ou le plat-joint avec fausse languette (exécution rapide) ; l’embrèvement plein (rayonnages, compartiments).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1138-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1138-00.png]]
 
 
 _**Fig. 27.7. Liaisons de dièdres en panneaux de particules**_ 
@@ -204,7 +204,7 @@ _**Fig. 27.7. Liaisons de dièdres en panneaux de particules**_
 
 Le rôle des liaisons mobiles est d’assurer une certaine étanchéité, à l’air et à l’eau, entre la partie fixe et la partie mobile des ouvrages menuisés ( **fg. [27.8](188_27.8_fermetures_en_bois.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1140-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1140-00.png]]
 
 
 _**Fig. 27.8. Liaisons mobiles**_ 

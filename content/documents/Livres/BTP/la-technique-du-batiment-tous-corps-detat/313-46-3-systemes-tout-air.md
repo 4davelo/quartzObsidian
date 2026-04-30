@@ -29,7 +29,7 @@ Un réseau aéraulique distribue la zone traitée et aboutit directement sur des
 Ce type de système est généralement installé dans les grands volumes (auditoriums, salles de spectacles, supermarchés). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1785-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1785-02.png]]
 
 
 _**Photo 46.5. Roof-top (source : Lennox, gamme Baltic modèle Baltic IV)**_ 

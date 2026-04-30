@@ -45,7 +45,7 @@ Les quartelles sont ensuite refendues manuellement ou mécaniquement pour obteni
 Les côtés de l’ardoise sont appelés « chefs » : on distingue le chef de base, le chef de tête et les chefs de côté. Lorsque l’on abat l’angle d’une ardoise, on crée un épaulement ( **fg. [21.1](148_chapitre_21_-_couvertures_en_ardoises.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0957-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0957-03.png]]
 
 
 _**Fig. 21.1. Désignation des côtés de l’ardoise**_ 

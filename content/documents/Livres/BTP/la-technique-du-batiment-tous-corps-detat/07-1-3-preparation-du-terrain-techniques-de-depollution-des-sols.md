@@ -122,7 +122,7 @@ Le principe ( **fg. 1.8** ) repose sur :
 
 l’introduction d’air en périphérie du terrain ; le pompage au centre du terrain.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0068-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0068-00.png]]
 
 
 _**Fig. 1.8. Principe du venting (source : d’après Lecomte (Paul), Les sites pollués : traitement des sols et des eaux souterraines, Lavoisier, coll. « Tec & Doc », 2[e] éd., 1998, ouvrage épuisé)**_ 

@@ -50,7 +50,7 @@ Selon que le système est collectif ou individuel, la configuration du réseau d
 
 Cette configuration est la plus fréquente. Généralement, la production est réalisée par le même système que celui du chauffage (elle peut l’être également par un dispositif séparé). Elle est soit instantanée, soit stockée dans un ballon d’eau chaude collectif. Ces possibilités sont schématisées sur la **fgure [41.4](288_41.4_production_deau_chaude_sanitaire_par_couplage_avec_le_chauffage_central.md)** , où elles se trouvent différenciées seulement par le mode de gestion envisagé.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1672-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1672-00.png]]
 
 
 _**Fig. 41.4. Production centrale d’eau chaude pour chauffage et d’ECS**_ 

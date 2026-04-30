@@ -91,7 +91,7 @@ Rabotées sur les deux faces, travaillées à l’aide d’un petit rabot à fer
 
 Les parquets à lames massives sont assemblés selon les différents modèles décoratifs ( **fg. [57.1](377_57.1_types_de_parquets.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2053-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2053-00.png]]
 
 
 _**Fig. 57.1. Assemblage des parquets à lames massives**_ 
@@ -143,7 +143,7 @@ Celles de sapin du Nord (plus rarement utilisées) ont de 15 à 21 mm d’épais
 Les parquets en panneaux massifs, appelés encore « parquets à compartiments », sont constitués de panneaux carrés en bois massif (ou plaqués sur leurs deux faces) de 1 m de côté et de 23 mm d’épaisseur, dont le décor intérieur est préfaçonné en damier ou en vannerie ( **fg. [57.2](378_57.2_performances.md)** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2055-05.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2055-05.png]]
 
 
 _**Fig. 57.2. Parquets en panneaux massifs**_ 
@@ -154,7 +154,7 @@ D’autres types de compartiments présentent un décor central constitué par d
 
 Les décors anciens se présentent sous la forme de damier encadré, de parquet d’Aremberg, de Chantilly et de Versailles ( **fg. [57.3](379_57.3_pose_et_finition_des_parquets.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2056-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2056-00.png]]
 
 
 _**Fig. 57.3. Parquets à compartiments à décors anciens**_ 
@@ -165,7 +165,7 @@ _**Fig. 57.3. Parquets à compartiments à décors anciens**_
 
 Le parquet mosaïque est un parquet industrialisé, en bois massif mince, généralement de 6 ou 8 mm d’épaisseur ( **fg. 57.4** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2057-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2057-00.png]]
 
 
 _**Fig. 57.4. Différents types de parquets mosaïques industrialisés**_ 
@@ -221,7 +221,7 @@ collés directement sur un ancien carrelage à l’aide d’un bitume à froid, 
 De Suède également proviennent de grandes lames rainées et bouvetées de 2,50 m de longueur et 17 cm de largeur (toujours en 13 mm d’épaisseur). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2060-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2060-02.png]]
 
 
 _**Fig. 57.5. Parquets de recouvrement**_ 
@@ -230,7 +230,7 @@ _**Fig. 57.5. Parquets de recouvrement**_
 
 Si les sols stratifiés sont fréquemment appelés « parquets stratifiés », il s’agit toutefois d’un abus de langage puisque l’appellation « parquet » n’est accordée qu’aux revêtements dont la couche d’usure est supérieure à 2,5 mm et qui, par conséquent, peuvent être poncés jusqu’à 2,5 mm. De plus, aucun bois noble n’entre dans la fabrication des sols stratifiés. Le « parquet stratifié » est composé de plusieurs couches ( **fg. 57.6** ) : une protection (couche d’usure), également dénommée « _overlay_ », constituée de feuilles imprégnées de résine ; une feuille de décor qui imite une essence de bois (comme le chêne, le peuplier, le teck…) ; un panneau qui sert de support, également appelé « âme » ; un contreparement ou contrebalancement associé, dans certains cas, à une sous-couche (acoustique et/ou de rattrapage de niveau).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2061-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-2061-00.png]]
 
 
 _**Fig. 57.6. Composition d’un sol stratifié**_ 

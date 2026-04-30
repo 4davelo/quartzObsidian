@@ -41,7 +41,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 Dans ce système connu sous le nom d’Heliopac[®] ( **photo 40.1** ), l’énergie calorifique est récupérée par des capteurs solaires souples en élastomère disposés en toiture ; ils récupèrent les calories de l’atmosphère et du soleil et sont reliés à l’évaporateur d’une pompe à
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1651-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1651-01.png]]
 
 
 _**Photo 40.1. Exemple de pompe à chaleur à capteurs solaires (source : Heliopac[®] )**_ 
@@ -52,7 +52,7 @@ Les eaux usées des douches, des robinets et des machines à laver se déversent
 
 Le système intègre un autonettoyage et affiche un coefficient de performance (COP) de 4 à 7 selon les fabricants. Le taux de couverture des besoins en [[Eau Chaude Sanitaire]] varie entre 50 % et 80 % selon les configurations et nécessite donc un appoint généralement réalisé par une chaudière à gaz à condensation.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1654-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1654-00.png]]
 
 
 _**Fig. 40.9. Fonctionnement d’une pompe à chaleur sur eaux grises (source : Biofluides ERS[®] )**_ 

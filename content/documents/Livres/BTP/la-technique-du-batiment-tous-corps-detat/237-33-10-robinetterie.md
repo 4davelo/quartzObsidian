@@ -86,7 +86,7 @@ L’étanchéité d’un robinet à boisseau sphérique est plus difficile à r�
 
 Les constructeurs réalisent deux types de robinets à boisseau sphérique ( **fg. [33.4](231_33.4_appareils_en_acier_inoxydable.md)** ) : les robinets à passage intégral ( **tab. [33.2](229_33.2_appareils_sanitaires_en_céramique.md)** ) et les robinets à passage standard ( **tab. [33.3](230_33.3_appareils_en_fonte_émaillée.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1418-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1418-00.png]]
 
 
 _**Fig. 33.4. Robinet à boisseau sphérique**_ 
@@ -143,7 +143,7 @@ Les constructeurs produisent deux catégories de mélangeurs :
 
 élimination de la friction entre le corps de la soupape et la tige de manœuvre, stabilité de la tige de manœuvre (élimination des jeux axiaux), double étanchéité permettant une complète isolation de l’eau dans les parties internes, isolation thermique du croisillon ;
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1421-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1421-00.png]]
 
 
 _**Fig. 33.5. Mélangeur avec tête standard à clapet (source : Rapetti)**_ 
@@ -182,7 +182,7 @@ Les raccords peuvent être soit en 15/21 pour les baignoires à faible volume d�
 
 Les mitigeurs à tête céramique permettent à l’utilisateur d’obtenir l’eau à température et à débit souhaités par une seule commande ( **fg. [33.6](233_33.6_appareils_en_acrylique_sanitaire.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1426-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1426-00.png]]
 
 
 _**Fig. 33.6. Robinets mitigeurs pour baignoire et douche (source : d’après Zucchetti)**_ 
@@ -209,4 +209,4 @@ Lorsque le niveau est atteint, l’étanchéité doit être absolue, quelles
 
 que soient les variations de pression dans la canalisation d’alimentation (1 à 10 bars).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1428-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1428-00.png]]

@@ -26,7 +26,7 @@ L’installation de chauffage doit permettre de maintenir à 19 °C au moins la 
 
 La température extérieure de base est définie dans la norme NF P 52-612/CN ; elle est indépendante des huit zones climatiques définies dans la réglementation thermique ( **fg. [35.1](250_35.1_généralités_sur_la_production.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1511-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1511-00.png]]
 
 
 _**Fig. 35.1. Carte de repérage des températures extérieures de base (source : Izi by EDF)**_

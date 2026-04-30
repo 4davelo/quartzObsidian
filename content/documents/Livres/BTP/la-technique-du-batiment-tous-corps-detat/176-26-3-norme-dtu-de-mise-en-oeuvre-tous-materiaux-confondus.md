@@ -61,7 +61,7 @@ NF DTU 36.5 (octobre 2010 – indice de classement : P 20-202) : Mise en œuvre 
 
 **26.3.1Pose des menuiseries avec calfeutrement en applique intérieure**
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1094-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1094-00.png]]
 
 
 _**Fig. 26.4. Prescriptions lors d’une pose avec calfeutrement en applique intérieure**_ 
@@ -72,17 +72,17 @@ Voir . **figure [26.4](177_26.4_classement_des_fenêtres.md)**
 
 La sous-face de la traverse basse des dormants ou pièces d’appui doit présenter une surface plane ou éventuellement cannelée pour le bois, permettant d’assurer, dans de bonnes conditions, le dimensionnement, la compression et/ou l’adhésion de la garniture d’étanchéité. Les extrémités de la traverse basse doivent être conçues afin de pouvoir réaliser une étanchéité entre celles-ci et les tableaux ( **fg. [26.5](178_26.5_produits_marqués.md)** à **fg. 26.7** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1095-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1095-00.png]]
 
 
 _**Fig. 26.5. Positionnement des traverses basses**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1096-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1096-00.png]]
 
 Dans le cas des portes avec seuils, si le calfeutrement du seuil est effectué au moyen d’un mastic élastomère, ce seuil peut être placé à l’aplomb du rejingot ( **fg. 26.7** ). Ce seuil ne doit en aucun cas être en retrait par rapport au rejingot, avec possibilité de rétention d’eau sur celui-ci. Dans ce cas, l’utilisation de mousses imprégnées peut être envisagée, si le cahier des charges de cette mousse le permet. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1097-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1097-01.png]]
 
 
 _**Fig. 26.7. Seuil de porte extérieure avec calfeutrement par mastic élastomère de la traverse basse recouvrant le rejingot**_ 
@@ -99,7 +99,7 @@ Le nez de la bavette doit être dégagé du rejingot ou du mur, d’au moins :
 
 10 mm, verticalement ; 15 mm, horizontalement.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1099-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1099-00.png]]
 
 **Fig. 26.8. Traverse basse en applique intérieure sur ou sans rejingot** 
 
@@ -115,7 +115,7 @@ Les fixations, leurs emplacements sur les dormants et leurs conditions de mise e
 
 L’efficacité des fixations ne doit pas être altérée sous l’effet de vibrations normalement prévisibles. Les fixations ne doivent pas entraîner de déformation supérieure à 1 mm de l’élément fixé.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1101-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1101-00.png]]
 
 
 _**Fig. 26.9. Fixations admises en traverse basse**_ 
@@ -128,7 +128,7 @@ Pour les portes et portes-fenêtres garantissant une étanchéité à l’eau, l
 
 Un bon écoulement de l’eau sur toute la zone extérieure en vis-à-vis du seuil de la porte-fenêtre doit être assuré afin que, même par forte pluie, le niveau de l’eau sur cette zone ne puisse empêcher un bon drainage des eaux d’infiltration de la pièce d’appui.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1103-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1103-00.png]]
 
 
 _**Fig. 26.10. Disposition des seuils des portes et portes-fenêtres**_ 
@@ -155,7 +155,7 @@ La fixation des pattes de liaison sur la fenêtre par vissage dans les profilés
 
 Dans le cas d’assemblages soudés, toute fixation doit être à une distance comprise entre 5 cm et 10 cm du bord du fond de feuillure ( **fg. 26.11** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1105-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1105-00.png]]
 
 
 _**Fig. 26.11. Distance des fixations aux angles pour les fenêtres PVC**_ 

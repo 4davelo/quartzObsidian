@@ -152,7 +152,7 @@ Ce système solidarise parfaitement le revêtement avec son support ; il n’int
 
 Le développement des bitumes modifiés au cours des années 1970 a conduit à la quasi-disparition des techniques traditionnelles d’étanchéité dites « multicouches » réalisées à partir de feuilles de bitume oxydé employé en 3, 4, voire 5 à 6 couches ( **fg. [19.6](140_19.6_emploi_des_systèmes_détanchéité.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0889-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0889-00.png]]
 
 
 _**Fig. 19.6. Techniques de pose du multicouche bitume (aujourd’hui marginalisées par les bitumes-polymères)**_ 
@@ -370,7 +370,7 @@ renforcés : feuille d’aluminium de 8/100 mm, enrobée de bitume.
 
 La **fgure [19.7](141_19.7_ouvrages_annexes.md)** illustre la mise en place d’un tel écran dans le cas de couverture d’un local à forte hygrométrie.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0899-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0899-00.png]]
 
 **Cas des supports en tôle d’acier nervurée** 
 

@@ -83,7 +83,7 @@ Les puits (ou tranchées) de reconnaissance constituent le meilleur moyen d’in
 
 Les sondages mécaniques ont pour objet soit le prélèvement d’échantillons de sol, soit la réalisation d’essais _in situ_ .
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0054-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0054-01.png]]
 
 
 **1.2.2.1 Prélèvement d’échantillons de sol** 
@@ -135,7 +135,7 @@ Avec le pressiomètre Ménard, l’essai consiste à mesurer l’augmentation de
 L’essai de pénétration statique consiste à enfoncer, avec des vérins, un train de tiges d’environ 50 mm de diamètre, spécialement aménagé. Le tube et l’axe solidaire de la pointe sont chargés séparément par les vérins, de manière que la déformation soit la même : on mesure en même temps le frottement latéral et la charge en pointe en fonction de la profondeur d’enfoncement ( **fg. [1.2](06_1.2_connaissance_du_terrain_sondages_in_situ.md)** ). Le franchissement des couches très résistantes s’effectue par forage. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0056-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0056-03.png]]
 
 Dans la mesure où l’on s’est assuré au préalable, par un sondage carotté, une bonne connaissance des couches rencontrées, ces essais peuvent être utilisés comme moyen de corrélation pour la reconnaissance d’ensemble. 
 
@@ -149,7 +149,7 @@ Comme le frottement latéral introduit une variable dont il est difficile de ten
 
 NF EN ISO 22476-2 (juillet 2005 – indice de classement : P 94-521-2) : Reconnaissance et essais géotechniques – Essais en place – Partie 2 : essai de pénétration dynamique.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0058-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0058-00.png]]
 
 
 _**Fig. 1.3. Diagramme des mesures d’essai de pénétration statique**_ 
@@ -172,7 +172,7 @@ La méthode de reconnaissance sismique consiste à provoquer un ébranlement du 
 
 L’ébranlement est généralement provoqué par la déflagration des charges d’explosifs placées à la surface du sol dans des trous quadrillant le terrain ( **fg. [1.4](08_1.4_travaux_préalables_à_la_réalisation_dun_bâtiment.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0060-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0060-00.png]]
 
 
 _**Fig. 1.4. Principe de la reconnaissance sismique**_
@@ -180,7 +180,7 @@ _**Fig. 1.4. Principe de la reconnaissance sismique**_
 réfléchie ou réfractée par la couche profonde ( **fg. [1.5](09_1.5_ouvrages_dassise.md)** ). Ils enregistrent également une onde transmise directement par la couche superficielle. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0061-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0061-01.png]]
 
 
 _**Fig. 1.5. Reconnaissance sismique**_ 
@@ -194,7 +194,7 @@ La méthode de reconnaissance électrique consiste à envoyer dans le sol, au mo
 L’expérience montre que la partie principale de cette résistivité correspond à un parallélépipède de terrain tel que représenté sur la **fgure [1.6](10_1.6_ouvrages_définitifs_de_maintien_des_terres.md)** . 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0062-03.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0062-03.png]]
 
 
 _**Fig. 1.6. Volume de terrain concerné par une mesure de résistivité**_ 

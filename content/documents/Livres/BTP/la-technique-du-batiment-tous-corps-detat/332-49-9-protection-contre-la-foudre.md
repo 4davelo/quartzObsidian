@@ -24,7 +24,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 La norme NF C 15-100 définit des zones à risque particulier dites « AQ2 » ( **fg. 49.16** ) en fonction : du niveau kéraunique _Nk_ (nombre de jours/an où l’on entend le tonnerre) ; de la densité de foudroiement _Ng_ (nombre de coups de foudre/ an/km[2] ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1888-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1888-00.png]]
 
 
 _**Fig. 49.16. Définition de la zone AQ2**_ 

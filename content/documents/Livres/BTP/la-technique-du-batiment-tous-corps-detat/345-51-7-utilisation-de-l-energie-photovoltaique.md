@@ -55,7 +55,7 @@ Dans la plupart des cas, les besoins en énergie ne correspondent pas aux heures
 
 La connexion au réseau permet aux professionnels et aux particuliers d’injecter l’énergie produite par leurs installations photovoltaïques directement sur le réseau électrique local. L’énergie est ainsi valorisée par le gestionnaire du réseau électrique au travers d’un compteur agréé. En France, EDF propose un tarif de rachat garanti. La **fgure 51.10** représente le principe d’une connexion réseau pour une maison individuelle équipée de modules photovoltaïques en toiture.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1938-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1938-00.png]]
 
 
 **Fig. 51.10. Illustration du fonctionnement du raccordement au réseau pour une maison individuelle** 

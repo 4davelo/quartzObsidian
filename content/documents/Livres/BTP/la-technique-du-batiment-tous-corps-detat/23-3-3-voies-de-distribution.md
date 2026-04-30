@@ -134,7 +134,7 @@ Pour tous ces éléments de desserte, la suppression des bordures de trottoirs h
 
 Tout parc de stationnement automobile dépendant de la voirie publique ou privée et des bâtiments publics ou d’habitation doit comporter des places aménagées pour les personnes en situation de handicap et réservées à leur usage ( **fg. [3.3](23_3.3_voies_de_distribution.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0154-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0154-00.png]]
 
 
 _**Fig. 3.3. Bande d’accès latérale**_ 
@@ -149,7 +149,7 @@ Pour la voirie publique ou privée, un emplacement sur cinquante doit être rés
 
 Dans les opérations d’habitat individuel, il est nécessaire de prévoir deux places de stationnement par logement. Elles doivent être localisées de préférence en partie privative, par exemple sous forme d’une place en garage et d’une autre place sur l’accès au garage (ces dispositions peuvent être imposées par des documents réglementaires : PLU, règlement de lotissement, règlement de PAZ, etc.). Une bonne solution consiste à imposer un recul d’au moins 5 à 6 m du garage par rapport à la limite privative ( **fg. [3.4](24_3.4_voies_et_aires_piétonnes.md)** ). Des lieux de stationnement additionnels au nombre de 0,4 place par logement peuvent être prévus, dans des espaces tels que leur utilisation n’apporte pas de nuisances aux résidants. Les dimensions indiquées dans le **tableau [3.3](23_3.3_voies_de_distribution.md)** peuvent servir de base pour concevoir les unités de stationnement donnant directement sur la voirie ( **fg. [3.5](25_3.5_espaces_extérieurs_et_biodiversité_le_coefficient_de_biotope_par_surface_cbs.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0156-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0156-00.png]]
 
 **Tab. 3.3. Dimensions des unités de stationnement (m)** 
 
@@ -160,12 +160,12 @@ Dans les opérations d’habitat individuel, il est nécessaire de prévoir deux
 |Largeur latérale pour<br>sortir de l’encoche|2,50|3,50|5,00|
 |Cas 1 : stationnement<br>Cas 2 : stationnement<br>Cas 3 : stationnement|longitudinal<br>en épi<br>perpendiculaire|||
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0158-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0158-00.png]]
 
 Si les aires de stationnement sont plantées d’arbres, l’aménagement au sol doit être tel que les arbres ne soient jamais mis en butée avec les véhicules ( **fg. 3.6** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0159-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0159-01.png]]
 
 
 _**Fig. 3.6. Protection pour arbres dans une aire de stationnement**_ 
@@ -193,7 +193,7 @@ Les dispositions minimales suivantes (paragraphes 3.2.2.1 à 3.2.2.3) permettent
 La largeur minimale s’établit à 3 m avec une seule pente transversale de 2 cm/m (la largeur peut être réduite à 2,50 m si la voie n’est empruntée que par des véhicules de tourisme). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0160-07.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0160-07.png]]
 
 **Chaussée à deux voies** 
 
@@ -214,7 +214,7 @@ voitures de tourisme : 9 à 13 m en extérieur ;
 camions : de 6 m minimum en intérieur à 9 m (gros porteurs) ( **fg. 3.8** ). 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0161-09.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0161-09.png]]
 
 
 _**Fig. 3.8. Rayon de giration pour gros porteurs**_
@@ -224,7 +224,7 @@ Pour éviter la stagnation de l’eau, la chaussée doit comporter en bas de pen
 la réalisation d’avaloirs tous les 400 m[2] au plus (250 m[2] optimums) ; une pente longitudinale des caniveaux de 5 mm/m. 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0162-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0162-02.png]]
 
 
 _**Fig. 3.9. Bordure-caniveau**_ 
@@ -300,7 +300,7 @@ sol d’indice 1 : épandage d’une couche de grave naturelle de 20 cm d’épa
 La coupe transversale qui fixe les termes routiers est indiquée à la **fgure 3.10** . 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0166-02.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0166-02.png]]
 
 
 _**Fig. 3.10. Coupe type d’une voie de distribution**_ 
@@ -347,7 +347,7 @@ La mise en œuvre des enrobés requiert l’emploi de matériels spécifiques en
 
 La **fgure 3.11** propose une série d’exemples de dimensionnement de la couche de béton bitumineux.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0171-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0171-00.png]]
 
 
 _**Fig. 3.11. Exemples d’assises et de couches d’usure**_ 
@@ -388,11 +388,11 @@ la traversée du trottoir par surélévation de la chaussée en forme de ralenti
 
 Dans les deux cas, le fil d’eau ne doit pas être interrompu par l’installation d’une grille large ou par un dévers latéral renvoyant l’eau sur deux grilles avaloirs.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0174-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0174-00.png]]
 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0174-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0174-01.png]]
 
 
 **----- Start of picture text -----**<br>
@@ -415,14 +415,14 @@ Les eaux pluviales sont reprises par des bouches d’engouffrement placées dans
 
 La typologie des bordures répond aux différentes destinations : type T (trottoir) pour la voirie urbaine ou intérieure (de T1 à T5 selon les dimensions) ; type A (accotement) pour les routes (pour mémoire).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0176-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0176-00.png]]
 
 
 _**Fig. 3.13. Calage des bordures de chaussée**_ 
 
 Les dimensions de ces différents éléments sont indiquées sur la **fgure 3.14** .
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0179-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0179-00.png]]
 
 
 _**Fig. 3.14. Différents types de bordures en béton normalisées**_ 
@@ -459,7 +459,7 @@ Les modèles les plus simples concernent les clôtures maçonnées et les clôtu
 
 Les clôtures maçonnées peuvent être réalisées à partir d’éléments modulaires enduits (parpaings, briques…), d’éléments préfabriqués (plaques de béton) ( **fg. 3.15** ) ou de maçonnerie (pierre appareillée…) ( **fg. 3.16** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0181-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0181-00.png]]
 
 
 _**Fig. 3.15. Clôtures à base d’éléments modulaires**_ 
@@ -474,31 +474,31 @@ Les murs en plaques de béton comportent des poteaux ancrés dans un massif de b
 
 Les clôtures mixtes comportent un soubassement en maçonnerie (mur bahut) émergeant du sol sur des hauteurs variant de 0,40 à 0,90 m ( **fg. 3.18** ). Des joints sont à prévoir tous les 30 m environ. La partie supérieure du mur comporte soit un grillage ( **fg. 3.19** ) dans le cas le plus simple, soit des éléments menuisés (bois ou métal). Dans les deux cas, la solidarisation avec le mur de soubassement est assurée par des poteaux verticaux de forme et de résistance adaptées au type de clôture.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0184-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0184-00.png]]
 
 
 _**Fig. 3.16. Clôtures en maçonnerie**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0185-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0185-00.png]]
 
 
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0185-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0185-01.png]]
 
 
 **----- Start of picture text -----**<br>
 Fig. 3.17. Couronnements pour clôtures en maçonnerie<br>**----- End of picture text -----**<br>
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0187-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0187-00.png]]
 
 
 _**Fig. 3.18. Clôtures mixtes**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0188-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0188-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0189-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0189-00.png]]
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0190-01.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0190-01.png]]
 
 
 Loi n° 86-13 du 6 janvier 1986 relative à diverses simplifications administratives en matière d’urbanisme et à diverses dispositions concernant le bâtiment. 
@@ -507,7 +507,7 @@ Loi n° 86-13 du 6 janvier 1986 relative à diverses simplifications administrat
 
 Les clôtures séparatives pour ensembles de logements individuels sont généralement de conception légère et le plus souvent doublées de haie vive. Il est normalement prévu une partie basse, pleine ou grillagée, destinée à barrer le passage aux animaux errants. Si le périmètre à clore est important, il peut être fait appel à des clôtures préfabriquées en béton (poteaux et lisses) ( **fg. 3.20** ), qui sont également susceptibles d’être grillagées.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0191-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0191-00.png]]
 
 
 _**Fig. 3.20. Clôtures mixtes**_ 
@@ -516,7 +516,7 @@ _**Fig. 3.20. Clôtures mixtes**_
 
 Des ouvertures et passages dans les murs et clôtures permettent de préserver les corridors écologiques en préservant les trajets naturels, en particulier pour les hérissons ( **fg. 3.21** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0192-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0192-00.png]]
 
 
 _**Fig. 3.21. Passage pour hérisson dans une clôture (source : d’après Bouteveille (Alain et Ursula), La construction comment ça marche, Éd. du Moniteur, 3[e] éd., 2018)**_ 

@@ -28,7 +28,7 @@ familles_sources: [ouvrage, guide, norme, reglementation]
 
 Le film est constitué d’une résistance électrique métallique disposée en ruban scellé entre quatre feuilles de plastique. Les zones actives du film sont séparées et bordées par des zones neutres qui servent à sa fixation. Ces dernières sont de différentes couleurs correspondant aux diverses puissances surfaciques.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1520-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1520-00.png]]
 
 
 _**Fig. 36.3. Mise en place des films chauffants et de la protection thermique associée**_ 
@@ -55,7 +55,7 @@ de peinture à base d’huile de lin ; de peinture ou de tapisserie métallisée
 
 Différentes largeurs, longueurs et puissances permettent l’adaptation du système de chauffage à la géométrie de chaque pièce et à la puissance à fournir ( **fg. [36.4](256_36.4_appareil_à_inertie.md)** ). Un plan d’implantation est réalisé pour chaque pièce avant l’installation.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1522-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1522-00.png]]
 
 
 _**Fig. 36.4. Exemple de film chauffant**_ 

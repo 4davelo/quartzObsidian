@@ -148,7 +148,7 @@ Ils doivent agir avant que la cabine (ou le contrepoids, s’il en existe un) ne
 
 La **fgure [16.2](122_16.2_gaine_et_locaux_de_machines_et_poulies.md)** , établie par la Fédération des ascenseurs, détaille le vocabulaire pour les ascenseurs électriques.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0813-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-0813-00.png]]
 
 
 _**Fig. 16.2. Vocabulaire des ascenseurs électriques (source : Fédération des ascenseurs)**_ 

@@ -26,7 +26,7 @@ La ventilation naturelle ne nécessite aucun dispositif mécanique pour fonction
 
 d’une entrée d’air neuf de type autoréglable (ajustement de la section de passage de l’air en fonction du vent) dans chaque pièce principale des logements récents ; d’une extraction d’air par conduit vertical dans chaque pièce de service.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1716-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1716-00.png]]
 
 
 _**Fig. 43.1. Ventilation naturelle en logement collectif et en habitat individuel**_ 
@@ -45,7 +45,7 @@ C’est l’origine du tirage de la cheminée et des températures hétérogène
 
 À l’inversion de tirage s’ajoutent les phénomènes tourbillonnaires du vent qui peuvent favoriser ou perturber le tirage. La ventilation naturelle ne permet donc pas de maîtriser les débits qui, en fonction des conditions climatiques extérieures, sont trop élevés (déperditions importantes) ou trop faibles (défaut de ventilation). Des systèmes d’aspirateurs statiques ont été développés qui permettent d’améliorer le fonctionnement du système de ventilation.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1719-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1719-00.png]]
 
 
 _**Photo 43.1. Conduits shunt**_ 

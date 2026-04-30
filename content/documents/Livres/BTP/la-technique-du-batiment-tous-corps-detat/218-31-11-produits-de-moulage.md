@@ -54,7 +54,7 @@ Joints : épaisseur minimale de 1 cm. Pose brique par brique ou en panneaux pré
 
 Compte tenu de leur poids, les produits de moulage sont généralement utilisés pour des parties fixes ; ils sont toujours sertis dans un cadre de béton armé ( **fg. [31.14](221_31.14_étanchéité_vitrage-châssis.md)** ).
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1297-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1297-00.png]]
 
 
 _**Fig. 31.14. Jonction des parois de verre moulé avec un cadre béton**_ 
@@ -91,12 +91,12 @@ La **fgure 31.15** présente deux modes de pose. Pour améliorer l’isolation t
 
 Les pavés de verre sont utilisables uniquement en couverture, en terrasse ou en plancher sans circulation de véhicules, et pour des charges maximales de 500 kg/m[2] . Pour des conditions plus sévères (circulation de véhicules), seules les nervures en béton armé doivent être prises en compte dans les calculs de résistance.
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1300-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1300-00.png]]
 
 
 _**Fig. 31.15. Modes de pose pour dalles ou voûtes en BAT**_
 
-![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1301-00.png]]
+![[documents/Livres/BTP/la-technique-du-batiment-tous-corps-detat/images/La_Technique_du_bâtiment_-_Tous_corps_d’état_--_Cécile_Granier_&_Michel_Platzer_&_Daniel_Montharry_--_2024_--_Le_Moniteur.epub-1301-00.png]]
 
 
 _**Fig. 31.16. Joint périphérique pour dalles de BAT**_ 
